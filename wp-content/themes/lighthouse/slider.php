@@ -35,7 +35,9 @@
 				$baths = (isset($custom[$prefix."baths"][0]))? $custom[$prefix."baths"][0] : "";
 				$beds = (isset($custom[$prefix."beds"][0]))? $custom[$prefix."beds"][0] : "";
 				$sleeps = (isset($custom[$prefix."sleeps"][0]))? $custom[$prefix."sleeps"][0] : "";
+				$shortDescription = (isset($custom[$prefix."shortDescription"][0]))? $custom[$prefix."shortDescription"][0] : "";
 				$price = (isset($custom[$prefix."price"][0]))? $custom[$prefix."price"][0] : "";
+                $rates = (isset($custom[$prefix."rates"][0]))? $custom[$prefix."rates"][0] : "";
 				
 				if($listingSlider!=true){continue;}
 				
@@ -87,6 +89,7 @@
 				    <h2>
 				        <?php echo $propertyTitle ?>
                     </h2>
+                    <?php if($shortDescription != "") echo '<p>'.$shortDescription.'</p>'; ?>
 					<ul class="slide-text">
 						<?php
 						//if($propertyType!=""){echo '<li><span class="left">'.__('Property Type','templatesquare').'</span>'.$propertyType.'</li>';}
@@ -101,7 +104,7 @@
 					</ul>
 					<div class="frame-price">
 						<div class="slider-button"><a href="<?php the_permalink(); ?>"><?php echo $buttontext;?></a></div>
-						<?php if($price!=""){echo '<div class="slider-price">'.$currencyunit.' '.number_format($price, 0, '.',',') .'</div>';} ?>
+						<?php if($price!=""){echo '<div class="slider-price">'.$rates.'</div>';} ?>
 					</div>
 				</div>
 			</div><!-- end cycle -->

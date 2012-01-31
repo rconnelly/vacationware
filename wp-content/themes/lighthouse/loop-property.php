@@ -63,6 +63,7 @@
 		$sleeps = (isset($custom[$prefix."sleeps"][0]))? $custom[$prefix."sleeps"][0] : "";
 		$beds = (isset($custom[$prefix."beds"][0]))? $custom[$prefix."beds"][0] : "";
 		$baths = (isset($custom[$prefix."baths"][0]))? $custom[$prefix."baths"][0] : "";
+		$shortDescription = (isset($custom[$prefix."shortDescription"][0]))? $custom[$prefix."shortDescription"][0] : "";
 		$houseSize = (isset($custom[$prefix."houseSize"][0]))? $custom[$prefix."houseSize"][0] : "";
 		$lotSize = (isset($custom[$prefix."lotSize"][0]))? $custom[$prefix."lotSize"][0] : "";
 		$yearBuilt = (isset($custom[$prefix."yearBuilt"][0]))? $custom[$prefix."yearBuilt"][0] : "";
@@ -147,9 +148,13 @@
 				
 				//if($price!=""){echo '<strong>'. $currencyunit . ' '. number_format($price, 0, '.', ',').'</strong><br/>';}
 
+                if($shortDescription!=""){echo $shortDescription ." ". __("Short Description") . ' | ';}
+
 				if($sleeps!=""){echo $sleeps ." ". __("Sleeps"). ' | ';}
 				if($beds!=""){echo $beds ." ". __("Beds", "templatesquare"). ' | ';}
 				if($baths!=""){echo $baths ." ". __("Baths", "templatesquare") . ' | ';}
+
+
 				//if($houseSize!=""){echo $houseSize.' '.$areaunit.' | ';}
 				//if($lotSize!=""){echo $lotSize .' ' . $lotunit;}
 				
@@ -210,6 +215,7 @@
 	$zipcode = (isset($custom[$prefix."zipcode"][0]))? $custom[$prefix."zipcode"][0] : "";
 
 
+	$shortDescription = (isset($custom[$prefix."shortDescription"][0]))? $custom[$prefix."shortDescription"][0] : "";
     $sleeps = (isset($custom[$prefix."sleeps"][0]))? $custom[$prefix."sleeps"][0] : "";
 	$beds = (isset($custom[$prefix."beds"][0]))? $custom[$prefix."beds"][0] : "";
 	$baths = (isset($custom[$prefix."baths"][0]))? $custom[$prefix."baths"][0] : "";
@@ -286,6 +292,7 @@
 			echo '<ul class="box_text">';
 		 }
 
+         if($shortDescription!=""){echo '<li class="leftContent">'.$shortDescription.'</li>';}
 		 if($sleeps!=""){echo '<li><span class="left">'.__('Sleeps').': </span>'.$sleeps.'</li>';}else{echo '<li><span class="left">'.__('Sleeps').': </span>-</li>';}
 		 if($beds!=""){echo '<li><span class="left">'.__('Beds', 'templatesquare').': </span>'.$beds.'</li>';}else{echo '<li><span class="left">'.__('Beds', 'templatesquare').': </span>-</li>';}
 		 if($baths!=""){echo '<li><span class="left">'.__('Baths', 'templatesquare').': </span>'.$baths.'</li>';}else{echo '<li><span class="left">'.__('Baths', 'templatesquare').': </span>-</li>';}
