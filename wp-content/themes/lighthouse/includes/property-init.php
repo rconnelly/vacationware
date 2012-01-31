@@ -164,6 +164,15 @@ $meta_boxes[] = array(
 			'std' => 'Use default post title'
 		),
 		array(
+            'name' => __('Short Description'),
+            'id' => $prefix.'shortDescription',
+            'type' => 'textarea',
+            'maxlength' => '200',
+            'rows' => '2',
+            'desc' => 'Short text that will show up in listings (200 character max).',
+            'std' => ''
+        ),
+		array(
 			'name' => __('Slider','templatesquare'),
 			'desc' => __('If check will shown as slideshow on homepage', 'templatesquare'),
 			'id' => $prefix.'listingSlider',
@@ -454,7 +463,10 @@ function mytheme_create_metabox($meta_box){
 //If Text Area			
 			case 'textarea':
 				$textvalue = $meta ? $meta : $field['std'];
-				$returnstring .= '<textarea name="'. $field['id']. '" id="'. $field['id']. '" cols="60" rows="4" style="width:97%">'. $textvalue .'</textarea>'.
+				$maxlength = ($field['maxlength']) ? $field['maxlength'] : '';
+				$cols = ($field['cols']) ? $field['cols'] : '60';
+                $rows = ($field['rows']) ? $field['rows'] : '4';
+				$returnstring .= '<textarea name="'. $field['id']. '" id="'. $field['id']. '" maxlength="'.$maxlength.'" cols="'.$cols.'" rows="'.$rows.'" style="width:97%">'. $textvalue .'</textarea>'.
 					'<br />'. $field['desc'];
 				break;
  
