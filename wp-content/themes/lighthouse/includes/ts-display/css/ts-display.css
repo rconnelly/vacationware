@@ -1,0 +1,60 @@
+/*
+Plugin Name: TS Display
+Plugin URI: http://demowp.templatesquare.com/plugins/
+Description: TS Display is a wordpress plugin for display portfolio and gallery. You can use this plugin to manage portfolio post and show photo gallery in your website. 
+Version: 1.5
+Author: templatesquare
+Author URI: http://www.templatesquare.com/
+License: GPL
+*/
+
+/*  Copyright 2010  TEMPLATESQUARE  (email : aralle@gmail.com)
+	
+	This file is part of TS Display
+	
+    TS Display is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as 
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+*/
+
+.ts-display-clear{clear:both; height:1px !important; line-height:1px !important; float:none!important}
+#ts-display h2{margin:15px 0px 7px 0px; text-transform:none; font-size: 20px; line-height:24px}
+#ts-display p{}
+#ts-display a.displaymore, #ts-display-list a.displaymore:visited{text-decoration:underline;}
+#ts-display a.displaymore:hover{text-decoration:none;}
+
+
+#ts-display-list{list-style-type:none; padding:0; margin:0}
+#ts-display-list li{list-style-type:none; padding:0; margin-top:0px; margin-left:0px; width:290px;  float:left}
+#ts-display-list li.nomargin{margin-right:0;}
+#ts-display-list a.image{
+	display:block;
+}
+#ts-display-list a.image:hover{
+	background:url(../images/hover-opacity.png);
+	background-repeat:no-repeat;
+	background-position:center;
+}
+#ts-display-list a.imagesmall:hover{
+	background-image:url(../images/hover-opacity-small.png) !important;
+}
+
+#ts-display-list .ts-display-text-content{
+	margin-top:20px;
+}
+
+/* Portfolio rounded */
+#ts-display-list .ts-display-rounded{
+	-moz-border-radius: 6px; /* Firefox */
+	-webkit-border-radius: 6px; /* Safari, Chrome */
+	border-radius: 6px; /* CSS3 */
+}

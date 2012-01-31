@@ -1,0 +1,205 @@
+/*
+Plugin Name: TS Thinkbox
+Plugin URI: http://www.templatesquare.com/plugin
+Description: TS Thinkbox is a wordpress plugin for displaying stylish testimonial etc.
+Version: 1.0
+Author: templatesquare
+Author URI: http://www.templatesquare.com
+License: GPL
+*/
+
+/*  Copyright 2010  TEMPLATESQUARE  (email : support@templatesquare.com)
+	
+	This file is part of TS Thinkbox
+	
+    TS Thinkbox is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License, version 2, as 
+    published by the Free Software Foundation.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+*/
+
+.ts-thinkbox-clr{clear:both;}
+.ts-thinkbox-clear{clear:both; height:1px !important; line-height:1px !important; float:none!important}
+.ts-thinkbox-hidden{
+	display:none;
+}
+.ts-thinkbox-quote{
+	border:1px solid #e7e7e7;
+	padding:15px 18px;
+	line-height:18px;
+	position:relative;
+	background-color:#FFFFFF;
+}
+.ts-thinkbox-thumb{
+	padding:3px;
+	border:1px solid #cacaca;
+	float:left;
+	margin-right:28px;
+}
+
+a.ts-thinkbox-slider-thumbslide{
+	border:1px solid #CACACA;
+	display:block;
+	float:left;
+	margin-right:5px;
+	padding:3px;
+}
+a.ts-thinkbox-slider-thumbslide:hover{
+	border:1px solid #999997 !important;
+}
+a.tscurrentpointer{
+	border:1px solid #999997 !important;
+}
+.ts-thinkbox-slider-quotecontainer{
+	width:591px;
+	border:1px solid #e4e4e4;
+	background-color:#ffffff;
+}
+
+/* Sortcode Testimonial*/
+/*-----------Sortcode Testimonial Slider------------*/
+.ts-thinkbox-slider-cont{
+	width:593px;
+	position:relative;
+	padding-bottom:20px;
+}
+.ts-thinkbox-slider-quote{ margin:0px!important;}
+.ts-thinkbox-slider-name{ 
+	font-weight:bold;
+}
+.ts-thinkbox-slider-info{ 
+	font-weight:normal;
+}
+.ts-thinkbox-slider-quotecontent{
+	width:541px;
+	padding: 31px 25px 31px 25px;
+}
+.ts-thinkbox-slider-quotecontent .header{
+	font-family:"Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size:14px;
+}
+.ts-thinkbox-slider-quotecontent img{
+	float:left;
+	margin-right:27px;
+}
+.ts-thinkbox-slider-textinfo{
+	font-style:italic;
+	font-size:12px; 
+	line-height:normal;
+	margin:20px 0px 0px 0px;
+}
+.ts-thinkbox-slider-textinfo span{
+	margin-right:6px;
+}
+div.ts-thinkbox-slider-pointer{
+	height:20px;
+	width:591px;
+	background-image:url(../images/pointer.png);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	position:absolute;
+	bottom:1px;
+	left:0px;
+	z-index:999;
+}
+
+/*-----------Sortcode Testimonial Default------------*/
+/* TYPE 1 */
+.ts-thinkbox-list{
+	padding-left:0px;
+	margin-left:0px;
+	clear:both;
+}
+.ts-thinkbox-list li{
+	list-style-type:none;
+	list-style-position:outside;
+	margin-bottom:20px;
+	margin-right:2%;
+	float:left;
+}
+.ts-thinkbox-list li.nomargin{
+	margin-right:0px;
+}
+.ts-thinkbox-leftpointer{
+	background-image:url(../images/leftpointer.png);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	width:13px;
+	height:23px;
+	position:absolute;
+	left:-12px;
+	top:20px;
+	z-index:200;	
+}
+.ts-thinkbox-textinfo{
+	font-size:14px;
+	margin:0px 0px 13px 0px;
+}
+.ts-thinkbox-name{
+	font-weight:bold;
+	margin-right:10px;
+}
+.ts-thinkbox-info{ 
+	font-weight:normal;
+	margin-right:10px;
+	font-size:11px;
+}
+.ts-thinkbox-quote .header{
+	margin-bottom:10px;
+	display:block;
+	font-family:"Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size:14px;
+}
+.ts-thinkbox-quote a.header:hover{
+	text-decoration:none;
+}
+.ts-thinkbox-quote blockquote{
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	background-color:transparent;
+	background-image:none !important;
+	line-height:20px;
+	clear:none;
+	font-size:12px;
+	font-weight:normal;
+	font-style:normal;
+}
+.ts-thinkbox-square{
+
+}
+.ts-thinkbox-rounded{
+	-moz-border-radius: 6px; /* Firefox */
+	-webkit-border-radius: 6px; /* Safari, Chrome */
+	border-radius: 6px; /* CSS3 */
+}
+/* TYPE 2 */
+.ts-thinkbox-bottompointer{
+	background-image:url(../images/bottompointer.png);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	width:46px;
+	height:25px;
+	position:absolute;
+	left:35px;
+	bottom:-25px;
+	z-index:200;	
+}
+ul.ts-thinkbox-2 .ts-thinkbox-thumb{
+	margin-right:15px;
+}
+ul.ts-thinkbox-2 .ts-thinkbox-quote blockquote{
+	margin: 0px 0px 0px 0px;
+}
+ul.ts-thinkbox-2 .ts-thinkbox-textinfo span{
+	display:block;
+}
