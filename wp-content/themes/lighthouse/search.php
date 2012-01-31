@@ -124,6 +124,19 @@ get_header(); ?>
 								);
 								
 							}
+                            if( $advsleeps!="" ){
+                                if(!isset($argsearch["meta_query"])){
+                                    $argsearch["meta_query"] = array();
+                                }
+                                $argsearch["meta_query"][] = array(
+                                    'key' => $prefix.'sleeps',
+                                    'value' => $advsleeps,
+                                    'type' => 'numeric',
+                                    'compare' => '>='
+                                );
+
+                            }
+
 							if( $advlisttype!="" ){
 								if(!isset($argsearch["meta_query"])){ 
 									$argsearch["meta_query"] = array();
@@ -159,18 +172,6 @@ get_header(); ?>
 								
 							}
 
-                            if( $advsleeps!="" ){
-                                if(!isset($argsearch["meta_query"])){
-                                    $argsearch["meta_query"] = array();
-                                }
-                                $argsearch["meta_query"][] = array(
-                                    'key' => $prefix.'houseSize',
-                                    'value' => $advsleeps,
-                                    'type' => 'numeric',
-                                    'compare' => '>='
-                                );
-
-                            }
 
 							//var_dump($argsearch);
 							query_posts( $argsearch );

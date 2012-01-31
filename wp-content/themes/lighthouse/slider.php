@@ -23,6 +23,7 @@
 				$prefix = 'ts_';
 				
 				$custom = get_post_custom($post->ID);
+				$propertyTitle = get_the_title($post->ID);
 				$listingSlider = (isset($custom[$prefix."listingSlider"][0]))? $custom[$prefix."listingSlider"][0] : "";
 				$propertyType = (isset($custom[$prefix."propertyType"][0]))? $custom[$prefix."propertyType"][0] : "";
 				$address = (isset($custom[$prefix."address"][0]))? $custom[$prefix."address"][0] : "";
@@ -33,6 +34,7 @@
 				$yearBuilt = (isset($custom[$prefix."yearBuilt"][0]))? $custom[$prefix."yearBuilt"][0] : "";
 				$baths = (isset($custom[$prefix."baths"][0]))? $custom[$prefix."baths"][0] : "";
 				$beds = (isset($custom[$prefix."beds"][0]))? $custom[$prefix."beds"][0] : "";
+				$sleeps = (isset($custom[$prefix."sleeps"][0]))? $custom[$prefix."sleeps"][0] : "";
 				$price = (isset($custom[$prefix."price"][0]))? $custom[$prefix."price"][0] : "";
 				
 				if($listingSlider!=true){continue;}
@@ -82,12 +84,17 @@
 				?>
 			
 				<div class="frame-slide-text">
+				    <h2>
+				        <?php echo $propertyTitle ?>
+                    </h2>
 					<ul class="slide-text">
 						<?php
 						//if($propertyType!=""){echo '<li><span class="left">'.__('Property Type','templatesquare').'</span>'.$propertyType.'</li>';}
-						if($address!=""){echo '<li><span class="left">'.__('Address','templatesquare').'</span>'.$addr.'</li>';}
-						if($houseSize!=""){echo '<li><span class="left">'.__('House Size','templatesquare').'</span>'.$houseSize.' '.$areaunit.'</li>';}
-						if($yearBuilt!=""){echo '<li><span class="left">'.__('Year Built','templatesquare').'</span>'.$yearBuilt.'</li>';}
+						//if($address!=""){echo '<li><span class="left">'.__('Address').'</span>'.$addr.'</li>';}
+						//if($address!=""){echo '<li><span class="left">'.__('Address','templatesquare').'</span>'.$addr.'</li>';}
+						//if($houseSize!=""){echo '<li><span class="left">'.__('House Size','templatesquare').'</span>'.$houseSize.' '.$areaunit.'</li>';}
+						//if($yearBuilt!=""){echo '<li><span class="left">'.__('Year Built','templatesquare').'</span>'.$yearBuilt.'</li>';}
+						if($sleeps!=""){echo '<li><span class="left">'.__('Sleeps').'</span>'.$sleeps.'</li>';}
 						if($baths!=""){echo '<li><span class="left">'.__('Baths','templatesquare').'</span>'.$baths.'</li>';}
 						if($beds!=""){echo '<li><span class="left">'.__('Beds','templatesquare').'</span>'.$beds.'</li>';}
 						?>

@@ -23,7 +23,7 @@ get_header(); ?>
 				<h1 class="pagetitle">
 					<?php 
 					$authid = $_GET["authorid"];
-					echo get_the_author_meta('display_name',$authid) .' '.'Listings' ; 
+					echo get_the_author_meta('display_name',$authid) .' '.'Listings' ;
 					 ?>
 				</h1>
 			

@@ -154,15 +154,15 @@ $meta_boxes[] = array(
 			'options' => $options["property_type"],
 			'std' => ''
 		),
+          		*/
 		array(
 			'name' => __('Listing Title','templatesquare'),
 			'desc' => '',
 			'id' => $prefix.'listingTitle',
 			'type' => 'select',
-			'options' => array('Use address as title', 'Use default post title'),
-			'std' => 'Use address as title'
+			'options' => array('Use default post title','Use address as title'),
+			'std' => 'Use default post title'
 		),
-		*/
 		array(
 			'name' => __('Slider','templatesquare'),
 			'desc' => __('If check will shown as slideshow on homepage', 'templatesquare'),

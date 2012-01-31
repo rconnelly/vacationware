@@ -435,7 +435,7 @@ get_header(); ?>
 							return $output;
 						}
 						
-						echo get_related_author_posts();
+						//echo get_related_author_posts();
 						
 						 ?>
 					</li>

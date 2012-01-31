@@ -18,12 +18,14 @@
 	$advprice2 		= (isset($_GET['advprice2']))? stripslashes(trim($_GET['advprice2'])) : "";
 	$advbed			= (isset($_GET['advbed']))? stripslashes(trim($_GET['advbed'])) : "";
 	$advbath		= (isset($_GET['advbath']))? stripslashes(trim($_GET['advbath'])) : "";
-	
+	$advsleeps      = (isset($_GET['advsleeps']))? stripslashes(trim($_GET['advsleeps'])) : "";
 ?>
 						
-<div id="advance-search-grid-property">					
+<div id="advance-search-grid-property">
+
 <form id="search" name="searchform" method="get" action="<?php echo home_url(); ?>">
 <div id="searchMain">
+
 <!--
 <label for="advcity">
 	<span class="colortext"><?php _e("City", "templatesquare"); ?></span><br />

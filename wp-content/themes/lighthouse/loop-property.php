@@ -158,7 +158,7 @@
 				//if($propertyType!=""){echo $propertyType . '<br/>';}
 				
 				//echo __('Brokered By', 'templatesquare').': '.get_the_author().'<br />
-				<span class="colortext">'.$listingNote.'</span>';
+				//<span class="colortext">'.$listingNote.'</span>';
 				
 				?>
 			</div><!-- end .list_text -->
