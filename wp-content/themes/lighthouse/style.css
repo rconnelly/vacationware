@@ -1920,7 +1920,7 @@ h2.active {background-position: left bottom;}
 .widget_twitter .entry-content { margin-bottom: 10px; }
 .widget_twitter .entry-meta { font-size: 90%; }
 
-.widget_twitter h2.widget-title { padding-left: 30px; background: url(images/twitter.png) no-repeat center left  }
+.widget_twitter h2.widget-title { padding-left: 40px; background: url(images/twitter.png) no-repeat center left  }
 
 .sidebar li.widget_twitter li
 {
