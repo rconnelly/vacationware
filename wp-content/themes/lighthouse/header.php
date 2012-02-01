@@ -66,9 +66,7 @@ if($favicon =="" ){
 <!-- ////////////////////////////////// -->
 <!-- //      Javascript Files        // -->
 <!-- ////////////////////////////////// -->
-<script type="text/javascript">
-	 Cufon.replace('h1') ('h2') ('h3') ('h4') ('h5') ('h6') ('.slider-button a') ('.slider-price') ('.button') ('#nav li a', {hover: true}) ('#advance-search-grid-property  button') ('.widget_ts_property_search button');
-</script>
+
 <script type="text/javascript">
 var $jts = jQuery.noConflict();
 

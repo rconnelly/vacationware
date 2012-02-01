@@ -69,7 +69,7 @@ body {
 	margin:0 auto;
 	padding:0;
 	color:#000;
-	line-height:18px;
+	line-height:21px;
 }
 
 /* links */
@@ -95,10 +95,10 @@ h1, h2, h3{margin-bottom:20px;}
 h4, h5, h6{margin-bottom:15px;}
 h1 {font-size:30px; line-height:32px;}
 h2 {font-size:26px; line-height:26px;}
-h3 {font-size:20px; line-height:22px;}
+h3 {font-size:22px; line-height:24px;}
 h4 {font-size:18px; line-height:20px;}
-h5 {font-size:16px; line-height:18px;}
-h6 { font-size:14px; line-height:16px;}
+h5 {font-size:17px; line-height:19px;}
+h6 { font-size:16px; line-height:18px;}
 .pagetitle{border-bottom:1px solid #d8d8d8; padding-bottom:5px; font-size:26; line-height:26px; text-transform:capitalize !important}
 .underline{ border-bottom:1px solid #d8d8d8; padding-bottom:5px;}
 
@@ -494,11 +494,12 @@ ul.disc li{
 .four_column_properties > li, .two_column_properties > li{list-style-type:none; width:184px; margin:0px 21px 30px 0px; float:left; background:#f6f6f6; border:1px solid #ededed; padding:19px; }
 .four_column_properties li img, .two_column_properties li img{ margin-bottom:15px;}
 .four_column_properties p, .two_column_properties p{margin-bottom:18px;}
+.four_column_properties h6, .two_column_properties h6 { font-weight: bold; font-size: 18px; line-height: 22px;}
 .two_column_properties > li{  width:248px; }
 ul.box_text{ margin:0px!important; padding:0px!important;  }
-ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8!important;  padding:2px 0px!important; margin:0px!important; font-size:14px; color:#7e7e7e; list-style-type:none; text-align:right !important; clear:both; font-weight:normal; }
+ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8!important;  padding:5px 0px!important; margin:0px!important; font-size:14px; color:#7e7e7e; list-style-type:none; text-align:right !important; clear:both; font-weight:normal; }
 ul.box_text .left{float:left; font-weight:bold;}
-ul.box_text li.leftContent{text-align:left !important; padding-bottom: 5px !important;}
+ul.box_text li.leftContent{text-align:left !important; padding-bottom: 20px !important;}
 
 
 /* Property Detail */
@@ -1243,7 +1244,7 @@ h3#reply-title {
 
 /* PLUGIN
 -------------------------------------------------------------- */
-#breadcrumbs{padding:5px 0  25px 0;}
+#breadcrumbs{padding:5px 0  25px 0; font-size: 16px;}
 
 #footer .wpcf7-form{margin:0; padding:0 0 0 ; position:relative;}
 #footer .wpcf7-text{ border:1px solid #dddddd; padding:8px !important; margin-right:0px; width:250px; }
@@ -1912,50 +1913,21 @@ h2.active {background-position: left bottom;}
 
 /* Twitter Widget Pro */
 
-.widget_twitter div {
-	padding:0;
-}
+.widget_twitter .intent-meta { display: none; }
+.widget_twitter .entry-meta, .widget_twitter .entry-content { display: block; }
 
-.widget_twitter ul li {
-	margin-bottom:5px;
-}
 
-.widget_twitter .follow-button,
-.widget_twitter .xavisys-link {
-	margin:0 10px 10px 25px;
-}
+.widget_twitter .entry-content { margin-bottom: 10px; }
+.widget_twitter .entry-meta { font-size: 90%; }
 
-.widget_twitter .entry-meta {
-	display:block;
-	font-size:80%;
-}
+.widget_twitter h2.widget-title { padding-left: 30px; background: url(images/twitter.png) no-repeat center left  }
 
-.widget_twitter .intent-meta a {
-	background: url(images/everything-spritev2.png); /** from Twitter ressources */
-	display: inline-block;
-	height: 16px;
-	text-indent: -9999px;
-	width: 16px;
-}
-.sidebar li.widget_twitter ul li
+.sidebar li.widget_twitter li
 {
 	width: auto;
-}
-.widget_twitter .intent-meta a.in-reply-to {
-	background-position: 0 center;
-}
-.widget_twitter .intent-meta a:hover.in-reply-to {
-	background-position: -16px center;
-}
-.widget_twitter .intent-meta a.favorite {
-	background-position: -32px center;
-}
-.widget_twitter .intent-meta a:hover.favorite {
-	background-position: -48px center;
-}
-.widget_twitter .intent-meta a.retweet {
-	background-position: -80px center;
-}
-.widget_twitter .intent-meta a:hover.retweet {
-	background-position: -96px center;
+    color: #333;
+    background: none;
+    margin: 0 0 10px 0;
+    padding: 0 0 10px 0;
+    border-bottom: solid 1px #D8D8D8;
 }
