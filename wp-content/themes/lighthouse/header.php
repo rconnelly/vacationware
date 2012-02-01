@@ -266,10 +266,11 @@ h1, h2, h3, h4, h5, h6, .posttitle a, .posttitle a:visited{color:'.$headingconte
 	
 	
 	<div class="centercolumn">
+
 			<?php 
 			
 			if(is_front_page()){ 
-			
+
 				get_template_part('slider');
 				
 				$disableadvancesearch = get_option("templatesquare_disable_advance_search_property");

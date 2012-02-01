@@ -49,6 +49,12 @@
 
 -->
 
+
+<label for="advstate">
+	<span class="colortext"><?php _e("Keywords"); ?></span><br />
+	<input type="text" id="advkeywords" name="advkeywords" size="60" value="<?php echo $advstate ;?>" />
+</label>
+
 <label for="advsleeps">
 	<span class="colortext"><?php _e("Sleeps"); ?></span><br />
 	<select name="advsleeps" id="advsleeps">

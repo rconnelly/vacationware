@@ -412,7 +412,7 @@
 			//}
 		$output .= '</div>';
 		$output .= '<div class="clr"></div>';
-		$output .= '<ul class="four_column_properties">';
+		$output .= '<ul class="two_column_properties">';
 		
 		query_posts('post_type=property&post_status=publish');
 		global $post;
