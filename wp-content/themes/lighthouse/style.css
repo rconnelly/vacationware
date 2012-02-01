@@ -65,7 +65,7 @@ a img {
 /* Main global 'theme' and typographic styles */
 body {
 	font-family:Verdana, Arial, Tahoma;
-	font-size:11px;
+	font-size:14px;
 	margin:0 auto;
 	padding:0;
 	color:#000;
@@ -80,11 +80,11 @@ a img{border:none}
 form{margin:0; padding:0;}
 input[type=text], textarea{
 	border:solid 1px #e7e7e7;
-	margin:4px 4px 8px 0px; 
+	margin:4px 4px 8px 0px;
 	padding:5px;
 	color:#000;
-	vertical-align:middle; 
-	font-size:11px;
+	vertical-align:middle;
+	font-size:14px;
 }
 
 .clr, .clear{clear:both; height:1px !important; line-height:1px !important; float:none!important; }
@@ -96,9 +96,9 @@ h4, h5, h6{margin-bottom:15px;}
 h1 {font-size:30px; line-height:32px;}
 h2 {font-size:26px; line-height:26px;}
 h3 {font-size:20px; line-height:22px;}
-h4 {font-size:16px; line-height:20px;}
-h5 {font-size:14px; line-height:18px;}
-h6 { font-size:11px; line-height:16px;}
+h4 {font-size:18px; line-height:20px;}
+h5 {font-size:16px; line-height:18px;}
+h6 { font-size:14px; line-height:16px;}
 .pagetitle{border-bottom:1px solid #d8d8d8; padding-bottom:5px; font-size:26; line-height:26px; text-transform:capitalize !important}
 .underline{ border-bottom:1px solid #d8d8d8; padding-bottom:5px;}
 
@@ -186,7 +186,7 @@ blockquote {
 	line-height:20px;
 	font-family:Georgia, Arial;
 	}
-	
+
 blockquote p{ margin:0px;}
 blockquote div{}
 blockquote cite,
@@ -266,7 +266,7 @@ sub {
 	color:#171717 !important; text-decoration:none!important;
 }
 .sf-menu li li {
-	border-bottom:1px solid #e2e2e2; 
+	border-bottom:1px solid #e2e2e2;
 }
 .sf-menu ul a {
 	background:#f4f4f4;
@@ -299,7 +299,7 @@ sub {
 	padding:		0;
 	list-style:		none;
 	font-size:15px;
-	
+
 }
 .sf-menu {
 	line-height:100%;
@@ -354,13 +354,13 @@ ul.sf-menu li li.sfHover ul {
 ul.sf-menu li li:hover li ul,
 ul.sf-menu li li.sfHover li ul {
 	top:			-999em;
-	
+
 }
 ul.sf-menu li li li:hover ul,
 ul.sf-menu li li li.sfHover ul {
 	left:			10em; /* match ul width */
 	top:			-1px;
-	
+
 }
 .sf-menu ul li a{
 	font-size:12px;
@@ -432,7 +432,7 @@ ul.sf-menu li li li.sfHover ul {
 /* text slider */
 .frame-slide-text{ float:right; width:340px; padding:29px 51px;}
 ul.slide-text{ margin:0px; padding:0px;}
-ul.slide-text li{ text-align:right!important; clear:both; border-bottom:1px solid #e9e8e8; padding:9px 0px; font-size:11px;  color:#7e7e7e; list-style-type:none;}
+ul.slide-text li{ text-align:right!important; clear:both; border-bottom:1px solid #e9e8e8; padding:9px 0px; font-size:14px;  color:#7e7e7e; list-style-type:none;}
 .frame-slide-text .left{ float:left; color:#171717; margin-right:10px}
 .frame-slide-text p { margin-bottom: 0px; }
 .frame-price{ margin-top:21px;}
@@ -496,14 +496,14 @@ ul.disc li{
 .four_column_properties p, .two_column_properties p{margin-bottom:18px;}
 .two_column_properties > li{  width:248px; }
 ul.box_text{ margin:0px!important; padding:0px!important;  }
-ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8!important;  padding:2px 0px!important; margin:0px!important; font-size:11px; color:#7e7e7e; list-style-type:none; text-align:right !important; clear:both; font-weight:normal; }
+ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8!important;  padding:2px 0px!important; margin:0px!important; font-size:14px; color:#7e7e7e; list-style-type:none; text-align:right !important; clear:both; font-weight:normal; }
 ul.box_text .left{float:left; font-weight:bold;}
 ul.box_text li.leftContent{text-align:left !important; padding-bottom: 5px !important;}
 
 
 /* Property Detail */
 #property-detail ul.box_text{ margin:0px!important; padding:0px!important;  }
-#property-detail ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8!important;  padding:4px 0px!important; margin:0px!important; font-size:11px; color:#7e7e7e; list-style-type:none; text-align:left!important; font-weight:normal; display:block; float:left; width:620px; }
+#property-detail ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8!important;  padding:4px 0px!important; margin:0px!important; font-size:14px; color:#7e7e7e; list-style-type:none; text-align:left!important; font-weight:normal; display:block; float:left; width:620px; }
 #property-detail ul.box_text .left{ font-weight:bold; width:144px; float:left; }
 #property-detail ul.box_text .right{ width:476px; float:right; }
 
@@ -550,10 +550,10 @@ ul.box_text li.leftContent{text-align:left !important; padding-bottom: 5px !impo
 /* News */
 .box-news{ clear:both; width:100%; margin-bottom:10px;float:left }
 .box-news h2, .box-news h2 a{ margin-bottom:0px !important; font-size:14px !important; text-decoration:none; color:#646464; }
-.box-news img{ float:left; margin:8px 15px 0px 0px !important; width:72px; height:72px; 	
+.box-news img{ float:left; margin:8px 15px 0px 0px !important; width:72px; height:72px;
 }
 .box-news .news-txt{ float:left; width:450px; padding-top:5px;}
-.box-news .postdate{ text-align:left; display:block; font-size:11px; padding-bottom:6px; float:none}
+.box-news .postdate{ text-align:left; display:block; font-size:14px; padding-bottom:6px; float:none}
 
 
 /* Text */
@@ -581,7 +581,7 @@ ul.pricing-box > li{
 	margin-right:32px;
 	text-align:center;
 	padding:15px 15px 20px 15px;
-	
+
  }
  ul.pricing-box .title-box{margin-bottom:0; font-size:24px;}
  ul.pricing-box li.last{margin-right:0;}
@@ -641,7 +641,7 @@ table {
 tr th,
 thead th {
 	color: #888;
-	font-size: 11px;
+	font-size: 14px;
 	font-weight: bold;
 	line-height: 18px;
 	padding: 9px 24px;
@@ -683,10 +683,10 @@ ul.tbl-price a:hover{ text-decoration:none;}
 .sidebar .widget-title{font-size:26px; line-height:26px; margin-bottom:10px; border-bottom:1px solid #d8d8d8; padding-bottom:5px;}
 .sidebar .widget-title {color:#476228;}
 .sidebar ul{list-style-type:none; padding:0 ; margin:0; list-style-position:outside}
-.sidebar ul li{list-style-type:none; padding:0 ; margin:0; font-size:11px;}
+.sidebar ul li{list-style-type:none; padding:0 ; margin:0; font-size:14px;}
 .sidebar ul li li{background:url(images/arrow.png) no-repeat 0 6px; padding:0 0 5px 15px; }
 .sidebar ul li li{display:inline-block; zoom:1; *display:inline; vertical-align:top;  width:115px; margin-right:18px;}
-.sidebar ul li a, .sidebar ul li a:visited, .widget-container ul li a{ font-size:11px; }
+.sidebar ul li a, .sidebar ul li a:visited, .widget-container ul li a{ font-size:14px; }
 .sidebar ul li a:hover, .widget-container ul li a:hover{text-decoration:none;}
 
 .sidebar .latestpost li{background-image:none; padding-left:0px;  display:block; width:auto; margin:0; min-height:100px}
@@ -700,7 +700,7 @@ ul.tbl-price a:hover{ text-decoration:none;}
 .sidebar .cycle-box li:first-child{border:0;}
 .sidebar .cycle-box li a{padding:0;}
 
-.sidebar blockquote{font-size:11px; margin-left:0; padding:0}
+.sidebar blockquote{font-size:14px; margin-left:0; padding:0}
 .widget-container{margin-bottom:40px !important;}
 .sidebar .widget-title{margin-bottom:20px;}
 
@@ -780,7 +780,7 @@ ul.tbl-price a:hover{ text-decoration:none;}
 .property-list p{ margin-bottom:30px;}
 .property-list .title{ font-size:14px; color:#14bbea; margin:0px; line-height:normal;}
 .property-list .black{ font-size:12px;}
-.property-list small{ font-size:11px;}
+.property-list small{ font-size:14px;}
 
 .before-content{ background:url(images/bg-shadow.gif) bottom #f4f4f4 no-repeat;  display:block; padding:19px 20px 30px 20px; margin-bottom:28px;}
 .before-content .widget-title{ font-size:22px; color:#14bbea; border-bottom:1px solid #d8d8d8; padding-bottom:5px;}
@@ -888,8 +888,8 @@ img.alignnone {
 	margin-right: auto;
 	padding:0px;
 }
-img.alignleft, 
-img.alignright, 
+img.alignleft,
+img.alignright,
 img.aligncenter,
 img.alignnone {
 	margin-bottom: 12px;
@@ -908,7 +908,7 @@ img.alignmiddle{vertical-align:top; margin:0 6px 0 0}
 #content .wp-caption p.wp-caption-text {
 	margin: 5px;
 	color: #888;
-	font-size: 11px;
+	font-size: 14px;
 }
 #content .wp-smiley {
 	margin:0;
@@ -927,7 +927,7 @@ img.alignmiddle{vertical-align:top; margin:0 6px 0 0}
 }
 #content .gallery .gallery-caption {
 	color: #888;
-	font-size: 11px;
+	font-size: 14px;
 	margin: 0 0 12px;
 }
 #content .gallery dl {
@@ -944,7 +944,7 @@ img.alignmiddle{vertical-align:top; margin:0 6px 0 0}
 
 /* navigation  */
 .navigation {
-	font-size: 11px;
+	font-size: 14px;
 	line-height: 18px;
 	overflow: hidden;
 }
@@ -1031,7 +1031,7 @@ h3#reply-title {
 .comment-body cite  a, .comment-body cite  a:visited{color:#777;}
 .comment-body cite  a:hover{text-decoration:none}
 .comment-author .says {	font-style: normal;}
-.comment-meta {	font-size: 11px;	margin: 0 0 18px 0;}
+.comment-meta {	font-size: 14px;	margin: 0 0 18px 0;}
 .comment-meta a:link,
 .comment-meta a:visited {
 	text-decoration: none;
@@ -1067,7 +1067,7 @@ a.comment-edit-link:hover {
 }
 #comments .pingback p {
 	display: block;
-	font-size: 11px;
+	font-size: 14px;
 	line-height: 18px;
 	margin: 0;
 }
@@ -1081,7 +1081,7 @@ a.comment-edit-link:hover {
 .commentlist ul.children .comment-author{}
 .commentlist ul.children .comment-body{}
 *+html .commentlist .comment-body{margin-top:-15px}
-.comment-body .time{margin-bottom:11px; display:block; color:#a3a3a3; font-size:11px;}
+.comment-body .time{margin-bottom:14px; display:block; color:#a3a3a3; font-size:14px;}
 .comment-body .time a, .comment-body .time a:visited{color:#a3a3a3;}
 .comment-body .boldtext{font-weight:normal; font-size:22px}
 
@@ -1090,7 +1090,7 @@ a.comment-edit-link:hover {
 #commentform label{margin-top:0px; display:block;}
 #commentform code{padding:0; margin:10px 0; border:0}
 
-#commentform .input{ 
+#commentform .input{
 	background-color:#f9f9f9;
 	border:solid 1px #f3f3f3;
 	margin-bottom:8px;
@@ -1101,7 +1101,7 @@ a.comment-edit-link:hover {
 	font-family:arial;
 	}
 
-#commentform .textarea{ 
+#commentform .textarea{
 	height:150px;
 	width:70%;
 	background-color:#f9f9f9;
@@ -1176,10 +1176,10 @@ h3#reply-title {
 #wp-calendar {
 	width:99%;
 	border:solid 1px #fff !important;
-	
+
 }
 #wp-calendar caption {font-size: 14px; padding-bottom: 4px; text-align: left;}
-#wp-calendar thead {font-size: 11px;}
+#wp-calendar thead {font-size: 14px;}
 #wp-calendar thead th {padding: 3px!important;}
 #wp-calendar tbody {color: #aaa;}
 #wp-calendar tbody td {
@@ -1210,7 +1210,7 @@ h3#reply-title {
 	background-repeat:no-repeat;
 	background-position:0 4px;
 	}
-	
+
 #footer-right ul{list-style-type:none; padding:0 0 0 0px ; margin:0;  list-style-position:outside}
 #footer-right .widget-container{padding-left:30px;}
 #footer-right  ul li{list-style-type:none; padding:0 ; margin:0}
@@ -1222,7 +1222,7 @@ h3#reply-title {
 	background-position:0 4px;
 	}
 
-	
+
 #footer ul.sub-menu, #footer ul.children{padding:5px 0 0 0px;}
 #footer ul.sub-menu li, #footer ul.children li{border:0 !important; padding-bottom:3px; margin-bottom:3px}
 
@@ -1238,7 +1238,7 @@ h3#reply-title {
 #newsLetter .inputbox{ border:1px solid #dddddd; padding:8px; margin-right:0px; width:250px; }
 #newsLetter .button{ width:94px; padding:3px 0px; text-align:center; font-size:16px; color:#fff; background-color:#14bbea; border:0px;  cursor:pointer; margin-left:175px!important;}
 
-#copyright{ height:40px; margin-top:31px; background-repeat:no-repeat; font-size:11px;  font-family:Arial, Helvetica, sans-serif; text-align:center; padding-top:20px; float:left; }
+#copyright{ height:40px; margin-top:31px; background-repeat:no-repeat; font-size:14px;  font-family:Arial, Helvetica, sans-serif; text-align:center; padding-top:20px; float:left; }
 
 
 /* PLUGIN
@@ -1341,15 +1341,15 @@ height:70px;
 }
 
 /* Highlight */
-.highlight1{padding:2px 5px;background-color:#e6e8e8;color:#000; border:solid 1px #ccc}	
-.highlight2{padding:2px 5px;background-color:#666666;color:#fff; border:solid 1px #333}	
+.highlight1{padding:2px 5px;background-color:#e6e8e8;color:#000; border:solid 1px #ccc}
+.highlight2{padding:2px 5px;background-color:#666666;color:#fff; border:solid 1px #333}
 
 /* Bulleted List */
 .bullet-check{
 	margin:0;
 	padding:0;
 	list-style-type:none;
-}	
+}
 .bullet-check li{
 	background: transparent url(images/check.png);
 	background-repeat:no-repeat;
@@ -1358,12 +1358,12 @@ height:70px;
 	padding:0 0 0 25px;
 	list-style-type:none;
 	line-height:25px
-}	
+}
 .bullet-arrow{
 	margin:0;
 	padding:0;
 	list-style-type:none;
-}	
+}
 .bullet-arrow li{
 	background: transparent url(images/arrow2.png);
 	background-repeat:no-repeat;
@@ -1372,12 +1372,12 @@ height:70px;
 	padding:0 0 0 25px;
 	list-style-type:none;
 	line-height:25px
-}	
+}
 .bullet-star{
 	margin:0;
 	padding:0;
 	list-style-type:none;
-}	
+}
 .bullet-star li{
 	background: transparent url(images/star.png);
 	background-repeat:no-repeat;
@@ -1386,12 +1386,12 @@ height:70px;
 	padding:0 0 0 25px;
 	list-style-type:none;
 	line-height:25px
-}	
+}
 .bullet-plus{
 	margin:0;
 	padding:0;
 	list-style-type:none;
-}	
+}
 .bullet-plus li{
 	background: transparent url(images/plus.png);
 	background-repeat:no-repeat;
@@ -1400,12 +1400,12 @@ height:70px;
 	padding:0 0 0 25px;
 	list-style-type:none;
 	line-height:25px
-}	
+}
 .bullet-circle{
 	margin:0;
 	padding:0;
 	list-style-type:none;
-}	
+}
 .bullet-circle li{
 	background: transparent url(images/circle.png);
 	background-repeat:no-repeat;
@@ -1414,7 +1414,7 @@ height:70px;
 	padding:0 0 0 25px;
 	list-style-type:none;
 	line-height:25px
-}	
+}
 /* Styled Boxes */
 .styled-box{
 	padding: 20px 20px;
@@ -1512,7 +1512,7 @@ ul.tabs li {
 	position: relative;
 	font-size:12px;
 	text-transform:uppercase
-	
+
 }
 ul.tabs li:hover{border-bottom:solid 1px #f8f8f8;}
 ul.tabs li a {
@@ -1550,7 +1550,7 @@ h2.trigger {
 	height: 13px;
 	line-height: 13px;
 	width:440px;
-	font-size:11px;
+	font-size:14px;
 	font-weight: normal;
 	border:solid 1px #e0e0e0;
 	background-color:#fff;
@@ -1639,7 +1639,7 @@ h2.active {background-position: left bottom;}
 	position:absolute;
 	left:84px;
 	top:20px;
-	z-index:200;	
+	z-index:200;
 }
 .ts-thinkbox-textinfo{
 	font-size:14px;
@@ -1662,11 +1662,11 @@ h2.active {background-position: left bottom;}
 	line-height:20px;
 	background:none;
 	clear:none;
-	font-size:11px !important ;
+	font-size:14px !important ;
 	font-family:Verdana, Arial;
 	font-style:normal;
 }
-.ts-thinkbox-quote blockquote p{font-size:11px !important ;}
+.ts-thinkbox-quote blockquote p{font-size:14px !important ;}
 
 /*  TS Display Portfolio*/
 #ts-display h2{font-size:16px !important; margin:0 0 10px 0 !important}
