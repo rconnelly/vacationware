@@ -431,13 +431,16 @@ ul.sf-menu li li li.sfHover ul {
 
 /* text slider */
 .frame-slide-text{ float:right; width:340px; padding:29px 51px;}
-ul.slide-text{ margin:0px; padding:0px;}
-ul.slide-text li{ text-align:right!important; clear:both; border-bottom:1px solid #e9e8e8; padding:9px 0px; font-size:14px;  color:#7e7e7e; list-style-type:none;}
-.frame-slide-text .left{ float:left; color:#171717; margin-right:10px}
+ul.slide-text{ margin:10px 0 0 0; padding:0px;}
+ul.slide-text li{ list-style-type:none; display: inline; padding-left: 20px; }
+.frame-slide-text .slide-label{ padding: 0 10px;  font-weight: bold; }
 .frame-slide-text p { margin-bottom: 0px; }
 .frame-price{ margin-top:21px;}
-.slider-button a{ background:#14bbea; font-size:16px; line-height:30px; color:#fff!important; width:92px; height:31px; text-align:center; float:left; text-decoration:none;}
-.slider-price{ font-size:120%; font-weight: bold; color:#171717; float:right; text-align: right; width: 200px;}
+.slider-button a{ background:#14bbea; font-size:16px;
+    border-radius: 10px; line-height:38px; color:#fff!important; width:110px; text-align:center;
+    float:left; text-decoration:none; top: 20px; }
+.slider-button { margin-top: 30px }
+.slider-price{ color:#171717; float:right; text-align: right; font-size: 80%; overflow: hidden; max-height: 80px; }
 
 
 /* CONTENT
@@ -764,6 +767,7 @@ ul.tbl-price a:hover{ text-decoration:none;}
 	border:0px;
 	font-size:14px;
 	padding:7px 20px;
+    border-radius: 10px;
 }
 
 #widget-flickr .alignleft{
@@ -800,7 +804,7 @@ background-color:#f6f6f6; border:solid 1px #ededed; margin-bottom:40px
 #advance-search-grid-property  #searchMain{padding:10px 20px;}
 #advance-search-grid-property  label{float:left; margin-right:15px}
 #advance-search-grid-property select{padding:3px; width:50px; border:solid 1px #e7e7e7; margin-top:5px; color:#000;}
-#advance-search-grid-property  button{ background-color:#c3c3c3; border:0; padding:8px 10px; width:80px; color:#fff; margin:0 0 0 10px; cursor:pointer; font-size:14px}
+#advance-search-grid-property  button{ background-color:#c3c3c3; border:0; border-radius: 10px; padding:8px 10px; width:80px; color:#fff; margin:0 0 0 10px; cursor:pointer; font-size:14px}
 
 
 
@@ -1057,6 +1061,11 @@ a.comment-edit-link:hover {
 .commentlist .children {
 	list-style: none;
 }
+
+.edit-link { background-color:#2F7069; border:0; padding:8px 10px; width:80px; color:#fff; margin:0 0 0 10px;
+    cursor:pointer; font-size:14px; border-radius: 10px;}
+.edit-link a.post-edit-link { color: #fff !important; }
+
 .commentlist .children li {}
 .nopassword, .nocomments {display: none;}
 #comments .pingback {
@@ -1237,7 +1246,8 @@ h3#reply-title {
 
 
 #newsLetter .inputbox{ border:1px solid #dddddd; padding:8px; margin-right:0px; width:250px; }
-#newsLetter .button{ width:94px; padding:3px 0px; text-align:center; font-size:16px; color:#fff; background-color:#14bbea; border:0px;  cursor:pointer; margin-left:175px!important;}
+#newsLetter .button{ width:94px; padding:3px 0px; text-align:center;
+    border-radius: 10px; font-size:16px; color:#fff; background-color:#14bbea; border:0px;  cursor:pointer; margin-left:175px!important;}
 
 #copyright{ height:40px; margin-top:31px; background-repeat:no-repeat; font-size:14px;  font-family:Arial, Helvetica, sans-serif; text-align:center; padding-top:20px; float:left; }
 

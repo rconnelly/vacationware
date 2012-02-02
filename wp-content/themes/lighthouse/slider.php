@@ -92,20 +92,16 @@
                     <?php if($shortDescription != "") echo '<p>'.$shortDescription.'</p>'; ?>
 					<ul class="slide-text">
 						<?php
-						//if($propertyType!=""){echo '<li><span class="left">'.__('Property Type','templatesquare').'</span>'.$propertyType.'</li>';}
-						//if($address!=""){echo '<li><span class="left">'.__('Address').'</span>'.$addr.'</li>';}
-						//if($address!=""){echo '<li><span class="left">'.__('Address','templatesquare').'</span>'.$addr.'</li>';}
-						//if($houseSize!=""){echo '<li><span class="left">'.__('House Size','templatesquare').'</span>'.$houseSize.' '.$areaunit.'</li>';}
-						//if($yearBuilt!=""){echo '<li><span class="left">'.__('Year Built','templatesquare').'</span>'.$yearBuilt.'</li>';}
-						if($sleeps!=""){echo '<li><span class="left">'.__('Sleeps').'</span>'.$sleeps.'</li>';}
-						if($baths!=""){echo '<li><span class="left">'.__('Baths','templatesquare').'</span>'.$baths.'</li>';}
-						if($beds!=""){echo '<li><span class="left">'.__('Beds','templatesquare').'</span>'.$beds.'</li>';}
+						if($sleeps!=""){echo '<li><span class="slide-label">'.__('Sleeps').'</span>'.$sleeps.'</li>';}
+						if($baths!=""){echo '<li><span class="slide-label">'.__('Baths','templatesquare').'</span>'.$baths.'</li>';}
+						if($beds!=""){echo '<li><span class="slide-label">'.__('Beds','templatesquare').'</span>'.$beds.'</li>';}
 						?>
 					</ul>
 					<div class="frame-price">
-						<div class="slider-button"><a href="<?php the_permalink(); ?>"><?php echo $buttontext;?></a></div>
-						<?php if($price!=""){echo '<div class="slider-price">'.$rates.'</div>';} ?>
+						<?php if($rates!=""){echo '<div class="slider-price">'. nl2br($rates) .'</div>';} ?>
 					</div>
+
+                    <div class="slider-button"><a href="<?php the_permalink(); ?>"><?php echo $buttontext;?></a></div>
 				</div>
 			</div><!-- end cycle -->
 			

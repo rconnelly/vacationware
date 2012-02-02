@@ -19,6 +19,7 @@ function ts_setup() {
 		add_image_size( 'property-slider-home', 518, 360, true ); // Property Slider
 		add_image_size( 'slider-home', 518, 360, true ); // Slider Homepage
 		add_image_size( 'property-grid', 185, 120, true ); // Property Grid
+		add_image_size( 'property-grid-2', 250, 160, true ); // Property Grid 2 col
 		add_image_size( 'property-list', 130, 85, true ); // Property List
 		add_image_size( 'property-gallery', 620, 360, true ); // Property Gallery
 		add_image_size( 'property-gallery-thumb', 45, 33, true ); // Property Gallery Thumb

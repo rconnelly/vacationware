@@ -429,13 +429,15 @@
 				$prefix = 'ts_';
 				
 				$custom = get_post_custom($post->ID);
+                $sleeps = (isset($custom[$prefix."sleeps"][0]))? $custom[$prefix."sleeps"][0] : "";
 				$beds = (isset($custom[$prefix."beds"][0]))? $custom[$prefix."beds"][0] : "";
 				$baths = (isset($custom[$prefix."baths"][0]))? $custom[$prefix."baths"][0] : "";
 				$houseSize = (isset($custom[$prefix."houseSize"][0]))? $custom[$prefix."houseSize"][0] : "";
 				$lotSize = (isset($custom[$prefix."lotSize"][0]))? $custom[$prefix."lotSize"][0] : "";
 				$listingFeatured = (isset($custom[$prefix."listingFeatured"][0]))? $custom[$prefix."listingFeatured"][0] : "";
 				$listingTitle = (isset($custom[$prefix."listingTitle"][0]))? $custom[$prefix."listingTitle"][0] : "";
-				
+
+                $shortDescription = (isset($custom[$prefix."shortDescription"][0]))? $custom[$prefix."shortDescription"][0] : "";
 				$address = (isset($custom[$prefix."address"][0]))? $custom[$prefix."address"][0] : "";
 				$city = (isset($custom[$prefix."city"][0]))? $custom[$prefix."city"][0] : "";
 				$state = (isset($custom[$prefix."state"][0]))? $custom[$prefix."state"][0] : "";
@@ -463,7 +465,7 @@
 					 foreach ( $attachments as $att_id => $attachment ) {
 						
 						// put the image in a array
-						$getimage = wp_get_attachment_image_src($att_id, 'property-grid', true);
+						$getimage = wp_get_attachment_image_src($att_id, 'property-grid-2', true);
 						
 						// the [0] position goes for the image URL
 						$propertyimage = $getimage[0];
@@ -478,7 +480,7 @@
 					
 				}else{
 				
-					$outputimg = get_the_post_thumbnail($post->ID, 'property-grid',  array('alt' =>'', 'title' =>''));
+					$outputimg = get_the_post_thumbnail($post->ID, 'property-grid-2',  array('alt' =>'', 'title' =>''));
 				
 				}	
 				
@@ -495,10 +497,11 @@
 					$output .= $outputimg;
 					$output .= '<h6><a href="'.get_permalink().'">'.$ltitle.'</a></h6>';
 					$output .= '<ul class="box_text">';
-						$output .= '<li><span class="left">'.__('Beds','templatesquare').':</span> ' . $beds .' </li>';
-						$output .= '<li><span class="left">'.__('Baths','templatesquare').':</span> ' . $baths .' </li>';
-						$output .= '<li><span class="left">'.__('House size','templatesquare').':</span> ' . $houseSize . ' ' . $areaunit .' </li>';
-						$output .= '<li><span class="left">'.__('Lot size','templatesquare').':</span> ' . $lotSize . ' ' . $lotunit .' </li>';
+
+                    $output .= '<li class="leftContent">'.$shortDescription.'</li>';
+                    $output .= '<li><span class="left">'.__('Sleeps').':</span> ' . $sleeps .' </li>';
+					$output .= '<li><span class="left">'.__('Beds','templatesquare').':</span> ' . $beds .' </li>';
+					$output .= '<li><span class="left">'.__('Baths','templatesquare').':</span> ' . $baths .' </li>';
 					  $output .= '</ul>	';	
 				$output .= '</li>';
 			
