@@ -19,6 +19,8 @@
 	$advbed			= (isset($_GET['advbed']))? stripslashes(trim($_GET['advbed'])) : "";
 	$advbath		= (isset($_GET['advbath']))? stripslashes(trim($_GET['advbath'])) : "";
 	$advsleeps      = (isset($_GET['advsleeps']))? stripslashes(trim($_GET['advsleeps'])) : "";
+    $advkeywords      = (isset($_GET['advkeywords']))? stripslashes(trim($_GET['advkeywords'])) : "";
+
 ?>
 						
 <div id="advance-search-grid-property">
@@ -26,33 +28,9 @@
 <form id="search" name="searchform" method="get" action="<?php echo home_url(); ?>">
 <div id="searchMain">
 
-<!--
-<label for="advcity">
-	<span class="colortext"><?php _e("City", "templatesquare"); ?></span><br />
-	<input type="text" id="advcity" name="advcity" size="25" value="<?php echo $advcity ;?>" />
-</label>
-<label for="advstate">
-	<span class="colortext"><?php _e("State", "templatesquare"); ?></span><br />
-	<input type="text" id="advstate" name="advstate" size="25" value="<?php echo $advstate ;?>" />
-</label>
-<label for="advzipcode">
-	<span class="colortext"><?php _e("Zip", "templatesquare"); ?></span><br />
-	<input type="text" id="advzipcode" name="advzipcode" size="10" value="<?php echo $advzipcode ;?>" />
-</label>
-
-<label for="advpricerange">
-	<span class="colortext"><?php _e("Price Range", "templatesquare"); ?></span><br />
-	<input type="text" id="advprice1" name="advprice1"  size="10" value="<?php echo $advprice1 ;?>" />
-	<?php _e("to", "templatesquare"); ?>
-	<input type="text" id="advprice2" name="advprice2" size="10" value="<?php echo $advprice2 ;?>" />
-</label>
-
--->
-
-
-<label for="advstate">
+<label for="advkeywords">
 	<span class="colortext"><?php _e("Keywords"); ?></span><br />
-	<input type="text" id="advkeywords" name="advkeywords" size="60" value="<?php echo $advstate ;?>" />
+	<input type="text" id="advkeywords" name="advkeywords" size="60" value="<?php echo $advkeywords ;?>" />
 </label>
 
 <label for="advsleeps">

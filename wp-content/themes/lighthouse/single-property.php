@@ -206,11 +206,6 @@ get_header(); ?>
 				<ul class="box_text">
 					<?php
 						if($beds!=""){echo'<li><span class="left">'.__('Beds', 'templatesquare').'</span>'.$beds.'</li>';}else{ echo'<li><span class="left">'.__('Beds', 'templatesquare').'</span>-</li>';}
-						//if($houseSize!=""){echo'<li><span class="left">'.__('House Size', 'templatesquare').'</span>'.$houseSize.' '.$areaunit.'</li>';}else{echo'<li><span class="left">'.__('House Size', 'templatesquare').'</span>-</li>';}
-						//if($price!=""){echo'<li><span class="left">'.__('Price', 'templatesquare').'</span>'.$currencyunit.' '.number_format($price, 0, '.', ',').'</li>';}else{echo'<li><span class="left">'.__('Price', 'templatesquare').'</span>-</li>';}
-						//if($propertyType!=""){echo'<li><span class="left">'.__('Property Type', 'templatesquare').'</span>'.$propertyType.'</li>';}else{echo'<li><span class="left">'.__('Property Type', 'templatesquare').'</span>-</li>';}
-						//if($neighborHood!=""){echo'<li><span class="left">'.__('Neighborhood', 'templatesquare').'</span>'.$neighborHood.'</li>';}else{echo'<li><span class="left">'.__('Neighborhood', 'templatesquare').'</span>-</li>';}
-						//if($stories!=""){echo'<li><span class="left">'.__('Stories', 'templatesquare').'</span>'.$stories.'</li>';}else{echo'<li><span class="left">'.__('Stories', 'templatesquare').'</span>-</li>';}
 					?>
 				</ul>	
 			</div>
@@ -218,37 +213,13 @@ get_header(); ?>
 				<ul class="box_text">
 					<?php
 						if($baths!=""){echo'<li><span class="left">'.__('Baths', 'templatesquare').'</span>'.$baths.'</li>';}else{echo'<li><span class="left">'.__('Baths', 'templatesquare').'</span>-</li>';}
-						
-						//if($lotSize!=""){echo'<li><span class="left">'.__('Lot Size', 'templatesquare').'</span>'.$lotSize.' '.$lotunit.'</li>';}else{echo'<li><span class="left">'.__('Lot Size', 'templatesquare').'</span>-</li>';}
-						
-						/*if($price!="" && $houseSize!=""){
-							$priceSqft = $currencyunit.' '.number_format(($price / $houseSize),0,".",",");
-						}else{
-							$priceSqft = "-";
-						}
-						echo'<li><span class="left">'.__('Price/'.$areaunit, 'templatesquare').'</span>'.$priceSqft.'</li>';
-
-                        						*/
-						//if($yearBuilt!=""){echo'<li><span class="left">'.__('Year Built', 'templatesquare').'</span>'.$yearBuilt.'</li>';}else{echo'<li><span class="left">'.__('Year Built', 'templatesquare').'</span>-</li>';}
-						
-						//if($style!=""){echo'<li><span class="left">'.__('Style', 'templatesquare').'</span>'.$style.'</li>';}else{echo'<li><span class="left">'.__('Style', 'templatesquare').'</span>-</li>';}
-						
-						//if($garage!=""){echo'<li><span class="left">'.__('Garage', 'templatesquare').'</span>'.$garage.'</li>';}else{echo'<li><span class="left">'.__('Garage', 'templatesquare').'</span>-</li>';}
-						
 					?>
 				</ul>	
 			</div>
 				<ul class="box_text">
 					<?php
 					if($rates!=""){echo'<li><span class="left">'.__('Rates').'</span><span class="right">'.$rates.'</span></li>';}else{echo'<li><span class="left">'.__('Rates').'</span><span class="right">-</span></li>';}
-						if($propertyFeatures!=""){echo'<li><span class="left">'.__('Property Features', 'templatesquare').'</span><span class="right">'.$propertyFeatures.'</span></li>';}else{echo'<li><span class="left">'.__('Property Features', 'templatesquare').'</span><span class="right">-</span></li>';}
-						/*if($fireplaceFeatures!=""){echo'<li><span class="left">'.__('Fireplace Features', 'templatesquare').'</span><span class="right">'.$fireplaceFeatures.'</span></li>';}else{echo'<li><span class="left">'.__('Fireplace Features', 'templatesquare').'</span><span class="right">-</span></li>';}
-						if($heatingFeatures!=""){echo'<li><span class="left">'.__('Heating Features', 'templatesquare').'</span><span class="right">'.$heatingFeatures.'</span></li>';}else{echo'<li><span class="left">'.__('Heating Features', 'templatesquare').'</span><span class="right">-</span></li>';}
-						if($externalConstruction!=""){echo'<li><span class="left">'.__('External Construction', 'templatesquare').'</span><span class="right">'.$externalConstruction.'</span></li>';}else{echo'<li><span class="left">'.__('External Construction', 'templatesquare').'</span><span class="right">-</span></li>';}
-						if($roofing!=""){echo'<li><span class="left">'.__('Roofing', 'templatesquare').'</span><span class="right">'.$roofing.'</span></li>';}else{echo'<li><span class="left">'.__('Roofing', 'templatesquare').'</span><span class="right">-</span></li>';}
-						if($interiorFeatures!=""){echo'<li><span class="left">'.__('Interior Features', 'templatesquare').'</span><span class="right">'.$interiorFeatures.'</span></li>';}else{echo'<li><span class="left">'.__('Interior Features', 'templatesquare').'</span><span class="right">-</span></li>';}
-						if($exteriorFeatures!=""){echo'<li><span class="left">'.__('Exterior Features', 'templatesquare').'</span><span class="right">'.$exteriorFeatures.'</span></li>';}else{echo'<li><span class="left">'.__('Exterior Features', 'templatesquare').'</span><span class="right">-</span></li>';}
-					*/
+						if($propertyFeatures!=""){echo'<li><span class="left">'.__('Amentities').'</span><span class="right">'.$propertyFeatures.'</span></li>';}else{echo'<li><span class="left">'.__('Amentities').'</span><span class="right">-</span></li>';}
 					?>
 				</ul>	
 				</div>

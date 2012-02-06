@@ -236,69 +236,18 @@ $meta_boxes[] = array(
 			'type' => 'select',
 			'std' => ''
 		),
-	/*	array(
-			'name' => __('House Size','templatesquare'),
-			'desc' => 'Input your House Size with numbers only.',
-			'id' => $prefix.'houseSize',
-			'class' => 'mini',
-			'postfix' => $areaunit,
-			'type' => 'text',
-			'std' => ''
-		),
+        array(
+            'name' => __('Rates'),
+            'desc' => '',
+            'id' => $prefix.'rates',
+            'type' => 'textarea',
+            'std' => ''
+        ),
 		array(
-			'name' => __('Lot Size','templatesquare'),
-			'desc' => 'Input your Lot Size with numbers only.',
-			'id' => $prefix.'lotSize',
-			'class' => 'mini',
-			'postfix' => $lotunit,
+			'name' => __('Keywords'),
+			'desc' => 'Space delimited keywords which will be used in searches.',
+			'id' => $prefix.'keywords',
 			'type' => 'text',
-			'std' => ''
-		),
-		array(
-			'name' => __('Year Built','templatesquare'),
-			'desc' => '',
-			'id' => $prefix.'yearBuilt',
-			'class' => 'mini',
-			'type' => 'text',
-			'std' => ''
-		),
-		array(
-			'name' => __('Neighborhood','templatesquare'),
-			'desc' => '',
-			'id' => $prefix.'neighborHood',
-			'class' => 'mini',
-			'type' => 'text',
-			'std' => ''
-		),
-		array(
-			'name' => __('Style','templatesquare'),
-			'desc' => '',
-			'id' => $prefix.'style',
-			'class' => 'mini',
-			'type' => 'text',
-			'std' => ''
-		),
-		array(
-			'name' => __('Stories','templatesquare'),
-			'desc' => '',
-			'id' => $prefix.'stories',
-			'class' => 'mini',
-			'type' => 'text',
-			'std' => ''
-		),
-		array(
-			'name' => __('Garage','templatesquare'),
-			'desc' => '',
-			'id' => $prefix.'garage',
-			'class' => 'mini',
-			'type' => 'text',
-			'std' => ''
-		),*/
-		array(
-			'name' => __('Property Features','templatesquare'),
-			'desc' => '',
-			'id' => $prefix.'propertyFeatures',
-			'type' => 'textarea',
 			'std' => ''
 		),
 		/*

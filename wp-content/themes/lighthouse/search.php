@@ -50,6 +50,7 @@ get_header(); ?>
 							$advcompare		= (isset($_GET['advcompare']))? stripslashes(trim($_GET['advcompare'])) : "";
 							$advhousesize	= (isset($_GET['advhousesize']))? stripslashes(trim($_GET['advhousesize'])) : "";
                             $advsleeps	    = (isset($_GET['advsleeps']))? stripslashes(trim($_GET['advsleeps'])) : "";
+                            $advkeywords	= (isset($_GET['advkeywords']))? stripslashes(trim($_GET['advkeywords'])) : "";
 							
 							$argsearch = array();
 							$argsearch["post_type"] = "property";
@@ -157,26 +158,22 @@ get_header(); ?>
 									'value' => $advproptype,
 									'compare' => 'LIKE'
 								);
-								
 							}
-							if( $advhousesize!="" ){
+
+							if( $advkeywords!="" ){
 								if(!isset($argsearch["meta_query"])){ 
 									$argsearch["meta_query"] = array();
 								}
 								$argsearch["meta_query"][] = array(
-									'key' => $prefix.'houseSize',
-									'value' => $advhousesize,
-									'type' => 'numeric',
-									'compare' => $advcompare
+									'key' => $prefix.'keywords',
+									'value' => $advkeywords,
+									'compare' => 'LIKE'
 								);
-								
 							}
-
 
 							//var_dump($argsearch);
 							query_posts( $argsearch );
 							global $wp_query, $post;
-							
 
 						if ( have_posts() ) : 
 						/* Run the loop for the search to output the results.

@@ -449,7 +449,7 @@
 					$numfeatured++;
 				}
 				
-				if(($i%4) == 0){ $addclass = "last";	}
+				if(($i%2) == 0){ $addclass = "last";	}
 				
 				if(!has_post_thumbnail( $post->ID )){
 				

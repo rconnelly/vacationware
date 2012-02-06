@@ -79,10 +79,7 @@
 		$interiorFeatures = (isset($custom[$prefix."interiorFeatures"][0]))? $custom[$prefix."interiorFeatures"][0] : "";
 		$exteriorFeatures = (isset($custom[$prefix."exteriorFeatures"][0]))? $custom[$prefix."exteriorFeatures"][0] : "";
 		?>
-		
-		
-		
-		
+
 		
 		<div class="list_properties" id="post-<?php the_ID(); ?>">
 			<div class="title_property2">
@@ -145,8 +142,7 @@
 					<?php echo get_avatar( get_the_author_meta( 'user_email' ), apply_filters( 'templatesquare_author_bio_avatar_size', 70 ) );  ?>
 				</div>
 				<?php 
-				
-				//if($price!=""){echo '<strong>'. $currencyunit . ' '. number_format($price, 0, '.', ',').'</strong><br/>';}
+
 
                 if($shortDescription!=""){echo $shortDescription ." ". __("Short Description") . ' | ';}
 
@@ -155,15 +151,7 @@
 				if($baths!=""){echo $baths ." ". __("Baths", "templatesquare") . ' | ';}
 
 
-				//if($houseSize!=""){echo $houseSize.' '.$areaunit.' | ';}
-				//if($lotSize!=""){echo $lotSize .' ' . $lotunit;}
-				
 				echo '<br /><br />';
-				
-				//if($propertyType!=""){echo $propertyType . '<br/>';}
-				
-				//echo __('Brokered By', 'templatesquare').': '.get_the_author().'<br />
-				//<span class="colortext">'.$listingNote.'</span>';
 				
 				?>
 			</div><!-- end .list_text -->

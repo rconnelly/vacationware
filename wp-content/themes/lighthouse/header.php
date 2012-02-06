@@ -218,6 +218,7 @@ h1, h2, h3, h4, h5, h6, .posttitle a, .posttitle a:visited{color:'.$headingconte
 ?>
 </head>
 <body <?php body_class($bodyclass); ?>>
+
 	<div id="top-container">
 		<div class="centercolumn">
 		<div id="header">
