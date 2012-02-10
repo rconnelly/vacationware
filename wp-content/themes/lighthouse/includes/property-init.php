@@ -174,14 +174,14 @@ $meta_boxes[] = array(
         ),
 		array(
 			'name' => __('Slider','templatesquare'),
-			'desc' => __('If check will shown as slideshow on homepage', 'templatesquare'),
+			'desc' => __('Show in slideshow on homepage'),
 			'id' => $prefix.'listingSlider',
 			'type' => 'checkbox',
 			'std' => ''
 		),
 		array(
 			'name' => __('Featured','templatesquare'),
-			'desc' => __('If check will shown as featured', 'templatesquare'),
+			'desc' => __('Show on home page featured section'),
 			'id' => $prefix.'listingFeatured',
 			'type' => 'checkbox',
 			'std' => ''
@@ -237,19 +237,12 @@ $meta_boxes[] = array(
 			'std' => ''
 		),
         array(
-            'name' => __('Rates'),
+            'name' => __('Policies'),
             'desc' => '',
-            'id' => $prefix.'rates',
+            'id' => $prefix.'policies',
             'type' => 'textarea',
             'std' => ''
         ),
-		array(
-			'name' => __('Keywords'),
-			'desc' => 'Space delimited keywords which will be used in searches.',
-			'id' => $prefix.'keywords',
-			'type' => 'text',
-			'std' => ''
-		),
 		/*
 		array(
 			'name' => __('Fireplace Features','templatesquare'),

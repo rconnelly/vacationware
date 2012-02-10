@@ -91,16 +91,16 @@ input[type=text], textarea{
 
 /* heading */
 h1, h2, h3, h4, h5, h6{ font-weight:normal; color:#272727; font-family:Verdana, Arial, Tahoma;}
-h1, h2, h3{margin-bottom:20px;}
-h4, h5, h6{margin-bottom:15px;}
-h1 {font-size:30px; line-height:32px;}
-h2 {font-size:26px; line-height:26px;}
-h3 {font-size:22px; line-height:24px;}
-h4 {font-size:18px; line-height:20px;}
-h5 {font-size:17px; line-height:19px;}
-h6 { font-size:16px; line-height:18px;}
+h1, h2, h3{margin-bottom:10px;}
+h4, h5, h6{margin-bottom:5px;}
+h1 {font-size:36px; line-height:40px;}
+h2 {font-size:30px; line-height:34px;}
+h3 {font-size:26px; line-height:30px;}
+h4 {font-size:22px; line-height:24px;}
+h5 {font-size:20px; line-height:22px;}
+h6 { font-size:18px; line-height:20px;}
 .pagetitle{ position:absolute; left:-9999px; border-bottom:1px solid #d8d8d8; padding-bottom:5px; font-size:26; line-height:26px; text-transform:capitalize !important}
-.underline{ border-bottom:1px solid #d8d8d8; padding-bottom:5px;}
+.underline{ border-bottom: 2px solid #d8d8d8; padding-bottom:10px;}
 
 
 
@@ -241,14 +241,14 @@ sub {
 
 /* CONTAINER
 -------------------------------------------------------------- */
-#top-container{ background:url(images/bg-container-top.gif) repeat-x; border-top:6px solid #14bbea; height:100%;}
+#top-container{ background-color: #eee; }
 #content-container{ margin-top:14px;}
 #bottom-container{background:url(images/bg-copyright.gif) repeat-x bottom;}
 .centercolumn{width:960px; margin:0px auto 0px auto;}
 
 /* TOP
 -------------------------------------------------------------- */
-#logo h1{padding:5px 0 0 0px; margin-bottom:5px; font-size:30px}
+#logo h1{padding:5px 0 0 0px; margin-bottom:10px;}
 #logo span{padding:0 0 0 0px;}
 
 /* TOP MENU
@@ -389,7 +389,7 @@ ul.sf-menu li li li.sfHover ul {
 
 /* HEADER AND SLIDER
 -------------------------------------------------------------- */
-#header{width:960px; height:74px; margin-bottom:44px;}
+#header{width:960px; height:84px; margin-bottom:44px;}
 #logo{float:left}
 #logo img{ margin-top:20px;}
 
@@ -481,7 +481,7 @@ ul.disc li{
 
 
 /* Property List */
-.list_properties{ background:#f6f6f6; padding:20px; color:#7e7e7e; line-height:15px; margin-bottom:30px;}
+.list_properties{ background:#f6f6f6; padding:20px; color:#000; line-height:15px; margin-bottom:30px;}
 .list_img{ width:130px; float:left; padding-top:2px;}
 .list_text{ width:430px; margin-left:10px; float:left;}
 .title_property2{border-bottom:1px solid #d8d8d8; padding-bottom:3px; margin-bottom:20px; float:left; width:570px;}
@@ -502,20 +502,24 @@ ul.disc li{
 .four_column_properties h6, .two_column_properties h6 { font-weight: bold; font-size: 18px; line-height: 22px;}
 .two_column_properties > li{  width:240px; }
 ul.box_text{ margin:0px!important; padding:0px!important;  }
-ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8!important;  padding:5px 0px!important; margin:0px!important; font-size:14px; color:#7e7e7e; list-style-type:none; text-align:right !important; clear:both; font-weight:normal; }
+ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8 !important;  padding:10px 0px!important; margin:0px!important; font-size:14px; color:#000;
+    list-style-type:none; text-align:right !important; clear:both; font-weight:normal; }
 ul.box_text .left{float:left; font-weight:bold;}
 ul.box_text li.leftContent{text-align:left !important; padding-bottom: 20px !important;}
 
 
 /* Property Detail */
 #property-detail ul.box_text{ margin:0px!important; padding:0px!important;  }
-#property-detail ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8!important;  padding:4px 0px!important; margin:0px!important; font-size:14px; color:#7e7e7e; list-style-type:none; text-align:left!important; font-weight:normal; display:block; float:left; width:620px; }
-#property-detail ul.box_text .left{ font-weight:bold; width:144px; float:left; }
-#property-detail ul.box_text .right{ width:476px; float:right; }
+#property-detail ul.box_text .label{ font-weight:bold; margin-bottom: 5px; margin: 0 0 10px 0; font-size: 140%;
+    display: block; text-align: center; }
+#property-detail ul.box_text .text{ }
+#property-detail ul.box_text li { background-color: #eee; text-align: left !important;
+    display: block; float:left; clear: none !important; margin: 20px 20px !important; padding: 20px!important;
+    border: none !important; font-size: 130% !important; border-radius: 10px; }
+#property-detail ul.box_text li.propertyFeatures { clear: both;}
 
-#property-detail .one_half{ width:290px; margin:0px; }
-#property-detail .one_half ul.box_text li{ float:none; width:auto;}
-#property-detail .one_half{margin-right:40px; float:left; }
+.single-property  p {font-size:120%; }
+.single-property  p.policies{ font-size: 100%; color: #666; }
 
 
 /* Property Detail slideshow  */
@@ -686,7 +690,7 @@ ul.tbl-price a:hover{ text-decoration:none;}
 
 /* sideright & widget */
 .sidebar_right{ width:300px; float:right;}
-.sidebar .widget-title{font-size:26px; line-height:26px; margin-bottom:10px; border-bottom:1px solid #d8d8d8; padding-bottom:5px;}
+.sidebar .widget-title{font-size:26px; line-height:26px; margin-bottom:0; padding-bottom:5px;}
 .sidebar .widget-title {color:#476228;}
 .sidebar ul{list-style-type:none; padding:0 ; margin:0; list-style-position:outside}
 .sidebar ul li{list-style-type:none; padding:0 ; margin:0; font-size:14px;}
@@ -707,8 +711,8 @@ ul.tbl-price a:hover{ text-decoration:none;}
 .sidebar .cycle-box li a{padding:0;}
 
 .sidebar blockquote{font-size:14px; margin-left:0; padding:0}
-.widget-container{margin-bottom:40px !important;}
-.sidebar .widget-title{margin-bottom:20px;}
+.widget-container{margin: 5px 0 40px 0 !important;}
+.sidebar .widget-title{margin-bottom:22px;}
 
 
 .widget-container.widget_text ul{ margin:0px!important; padding:0px;}
@@ -783,7 +787,7 @@ ul.tbl-price a:hover{ text-decoration:none;}
 .agent p{ margin-bottom:10px;}
 .agent a{ color:#14bbea!important;}
 
-.property-list{ font-size:12px!important; color:#7e7e7e;}
+.property-list{ font-size:12px!important; color:#000;}
 .property-list p{ margin-bottom:30px;}
 .property-list .title{ font-size:14px; color:#14bbea; margin:0px; line-height:normal;}
 .property-list .black{ font-size:12px;}
@@ -1064,7 +1068,8 @@ a.comment-edit-link:hover {
 	list-style: none;
 }
 
-.edit-link { background-color:#2F7069; border:0; padding:8px 10px; width:80px; color:#fff; margin:0 0 0 10px;
+.edit-link { background-color:#2F7069; border:0; padding:12px 60px; width:80px;
+    color:#fff; line-height: 50px; font-size: 140% !important;
     cursor:pointer; font-size:14px; border-radius: 10px;}
 .edit-link a.post-edit-link { color: #fff !important; }
 
