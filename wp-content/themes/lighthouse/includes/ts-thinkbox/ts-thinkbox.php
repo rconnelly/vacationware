@@ -588,5 +588,5 @@ class TS_Thinkbox{
 		return $plugins;
 	}
 }
-$ts_thinkbox = new TS_Thinkbox();
+//$ts_thinkbox = new TS_Thinkbox();
 ?>
