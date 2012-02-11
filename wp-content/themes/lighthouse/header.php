@@ -46,6 +46,30 @@ if($favicon =="" ){
 <link rel="shortcut icon" href="<?php echo $favicon; ?>" />
 <?php }?>
 
+
+<!-- Begin FB Sharing for WP by Chad Von Lind. Get the latest code here: http://vonlind.com/?p=539  -->
+<?php
+$thumb = get_post_meta($post->ID,'_thumbnail_id',false);
+$thumb = wp_get_attachment_image_src($thumb[0], false);
+$thumb = $thumb[0];
+$default_img = get_bloginfo('stylesheet_directory').'/images/default_icon.jpg';
+
+?>
+
+<?php if(is_single() || is_page()) { ?>
+<meta property="og:type" content="article" />
+<meta property="og:title" content="<?php single_post_title(''); ?>" />
+<meta property="og:url" content="<?php the_permalink(); ?>"/>
+<meta property="og:image" content="<?php if ( $thumb[0] == null ) { echo $default_img; } else { echo $thumb; } ?>" />
+    <?php  } else { ?>
+<meta property="og:type" content="article" />
+<meta property="og:title" content="<?php bloginfo('name'); ?>" />
+<meta property="og:url" content="<?php bloginfo('url'); ?>"/>
+<meta property="og:image" content="<?php  if ( $thumb[0] == null ) { echo $default_img; } else { echo $thumb; } ?>" />
+    <?php  }  ?>
+<!-- End FB Sharing for WP -->
+
+
 <?php
 
 	/* We add some JavaScript to pages with the comment form
