@@ -176,7 +176,7 @@ if (isset($_GET['post_type'])) {
                     }
 
                     $where .= "0 = 1)";
-                    echo $where;
+                    
                 }
                 return $where;
             }
