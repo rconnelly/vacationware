@@ -168,9 +168,15 @@ if (isset($_GET['post_type'])) {
             {
                 global $advkeywords;
                 $keywords = explode(' ', esc_sql($advkeywords));
-                foreach ($keywords as $val)
-                {
-                    $where .= " AND post_content LIKE '%" . $val . "%' ";
+                if (array_count_values($keywords) > 0) {
+                    $where .= "AND ( ";
+                    foreach ($keywords as $val)
+                    {
+                        $where .= "post_content LIKE '%" . $val . "%' OR ";
+                    }
+
+                    $where .= "0 = 1)";
+                    echo $where;
                 }
                 return $where;
             }
