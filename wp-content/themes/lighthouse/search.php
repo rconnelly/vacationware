@@ -172,7 +172,6 @@ if (isset($_GET['post_type'])) {
                 {
                     $where .= " AND post_content LIKE '%" . $val . "%' ";
                 }
-                echo $where;
                 return $where;
             }
 
