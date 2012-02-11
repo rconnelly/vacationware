@@ -64,8 +64,8 @@ a img {
 
 /* Main global 'theme' and typographic styles */
 body {
-	font-family:Verdana, Arial, Tahoma;
-	font-size:14px;
+    font-family: "PT Sans", "Helvetic Neue", "sans serif";
+	font-size:16px;
 	margin:0 auto;
 	padding:0;
 	color:#000;
@@ -90,7 +90,7 @@ input[type=text], textarea{
 .clr, .clear{clear:both; height:1px !important; line-height:1px !important; float:none!important; }
 
 /* heading */
-h1, h2, h3, h4, h5, h6{ font-weight:normal; color:#272727; font-family:Verdana, Arial, Tahoma;}
+h1, h2, h3, h4, h5, h6{ font-weight:normal; color:#272727;}
 h1, h2, h3{margin-bottom:10px;}
 h4, h5, h6{margin-bottom:5px;}
 h1 {font-size:36px; line-height:40px;}
@@ -184,7 +184,6 @@ blockquote {
 	font-style:italic;
 	font-size:16px;
 	line-height:20px;
-	font-family:Georgia, Arial;
 	}
 
 blockquote p{ margin:0px;}
@@ -196,7 +195,6 @@ blockquote i {
 }
 
 code {
-	font-family:Verdana, Arial;
 	letter-spacing:1px;
 	margin:25px 0 25px 0px;
 	display:block;
@@ -364,7 +362,6 @@ ul.sf-menu li li li.sfHover ul {
 }
 .sf-menu ul li a{
 	font-size:12px;
-	font-family:Verdana, Arial, Helvetica, sans-serif;
 	padding:10px 15px 10px 15px!important;
 	color:#171717;
 }
@@ -487,14 +484,16 @@ ul.disc li{
 .title_property2{border-bottom:1px solid #d8d8d8; padding-bottom:3px; margin-bottom:20px; float:left; width:570px;}
 .title_property2 a, .title_property2 a:visited{color:#272727;}
 .title_property2 h2{ font-size:12px; float:left; margin:0px; }
-.title_property2 .star{ float:right; background:url(images/icon-star.png) no-repeat 0 7px; padding-left:18px; padding-top:5px;}
+.title_property2 .star{ float:right; background:url(images/icon-star.png) no-repeat 0 7px; padding-left:18px;
+    padding-top:5px;}
 .avatar-right{float:right;}
 .avatar-right .avatar{margin:0;}
 
 
 /* Property Grid */
 .four_column_properties, .two_column_properties{list-style-type:none; margin:0px; padding:0px; overflow: hidden;}
-.four_column_properties > li, .two_column_properties > li{list-style-type:none; width:184px; margin:0px 21px 30px 0px; float:left; background:#f6f6f6; border:1px solid #ededed; padding:19px; }
+.four_column_properties > li, .two_column_properties > li{list-style-type:none; width:184px; margin:0px 21px 30px 0px;
+    float:left; background:#f6f6f6; border:1px solid #ededed; padding:19px; }
 .four_column_properties li img, .two_column_properties li img{ margin-bottom:15px;}
 .two_column_properties li img{ margin-bottom:15px; width: 240px;}
 
@@ -502,25 +501,27 @@ ul.disc li{
 .four_column_properties h6, .two_column_properties h6 { font-weight: bold; font-size: 18px; line-height: 22px;}
 .two_column_properties > li{  width:240px; }
 ul.box_text{ margin:0px!important; padding:0px!important;  }
-ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8 !important;  padding:10px 0px!important; margin:0px!important; font-size:14px; color:#000;
+ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8 !important;  padding:10px 0px!important;
+    margin:0px!important; font-size:14px; color:#000;
     list-style-type:none; text-align:right !important; clear:both; font-weight:normal; }
 ul.box_text .left{float:left; font-weight:bold;}
 ul.box_text li.leftContent{text-align:left !important; padding-bottom: 20px !important;}
 
 
 /* Property Detail */
-#property-detail ul.box_text{ margin:0px!important; padding:0px!important;  }
-#property-detail ul.box_text .label{ font-weight:bold; margin-bottom: 5px; margin: 0 0 10px 0; font-size: 140%;
-    display: block; text-align: center; }
-#property-detail ul.box_text .text{ }
-#property-detail ul.box_text li { background-color: #eee; text-align: left !important;
-    display: block; float:left; clear: none !important; margin: 20px 20px !important; padding: 20px!important;
-    border: none !important; font-size: 130% !important; border-radius: 10px; }
-#property-detail ul.box_text li.propertyFeatures { clear: both;}
+#property-detail ul.box_text{ margin:0px!important; padding:0px!important; }
+#property-detail ul.box_text li { float: left; clear:none;  text-align: left !important;
+    font-size: 120% !important; border: none !important; margin-right: 90px !important;}
 
-.single-property  p {font-size:120%; }
-.single-property  p.policies{ font-size: 100%; color: #666; }
+#property-detail ul.box_text li .label{ font-weight:bold;  }
+#property-detail ul.box_text li.bedbath .label{ width: 70px; display: inline-block;}
+#property-detail ul.box_text li.bedbath .text{ }
 
+#property-detail ul.box_text li.rates .label{ display: block; margin-bottom: 10px; }
+#property-detail ul.box_text li.rates .text{ display: block; }
+
+.single-property  p { }
+.single-property address ul { list-style: none; font-style: normal; margin: 20px 0; }
 
 /* Property Detail slideshow  */
 #container-slider{ position:relative}
@@ -532,7 +533,7 @@ ul.box_text li.leftContent{text-align:left !important; padding-bottom: 20px !imp
 #fullsize {position:relative; width:620px; height:360px; padding:0px 0px 10px 0px; background:url(images/slider-shadow2.png) bottom no-repeat;}
 #fullsize #preloadimg{position:absolute; z-index:2; left:300px; top:150px; }
 #information {position:absolute; bottom:0; width:620px; height:0; background:url(images/opacity.png) repeat;  color:#fff; overflow:hidden; z-index:200; display:none; }
-#information h3 {padding:4px 8px 3px; font-size:14px; display:none;}
+#information h3 {padding:4px 8px 3px; display:none;}
 #information p {padding:0 8px 8px;}
 #image {width:620px;}
 #image img {position:absolute; z-index:25; width:auto}
@@ -810,7 +811,7 @@ background-color:#f6f6f6; border:solid 1px #ededed; margin-bottom:40px
 #advance-search-grid-property  #searchMain{padding:10px 20px;}
 #advance-search-grid-property  label{float:left; margin-right:15px}
 #advance-search-grid-property select{padding:3px; width:50px; border:solid 1px #e7e7e7; margin-top:5px; color:#000;}
-#advance-search-grid-property  button{ background-color:#c3c3c3; border:0; border-radius: 10px; padding:8px 10px; width:80px; color:#fff; margin:0 0 0 10px; cursor:pointer; font-size:14px}
+#advance-search-grid-property  button{ background-color:#2F7069; border:0; border-radius: 10px; padding:8px 10px; width:80px; color:#fff; margin:0 0 0 10px; cursor:pointer; font-size:14px}
 
 
 
@@ -1069,7 +1070,7 @@ a.comment-edit-link:hover {
 }
 
 .edit-link { background-color:#2F7069; border:0; padding:12px 60px; width:80px;
-    color:#fff; line-height: 50px; font-size: 140% !important;
+    color:#fff; line-height: 120px; font-size: 140% !important;
     cursor:pointer; font-size:14px; border-radius: 10px;}
 .edit-link a.post-edit-link { color: #fff !important; }
 
@@ -1115,7 +1116,6 @@ a.comment-edit-link:hover {
 	vertical-align:middle;
 	width:70%;
 	font-size:12px;
-	font-family:arial;
 	}
 
 #commentform .textarea{
@@ -1127,7 +1127,6 @@ a.comment-edit-link:hover {
 	padding:8px 5px;
 	vertical-align:top;
 	font-size:12px;
-	font-family:arial;
 	}
 #commentform input[type=submit]{
 	color:#fff;
@@ -1256,7 +1255,7 @@ h3#reply-title {
 #newsLetter .button{ width:94px; padding:3px 0px; text-align:center;
     border-radius: 10px; font-size:16px; color:#fff; background-color:#14bbea; border:0px;  cursor:pointer; margin-left:175px!important;}
 
-#copyright{ height:40px; margin-top:31px; background-repeat:no-repeat; font-size:14px;  font-family:Arial, Helvetica, sans-serif; text-align:center; padding-top:20px; float:left; }
+#copyright{ height:40px; margin-top:31px; background-repeat:no-repeat; font-size:14px;   text-align:center; padding-top:20px; float:left; }
 
 
 /* PLUGIN
@@ -1497,7 +1496,6 @@ height:70px;
 	line-height:25px;
 	margin:10px 2px 20px 20px;
 	width:33%;
-	font-family:Georgia, Arial
 	}
 .pullquote-left{float:left;margin-left:2px;margin-right:20px;}
 
@@ -1681,7 +1679,6 @@ h2.active {background-position: left bottom;}
 	background:none;
 	clear:none;
 	font-size:14px !important ;
-	font-family:Verdana, Arial;
 	font-style:normal;
 }
 .ts-thinkbox-quote blockquote p{font-size:14px !important ;}
@@ -1947,4 +1944,180 @@ h2.active {background-position: left bottom;}
     margin: 0 0 10px 0;
     padding: 0 0 10px 0;
     border-bottom: solid 1px #D8D8D8;
+}
+
+/** PLUGINS **/
+
+/** AD Gallery **/
+#container-slider2 { background-color: #eee; border-radius: 10px; }
+
+.ad-gallery {
+    width: 600px;
+}
+.ad-gallery, .ad-gallery * {
+    margin: 0;
+    padding: 0;
+}
+.ad-gallery .ad-image-wrapper {
+    width: 100%;
+    height: 400px;
+    margin-bottom: 10px;
+    position: relative;
+    overflow: hidden;
+}
+.ad-gallery .ad-image-wrapper .ad-loader {
+    position: absolute;
+    z-index: 10;
+    top: 48%;
+    left: 48%;
+    background-color: #fff ;
+    opacity: .8;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.ad-gallery .ad-image-wrapper .ad-next {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 25%;
+    height: 100%;
+    cursor: pointer;
+    display: block;
+    z-index: 100;
+}
+.ad-gallery .ad-image-wrapper .ad-prev {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 25%;
+    height: 100%;
+    cursor: pointer;
+    display: block;
+    z-index: 100;
+}
+.ad-gallery .ad-image-wrapper .ad-prev, .ad-gallery .ad-image-wrapper .ad-next {
+    /* Or else IE will hide it */
+    /*background: url(images/ad-gallery/non-existing.jpg);*/
+    }
+.ad-gallery .ad-image-wrapper .ad-prev .ad-prev-image, .ad-gallery .ad-image-wrapper .ad-next .ad-next-image {
+    background: url(images/ad-gallery/ad_prev.png);
+    width: 30px;
+    height: 30px;
+    display: none;
+    position: absolute;
+    top: 47%;
+    left: 0;
+    z-index: 101;
+}
+.ad-gallery .ad-image-wrapper .ad-next .ad-next-image {
+    background: url(images/ad-gallery/ad_next.png);
+    width: 30px;
+    height: 30px;
+    right: 0;
+    left: auto;
+}
+.ad-gallery .ad-image-wrapper .ad-image {
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    z-index: 9;
+}
+.ad-gallery .ad-image-wrapper .ad-image a img {
+    border: 0;
+}
+.ad-gallery .ad-image-wrapper .ad-image .ad-image-description {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    padding: 7px;
+    text-align: left;
+    width: 100%;
+    z-index: 2;
+    background: url(images/ad-gallery/opa75.png);
+    color: #000;
+}
+
+.ad-gallery .ad-image-wrapper .ad-image .ad-image-description .ad-description-title {
+    display: block;
+}
+.ad-gallery .ad-controls {
+    height: 20px;
+    padding: 0 20px;
+}
+.ad-gallery .ad-info {
+    float: left;
+}
+.ad-gallery .ad-slideshow-controls {
+    float: right;
+}
+.ad-gallery .ad-slideshow-controls .ad-slideshow-start, .ad-gallery .ad-slideshow-controls .ad-slideshow-stop {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.ad-gallery .ad-slideshow-controls .ad-slideshow-countdown {
+    padding-left: 5px;
+    font-size: 0.9em;
+}
+.ad-gallery .ad-slideshow-running .ad-slideshow-start {
+    cursor: default;
+    font-style: italic;
+}
+.ad-gallery .ad-nav {
+    padding: 10px 20px;
+    position: relative;
+}
+.ad-gallery .ad-forward, .ad-gallery .ad-back {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    z-index: 10;
+}
+/* IE 6 doesn't like height: 100% */
+* html .ad-gallery .ad-forward, .ad-gallery .ad-back {
+    height: 100px;
+}
+.ad-gallery .ad-back {
+    cursor: pointer;
+    left: -35px;
+    width: 40px;
+    display: block;
+    background: url(images/ad-gallery/ad_scroll_back.png) center center no-repeat;
+}
+.ad-gallery .ad-forward {
+    cursor: pointer;
+    display: block;
+    right: -35px;
+    width: 40px;
+    background: url(images/ad-gallery/ad_scroll_forward.png) center center no-repeat;
+}
+.ad-gallery .ad-nav .ad-thumbs {
+    overflow: hidden;
+    width: 100%;
+}
+.ad-gallery .ad-thumbs .ad-thumb-list {
+    float: left;
+    width: 9000px;
+    list-style: none;
+}
+.ad-gallery .ad-thumbs li {
+    float: left;
+    padding-right: 5px;
+}
+.ad-gallery .ad-thumbs li a {
+    display: block;
+}
+.ad-gallery .ad-thumbs li a img {
+    border: 3px solid #CCC;
+    display: block;
+}
+.ad-gallery .ad-thumbs li a.ad-active img {
+    border: 3px solid #616161;
+}
+/* Can't do display none, since Opera won't load the images then */
+.ad-preloads {
+    position: absolute;
+    left: -9000px;
+    top: -9000px;
 }

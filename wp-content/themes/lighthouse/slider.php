@@ -97,9 +97,6 @@
 						if($beds!=""){echo '<li><span class="slide-label">'.__('Beds','templatesquare').'</span>'.$beds.'</li>';}
 						?>
 					</ul>
-					<div class="frame-price">
-						<?php if($rates!=""){echo '<div class="slider-price">'. nl2br($rates) .'</div>';} ?>
-					</div>
 
                     <div class="slider-button"><a href="<?php the_permalink(); ?>"><?php echo $buttontext;?></a></div>
 				</div>

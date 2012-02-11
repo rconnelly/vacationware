@@ -22,7 +22,7 @@ function ts_setup() {
 		add_image_size( 'property-grid-2', 248, 160, true ); // Property Grid 2 col
 		add_image_size( 'property-list', 130, 85, true ); // Property List
 		add_image_size( 'property-gallery', 620, 360, true ); // Property Gallery
-		add_image_size( 'property-gallery-thumb', 45, 33, true ); // Property Gallery Thumb
+		add_image_size( 'property-gallery-thumb', 100, 60, true ); // Property Gallery Thumb
 		add_image_size( 'property-agent-listing-widget', 300, 178, true ); // Property Agent Listing Widget
 
 	}
@@ -36,7 +36,8 @@ function ts_setup() {
 	) );
 	global $themename, $shortname, $optionstheme;
 	  foreach ($optionstheme as $value) {
-		add_option( $value['id'],  $value['std'] ); }
+        if(isset($value['std']))
+		   add_option( $value['id'],  $value['std'] ); }
 }
 endif;
 

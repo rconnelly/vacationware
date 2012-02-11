@@ -29,6 +29,7 @@ TINY.slideshow_detail.prototype={
 			u.onmouseout=r.onmouseout=new Function('TINY.scroll.cl("'+this.thumbs+'")');
 			r.onmouseover=new Function('TINY.scroll.init("'+this.thumbs+'",1,'+this.scrollSpeed+')');
 			this.p=$(this.thumbs)
+
 		}
 		var w = 16;
 		for(i;i<this.l;i++){

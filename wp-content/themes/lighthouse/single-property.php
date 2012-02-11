@@ -81,126 +81,124 @@ while (have_posts()) : the_post(); ?>
 
 <!--GALLERY PROPERTY IMAGE-->
 
-    <?php if (count($attachments) == 1) { ?>
 
-    <div id="container-image-one">
-        <?php
-        foreach ($attachments as $att_id => $attachment) {
-            $getimage = wp_get_attachment_image_src($att_id, 'property-gallery', true);
-            $propertyimage = $getimage[0];
-            echo '<img src="' . $propertyimage . '" />';
-        }
-        ?>
-    </div>
+<div id="container-slider2">
 
-        <?php } elseif (count($attachments) == 0) { ?>
+    <div class="ad-gallery">
+        <div class="ad-image-wrapper">
+        </div>
+        <div class="ad-controls">
+        </div>
+        <div class="ad-nav">
+            <div class="ad-thumbs">
+                <ul class="ad-thumb-list">
+                    <?php foreach ($attachments as $att_id => $attachment) { ?>
+                    <li>
 
-    <div id="container-image">
-        <?php
-        echo '<img src="' . get_stylesheet_directory_uri() . "/images/nophoto620x360.jpg" . '" />';
-        ?>
-    </div>
+                        <?php
+                        $getimage = wp_get_attachment_image_src($att_id, 'property-gallery', true);
+                        $propertyimage = $getimage[0];
+                        $getimageThumb = wp_get_attachment_image_src($att_id, 'property-gallery-thumb', true);
+                        $propertyimageThumb = $getimageThumb[0];
 
-        <?php } else { ?>
-
-    <div id="container-slider">
-        <ul id="slideshow_detail">
-
-            <?php if (count($attachments) != 0) { ?>
-
-            <?php
-            foreach ($attachments as $att_id => $attachment) {
-                ?>
-
-                <li>
-                    <h3></h3>
-								<span>
-									<?php
-                                    $getimage = wp_get_attachment_image_src($att_id, 'property-gallery', true);
-                                    $propertyimage = $getimage[0];
-                                    echo $propertyimage;
-                                    ?>
-								</span>
-
-                    <p></p>
-                    <?php
-                    $getimageThumb = wp_get_attachment_image_src($att_id, 'property-gallery-thumb', true);
-                    $propertyimageThumb = $getimageThumb[0];
-
-                    echo '<img src="' . $propertyimageThumb . '" alt="thumb" />';
-                    ?>
-                </li>
-
-                <?php } ?>
-
-            <?php } else { ?>
-
-            <li>
-                <h3></h3>
-							<span>
-								<?php
-
-                                echo get_stylesheet_directory_uri() . "/images/nophoto620x360.jpg";
-                                ?>
-							</span>
-
-                <p></p>
-                <?php
-                echo '<img src="' . get_stylesheet_directory_uri() . "/images/nophoto185x120.jpg" . '" alt="thumb" />';
-                ?>
-            </li>
-
-            <?php } ?>
-
-        </ul>
-        <div id="wrapper">
-            <div id="fullsize">
-                <img id="preloadimg" src="<?php echo get_template_directory_uri(); ?>/images/preload.gif"
-                     alt="Wait a Minute"/>
-
-                <div id="imgprev" class="imgnav" title="Previous Image"></div>
-                <div id="imglink"></div>
-                <div id="imgnext" class="imgnav" title="Next Image"></div>
-                <div id="image"></div>
-                <div id="information">
-                    <h3></h3>
-
-                    <p></p>
-                </div>
-            </div>
-            <div id="thumbnails">
-                <div id="slideleft" title="Slide Left"></div>
-                <div id="slidearea">
-                    <div id="slider"></div>
-                </div>
-                <div id="slideright" title="Slide Right"></div>
+                        echo '<a href="' . $propertyimage . '"><img src="' . $propertyimageThumb . '" alt="thumb" /></a>';
+                        ?>
+                    </li>
+                    <?php } ?>
+                </ul>
             </div>
         </div>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri();?>/js/compressed.js"></script>
-        <script type="text/javascript" src="<?php echo get_template_directory_uri();?>/js/gallery.js"></script>
-        <script type="text/javascript">
-            <!--
-            $('slideshow_detail').style.display = 'block';
-            $('wrapper').style.display = 'block';
-            var slideshow_detail = new TINY.slideshow_detail("slideshow_detail");
-            window.onload = function () {
-                slideshow_detail.auto = true;
-                slideshow_detail.speed = 5;
-                slideshow_detail.link = "linkhover";
-                slideshow_detail.info = "information";
-                slideshow_detail.thumbs = "slider";
-                slideshow_detail.left = "slideleft";
-                slideshow_detail.right = "slideright";
-                slideshow_detail.scrollSpeed = 4;
-                slideshow_detail.spacing = 8;
-                slideshow_detail.active = "#fff";
-                slideshow_detail.init("slideshow_detail", "image", "imgprev", "imgnext", "imglink");
-            }
-            //-->
-        </script>
-    </div><!-- end content-slider -->
+    </div>
 
-        <?php } ?>
+    <script type="text/javascript" src="<?php echo get_template_directory_uri();?>/js/jquery.ad-gallery.js"></script>
+    <script type="text/javascript">
+        (function ($) {
+            $(document).ready(function () {
+                var imgCount = $('.ad-thumb-list li').length;
+                var galleries = $('.ad-gallery').adGallery({
+                    loader_image:'<?php echo get_template_directory_uri();?>/images/ad-gallery/loader.gif',
+                    width:620, // Width of the image, set to false and it will read the CSS width
+                    height:360, // Height of the image, set to false and it will read the CSS height
+                    thumb_opacity:0.7, // Opacity that the thumbs fades to/from, (1 removes fade effect)
+                    // Note that this effect combined with other effects might be resource intensive
+                    // and make animations lag
+                    start_at_index:0, // Which image should be displayed at first? 0 is the first image
+                    description_wrapper:$('#descriptions'), // Either false or a jQuery object, if you want the image descriptions
+                    // to be placed somewhere else than on top of the image
+                    animate_first_image:false, // Should first image just be displayed, or animated in?
+                    animation_speed:400, // Which ever effect is used to switch images, how long should it take?
+                    display_next_and_prev:true, // Can you navigate by clicking on the left/right on the image?
+                    display_back_and_forward:true, // Are you allowed to scroll the thumb list?
+                    scroll_jump:0, // If 0, it jumps the width of the container
+                    slideshow:{
+                        enable:true,
+                        autostart:true,
+                        speed:5000,
+                        start_label:'Start',
+                        stop_label:'Stop',
+                        stop_on_scroll:true, // Should the slideshow stop if the user scrolls the thumb list?
+                        countdown_prefix:'(', // Wrap around the countdown
+                        countdown_sufix:')',
+                        onStart:function () {
+                            // Do something wild when the slideshow starts
+                        },
+                        onStop:function () {
+                            // Do something wild when the slideshow stops
+                        }
+                    },
+                    effect:'slide-hori', // or 'slide-vert', 'resize', 'fade', 'none' or false
+                    enable_keyboard_move:true, // Move to next/previous image with keyboard arrows?
+                    cycle:true, // If set to false, you can't go from the last image to the first, and vice versa
+                    // All callbacks has the AdGallery objects as 'this' reference
+                    callbacks:{
+                        // Executes right after the internal init, can be used to choose which images
+                        // you want to preload
+                        init:function () {
+                            // preloadAll uses recursion to preload each image right after one another
+                            //this.preloadAll();
+                            // Or, just preload the first three
+                            this.preloadImage(0);
+                            this.preloadImage(1);
+                            this.preloadImage(2);
+                        },
+                        // This gets fired right after the new_image is fully visible
+                        afterImageVisible:function () {
+                            // For example, preload the next image
+                            var context = this;
+                            if (this.current_index + 1 < imgCount) {
+                                this.loading(true);
+                                this.preloadImage(this.current_index + 1,
+                                    function () {
+                                        // This function gets executed after the image has been loaded
+                                        context.loading(false);
+                                    }
+                                );
+
+                                // Want slide effect for every other image?
+                                if (this.current_index % 2 == 0) {
+                                    this.settings.effect = 'slide-hori';
+                                } else {
+                                    this.settings.effect = 'fade';
+                                }
+                            }
+                        },
+                        // This gets fired right before old_image is about to go away, and new_image
+                        // is about to come in
+                        beforeImageVisible:function (new_image, old_image) {
+                            // Do something wild!
+                        }
+                    }
+                });
+
+                // Set image description
+                //some_img.data('ad-desc', 'This is my description!');
+
+                // Change effect on the fly
+                galleries[0].settings.effect = 'fade';
+            });
+        })(jQuery);
+    </script>
+</div>
 
 <!--END GALLERY PROPERTY IMAGE-->
 
@@ -212,27 +210,44 @@ while (have_posts()) : the_post(); ?>
     <ul class="box_text">
         <?php
 
-        echo'<li class="beds"><span class="label">' . __('Beds', 'templatesquare') . '</span><span class="text">' . $beds . '</span></li>';
+        echo'<li class="bedbath"><span class="label">' . __('Beds', 'templatesquare') . ':</span><span class="text">' . $beds . '</span></li>';
 
-        echo'<li class="baths"><span class="label">' . __('Baths', 'templatesquare') . '</span><span class="text">' . $baths . '</span></li>';
+        echo'<li class="bedbath"><span class="label">' . __('Baths', 'templatesquare') . ':</span><span class="text">' . $baths . '</span></li>';
 
-        echo'<li class="rates"><span class="label">' . __('Rates') . '</span><span class="text">' . nl2br($rates) . '</span></li>';
-
-        if ($propertyFeatures != '') {
-            echo'<li class="propertyFeatures"><span class="label">' . __('Amentities') . '</span><span class="text">' . nl2br($propertyFeatures) . '</span></li>';
-        }
+        echo'<li class="rates"><span class="label">' . __('Rates') . ':</span><span class="text">' . nl2br($rates) . '</span></li>';
         ?>
     </ul>
+
 </div>
 
-<div class="clear"></div><br/>
 
+<div class="clear"></div>
+
+<h4 class="underline">Description</h4>
     <?php the_content(__('Read More', 'templatesquare')); ?>
     <?php wp_link_pages(array('before' => '<div class="page-link">' . __('Pages:', 'templatesquare'), 'after' => '</div>')); ?>
 
-    <?php echo'<p class="policies">' . $policies . '</p>'; ?>
+<div class="clear"></div><br/>
+
+    <?php
+    if ($propertyFeatures != '') {
+        echo '<div class="clear"></div><br/><br/>';
+        echo '<h4 class="underline">Amenities</h4>';
+        echo '<p>' . nl2br($propertyFeatures) . '</p>';
+    }
+    ?>
+<div class="clear"></div><br/>
+
+    <?php
+    if ($policies != '') {
+        echo'<h4 class="underline">' . _('Policies') . '</h4>';
+        echo'<p class="policies">' . nl2br($policies) . '</p>';
+    }
+    ?>
+
 
     <?php edit_post_link(__('Edit Property'), '<span class="edit-link">', '</span>'); ?>
+
 
 <div class="clear"></div><br/><br/>
 
@@ -241,15 +256,28 @@ while (have_posts()) : the_post(); ?>
 
     <?php
     $location = $address . ' ' . $city . ' ' . $state . ' ' . $zipcode;
-    $maps = str_replace(' ', '+', $location);
+    $addressLocation = str_replace(' ', '+', $location);
     ?>
 
-<iframe width="620" height="353" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-        src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=<?php echo $maps;?> &amp;aq=&amp;ie=UTF8&amp;hq=&amp;hnear=<?php echo $maps;?>&amp;spn=0.020085,0.045447&amp;z=14&amp;output=embed"></iframe>
-<br/>
-<small><a
-    href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=<?php echo $maps;?>&amp;aq=&amp;ie=UTF8&amp;hq=&amp;hnear=<?php echo $maps;?>&amp;spn=0.020085,0.045447&amp;z=14"
-    style="color:#0000FF;text-align:left"><?php _e('View Larger Map', 'templatesquare');?></a></small>
+<a href="http://maps.google.com/maps?q=<?php echo $addressLocation;?>">
+    <address>
+        <ul>
+            <?php echo '<li>' . $address . '</li>';?>
+            <?php echo '<li>' . $city . ', ' . $state . ' ' . $zipcode . '</li>';?>
+        </ul>
+
+    </address>
+</a>
+
+<a href="http://maps.google.com/maps?q=<?php echo $addressLocation;?>">
+    <img
+        src="http://maps.googleapis.com/maps/api/staticmap?center=<?php echo $addressLocation;?>&markers=<?php echo $addressLocation;?>&zoom=11&size=620x353&sensor=false">
+    <br/>
+    <span class="map_caption">View in google maps</span>
+</a>
+<div class="clear"></div><br/><br/>
+
+
 
 
     <?php comments_template('', true); ?>
