@@ -519,9 +519,12 @@ ul.box_text li.leftContent{text-align:left !important; padding-bottom: 20px !imp
 
 #property-detail ul.box_text li.rates .label{ display: block; margin-bottom: 10px; }
 #property-detail ul.box_text li.rates .text{ display: block; }
+#property-detail ul.box_text li.rates { margin: 0 !important;}
 
 .single-property  p { }
 .single-property address ul { list-style: none; font-style: normal; margin: 20px 0; }
+
+.single-property .links figure {float: left; text-align: center; }
 
 /* Property Detail slideshow  */
 #container-slider{ position:relative}

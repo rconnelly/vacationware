@@ -243,6 +243,20 @@ $meta_boxes[] = array(
             'type' => 'textarea',
             'std' => ''
         ),
+        array(
+            'name' => __('Virtual Tour Link'),
+            'desc' => '',
+            'id' => $prefix.'virtualTourLink',
+            'type' => 'text',
+            'std' => ''
+        ),
+        array(
+            'name' => __('Calendar Link'),
+            'desc' => '',
+            'id' => $prefix.'calendarLink',
+            'type' => 'text',
+            'std' => ''
+        ),
 		/*
 		array(
 			'name' => __('Fireplace Features','templatesquare'),

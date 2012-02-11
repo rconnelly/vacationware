@@ -27,6 +27,9 @@ while (have_posts()) : the_post(); ?>
     $listingTitle = (isset($custom[$prefix . "listingTitle"][0])) ? $custom[$prefix . "listingTitle"][0] : "";
     $listingNote = (isset($custom[$prefix . "listingNote"][0])) ? $custom[$prefix . "listingNote"][0] : "";
 
+    $virtualTourLink = (isset($custom[$prefix . "virtualTourLink"][0])) ? $custom[$prefix . "virtualTourLink"][0] : "";
+    $calendarLink = (isset($custom[$prefix . "calendarLink"][0])) ? $custom[$prefix . "calendarLink"][0] : "";
+
     $address = (isset($custom[$prefix . "address"][0])) ? $custom[$prefix . "address"][0] : "";
     $city = (isset($custom[$prefix . "city"][0])) ? $custom[$prefix . "city"][0] : "";
     $state = (isset($custom[$prefix . "state"][0])) ? $custom[$prefix . "state"][0] : "";
@@ -50,6 +53,7 @@ while (have_posts()) : the_post(); ?>
     $roofing = (isset($custom[$prefix . "roofing"][0])) ? $custom[$prefix . "roofing"][0] : "";
     $interiorFeatures = (isset($custom[$prefix . "interiorFeatures"][0])) ? $custom[$prefix . "interiorFeatures"][0] : "";
     $exteriorFeatures = (isset($custom[$prefix . "exteriorFeatures"][0])) ? $custom[$prefix . "exteriorFeatures"][0] : "";
+
 
 
     $emailTo = get_the_author_meta('user_email');
@@ -228,6 +232,30 @@ while (have_posts()) : the_post(); ?>
     <?php wp_link_pages(array('before' => '<div class="page-link">' . __('Pages:', 'templatesquare'), 'after' => '</div>')); ?>
 
 <div class="clear"></div><br/>
+
+<div class="links">
+
+    <?php
+    if ($calendarLink != '') {
+        echo '<figure>';
+        echo'<a href="' . $calendarLink . '"><img src="' . get_template_directory_uri() . '/images/calendar.png" alt="Calendar" />';
+        echo '<figcaption>View Calendar</figcaption></a>';
+        echo '</figure>';
+    }
+    ?>
+
+
+    <?php
+    if ($virtualTourLink != '') {
+        echo '<figure>';
+        echo'<a href="' . $virtualTourLink . '"><img src="' . get_template_directory_uri() . '/images/virtualTour.png" alt="Virtual Tour" />';
+        echo '<figcaption>View Virtual Tour</figcaption></a>';
+        echo '</figure>';
+    }
+    ?>
+
+
+</div>
 
     <?php
     if ($propertyFeatures != '') {
