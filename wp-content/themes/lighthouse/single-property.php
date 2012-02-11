@@ -248,7 +248,7 @@ while (have_posts()) : the_post(); ?>
     <?php
     if ($virtualTourLink != '') {
         echo '<figure>';
-        echo'<a href="' . $virtualTourLink . '"><img src="' . get_template_directory_uri() . '/images/virtualTour.png" alt="Virtual Tour" />';
+        echo'<a href="' . $virtualTourLink . '"><img src="' . get_template_directory_uri() . '/images/virtualtour.png" alt="Virtual Tour" />';
         echo '<figcaption>View Virtual Tour</figcaption></a>';
         echo '</figure>';
     }

@@ -179,9 +179,9 @@
 	<ul class="four_column_properties">
 	
 	<?php while ( have_posts() ) : the_post(); ?>
-	
+
 	<?php
-	
+
 	if(($i%4) == 0){ $addclass = "last";	}	
 	
 	$prefix = 'ts_';
