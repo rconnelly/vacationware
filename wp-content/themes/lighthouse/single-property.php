@@ -284,10 +284,10 @@ while (have_posts()) : the_post(); ?>
 
     <?php
     $location = $address . ' ' . $city . ' ' . $state . ' ' . $zipcode;
-    $addressLocation = str_replace(' ', '+', $location);
+    $addressLocation = urlencode(str_replace(' ', '+', $location));
     ?>
 
-<a href="http://maps.google.com/maps?q=<?php echo $addressLocation;?>">
+<a href="http://maps.google.com/maps?q=<?php echo $addressLocation;?>" target="googlemaps">
     <address>
         <ul>
             <?php echo '<li>' . $address . '</li>';?>
@@ -297,7 +297,7 @@ while (have_posts()) : the_post(); ?>
     </address>
 </a>
 
-<a href="http://maps.google.com/maps?q=<?php echo $addressLocation;?>">
+<a href="http://maps.google.com/maps?q=<?php echo $addressLocation;?>" target="googlemaps">
     <img
         src="http://maps.googleapis.com/maps/api/staticmap?center=<?php echo $addressLocation;?>&markers=<?php echo $addressLocation;?>&zoom=11&size=620x353&sensor=false">
     <br/>
