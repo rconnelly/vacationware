@@ -423,7 +423,7 @@
           context.thumbs_wrapper.animate({scrollLeft: left +'px'});
           return false;
         }
-      ).css('opacity', 0.6).hover(
+      ).css('opacity', 0.8).hover(
         function() {
           var direction = 'left';
           if($(this).is('.ad-forward')) {
@@ -449,7 +449,7 @@
         function() {
           has_scrolled = 0;
           clearInterval(thumbs_scroll_interval);
-          $(this).css('opacity', 0.6);
+          $(this).css('opacity', 0.8);
         }
       );
     },

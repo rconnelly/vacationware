@@ -97,7 +97,7 @@ var $jts = jQuery.noConflict();
 	$jts(document).ready(function(){
 	
 		/* dropdown menu */	
-	    $jts("ul.sf-menu").supersubs({ 
+	   /** $jts("ul.sf-menu").supersubs({
 		minWidth		: 9,		// requires em unit.
 		maxWidth		: 25,		// requires em unit.
 		extraWidth	: 0		// extra width can ensure lines don't sometimes turn over due to slight browser differences in how they round-off values
@@ -105,7 +105,7 @@ var $jts = jQuery.noConflict();
         }).superfish();  			// call supersubs first, then superfish, so that subs are 
                          				// not display:none when measuring. Call before initialising 
                          				// containing tabs for same reason. 
-										
+		*/
 	/* heder slideshow */	
 	 $jts('#slideshow').cycle({
 		timeout: <?php echo $sliderTimeout; ?>,  // milliseconds between slide transitions (0 to disable auto advance)
@@ -134,6 +134,7 @@ var $jts = jQuery.noConflict();
 	$jts("h2.trigger").click(function(){
 		$jts(this).toggleClass("active").next().slideToggle("slow");
 	});
+
 	
 	
 	/* widget slideshow */
@@ -166,7 +167,7 @@ var $jts = jQuery.noConflict();
 	var contactemailto 		= $jts("#contact-agent #emailto");
 	var contactsubmitted 	= $jts("#contact-agent #submitted");
 	var contactltitle		= $jts("#contact-agent #ltitle");
-	
+
 	
 	$jts("#contact-agent").submit(function(){
 		var errortext = $jts("span.error");
@@ -240,7 +241,8 @@ h1, h2, h3, h4, h5, h6, .posttitle a, .posttitle a:visited{color:'.$headingconte
 .pagetitle, .widget-title{color:'.$headingtitlecolor.'}
 </style>';
 ?>
-
+<script type="text/javascript" src="http://use.typekit.com/mfx6agw.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
 <body <?php body_class($bodyclass); ?>>
 
@@ -293,7 +295,9 @@ h1, h2, h3, h4, h5, h6, .posttitle a, .posttitle a:visited{color:'.$headingconte
 
 			<?php 
 			
-			if(is_front_page()){ 
+			if(is_front_page()){
+
+                get_template_part('news');
 
 				get_template_part('slider');
 				

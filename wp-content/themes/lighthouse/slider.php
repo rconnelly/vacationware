@@ -46,7 +46,8 @@
 			?>	
 				
 			<div class="cycle">
-			
+
+                <a href="<?php the_permalink(); ?>">
 				<?php
 						
 					if(!has_post_thumbnail( $post->ID )){
@@ -59,7 +60,7 @@
 							);   
 							
 						if(count($attachments)!=0){         
-										
+
 						 $propertyimage = "";
 						 foreach ( $attachments as $att_id => $attachment ) {
 							
@@ -77,14 +78,12 @@
 						}
 						
 					}else{
-					
 						the_post_thumbnail('property-slider-home',  array('alt' =>'', 'title' =>''));
-					
 					}
-						
-				
+
 				?>
-			
+
+                </a>
 				<div class="frame-slide-text">
 				    <h2>
 				        <?php echo $propertyTitle ?>
@@ -115,7 +114,7 @@
 			?>
 			
 			<div class="cycle">
-			
+
 				<?php if(has_post_thumbnail( $the_ID) || $cf_thumb!=""){ ?>
 					<?php 
 						if($cf_thumb!=""){
@@ -125,7 +124,7 @@
 						}
 					?>
 				<?php } ?>
-			
+
 				<div class="frame-slide-text">
 					<?php 
 					echo '<h1>'.get_the_title().'</h1>';

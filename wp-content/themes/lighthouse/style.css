@@ -64,7 +64,7 @@ a img {
 
 /* Main global 'theme' and typographic styles */
 body {
-    font-family: "PT Sans", "Helvetic Neue", "sans serif";
+    font-family: "pt-sans", "Helvetic Neue", "Arial", "sans serif";
 	font-size:16px;
 	margin:0 auto;
 	padding:0;
@@ -491,15 +491,15 @@ ul.disc li{
 
 
 /* Property Grid */
-.four_column_properties, .two_column_properties{list-style-type:none; margin:0px; padding:0px; overflow: hidden;}
-.four_column_properties > li, .two_column_properties > li{list-style-type:none; width:184px; margin:0px 21px 30px 0px;
+.four_column_properties, .featured_properties{list-style-type:none; margin:0px; padding:0px; overflow: hidden;}
+.four_column_properties > li, .featured_properties > li{list-style-type:none; width:184px; margin:0px 21px 30px 0px;
     float:left; background:#f6f6f6; border:1px solid #ededed; padding:19px; }
-.four_column_properties li img, .two_column_properties li img{ margin-bottom:15px;}
-.two_column_properties li img{ margin-bottom:15px; width: 240px;}
+.four_column_properties li img, .featured_properties li img{ margin-bottom:15px;}
+.featured_properties li img{ margin-bottom:15px;}
 
-.four_column_properties p, .two_column_properties p{margin-bottom:18px;}
-.four_column_properties h6, .two_column_properties h6 { font-weight: bold; font-size: 18px; line-height: 22px;}
-.two_column_properties > li{  width:240px; }
+.four_column_properties p, .featured_properties p{margin-bottom:18px;}
+.four_column_properties h6, .featured_properties h6 { font-weight: bold; font-size: 18px; line-height: 22px;}
+.featured_properties > li{  width:248px; height: 500px;}
 ul.box_text{ margin:0px!important; padding:0px!important;  }
 ul.box_text li{ border:0px!important; border-bottom:1px solid #e9e8e8 !important;  padding:10px 0px!important;
     margin:0px!important; font-size:14px; color:#000;
@@ -1949,6 +1949,13 @@ h2.active {background-position: left bottom;}
     border-bottom: solid 1px #D8D8D8;
 }
 
+#news_container {
+    border: solid 1px #bbbbbb;
+    background-color: #eeeeee;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
 /** PLUGINS **/
 
 /** AD Gallery **/
@@ -2079,21 +2086,21 @@ h2.active {background-position: left bottom;}
 }
 /* IE 6 doesn't like height: 100% */
 * html .ad-gallery .ad-forward, .ad-gallery .ad-back {
-    height: 100px;
+    height: 66px;
+    top: 10px;
 }
 .ad-gallery .ad-back {
     cursor: pointer;
-    left: -35px;
     width: 40px;
     display: block;
-    background: url(images/ad-gallery/ad_scroll_back.png) center center no-repeat;
+    background: white url(images/ad-gallery/ad_scroll_back.png) no-repeat center center;
 }
 .ad-gallery .ad-forward {
     cursor: pointer;
     display: block;
-    right: -35px;
+    right: 0px;
     width: 40px;
-    background: url(images/ad-gallery/ad_scroll_forward.png) center center no-repeat;
+    background: white url(images/ad-gallery/ad_scroll_forward.png) center center no-repeat;
 }
 .ad-gallery .ad-nav .ad-thumbs {
     overflow: hidden;

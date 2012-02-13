@@ -115,7 +115,8 @@
 		</div><!-- end #centercolumn -->
 	
 	</div><!-- end #bottom-container -->
-	<script type="text/javascript"> Cufon.now(); </script> <!-- to fix cufon problems in IE browser -->
+	<!-- <script type="text/javascript"> Cufon.now(); </script> -->
+    <!-- to fix cufon problems in IE browser -->
 	<?php
 		/* Always have wp_footer() just before the closing </body>
 		 * tag of your theme, or you will break many plugins, which

@@ -395,7 +395,7 @@
 		
 		$defattr = array(
 			"showproperty" 	=> '4',
-			"titletext" 	=> 'Featured Home <span class="colortext">For Sale</span>'
+			"titletext" 	=> 'Featured Homes'
 			//"pageid"	=> 0
 		);
 		extract(shortcode_atts($defattr, $atts));
@@ -412,7 +412,7 @@
 			//}
 		$output .= '</div>';
 		$output .= '<div class="clr"></div>';
-		$output .= '<ul class="two_column_properties">';
+		$output .= '<ul class="featured_properties">';
 		
 		query_posts('post_type=property&post_status=publish');
 		global $post;
@@ -449,7 +449,7 @@
 					$numfeatured++;
 				}
 				
-				if(($i%2) == 0){ $addclass = "last";	}
+				//if(($i%2) == 0){ $addclass = "last";	}
 				
 				if(!has_post_thumbnail( $post->ID )){
 				
@@ -471,16 +471,19 @@
 						$propertyimage = $getimage[0];
 			
 					}
-					
+                    $outputimg = '<a href="' . get_permalink() . '">';
 					if($propertyimage!=""){
-						$outputimg =  '<img src="'.$propertyimage.'" alt="" />';
+						$outputimg .=  '<img src="'.$propertyimage.'" alt="" />';
 					}else{
-						$outputimg =  '<img src="'.get_bloginfo('stylesheet_directory') . "/images/nophoto185x120.jpg".'" alt="" />';
+						$outputimg .=  '<img src="'.get_bloginfo('stylesheet_directory') . "/images/nophoto185x120.jpg".'" alt="" />';
 					}
+                    $outputimg .= '</a>';
 					
 				}else{
-				
-					$outputimg = get_the_post_thumbnail($post->ID, 'property-grid-2',  array('alt' =>'', 'title' =>''));
+
+                    $outputimg = '<a href="' . get_permalink() . '">';
+					$outputimg .= get_the_post_thumbnail($post->ID, 'property-grid-2',  array('alt' =>'', 'title' =>''));
+                    $outputimg .= '</a>';
 				
 				}	
 				
