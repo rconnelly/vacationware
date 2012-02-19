@@ -1,0 +1,1025 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lighthouse\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-27 15:49+0700\n"
+"PO-Revision-Date: 2011-05-27 15:55+0700\n"
+"Last-Translator: iyut <luthfi@klikmart.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#: 404.php:14
+#: loop-property.php:25
+#: loop.php:25
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr ""
+
+#: archive.php:32
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: archive.php:70
+#, php-format
+msgid "Daily Archives <span>%s</span>"
+msgstr ""
+
+#: archive.php:72
+#, php-format
+msgid "Monthly Archives <span>%s</span>"
+msgstr ""
+
+#: archive.php:74
+#, php-format
+msgid "Yearly Archives <span>%s</span>"
+msgstr ""
+
+#: archive.php:76
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: attachment.php:15
+#, php-format
+msgid "Return to %s"
+msgstr ""
+
+#: attachment.php:17
+#, php-format
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr ""
+
+#: attachment.php:31
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr ""
+
+#: attachment.php:42
+#, php-format
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr ""
+
+#: attachment.php:52
+#, php-format
+msgid "Full size is %s pixels"
+msgstr ""
+
+#: attachment.php:55
+msgid "Link to full-size image"
+msgstr ""
+
+#: attachment.php:62
+#: attachment.php:110
+#: loop-property.php:157
+#: loop.php:64
+#: loop.php:91
+#: page-nosidebar.php:38
+msgid "Edit"
+msgstr ""
+
+#: attachment.php:102
+msgid "Read More <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: attachment.php:103
+#: loop.php:89
+#: page-nosidebar.php:36
+msgid "Pages:"
+msgstr ""
+
+#: author.php:14
+#, php-format
+msgid "Author Archives %s"
+msgstr ""
+
+#: author.php:35
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:41
+#: comments.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:42
+#: comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:91
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:107
+msgid "All rights reserved."
+msgstr ""
+
+#: header.php:32
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: header.php:152
+msgid "Please Enter Your First Name"
+msgstr ""
+
+#: header.php:155
+msgid "Please Enter Your Last Name"
+msgstr ""
+
+#: header.php:158
+msgid "We need your email address to contact you"
+msgstr ""
+
+#: header.php:161
+msgid "Please leave message"
+msgstr ""
+
+#: header.php:224
+#: header.php:226
+msgid "Click for Home"
+msgstr ""
+
+#: loop-property.php:27
+#: loop.php:27
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#: loop-property.php:146
+#: loop-property.php:277
+#: page-property-grid.php:145
+msgid "Beds"
+msgstr ""
+
+#: loop-property.php:146
+#: loop-property.php:278
+#: page-property-grid.php:146
+msgid "Baths"
+msgstr ""
+
+#: loop-property.php:152
+msgid "Brokered By"
+msgstr ""
+
+#: loop-property.php:279
+#: page-property-grid.php:147
+msgid "House Size"
+msgstr ""
+
+#: loop-property.php:280
+#: page-property-grid.php:148
+msgid "Lot Size"
+msgstr ""
+
+#: loop-property.php:305
+#: loop.php:111
+msgid "<span class=\"meta-nav\">&laquo;</span> Older"
+msgstr ""
+
+#: loop-property.php:306
+#: loop.php:112
+msgid "Newer <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: loop.php:58
+msgid "Post by"
+msgstr ""
+
+#: loop.php:58
+msgid "No Comments"
+msgstr ""
+
+#: loop.php:58
+msgid "1 Comments"
+msgstr ""
+
+#: loop.php:58
+msgid "% Comments"
+msgstr ""
+
+#: loop.php:81
+msgid "Permanent Link to"
+msgstr ""
+
+#: loop.php:81
+#: loop.php:85
+#: page-nosidebar.php:35
+msgid "Read More"
+msgstr ""
+
+#: page-property-grid.php:170
+msgid "<span class=\"meta-nav\">&laquo;</span> Prev"
+msgstr ""
+
+#: page-property-grid.php:171
+msgid "Next <span class=\"meta-nav\">&raquo;</span>"
+msgstr ""
+
+#: search.php:38
+msgid "Search Results"
+msgstr ""
+
+#: search.php:181
+#: search.php:218
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:182
+#: search.php:220
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: search.php:205
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-property.php:199
+msgid "Property Details"
+msgstr ""
+
+#: single-property.php:206
+msgid "Price"
+msgstr ""
+
+#: single-property.php:207
+#: slider.php:87
+msgid "Property Type"
+msgstr ""
+
+#: single-property.php:208
+msgid "Neighborhood"
+msgstr ""
+
+#: single-property.php:209
+msgid "Stories"
+msgstr ""
+
+#: single-property.php:225
+msgid "Price/"
+msgstr ""
+
+#: single-property.php:227
+#: slider.php:90
+msgid "Year Built"
+msgstr ""
+
+#: single-property.php:229
+msgid "Style"
+msgstr ""
+
+#: single-property.php:231
+msgid "Garage"
+msgstr ""
+
+#: single-property.php:238
+msgid "Property Features"
+msgstr ""
+
+#: single-property.php:239
+msgid "Fireplace Features"
+msgstr ""
+
+#: single-property.php:240
+msgid "Heating Features"
+msgstr ""
+
+#: single-property.php:241
+msgid "External Construction"
+msgstr ""
+
+#: single-property.php:242
+msgid "Roofing"
+msgstr ""
+
+#: single-property.php:243
+msgid "Interior Features"
+msgstr ""
+
+#: single-property.php:244
+msgid "Exterior Features"
+msgstr ""
+
+#: single-property.php:257
+msgid "Location"
+msgstr ""
+
+#: single-property.php:265
+msgid "View Larger Map"
+msgstr ""
+
+#: single-property.php:279
+msgid "Agent Information"
+msgstr ""
+
+#: single-property.php:294
+msgid "Email Agent"
+msgstr ""
+
+#: single-property.php:296
+#: single-property.php:362
+msgid "Agent&acute;s Other Listings"
+msgstr ""
+
+#: single-property.php:309
+msgid "Contact Agent"
+msgstr ""
+
+#: single-property.php:315
+msgid "Contact Form Submitted!"
+msgstr ""
+
+#: single-property.php:315
+msgid "We will be in touch soon."
+msgstr ""
+
+#: single-property.php:322
+msgid "First Name"
+msgstr ""
+
+#: single-property.php:326
+msgid "Last Name"
+msgstr ""
+
+#: single-property.php:330
+msgid "Email"
+msgstr ""
+
+#: single-property.php:332
+msgid "Message"
+msgstr ""
+
+#: single.php:21
+msgid "Read More &rarr;"
+msgstr ""
+
+#: slider.php:88
+msgid "Address"
+msgstr ""
+
+#: title.php:2
+msgid "Our Blog"
+msgstr ""
+
+#: admin/admin-options.php:35
+msgid "Header Settings"
+msgstr ""
+
+#: admin/admin-options.php:40
+msgid "Logo Type"
+msgstr ""
+
+#: admin/admin-options.php:41
+msgid "If text-based logo is activated, enter the sitename and tagline in the fields below."
+msgstr ""
+
+#: admin/admin-options.php:48
+msgid "Site name"
+msgstr ""
+
+#: admin/admin-options.php:55
+msgid "Tagline"
+msgstr ""
+
+#: admin/admin-options.php:62
+msgid "Logo Image URL"
+msgstr ""
+
+#: admin/admin-options.php:63
+msgid "If image logo is activated, enter the logo image url (http://www.fullurl.com/logo.png)."
+msgstr ""
+
+#: admin/admin-options.php:68
+msgid "Favicon URL"
+msgstr ""
+
+#: admin/admin-options.php:69
+msgid "Enter the favicon image url (http://www.fullurl.com/favicon.ico)."
+msgstr ""
+
+#: admin/admin-options.php:75
+msgid "Footer Settings"
+msgstr ""
+
+#: admin/admin-options.php:80
+msgid "Footer Text"
+msgstr ""
+
+#: admin/admin-options.php:81
+msgid "You can use html tag in here."
+msgstr ""
+
+#: admin/admin-options.php:85
+msgid "Tracking Code"
+msgstr ""
+
+#: admin/admin-options.php:86
+msgid "Enter your tracking code here."
+msgstr ""
+
+#: admin/admin-options.php:99
+msgid "Theme Color Settings"
+msgstr ""
+
+#: admin/admin-options.php:103
+msgid "Top color"
+msgstr ""
+
+#: admin/admin-options.php:110
+msgid "Heading Title Color"
+msgstr ""
+
+#: admin/admin-options.php:117
+msgid "Heading Content Color"
+msgstr ""
+
+#: admin/admin-options.php:124
+msgid "Link color"
+msgstr ""
+
+#: admin/admin-options.php:138
+msgid "Slider Settings"
+msgstr ""
+
+#: admin/admin-options.php:142
+msgid "Slider option"
+msgstr ""
+
+#: admin/admin-options.php:143
+msgid "Select option that you would like to have displayed in the homepage slideshow."
+msgstr ""
+
+#: admin/admin-options.php:150
+msgid "Slider Timeout"
+msgstr ""
+
+#: admin/admin-options.php:151
+msgid "Please enter number for default slider timeout(transition time). Default is 6000"
+msgstr ""
+
+#: admin/admin-options.php:157
+msgid "Button Text"
+msgstr ""
+
+#: admin/admin-options.php:158
+msgid "Please enter label for button text slider."
+msgstr ""
+
+#: admin/admin-options.php:169
+msgid "Portfolio Settings"
+msgstr ""
+
+#: admin/admin-options.php:173
+msgid "Width of Portfolio Item"
+msgstr ""
+
+#: admin/admin-options.php:174
+msgid "Define your default width for your portfolio item."
+msgstr ""
+
+#: admin/admin-options.php:179
+msgid "Height of Portfolio Item"
+msgstr ""
+
+#: admin/admin-options.php:180
+msgid "Define your default height for your portfolio item."
+msgstr ""
+
+#: admin/admin-options.php:185
+msgid "Width of Portfolio's Container"
+msgstr ""
+
+#: admin/admin-options.php:186
+msgid "Define your default width for portfolio's contianer."
+msgstr ""
+
+#: admin/admin-options.php:191
+msgid "Space between Each Column"
+msgstr ""
+
+#: admin/admin-options.php:192
+msgid "Define your default space between each column."
+msgstr ""
+
+#: admin/admin-options.php:197
+msgid "Space between Each Row"
+msgstr ""
+
+#: admin/admin-options.php:198
+msgid "Define your default space between each row."
+msgstr ""
+
+#: admin/admin-options.php:203
+msgid "Read More Text"
+msgstr ""
+
+#: admin/admin-options.php:204
+msgid "Define your default read more text."
+msgstr ""
+
+#: admin/admin-options.php:215
+msgid "Property Settings"
+msgstr ""
+
+#: admin/admin-options.php:219
+msgid "Property Layout"
+msgstr ""
+
+#: admin/admin-options.php:220
+msgid "Select property type that you would like to have displayed in the property page."
+msgstr ""
+
+#: admin/admin-options.php:226
+msgid "Disable Advance Search"
+msgstr ""
+
+#: admin/admin-options.php:227
+msgid "Checked to disable advance search in homepage and  property grid view."
+msgstr ""
+
+#: admin/admin-options.php:232
+msgid "Number of Posts"
+msgstr ""
+
+#: admin/admin-options.php:233
+msgid "Please enter number for show property. Default is 10"
+msgstr ""
+
+#: admin/admin-options.php:238
+msgid "Currency"
+msgstr ""
+
+#: admin/admin-options.php:239
+msgid "Input your currency"
+msgstr ""
+
+#: admin/admin-options.php:244
+msgid "Area Unit"
+msgstr ""
+
+#: admin/admin-options.php:245
+msgid "Input your area unit"
+msgstr ""
+
+#: admin/admin-options.php:251
+msgid "Lot Unit"
+msgstr ""
+
+#: admin/admin-options.php:252
+msgid "Input your lot unit"
+msgstr ""
+
+#: admin/admin-options.php:257
+msgid "Maximum Number of Beds"
+msgstr ""
+
+#: admin/admin-options.php:258
+msgid "Select the maximum of the bed"
+msgstr ""
+
+#: admin/admin-options.php:264
+msgid "Maximum Number of Bath"
+msgstr ""
+
+#: admin/admin-options.php:265
+msgid "Select the maximum of the bath"
+msgstr ""
+
+#: admin/admin-options.php:271
+msgid "Property Type Options"
+msgstr ""
+
+#: admin/admin-options.php:272
+msgid "Input your property type using comma separated value."
+msgstr ""
+
+#: admin/admin-options.php:277
+msgid "Listing Type Options"
+msgstr ""
+
+#: admin/admin-options.php:278
+msgid "Input your listing type using comma separated value."
+msgstr ""
+
+#: admin/admin-options.php:289
+msgid "Blog Settings"
+msgstr ""
+
+#: admin/admin-options.php:293
+msgid "Blog Layout"
+msgstr ""
+
+#: admin/admin-options.php:294
+msgid "Select blog type that you would like to have displayed in the blog page."
+msgstr ""
+
+#: admin/admin-options.php:339
+msgid "Options"
+msgstr ""
+
+#: admin/admin-options.php:373
+msgid "General"
+msgstr ""
+
+#: admin/admin-options.php:375
+#: includes/property-init.php:156
+#: includes/theme-init.php:46
+msgid "Slider"
+msgstr ""
+
+#: admin/admin-options.php:376
+#: includes/ts-display/ts-display.php:411
+msgid "Portfolio"
+msgstr ""
+
+#: admin/admin-options.php:377
+#: includes/property-init.php:8
+msgid "Property"
+msgstr ""
+
+#: admin/admin-options.php:378
+msgid "Blog"
+msgstr ""
+
+#: admin/admin-options.php:571
+msgid "Restore Defaults"
+msgstr ""
+
+#: admin/admin-options.php:571
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: includes/property-init.php:10
+msgid "Add New"
+msgstr ""
+
+#: includes/property-init.php:11
+#: includes/property-init.php:13
+msgid "Add New Property"
+msgstr ""
+
+#: includes/property-init.php:12
+msgid "Edit Property"
+msgstr ""
+
+#: includes/property-init.php:14
+msgid "View Property"
+msgstr ""
+
+#: includes/property-init.php:15
+#: includes/property/gridsearch.php:63
+msgid "Search Property"
+msgstr ""
+
+#: includes/property-init.php:16
+msgid "No property found"
+msgstr ""
+
+#: includes/property-init.php:17
+msgid "No property found in trash"
+msgstr ""
+
+#: includes/property-init.php:38
+msgid "Property Tags"
+msgstr ""
+
+#: includes/property-init.php:78
+msgid "Property Address"
+msgstr ""
+
+#: includes/property-init.php:84
+msgid "Street Address"
+msgstr ""
+
+#: includes/property-init.php:91
+#: includes/property/gridsearch.php:27
+msgid "City"
+msgstr ""
+
+#: includes/property-init.php:98
+#: includes/property/gridsearch.php:31
+msgid "State"
+msgstr ""
+
+#: includes/property-init.php:105
+msgid "Zip Code"
+msgstr ""
+
+#: includes/property-init.php:118
+msgid "Listing Info"
+msgstr ""
+
+#: includes/property-init.php:132
+msgid "Listing Type"
+msgstr ""
+
+#: includes/property-init.php:148
+msgid "Listing Title"
+msgstr ""
+
+#: includes/property-init.php:157
+msgid "If check will shown as slideshow on homepage"
+msgstr ""
+
+#: includes/property-init.php:163
+msgid "Featured"
+msgstr ""
+
+#: includes/property-init.php:164
+msgid "If check will shown as featured"
+msgstr ""
+
+#: includes/property-init.php:170
+msgid "Disable Contact Form"
+msgstr ""
+
+#: includes/property-init.php:171
+msgid "disable contact form on property details"
+msgstr ""
+
+#: includes/property-init.php:177
+msgid "Note"
+msgstr ""
+
+#: includes/property-init.php:189
+msgid "Detailed Info"
+msgstr ""
+
+#: includes/property-init.php:322
+msgid "Property Images"
+msgstr ""
+
+#: includes/property-init.php:328
+msgid "Upload Images"
+msgstr ""
+
+#: includes/property-init.php:473
+msgid "Manage Images"
+msgstr ""
+
+#: includes/sidebar-init.php:4
+msgid "Post Sidebar"
+msgstr ""
+
+#: includes/sidebar-init.php:6
+msgid "Located at the right side of archives, single and search."
+msgstr ""
+
+#: includes/sidebar-init.php:14
+msgid "Page Sidebar"
+msgstr ""
+
+#: includes/sidebar-init.php:16
+msgid "Located at the right side of page templates."
+msgstr ""
+
+#: includes/sidebar-init.php:24
+msgid "Property Sidebar"
+msgstr ""
+
+#: includes/sidebar-init.php:26
+msgid "Located at the right side of property page."
+msgstr ""
+
+#: includes/sidebar-init.php:34
+msgid "Before Content"
+msgstr ""
+
+#: includes/sidebar-init.php:36
+msgid "Located at before content."
+msgstr ""
+
+#: includes/sidebar-init.php:44
+msgid "Footer1 Sidebar"
+msgstr ""
+
+#: includes/sidebar-init.php:46
+msgid "Located at the footer column 1."
+msgstr ""
+
+#: includes/sidebar-init.php:54
+msgid "Footer2 Sidebar"
+msgstr ""
+
+#: includes/sidebar-init.php:56
+msgid "Located at the footer column 2."
+msgstr ""
+
+#: includes/sidebar-init.php:64
+msgid "Footer3 Sidebar"
+msgstr ""
+
+#: includes/sidebar-init.php:66
+msgid "Located at the footer column 3."
+msgstr ""
+
+#: includes/sidebar-init.php:74
+msgid "Footer4 Sidebar"
+msgstr ""
+
+#: includes/sidebar-init.php:76
+msgid "Located at the footer column 4."
+msgstr ""
+
+#: includes/sidebar-init.php:84
+msgid "Footer5 Sidebar"
+msgstr ""
+
+#: includes/sidebar-init.php:86
+msgid "Located at the footer column 5."
+msgstr ""
+
+#: includes/theme-function.php:56
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: includes/theme-function.php:61
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: includes/theme-function.php:62
+#: includes/theme-function.php:81
+msgid "(Edit)"
+msgstr ""
+
+#: includes/theme-function.php:66
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/theme-function.php:81
+msgid "Pingback:"
+msgstr ""
+
+#: includes/theme-function.php:94
+#, php-format
+msgid "Posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: includes/theme-function.php:96
+#, php-format
+msgid "Posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: includes/theme-function.php:98
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: includes/theme-function.php:130
+msgid "Home"
+msgstr ""
+
+#: includes/theme-init.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: includes/property/gridsearch.php:35
+msgid "Zip"
+msgstr ""
+
+#: includes/property/gridsearch.php:39
+msgid "Price Range"
+msgstr ""
+
+#: includes/property/gridsearch.php:41
+msgid "to"
+msgstr ""
+
+#: includes/property/gridsearch.php:65
+msgid "Search"
+msgstr ""
+
+#: includes/ts-display/ts-display.php:321
+msgid "Permanent Link to "
+msgstr ""
+
+#: includes/ts-display/ts-display.php:341
+msgid "Permalink to "
+msgstr ""
+
+#: includes/ts-display/ts-display.php:397
+#: includes/ts-thinkbox/ts-thinkbox.php:366
+msgid "<span class=\"prev\"><span class=\"meta-nav\">&laquo;</span> Prev</span>"
+msgstr ""
+
+#: includes/ts-display/ts-display.php:398
+#: includes/ts-thinkbox/ts-thinkbox.php:367
+msgid "<span class=\"prev\">Next <span class=\"meta-nav\">&raquo;</span></span>"
+msgstr ""
+
+#: includes/ts-display/ts-display.php:427
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/ts-thinkbox/ts-thinkbox.php:519
+msgid "Thinkbox"
+msgstr ""
+
+#: includes/ts-thinkbox/ts-thinkbox.php:534
+msgid "Thinkbox Categories"
+msgstr ""
+
+#: includes/widgets/ts-post-cycle.php:6
+#: includes/widgets/ts-post-cycle.php:7
+msgid "TS - Post Cycle"
+msgstr ""
+
+#: includes/widgets/ts-post-cycle.php:140
+#: includes/widgets/ts-property-search.php:148
+#: includes/widgets/ts-property-tag.php:39
+#: includes/widgets/ts-recent-posts.php:73
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/ts-post-cycle.php:143
+msgid "Limit Text:"
+msgstr ""
+
+#: includes/widgets/ts-post-cycle.php:146
+msgid "Post Type:"
+msgstr ""
+
+#: includes/widgets/ts-post-cycle.php:150
+msgid "Display"
+msgstr ""
+
+#: includes/widgets/ts-post-cycle.php:151
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/ts-post-cycle.php:155
+#: includes/widgets/ts-recent-posts.php:75
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/ts-post-cycle.php:158
+msgid "Effect:"
+msgstr ""
+
+#: includes/widgets/ts-property-search.php:6
+#: includes/widgets/ts-property-search.php:7
+msgid "TS - Property Search"
+msgstr ""
+
+#: includes/widgets/ts-property-search.php:66
+#: includes/widgets/ts-property-search.php:77
+msgid "-Choose Type-"
+msgstr ""
+
+#: includes/widgets/ts-property-search.php:110
+msgid "Bedroom(s)"
+msgstr ""
+
+#: includes/widgets/ts-property-search.php:120
+msgid "Bathroom(s)"
+msgstr ""
+
+#: includes/widgets/ts-property-tag.php:6
+#: includes/widgets/ts-property-tag.php:7
+msgid "TS - Property Tag"
+msgstr ""
+
+#: includes/widgets/ts-recent-comment.php:6
+#: includes/widgets/ts-recent-comment.php:7
+msgid "TS - Recent Comments"
+msgstr ""
+
+#: includes/widgets/ts-recent-comment.php:14
+msgid "TS Recent Comments"
+msgstr ""
+
+#: includes/widgets/ts-recent-comment.php:40
+msgid "by"
+msgstr ""
+
+#: includes/widgets/ts-recent-posts.php:7
+#: includes/widgets/ts-recent-posts.php:8
+msgid "TS - Recent Posts"
+msgstr ""
+
+#: includes/widgets/ts-recent-posts.php:15
+msgid "TS Recent Posts"
+msgstr ""
+
+#: includes/widgets/ts-recent-posts.php:47
+msgid "Read More..."
+msgstr ""
+

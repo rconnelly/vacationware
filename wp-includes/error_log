@@ -1,0 +1,1 @@
+[16-Feb-2012 06:47:06 UTC] PHP Fatal error:  Out of memory (allocated 786432) (tried to allocate 122880 bytes) in /home/floridav/public_html/wp-settings.php on line 131

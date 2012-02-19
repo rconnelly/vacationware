@@ -1,4 +1,7 @@
 <?php
+/** Enable W3 Total Cache */
+define('WP_CACHE', true); // Added by W3 Total Cache
+
 /**
  * The base configurations of the WordPress.
  *
@@ -16,13 +19,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'housebeach');
+define('DB_NAME', 'floridav_housebeach_staging');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'floridav_adminst');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'root');
+define('DB_PASSWORD', 'trumpet1!');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -73,7 +76,21 @@ define('WPLANG', '');
 
 
 /** Set Memory limit for file uplaods */
-define('WP_MEMORY_LIMIT', '96M');
+define('WP_MEMORY_LIMIT', '64M');
+
+/** Enable multi site **/
+define('WP_ALLOW_MULTISITE', true);
+define( 'MULTISITE', true );
+define( 'SUBDOMAIN_INSTALL', true );
+$base = '/';
+define( 'DOMAIN_CURRENT_SITE', 'www.housebeach.com' );
+define( 'PATH_CURRENT_SITE', '/' );
+define( 'SITE_ID_CURRENT_SITE', 1 );
+define( 'BLOG_ID_CURRENT_SITE', 1 );
+define( 'NOBLOGREDIRECT', 'http://www.housebeach.com' );
+
+define( 'SUNRISE', 'on' );
+
 
 /**
  * For developers: WordPress debugging mode.

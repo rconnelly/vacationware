@@ -233,8 +233,11 @@ echo '
 #nav .current_page_item > a, #nav  .current_page_item > a:hover,
 #nav .current_page_parent > a, #nav .current_page_parent > a:hover,
 #nav .current-menu-parent > a, #nav .current-menu-parent > a:hover,
-#nav .current-menu-item > a, #nav .current-menu-item > a:hover, #nav li > a:hover,.sfHover, .sf-menu li ul, #nav .current_page_ancestor > a, #nav .current-menu-ancestor > a{background:'.$topcolor.'}
-a, a:visited, .colortext, .wp-pagenavi a, .wp-pagenavi a:visited, .wp-pagenavi a:hover, .wp-pagenavi .pages, .wp-pagenavi .extend {color:'.$linkcolor.'}
+#nav .current-menu-item > a, #nav .current-menu-item > a:hover, #nav li > a:hover,.sfHover, .sf-menu li ul,
+#nav .current_page_ancestor > a, #nav .current-menu-ancestor > a, #advance-search-grid-property  button,
+ .edit-link,  #searchsubmit {background:'.$topcolor.'}
+a, a:visited, .colortext, .wp-pagenavi a, .wp-pagenavi a:visited, .wp-pagenavi a:hover,
+.wp-pagenavi .pages, .wp-pagenavi .extend {color:'.$linkcolor.'}
 a:hover{color:'.$linkcolor.'}
 .button, .slider-button a{background-color:'.$linkcolor.' !important}
 h1, h2, h3, h4, h5, h6, .posttitle a, .posttitle a:visited{color:'.$headingcontentcolor.'}
@@ -297,15 +300,15 @@ h1, h2, h3, h4, h5, h6, .posttitle a, .posttitle a:visited{color:'.$headingconte
 			
 			if(is_front_page()){
 
+                $disableadvancesearch = get_option("templatesquare_disable_advance_search_property");
+                if($disableadvancesearch!=true){
+                    get_template_part('/includes/property/gridsearch');
+                }
+
+
                 get_template_part('news');
 
 				get_template_part('slider');
-				
-				$disableadvancesearch = get_option("templatesquare_disable_advance_search_property");
-				if($disableadvancesearch!=true){
-					get_template_part('/includes/property/gridsearch');
-				}
-			
 			}
 			
 			?>
