@@ -244,8 +244,13 @@ h1, h2, h3, h4, h5, h6, .posttitle a, .posttitle a:visited{color:'.$headingconte
 .pagetitle, .widget-title{color:'.$headingtitlecolor.'}
 </style>';
 ?>
-<script type="text/javascript" src="http://use.typekit.com/mfx6agw.js"></script>
+
+<script type="text/javascript" src="http://use.typekit.com/rpm6hbt.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<!--<script type="text/javascript" src="http://use.typekit.com/mfx6agw.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script> -->
+
 </head>
 <body <?php body_class($bodyclass); ?>>
 
