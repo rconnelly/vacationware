@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5a9e991-cdd9-4824-ac84-83d59f1d6904" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/error_log" afterPath="$PROJECT_DIR$/error_log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/wpcf7-he_IL.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/wpcf7-he_IL.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/wpcf7-ja.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/wpcf7-ja.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/wpcf7-lv.mo" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/wpcf7-lv.mo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/wpcf7.pot" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/languages/wpcf7.pot" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/admin-menu-editor/css/menu-editor.css" afterPath="$PROJECT_DIR$/wp-content/plugins/admin-menu-editor/css/menu-editor.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/admin-menu-editor/includes/menu-editor-core.php" afterPath="$PROJECT_DIR$/wp-content/plugins/admin-menu-editor/includes/menu-editor-core.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/admin-menu-editor/includes/shadow_plugin_framework.php" afterPath="$PROJECT_DIR$/wp-content/plugins/admin-menu-editor/includes/shadow_plugin_framework.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/admin-menu-editor/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/admin-menu-editor/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/classes.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/classes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/controller.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/shortcodes.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/shortcodes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/jquery.form.js" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/jquery.form.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/wp-contact-form-7.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/wp-contact-form-7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lighthouse/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/lighthouse/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php" afterPath="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/w3-total-cache-config-housebeach.com.php" afterPath="$PROJECT_DIR$/wp-content/w3-total-cache-config-housebeach.com.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php" afterPath="$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php" />
     </list>
     <ignored path="housebeach.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,10 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="property-init.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="property-init.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="448" column="17" selection-start="12019" selection-end="12019" vertical-scroll-proportion="0.6673428">
+            <state line="512" column="76" selection-start="13964" selection-end="13964" vertical-scroll-proportion="-12.846154">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slider.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="80" selection-start="854" selection-end="854" vertical-scroll-proportion="0.16820702">
               <folding />
             </state>
           </provider>
@@ -75,7 +67,7 @@
       <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="6" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -100,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/js/jquery.ad-gallery.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/news.php" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/single-property.php" />
@@ -116,6 +107,7 @@
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php" />
       </list>
     </option>
   </component>
@@ -131,10 +123,9 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="98" />
-    <option name="y" value="66" />
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1109" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -191,6 +182,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="housebeach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="housebeach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="housebeach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="housebeach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lighthouse" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -286,15 +317,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="98" y="66" width="1680" height="1050" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1920" height="1109" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26286766" sideWeight="0.60042965" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39957035" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22916667" sideWeight="0.6242424" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37575758" sideWeight="0.97863245" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -408,11 +439,6 @@
         <state line="88" column="25" selection-start="4289" selection-end="4295" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="122" column="54" selection-start="4555" selection-end="4561" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/single.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -435,6 +461,13 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="0" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0">
@@ -442,16 +475,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="512" column="76" selection-start="13964" selection-end="13964" vertical-scroll-proportion="-12.846154">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="448" column="17" selection-start="12019" selection-end="12019" vertical-scroll-proportion="0.6673428">
+        <state line="26" column="80" selection-start="854" selection-end="854" vertical-scroll-proportion="0.16820702">
           <folding />
         </state>
       </provider>

@@ -24,7 +24,7 @@
 				
 				$custom = get_post_custom($post->ID);
 				$propertyTitle = get_the_title($post->ID);
-				$listingSlider = (isset($custom[$prefix."listingSlider"][0]))? $custom[$prefix."listingSlider"][0] : "";
+				$listingSlider = (isset($custom[$prefix."listingSlider"][0]))? (strcmp($custom[$prefix."listingSlider"][0], "on") == 0) : "";
 				$propertyType = (isset($custom[$prefix."propertyType"][0]))? $custom[$prefix."propertyType"][0] : "";
 				$address = (isset($custom[$prefix."address"][0]))? $custom[$prefix."address"][0] : "";
 				$city = (isset($custom[$prefix."city"][0]))? $custom[$prefix."city"][0] : "";

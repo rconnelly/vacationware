@@ -1,3 +1,9 @@
+suPHP_ConfigPath /home/floridav/public_html
+<Files php.ini>
+order allow,deny
+deny from all
+</Files>
+
 
 # BEGIN W3TC Page Cache core
 <IfModule mod_rewrite.c>

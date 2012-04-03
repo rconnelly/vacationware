@@ -184,7 +184,7 @@ $meta_boxes[] = array(
 			'desc' => __('Show on home page featured section. Will show a max of 10 properties on home page.'),
 			'id' => $prefix.'listingFeatured',
 			'type' => 'checkbox',
-			'std' => false
+			'std' => true
 		),
 		array(
 			'name' => __('Note','templatesquare'),
@@ -443,7 +443,8 @@ function mytheme_create_metabox($meta_box){
                 //$returnstring .= 'data:' . $meta . 'meta:' . $field['std'];
 				$chkvalue = (strcmp($meta,'on') == 0) ? true : $field['std'];
 				$checkedstr = ($chkvalue)? 'checked="checked"' : '';
-				$returnstring .= '<input type="checkbox" name="'. $field['id']. '" id="'. $field['id']. '" '.$checkedstr.' />';
+                $returnstring .= '<input type="hidden" name="'. $field['id']. '" value="off" id="'. $field['id'] . '"/>';
+                $returnstring .= '<input type="checkbox" name="'. $field['id']. '" id="'. $field['id']. '" '.$checkedstr.' />';
 				$returnstring .= '<br />'. $field['desc'];
 				break;
 				 
@@ -510,7 +511,6 @@ function mytheme_save_data($post_id) {
 		foreach ($meta_box['fields'] as $field) {
 			$old = get_post_meta($post_id, $field['id'], true);
 			$new = (isset($_POST[$field['id']]))? $_POST[$field['id']] : "";
-	        //echo '<br />Saving fields: ' . $field['id'] . 'value: ' . $new;
 			if (isset($_POST[$field['id']]) && $new != $old) {
 				update_post_meta($post_id, $field['id'], $new);
 			} 
