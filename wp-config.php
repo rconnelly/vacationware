@@ -28,7 +28,7 @@ define('DB_USER', 'floridav_adminst');
 define('DB_PASSWORD', 'trumpet1!');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '209.236.72.6');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');

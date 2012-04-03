@@ -1,0 +1,2778 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " | Edit"
+msgstr "| 编辑"
+
+msgid "% Comments"
+msgstr "%个评论"
+
+msgid "% Responses"
+msgstr "%条回复"
+
+msgid "%1$s &bull; %2$s <span class=\"meta-sep\"></span>"
+msgstr "%1$s &bull; %2$s <span class=\"meta-sep\"></span>"
+
+msgid "%1$s - %2$s <span class=\"meta-sep\"></span>"
+msgstr "%1$s - %2$s <span class=\"meta-sep\"></span>"
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "%d天前"
+msgstr[1] "%d天前"
+
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d小时前"
+msgstr[1] "%d小时前"
+
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d分钟前"
+msgstr[1] "%d分钟前"
+
+msgid "%d queries in %0.1f ms"
+msgstr "%0.1f毫秒中进行了%d次查询"
+
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "%d秒前"
+msgstr[1] "%d秒前"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Theme Image"
+msgstr "%s主题图像"
+
+msgid "%s%d%s license(s) remaining."
+msgstr "剩余%s%d%s个许可证。"
+
+msgid "%sAlso, ads will not be shown in Developer Mode on desktop browsers unless the user agent is changed in the browser to a supported device.%s"
+msgstr "%s此外，在开发者模式中，桌面浏览器不会显示广告，除非在浏览器中将用户代理更改为支持的设备。%s"
+
+msgid "%sCopy Backup Key To Clipboard%s"
+msgstr "%s复制备份密钥到剪贴板%s"
+
+msgid "%sDownload WPtouch Pro Icon Template%s (PSD)"
+msgstr "%s下载WPtouch Pro图标模板%s（PSD）"
+
+msgid "%sDownload WPtouch Pro iPhone 4 & iPad Icon Template%s (PSD)"
+msgstr "%s下载WPtouch Pro iPhone 4和iPad图标模板%s (PSD)"
+
+msgid "%sNOTE: A settings backup/restore does NOT include saved files, icons or themes inside the \"wp-content/wptouch-data/\" directory.%s"
+msgstr "%s注意：设置备份/还原不包括\"wp-content/wptouch-data/\"目录中保存的文件、图标或主题。%s"
+
+msgid "%sNOTE: Changing the startup screen settings may require you to re-add to the home-screen on pre-iOS 5 devices.%s"
+msgstr "%s注意：在iOS 5之前的设备上，更改启动屏幕设置可能需要您重新添加到主屏幕上。%s"
+
+msgid "%sNote: Adsense and Admob ads only show on service supported devices, and do NOT work in Web-App Mode%s"
+msgstr "%s注意：AdSense和AdMob广告只出现在支持服务的设备上，在Web应用程序模式中不能使用%s"
+
+msgid "%sOnline Icon Generator%s"
+msgstr "%s在线图标生成器%s"
+
+msgid "%sOpen Color Picker Tool%s"
+msgstr "%s打开颜色拾取工具%s"
+
+msgid "%sOpen colorpicker.com Color Picker%s"
+msgstr "%s打开colorpicker.com颜色选择器%s"
+
+msgid "%sRegenerate Plugin List%s"
+msgstr "%s重新生成插件列表%s"
+
+msgid "%sSorry, the content you were looking for cannot be found. Please use the menu in the header to access the site search, or browse other site content.%s"
+msgstr "%s抱歉，找不到您查找的内容。请使用页眉中的菜单来访问网站查询，或浏览其他网站内容。%s"
+
+msgid "%sWPtouch Pro%s is a trademark of BraveNewCode Inc."
+msgstr "%sWPtouch Pro%s是BraveNewCode Inc.的商标。"
+
+msgid "&harr; Developer Mode for"
+msgstr "&harr; 开发者模式："
+
+msgid "&harr; On this site I want to"
+msgstr "&harr; 在这个网站上，我想"
+
+msgid "&harr; Use this RSS feed URL"
+msgstr "&harr; 使用此RSS源网址"
+
+msgid "&harr; Use this e-mail address"
+msgstr "&harr; 使用此电子邮件地址"
+
+msgid "(%s)"
+msgstr "(%s)"
+
+msgid "(Requires Prowl app on iPhone / iPod touch, or Growl setup with Prowl on a Mac)"
+msgstr "（iPhone/iPod touch上需要Prowl应用程序，Mac上需要使用Prowl的Growl设置）"
+
+msgid "(drag here to reset icon)"
+msgstr "（拖动这里重设图标）"
+
+msgid "***Some fonts may not be available on all devices***"
+msgstr "***有些字体在一些设备上可能不存在***"
+
+msgid "1 Comment"
+msgstr "1个评论"
+
+msgid "1 Response"
+msgstr "1条回复"
+
+msgid "11px"
+msgstr "11px"
+
+msgid "12px"
+msgstr "12px"
+
+msgid "13px"
+msgstr "13px"
+
+msgid "14px"
+msgstr "14px"
+
+msgid "15px"
+msgstr "15px"
+
+msgid "16px"
+msgstr "16px"
+
+msgid "17px"
+msgstr "17px"
+
+msgid "18px"
+msgstr "18px"
+
+msgid "19px"
+msgstr "19px"
+
+msgid "1st time visitors see desktop theme"
+msgstr "首次访客将看到桌面主题"
+
+msgid "20px"
+msgstr "20px"
+
+msgid "21px"
+msgstr "21px"
+
+msgid "22px"
+msgstr "22px"
+
+msgid "23px"
+msgstr "23px"
+
+msgid "24px"
+msgstr "24px"
+
+msgid "25px"
+msgstr "25px"
+
+msgid "26px"
+msgstr "26px"
+
+msgid "27px"
+msgstr "27px"
+
+msgid "28px"
+msgstr "28px"
+
+msgid "29px"
+msgstr "29px"
+
+msgid "30px"
+msgstr "30px"
+
+msgid "404 Not Found"
+msgstr "404 未找到"
+
+msgid "<small>NOTE: You can regenerate your WordPress thumbnails using the %sRegenerate Thumbnails%s plugin.<br />This will tell wordpress to make new thumbnails for WPtouch this size.</small>"
+msgstr "<small>注意：您可以用%sRegenerate Thumbnails%s插件重新生成WordPress缩略图。<br />这会让WordPress为WPtouch制作此大小的新缩略图。</small>"
+
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span><span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span>\n\t\t<br />at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a><br />in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">发布</span><span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span>\n\t\t<br />于<a href=\"%3$s\" title=\"链接到完整大小的图片\">%4$s &times; %5$s</a><br />，位于<a href=\"%6$s\" title=\"返回到%7$s\" rel=\"gallery\">%7$s</a>"
+
+msgid "<span class='unapproved'>Your comment is awaiting moderation.</span>"
+msgstr "<span class='unapproved'>您的评论正在等待审核。</span>"
+
+msgid "ACTIVATION REQUIRED"
+msgstr "需要激活"
+
+msgid "Above content"
+msgstr "内容上面"
+
+msgid "Account"
+msgstr "帐户"
+
+msgid "Account & Downloads"
+msgstr "帐户及下载"
+
+msgid "Account + Key"
+msgstr "帐户+密钥"
+
+msgid "Account E-Mail"
+msgstr "帐户电子邮件"
+
+msgid "Account Information"
+msgstr "帐户信息"
+
+msgid "Account Login"
+msgstr "帐户登录"
+
+msgid "Account Profile"
+msgstr "帐户个人资料"
+
+msgid "Action"
+msgstr "操作"
+
+msgid "Activate"
+msgstr "激活"
+
+msgid "Activate This WordPress installation &raquo;"
+msgstr "激活此WordPress &raquo;"
+
+msgid "Activate a Site License"
+msgstr "激活网站许可证"
+
+msgid "Activating license, please wait..."
+msgstr "正在激活许可证，请稍候..."
+
+msgid "Active Icon Set: "
+msgstr "活动的图标集："
+
+msgid "Active Theme"
+msgstr "活动的主题"
+
+msgid "Active skin"
+msgstr "使用的皮肤"
+
+msgid "Add a New Topic to the Pro Forums"
+msgstr "添加新的话题至Pro论坛"
+
+msgid "Add a link for the admin <strong>Email</strong> in the menu"
+msgstr "在菜单中添加管理员<strong>电子邮件</strong>链接"
+
+msgid "Add a link to %sHome%s in the menu"
+msgstr "在菜单中增加%s首页%s链接"
+
+msgid "Add a link to the site %sRSS%s feed in the menu"
+msgstr "在菜单中添加网站%sRSS%s源的链接"
+
+msgid "Add a site license &raquo;"
+msgstr "添加网站许可证&raquo;"
+
+msgid "Add the compat.css file from the theme folder. Contains various CSS declarations for a variety of plugins."
+msgstr "添加来自主题文件夹的compat.css文件。为各种插件包含不同的CSS声明。"
+
+msgid "Add them in the 'Manage Icons + Sets' area"
+msgstr "在“管理图标 + 集合”区域中添加它们"
+
+msgid "Additional Menu Items"
+msgstr "额外的菜单项"
+
+msgid "Adds a push message form in the header to allow visitors to send messages to you."
+msgstr "在页眉添加推送消息以让访客给您发送消息。"
+
+msgid "Admin"
+msgstr "管理"
+
+msgid "Admob Ads"
+msgstr "AdMob广告"
+
+msgid "Admob Publisher ID"
+msgstr "AdMob发布者ID"
+
+msgid "Adsense Channel ID"
+msgstr "Adsense渠道ID"
+
+msgid "Adsense Publisher ID"
+msgstr "AdSense发布商ID"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid "Advertising"
+msgstr "广告"
+
+msgid "Advertising &amp; Stats"
+msgstr "广告和统计数据"
+
+msgid "Advertising Display"
+msgstr "广告展示"
+
+msgid "Advertising code (HTML or JavaScript)"
+msgstr "广告代码（HTML或JavaScript）"
+
+msgid "Advertising display location"
+msgstr "广告展示位置"
+
+msgid "Advertising support"
+msgstr "广告支持"
+
+msgid "All Pages (Home, Blog, Single Post, Pages, Search)"
+msgstr "所有页面（首页，博客，单篇文章，页面，搜索）"
+
+msgid "All of your licenses will be reset.  Are you sure?"
+msgstr "您所有的许可证都将被重置。确定吗？"
+
+msgid "Allow users to send direct messages"
+msgstr "允许用户发送直送消息"
+
+msgid "Allow zooming"
+msgstr "允许缩放"
+
+msgid "Always refresh theme JS and CSS files"
+msgstr "始终刷新主题JS和CSS文件"
+
+msgid "AmericanTypewriter"
+msgstr "AmericanTypewriter"
+
+msgid "AmericanTypewriter-Bold"
+msgstr "AmericanTypewriter-Bold"
+
+msgid "AmericanTypewriter-Condensed"
+msgstr "AmericanTypewriter-Condensed"
+
+msgid "Archives"
+msgstr "存档"
+
+msgid "Archives &rsaquo; %s"
+msgstr "存档&rsaquo; %s"
+
+msgid "Arial-BoldMT"
+msgstr "Arial-BoldMT"
+
+msgid "ArialMT"
+msgstr "ArialMT"
+
+msgid "Article Pages"
+msgstr "文章页面"
+
+msgid "At a Glance"
+msgstr "一览"
+
+msgid "Attached image location in post content"
+msgstr "文章内容中附加图像的位置"
+
+msgid "Author Website"
+msgstr "作者网站"
+
+msgid "Auto-detect"
+msgstr "自动检测"
+
+msgid "Available Skins"
+msgstr "可用的皮肤"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Back One Day"
+msgstr "上一日"
+
+msgid "Back One Month"
+msgstr "上一个月"
+
+msgid "Back One Year"
+msgstr "上一年"
+
+msgid "Back in Category"
+msgstr "上一分类"
+
+msgid "Back in Search"
+msgstr "上一搜索"
+
+msgid "Back in Tag"
+msgstr "上一标记"
+
+msgid "Back to Top"
+msgstr "返回页首"
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Background hex color (without #)"
+msgstr "背景十六进制颜色（不含#）"
+
+msgid "Background tile"
+msgstr "背景图案"
+
+msgid "Backup"
+msgstr "备份"
+
+msgid "Backup Settings"
+msgstr "备份设置"
+
+msgid "Backup/Import"
+msgstr "备份/导入"
+
+msgid "Baskerville"
+msgstr "Baskerville"
+
+msgid "Baskerville-Bold"
+msgstr "Baskerville-Bold"
+
+msgid "Below content"
+msgstr "内容以下"
+
+msgid "Below the header"
+msgstr "页眉下方"
+
+msgid "Bevelled Dots"
+msgstr "斜面点"
+
+msgid "Black"
+msgstr "黑色"
+
+msgid "Black Translucent"
+msgstr "黑色半透明"
+
+msgid "Blog Listings"
+msgstr "博客列表"
+
+msgid "Blue Ocean"
+msgstr "蓝海"
+
+msgid "Body and Post Styling"
+msgstr "正文和文章样式"
+
+msgid "Bottom"
+msgstr "底部"
+
+msgid "BraveNewCode on Twitter"
+msgstr "Twitter上的BraveNewCode"
+
+msgid "Browse Last 12 Months"
+msgstr "浏览过去12个月"
+
+msgid "Browse Last 15 Posts"
+msgstr "浏览最新的15篇文章"
+
+msgid "Browser User Agent"
+msgstr "浏览器用户代理"
+
+msgid "By"
+msgstr "作者："
+
+msgid "By %s"
+msgstr "来自%s"
+
+msgid "By BraveNewCode"
+msgstr "BraveNewCode出品"
+
+msgid "Cache menu items to reduce database queries"
+msgstr "缓存菜单项以减少数据库查询"
+
+msgid "Calendar"
+msgstr "日历"
+
+msgid "Calendar Icons"
+msgstr "日历图标"
+
+msgid "Calendar icons background color"
+msgstr "日历图标背景颜色"
+
+msgid "Calendar/Thumbnail Icons"
+msgstr "日历/缩略图图标"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Categories"
+msgstr "分类"
+
+msgid "Categories &rsaquo; %s"
+msgstr "分类&rsaquo;%s"
+
+msgid "Change this to whatever you'd like for your 404 page message."
+msgstr "将此改为您想要的404页面消息。"
+
+msgid "Changes the default glossy look to other styles."
+msgstr "将默认的光亮外观改为其他样式。"
+
+msgid "Changing this setting will not affect existing post thumbnails."
+msgstr "更改此设置将不会影响现有的文章缩略图。"
+
+msgid "Check All"
+msgstr "全部选中"
+
+msgid "Check out this article:"
+msgstr "查看这篇文章："
+
+msgid "Check out this post:"
+msgstr "查看这篇文章："
+
+msgid "Check this to disable showing each menu parent as a clickable child item. NOTE: Parent link will not be accessible with this option enabled."
+msgstr "勾选此选项以禁止将每个菜单父项显示为可点击的子菜单。注意：此选项启用时，将无法访问父链接。"
+
+msgid "Check this to disable the WPtouch menus altogether (useful for custom themes with menus built outside our code that do not use  WPtouch Pro settings)."
+msgstr "勾选此项以一起禁用WPtouch菜单（不使用我们的代码设计菜单，不使用WPtouch Pro设置自定义主题时有用）"
+
+msgid "Choose a background tile for your theme."
+msgstr "选择您的主题背景图案。"
+
+msgid "Choose a background tile for your theme. Will be repeated vertically and horizontally."
+msgstr "选择您的主题背景图案。将被水平和垂直重复。"
+
+msgid "Choose between a variety of color package header styles."
+msgstr "选择各种不同的颜色包页眉样式。"
+
+msgid "Choose between grey (default), black or black-translucent."
+msgstr "选择灰色（默认）、黑色或黑色半透明。"
+
+msgid "Choose between the same URL from which a user chooses to switch, or your Homepage as the switch link destination."
+msgstr "选择将用户选择切换的同一网址或将您的首页作为切换链接的目标。"
+
+msgid "Choose how excerpts are handled in the blog. Search and archive templates always use excerpts."
+msgstr "选择如何在博客中处理摘录。搜索和存档模板总是使用摘录。"
+
+msgid "Choose the appearance of your Calendar icons."
+msgstr "选择日历图标的外观。"
+
+msgid "Choose where you would like your ads positioned."
+msgstr "选择您希望的广告位置。"
+
+msgid "Choose which page views you'd like ads displayed on"
+msgstr "选择您想在其上显示广告的页面视图"
+
+msgid "Classic 2.0"
+msgstr "经典2.0"
+
+msgid "Classic Black (Default)"
+msgstr "经典黑（默认）"
+
+msgid "Classic Blue"
+msgstr "蓝色经典"
+
+msgid "Clean White"
+msgstr "洁白"
+
+msgid "Client Mode"
+msgstr "客户端模式"
+
+msgid "Close Message"
+msgstr "关闭消息"
+
+msgid "Cochin"
+msgstr "Cochin"
+
+msgid "Cochin-Bold"
+msgstr "Cochin-Bold"
+
+msgid "Cog Canvas"
+msgstr "小船帆布"
+
+msgid "Comment On This Article"
+msgstr "评论此文章"
+
+msgid "Comment publication failed. Please check your comment details and try again."
+msgstr "发表评论失败。请检查您的评论详情，然后再试一次。"
+
+msgid "Comment: %s"
+msgstr "评论：%s"
+
+msgid "Comments are closed"
+msgstr "评论已关闭"
+
+msgid "Comments are closed on this entry."
+msgstr "此项目已关闭评论。"
+
+msgid "Compatibility"
+msgstr "兼容性"
+
+msgid "Configuration is required to work with WPtouch Pro. It must configured to exclude the user agents that WPtouch Pro is enabled for (iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada)"
+msgstr "需要配置才能与WPtouch Pro一起使用。它必须进行配置以排除WPtouch Pro为以下设备启用的用户代理：iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada"
+
+msgid "Content Background"
+msgstr "内容背景"
+
+msgid "Content area active link color"
+msgstr "内容区域活动链接的颜色"
+
+msgid "Context and label headings color"
+msgstr "上下文和标签标题颜色"
+
+msgid "Convert all plain-text links in post content to clickable links"
+msgstr "将文章中所有的纯文本链接转换为可点击链接"
+
+msgid "Convert permalinks into internal URLs"
+msgstr "将永久链接转换为内部网址"
+
+msgid "Copperplate"
+msgstr "Copperplate"
+
+msgid "Copperplate-Bold"
+msgstr "Copperplate-Bold"
+
+msgid "Copy As Child"
+msgstr "复制为子项"
+
+msgid "Copy As New"
+msgstr "复制为新项"
+
+msgid "Courier"
+msgstr "Courier"
+
+msgid "Courier-Bold"
+msgstr "Courier-Bold"
+
+msgid "Creates a debug file to help diagnose issues with WPtouch. This file is located in ...wp-content/wptouch-data/debug. "
+msgstr "创建调试文件以帮助诊断WPtouch问题。此文件位于...wp-content/wptouch-data/debug。"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Custom 404 message (HTML is OK)"
+msgstr "自定义404消息（支持HTML）"
+
+msgid "Custom Ads"
+msgstr "自定义广告"
+
+msgid "Custom Background"
+msgstr "自定义背景"
+
+msgid "Custom Field Thumbnails"
+msgstr "自定义字段缩略图"
+
+msgid "Custom Home Page"
+msgstr "自定义首页"
+
+msgid "Custom Icons"
+msgstr "自定义图标"
+
+msgid "Custom Menu Items"
+msgstr "自定义菜单项"
+
+msgid "Custom Mobile User Agents"
+msgstr "自定义移动用户代理"
+
+msgid "Custom Post Types"
+msgstr "自定义文章类型"
+
+msgid "Custom User Agents"
+msgstr "自定义用户代理"
+
+msgid "Custom background image repeat type"
+msgstr "自定义背景图像重复类型"
+
+msgid "Custom calendar icon color (Hex without #)"
+msgstr "自定义日历图标的颜色（十六进制无#）"
+
+msgid "Custom field name for thumbnails"
+msgstr "自定义缩略图的字段名称"
+
+msgid "Custom footer content (HTML is OK)"
+msgstr "自定义页脚内容（支持HTML）"
+
+msgid "Custom home page URL"
+msgstr "自定义首页的网址"
+
+msgid "Custom iPad background repeat type"
+msgstr "自定义iPad背景重复类型"
+
+msgid "Custom latest posts page"
+msgstr "自定义最新文章页面"
+
+msgid "Custom menu URL %s"
+msgstr "自定义菜单网址%s"
+
+msgid "Custom menu position %s"
+msgstr "自定义菜单位置%s"
+
+msgid "Custom menu title %s"
+msgstr "自定义菜单标题%s"
+
+msgid "Custom posts often rely on custom meta data and may not always be shown correctly in WPtouch Pro"
+msgstr "自定义文章往往依赖于自定义元数据，可能并不总是在WPtouch Pro上正确显示"
+
+msgid "Custom statistics code (HTML and/or JavaScript only)"
+msgstr "自定义统计代码（仅HTML和/或JavaScript）"
+
+msgid "Dale Mugford & Duane Storey (BraveNewCode)"
+msgstr "Dale Mugford & Duane Storey (BraveNewCode)"
+
+msgid "Dark"
+msgstr "暗"
+
+msgid "Dark Grey"
+msgstr "暗灰色"
+
+msgid "Dark Grey Canvas"
+msgstr "暗灰色帆布"
+
+msgid "Dark Grey Circles"
+msgstr "深灰色圆圈"
+
+msgid "Dark Grey Thatch"
+msgstr "深灰色茅草屋顶"
+
+msgid "Debug log"
+msgstr "调试日志"
+
+msgid "Debug log level"
+msgstr "调试日志级别"
+
+msgid "Debugging"
+msgstr "调试"
+
+msgid "Deep Blue"
+msgstr "深蓝"
+
+msgid "Default (Glossy)"
+msgstr "默认（光亮）"
+
+msgid "Default (Grey)"
+msgstr "默认（灰色）"
+
+msgid "Default Mobile User Agents"
+msgstr "默认的移动用户代理"
+
+msgid "Default Page"
+msgstr "默认页面"
+
+msgid "Default User Agents"
+msgstr "默认用户代理"
+
+msgid "Defaults restored"
+msgstr "已恢复默认"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete Set"
+msgstr "删除图标集"
+
+msgid "Delete this set?"
+msgstr "删除此图标集？"
+
+msgid "Delete this theme and all its files?"
+msgstr "删除这个主题及其所有文件？"
+
+msgid "Description"
+msgstr "说明"
+
+msgid "Desktop Version"
+msgstr "桌面版本"
+
+msgid "Developer mode"
+msgstr "开发者模式"
+
+msgid "Device Classes"
+msgstr "设备类别"
+
+msgid "Direct Message"
+msgstr "直送消息"
+
+msgid "Direct messaging failed. Please check your message details and try again."
+msgstr "直送消息失败。请检查您的消息详情，然后再试一次。"
+
+msgid "Directory Problem"
+msgstr "目录问题"
+
+msgid "Disable Advertising pane"
+msgstr "禁止广告窗格"
+
+msgid "Disable Backup/Import pane"
+msgstr "禁用备份/导入窗格"
+
+msgid "Disable Compatability pane"
+msgstr "禁用兼容性窗格"
+
+msgid "Disable Manage Icons pane"
+msgstr "禁用管理图标窗格"
+
+msgid "Disable Overview pane"
+msgstr "禁用概览窗格"
+
+msgid "Disable Push Notifications pane"
+msgstr "禁用推送通知窗格"
+
+msgid "Disable Statistics pane"
+msgstr "禁用统计窗格"
+
+msgid "Disable Theme Browser tab"
+msgstr "禁用主题浏览器标签"
+
+msgid "Disable Tools and Debug pane"
+msgstr "禁用工具和调试窗格"
+
+msgid "Disable drop-down menu completely"
+msgstr "完全禁用下拉菜单"
+
+msgid "Disable duplicate parent as 1st child link"
+msgstr "禁止复制父项作为第一个子链接"
+
+msgid "Disabled"
+msgstr "禁用"
+
+msgid "Dismiss"
+msgstr "取消"
+
+msgid "Display \"Powered by WPtouch Pro\" in footer"
+msgstr "在页脚显示\"基于WPtouch Pro构建\""
+
+msgid "Do not use WPtouch Pro on these URLs/Pages"
+msgstr "不要在这些网址/页面上使用WPtouch Pro"
+
+msgid "Do you want to open it in Safari?"
+msgstr "您想在Safari中打开它？"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid "Don't forget to save your changes!"
+msgstr "不要忘记保存您的更改！"
+
+msgid "Don't worry, it's temporary, and doesn't affect WPtouch Pro from working."
+msgstr "不要担心，这是暂时的，并不会影响WPtouch Pro的工作。"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Drag icons from the pool to"
+msgstr "将图标从池拖动至"
+
+msgid "Drop-Down Menu"
+msgstr "下拉菜单"
+
+msgid "E-Mail"
+msgstr "电子邮件"
+
+msgid "E-Mail (Required)"
+msgstr "电子邮箱（必填）"
+
+msgid "Each permalink URL fragment should be on its own line and relative, e.g. \"/about\" or \"/products/store\""
+msgstr "每个永久网址的片段都应该在自己的行上，且是相对路径，例如：\"/about\" 或 \"/products/store\""
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "Email: %s"
+msgstr "电子邮件：%s"
+
+msgid "Enable '%s' post type"
+msgstr "启用'%s'文章类型"
+
+msgid "Enable AJAX \"Load More\" link"
+msgstr "启用AJAX \"载入更多\"链接"
+
+msgid "Enable AJAX \"Load More\" link for posts and comments"
+msgstr "为文章和评论启用AJAX \"载入更多\"链接"
+
+msgid "Enable Web-App Mode"
+msgstr "启用Web应用程序模式"
+
+msgid "Enable custom post type support"
+msgstr "启用自定义文章类型支持"
+
+msgid "Enable iPad FlickrRSS popover"
+msgstr "启用iPad FlickrRSS弹出窗口"
+
+msgid "Enable landing redirect (overrides default WordPress settings for landing page)"
+msgstr "启用登陆重定向（覆盖默认的WordPress登陆页面设置）"
+
+msgid "Enable persistence"
+msgstr "启用持久性"
+
+msgid "Enable/Disable Web-App Mode"
+msgstr "启用/禁用Web应用程序模式"
+
+msgid "Enable/Disable iPad Support"
+msgstr "启用/禁用iPad支持"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Enabled for admins only"
+msgstr "仅为管理员启用"
+
+msgid "Enabled for all users"
+msgstr "为所有用户启用"
+
+msgid "Enabling this setting will cause comments to be shown on pages, if they are enabled in the WordPress settings."
+msgstr "启用此设置将会在页面上显示评论（如果在WordPress设置中启用此功能的话）。"
+
+msgid "Enter Description for Post"
+msgstr "输入文章的描述"
+
+msgid "Enter a comma separated list of shortcodes to remove."
+msgstr "输入以逗号分隔的待移除简码的列表。"
+
+msgid "Enter additional content to be displayed in the WPtouch footer. Everything here is wrapped in a paragraph tag."
+msgstr "输入要在WPtouch页脚显示的其他内容。这里的一切都被包裹在一个段落标记中。"
+
+msgid "Enter additional user agents on separate lines, not device names or other information."
+msgstr "分行输入其他用户代理，而不是设备名称或其他信息。"
+
+msgid "Enter the name of the custom field used for your custom post thumbnails."
+msgstr "输入用于您的自定义文章缩略图的自定义字段的名称。"
+
+msgid "Enter your Prowl API key here to enable push notifications from WPtouch to your iPhone/iPod touch via the Prowl app, or Mac with Growl installed and configured for Prowl. If you have multiple keys, enter and save each one for a new input to appear."
+msgstr "在此输入您的Prowl API密钥，以通过Prowl应用程序或装有Growl并针对Prowl进行配置的Mac支持从WPtouch推通知到您的iPhone/iPod touch。如果您有多个密钥，请逐个输入并保存以显示新的输入。"
+
+msgid "Enter your custom statistics tracking code snippets (Google Analytics, MINT, etc.)"
+msgstr "请输入您的统计数据跟踪代码段（Google Analytics、MINT等）"
+
+msgid "Enter your full Admob Publisher ID"
+msgstr "输入您完整的Admob发布者ID"
+
+msgid "Enter your full Publisher ID"
+msgstr "输入您完整的发布商ID"
+
+msgid "Entering 0 will cause the bubble to always be shown, useful for development."
+msgstr "输入0将使气泡始终显示，这对开发工作有用。"
+
+msgid "Errors (1)"
+msgstr "错误（1）"
+
+msgid "Excerpt/Content Options"
+msgstr "摘录/内容选项"
+
+msgid "Excerpts hidden"
+msgstr "隐藏摘录"
+
+msgid "Excerpts shown"
+msgstr "显示摘录"
+
+msgid "Excluded Categories (Comma list of category IDs)"
+msgstr "排除的类别（以逗号分隔的分类ID列表）"
+
+msgid "Excluded Tags (Comma list of tag IDs)"
+msgstr "排除的标记（以逗号分隔的标记ID列表）"
+
+msgid "Extensions"
+msgstr "扩展"
+
+msgid "Extra configuration is required. Add paths to your active WPtouch Pro theme CSS and Javascript files as files to ignore in WPMinify."
+msgstr "需要额外的配置。添加活动的WPtouch Pro主题CSS和JavaScript文件的路径以让WPMinify忽略。"
+
+msgid "Extra configuration is required. It must be configured to exclude the user agents that WPtouch Pro is enabled for (iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada)"
+msgstr "需要额外的配置。它必须进行配置以排除WPtouch Pro为以下设备启用的用户代理：iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada"
+
+msgid "Extra configuration is required. You must enable the \"Detect mobile devices\" option, and add these user agents that WPtouch Pro is enabled for (iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada) to the Mobile agent list."
+msgstr "需要额外的配置。您必须启用\"检测移动设备\"选项，并将WPtouch Pro为以下设备启用的那些用户代理添加到移动代理列表：iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada。"
+
+msgid "Features: %s"
+msgstr "特色：%s"
+
+msgid "First w/ full post shown, others excerpted and hidden"
+msgstr "首个显示整篇文章，其他进行摘录并隐藏"
+
+msgid "First w/ full post shown, others excerpted and shown"
+msgstr "首个显示整篇文章，其他进行摘录并显示"
+
+msgid "FlickrRSS"
+msgstr "FlickrRSS"
+
+msgid "Follow @%s"
+msgstr "关注@%s"
+
+msgid "Follow @%s on Twitter"
+msgstr "在Twitter上关注@%s"
+
+msgid "Footer text color"
+msgstr "页脚文字颜色"
+
+msgid "For images that will used as a Homescreen (Bookmark) icon, they should be 59x60 pixels or higher for best results on iPhone 2G, 3G and 3GS, and 113x114 pixels for iPhone 4."
+msgstr "图像要用作主屏幕（书签）图标，其分辨率应该是59x60像素或更高以在iPhone 2G、3G和3GS上获得最佳效果，在iPhone 4上则应当是113x114像素。"
+
+msgid "Force URL to leave Web-App Mode"
+msgstr "强制网址离开Web应用程序模式"
+
+msgid "Force multisite detection"
+msgstr "强制多网站检测"
+
+msgid "From %s (%s)"
+msgstr "来自%s (%s)"
+
+msgid "From the BraveNewCode Blog"
+msgstr "来自BraveNewCode博客"
+
+msgid "From the WPtouch Pro Forums"
+msgstr "来自WPtouch Pro论坛"
+
+msgid "From: %s"
+msgstr "来自：%s"
+
+msgid "Full"
+msgstr "完全"
+
+msgid "Full URL to a custom CSS file to be loaded last in themes. Will override existing styles, preserving updateability of themes."
+msgstr "应当是270px（宽）X 44px（高）。推荐使用透明的.PNG。如果没有在此指定图像，将使用默认的网站图标和网站标题。"
+
+msgid "Full posts hidden"
+msgstr "隐藏全部文章"
+
+msgid "Full posts shown"
+msgstr "显示全部文章"
+
+msgid "Futura"
+msgstr "Futura"
+
+msgid "GeezaPro"
+msgstr "GeezaPro"
+
+msgid "GeezaPro-Bold"
+msgstr "GeezaPro-Bold"
+
+msgid "General"
+msgstr "常规"
+
+msgid "General Icons + Menu Setup"
+msgstr "一般图标+菜单设置"
+
+msgid "General Settings"
+msgstr "常规设置"
+
+msgid "General site font"
+msgstr "一般网站字体"
+
+msgid "General site font size"
+msgstr "常规网站字体大小"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "Georgia-Bold"
+msgstr "Georgia-Bold"
+
+msgid "Get Growl"
+msgstr "获取Growl"
+
+msgid "Get Prowl (App Store)"
+msgstr "获取Prowl (App Store)"
+
+msgid "Get started with Activation &raquo;"
+msgstr "开始激活&raquo;"
+
+msgid "GillSans"
+msgstr "GillSans"
+
+msgid "GillSans-Bold"
+msgstr "GillSans-Bold"
+
+msgid "GillSans-Light"
+msgstr "GillSans-Light"
+
+msgid "Global General"
+msgstr "全局通用设置"
+
+msgid "Go"
+msgstr "转到"
+
+msgid "Google Adsense"
+msgstr "Google Adsense"
+
+msgid "Grainy"
+msgstr "木纹"
+
+msgid "Green Planet"
+msgstr "绿色星球"
+
+msgid "Header Buttons and Blog Popover"
+msgstr "页眉按钮和博客弹出窗口"
+
+msgid "Header Color Group"
+msgstr "页眉颜色组"
+
+msgid "Header Shading Gradient Style"
+msgstr "页面底纹渐变样式"
+
+msgid "Header Styling"
+msgstr "页眉样式"
+
+msgid "Header bar, pop-overs and general theme style"
+msgstr "页眉栏，弹出菜单和一般主题样式"
+
+msgid "Header title font"
+msgstr "页眉标题字体"
+
+msgid "Header title font size"
+msgstr "页眉标题字体大小"
+
+msgid "Helvetica"
+msgstr "Helvetica"
+
+msgid "Helvetica-Bold"
+msgstr "Helvetica-Bold"
+
+msgid "HelveticaNeue"
+msgstr "HelveticaNeue"
+
+msgid "HelveticaNeue-Bold"
+msgstr "HelveticaNeue-Bold"
+
+msgid "Here you can edit the CSS output to style the switch link appearance in the footer of your regular theme."
+msgstr "在这里，您可以编辑CSS输出以设计常规主题页脚中的切换链接的外观。"
+
+msgid "Hide Licenses tab, and other license related content"
+msgstr "隐藏许可证标签以及其他许可证相关内容"
+
+msgid "Hide Responses"
+msgstr "隐藏回复"
+
+msgid "Hide Theme Browser tab"
+msgstr "隐藏主题浏览器标签"
+
+msgid "Hide Tools and Debug section"
+msgstr "隐藏工具和调试部分"
+
+msgid "Hide address bar on page load"
+msgstr "页面加载时隐藏地址栏"
+
+msgid "Hides all license settings and references. Allows client to see and upgrade the plugin, adjust active theme and global settings, but not see and/or change license and domain settings."
+msgstr "隐藏所有许可证设置和引用。允许客户端查看和升级插件、调整活动主题和全局设置，但不能查看和/或更改许可证和域设置。"
+
+msgid "Hides comments, trackbacks and pingbacks by default, until a visitor clicks to show them. Speeds up load times if hidden."
+msgstr "默认隐藏评论、trackbacks和pingbacks，除非访问者点击显示它们。隐藏可加快加载。"
+
+msgid "Hides the Tools and Debug settings completely. Once checked only resetting WPtouch Pro settings will show them again."
+msgstr "完全隐藏工具和调试设置。一旦选中，只有重置WPtouch Pro设置才会重新显示它们。"
+
+msgid "Hides the theme browser tab, and prevents theme switching"
+msgstr "隐藏主题浏览器标签，防止主题切换"
+
+msgid "Home"
+msgstr "首页"
+
+msgid "Home Page Only"
+msgstr "仅首页"
+
+msgid "Home, Blog, Single Post, Pages"
+msgstr "首页，博客，单篇文章，页面"
+
+msgid "Homescreen Icons"
+msgstr "主屏幕图标"
+
+msgid "Icon Pool"
+msgstr "图标库"
+
+msgid "Icon Sets"
+msgstr "图标集"
+
+msgid "Icon set uploaded, currently unpackaging..."
+msgstr "图标集已上传，当前正在解包..."
+
+msgid "Icons"
+msgstr "图标"
+
+msgid "If background images are used, the background color is still included."
+msgstr "如果使用背景图像，背景颜色仍然包括在内。"
+
+msgid "If no path is specified no image will be used, and the WPtouch Pro menu will be full height. (300px by 185px transparent .png recommended)"
+msgstr "如果没有指定路径，则不会使用图像，WPtouch Pro菜单将保留完整高度。（推荐使用185px X 300px透明的.png文件）"
+
+msgid "If the title of your site is long, you can shorten it for display within WPtouch."
+msgstr "如果网站标题很长，您可以缩短它以在WPtouch中显示。"
+
+msgid "If unchecked the word \"Menu\" will be shown instead of an icon."
+msgstr "未选中时，将显示单词\"菜单\"而不是图标。"
+
+msgid "If unchecked your bookmark icon will be set as \"apple-touch-icon-precomposed\", and not have the glossy effect applied to it."
+msgstr "未选中时，您的书签图标将被设定为\"apple-touch-icon-precomposed\"，不会应用光亮效果。"
+
+msgid "If you have recently installed or reset WPtouch Pro, it must gather active plugin information first."
+msgstr "如果您最近安装或重置WPtouch Pro，必须先收集活动插件的信息。"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import Settings"
+msgstr "导入设置"
+
+msgid "In the footer"
+msgstr "在页脚"
+
+msgid "Include functions.php from the active desktop theme"
+msgstr "包括来自活动桌面主题的functions.php"
+
+msgid "Increasing this above Level 1 (Errors) should only be done when troubleshooting."
+msgstr "只应在排除故障时才可将此增加到1级（错误）以上。"
+
+msgid "Information (4)"
+msgstr "信息（4）"
+
+msgid "Information + Help"
+msgstr "信息+帮助"
+
+msgid "Inherit Prowl settings"
+msgstr "继承Prowl设置"
+
+msgid "Inherit Statistics settings"
+msgstr "继承统计设置"
+
+msgid "Inherit active theme"
+msgstr "继承活动的主题"
+
+msgid "Inherit advertising settings"
+msgstr "继承广告设置"
+
+msgid "Inherit compatability settings"
+msgstr "继承兼容性设置"
+
+msgid "Inherited Settings"
+msgstr "继承的设置"
+
+msgid "Install this Web-App on your [device]: tap [icon] then \"Add to Home Screen\""
+msgstr "在您的[device]上安装此Web应用程序：触按[icon]，然后\"添加到主屏幕\""
+
+msgid "Installed Themes"
+msgstr "已安装的主题"
+
+msgid "Invalid file format."
+msgstr "无效的文件格式。"
+
+msgid "JavaScript is currently off."
+msgstr "JavaScript目前已关闭。"
+
+msgid "Knowledge Base"
+msgstr "知识库"
+
+msgid "LICENSED"
+msgstr "已授权许可"
+
+msgid "Latest Flickr Photos"
+msgstr "最新的Flickr照片"
+
+msgid "Latest Tweets"
+msgstr "最新推文"
+
+msgid "Leave A Comment"
+msgstr "发表评论"
+
+msgid "Leave a Reply"
+msgstr "回复"
+
+msgid "Leave a Reply to %s"
+msgstr "回复%s"
+
+msgid "Leave a comment"
+msgstr "发表评论"
+
+msgid "Leave a reply to"
+msgstr "回复"
+
+msgid "Left"
+msgstr "左"
+
+msgid "License"
+msgstr "许可证"
+
+msgid "License Key"
+msgstr "许可证密钥"
+
+msgid "License accepted, thank you for supporting WPtouch Pro!"
+msgstr "许可证被接受，谢谢您支持WPtouch Pro！"
+
+msgid "Licenses Remaining"
+msgstr "剩余许可证"
+
+msgid "Light"
+msgstr "亮"
+
+msgid "Light Grey"
+msgstr "浅灰色"
+
+msgid "Links"
+msgstr "链接"
+
+msgid "Load More Comments&hellip;"
+msgstr "载入更多评论&hellip;"
+
+msgid "Load More Entries&hellip;"
+msgstr "载入更多条目&hellip;"
+
+msgid "Loading licenses from the BraveNewCode server..."
+msgstr "正在从BraveNewCode服务器加载许可证..."
+
+msgid "Loading..."
+msgstr "载入中..."
+
+msgid "Log In To Comment"
+msgstr "登录以发表评论"
+
+msgid "Log out"
+msgstr "注销"
+
+msgid "Log out of this account"
+msgstr "注销此帐户"
+
+msgid "Logged in as"
+msgstr "登录为"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "Login Now"
+msgstr "立即登录"
+
+msgid "Logo/Header"
+msgstr "徽标/页眉"
+
+msgid "Logout"
+msgstr "注销"
+
+msgid "Lost your password?<br />You can %sreset it here%s."
+msgstr "忘记密码？<br />您可以%s在此重置密码%s。"
+
+msgid "Manage Icons and Sets"
+msgstr "管理图标和图标集"
+
+msgid "Manage Installed Icons + Sets"
+msgstr "管理已安装的图标+图标集"
+
+msgid "Manage Licenses"
+msgstr "管理许可证"
+
+msgid "Matte"
+msgstr "亚光"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Menu + Icons"
+msgstr "菜单+图标"
+
+msgid "Menu Options"
+msgstr "菜单选项"
+
+msgid "Menu and Icon Setup"
+msgstr "菜单和图标设置"
+
+msgid "Menu sort order (WordPress Pages menu only)"
+msgstr "菜单排序顺序（仅WordPress页面菜单）"
+
+msgid "Menu, Posts and Pages"
+msgstr "菜单、文章和页面"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Message sent successfully."
+msgstr "消息发送成功。"
+
+msgid "Message shown in the notice bubble for iPhone, iPod touch & iPad visitors:"
+msgstr "为iPhone、iPod touch和iPad访客在通知气泡中显示消息："
+
+msgid "Miscellaneous Options"
+msgstr "其他选项"
+
+msgid "Mobile"
+msgstr "移动"
+
+msgid "Mobile Theme"
+msgstr "移动主题"
+
+msgid "Mobile User Agents"
+msgstr "移动用户代理"
+
+msgid "Modules"
+msgstr "模块"
+
+msgid "More Info"
+msgstr "更多信息"
+
+msgid "Move WPtouch admin settings to Appearance menu"
+msgstr "将WPtouch管理设置移到外观菜单"
+
+msgid "Moves WPtouch admin settings from the top-level to the WordPress Appearance settings. Refresh your browser after saving."
+msgstr "将WPtouch管理设置从顶层移到WordPress外观设置。保存后刷新浏览器。"
+
+msgid "Multisite"
+msgstr "多站点"
+
+msgid "My Account"
+msgstr "我的帐户"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name  (Required)"
+msgstr "名称（必填）"
+
+msgid "Name: %s"
+msgstr "名称：%s"
+
+msgid "New Comment"
+msgstr "新评论"
+
+msgid "New Ping/Trackback"
+msgstr "新的Ping/Trackback"
+
+msgid "Next"
+msgstr "下一步"
+
+msgid "Next Image"
+msgstr "下一张图像"
+
+msgid "Next One Day"
+msgstr "下一日"
+
+msgid "Next One Month"
+msgstr "下一个月"
+
+msgid "Next One Year"
+msgstr "下一年"
+
+msgid "Next in Category"
+msgstr "下一分类"
+
+msgid "Next in Search"
+msgstr "下一搜索"
+
+msgid "Next in Tag"
+msgstr "下一标签"
+
+msgid "No Comments Yet"
+msgstr "暂时还没有评论"
+
+msgid "No Custom Icons to Display"
+msgstr "没有自定义图标可显示"
+
+msgid "No Photos To Display"
+msgstr "没有要显示的照片"
+
+msgid "No Responses"
+msgstr "没有回复"
+
+msgid "No advertising"
+msgstr "没有广告"
+
+msgid "No custom post types found"
+msgstr "没有找到自定义文章类型"
+
+msgid "No known warnings or conflicts."
+msgstr "没有已知的警告或冲突！"
+
+msgid "None"
+msgstr "无"
+
+msgid "None (Use WordPress Settings)"
+msgstr "无（使用WordPress设置）"
+
+msgid "Normally links posted into post content are plain-text and cannot be clicked.  Enabling this option will make these links clickable, similar to the P2 theme."
+msgstr "通常发表在文章内容中的链接是纯文本的，不能点击。启用此选项将使这些链接变得可点击，类似于P2主题。"
+
+msgid "Not registered yet?<br />You can %ssign-up here%s."
+msgstr "尚未注册？<br />您可以%s在此注册%s。"
+
+msgid "Notice"
+msgstr "通知"
+
+msgid "Notify of new account registrations"
+msgstr "通知新帐户注册"
+
+msgid "Notify of new comments &amp; pingbacks/trackbacks"
+msgstr "通知新的评论和pingbacks/trackbacks"
+
+msgid "Number of days before the message will be shown again to visitors"
+msgstr "几天后再次将消息显示给访客"
+
+msgid "Number of seconds to cache menu tree items for"
+msgstr "缓存菜单树项目的秒数"
+
+msgid "OFF"
+msgstr "关闭"
+
+msgid "ON"
+msgstr "打开"
+
+msgid "One Response"
+msgstr "一条回复"
+
+msgid "One or more fields were not completed."
+msgstr "一个或多个字段没有填写。"
+
+msgid "One or more required directories could not be created"
+msgstr "无法创建一个或多个要求的目录"
+
+msgid "Oops! The license server could not be reached."
+msgstr "哎呀！无法连接许可证服务器。"
+
+msgid "Oops! Try saving again."
+msgstr "出错了！请再次尝试保存。"
+
+msgid "Optima-Bold"
+msgstr "Optima-Bold"
+
+msgid "Optima-Regular"
+msgstr "Optima-Regular"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Overview"
+msgstr "概述"
+
+msgid "Page or Post Not Found"
+msgstr "未找到页面或文章"
+
+msgid "Pages"
+msgstr "页面"
+
+msgid "Pages / Custom Menu"
+msgstr "页面/自定义菜单"
+
+msgid "Pages in the article:"
+msgstr "文章中的页面："
+
+msgid "Pages:"
+msgstr "页面："
+
+msgid "Palatino-Roman"
+msgstr "Palatino-Roman"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password (if you use one)"
+msgstr "密码（如果您使用的话）"
+
+msgid "Paste a backup key, then save: %s(Right click in textarea, choose \"Paste\")%s"
+msgstr "粘贴备份密钥，然后保存：%s（右键点击文字区域，选择\"粘贴\"）%s"
+
+msgid "Photos"
+msgstr "照片"
+
+msgid "Pinstripes Diagonal"
+msgstr "对角细条纹"
+
+msgid "Pinstripes Horizontal"
+msgstr "水平细条纹"
+
+msgid "Pinstripes Vertical (Blue)"
+msgstr "垂直细条纹（蓝色）"
+
+msgid "Pinstripes Vertical (Grey)"
+msgstr "垂直细条纹（灰色）"
+
+msgid "Please enter a description for the support posting."
+msgstr "请为支持贴输入描述。"
+
+msgid "Please enter a topic title for the support posting."
+msgstr "请为支持贴输入主题标题。"
+
+msgid "Please enter at least one tag for the support posting."
+msgstr "请为支持贴输入至少一个标记。"
+
+msgid "Please enter the set information below and click save"
+msgstr "请在下面输入图标集信息并点击保存"
+
+msgid "Please enter your Account E-Mail and License Key to begin the license activation process, or %spurchase a license &raquo;%s"
+msgstr "请输入您的帐户电子邮件和许可证密钥以开始许可证激活过程，或者%s购买许可证&raquo;%s"
+
+msgid "Please upload only .PNG (single image) or .ZIP (icon set) file types."
+msgstr "请只上传.PNG（单一图像）或.ZIP（图标集）文件类型。"
+
+msgid "Plugin Compatibility"
+msgstr "插件兼容性"
+
+msgid "Plugin Licensing Terms"
+msgstr "插件许可协议"
+
+msgid "Pool Background Color"
+msgstr "池背景颜色"
+
+msgid "Popular"
+msgstr "流行"
+
+msgid "Post body font"
+msgstr "文章正文字体"
+
+msgid "Post body font size"
+msgstr "文章正文字体大小"
+
+msgid "Post icon type"
+msgstr "文章图标类型"
+
+msgid "Post title font"
+msgstr "文章标题字体"
+
+msgid "Post title font size"
+msgstr "文章标题的字体大小"
+
+msgid "Post: %s"
+msgstr "文章：%s"
+
+msgid "Posts and comments will be appended to existing content with an AJAX \"Load More...\" link. If unchecked regular post/comment pagination will be used."
+msgstr "通过AJAX \"载入更多...\"链接，文章和评论将被追加到已有内容链接。未选中时，将使用正常的文章/评论分页。"
+
+msgid "Posts in these categories will not be shown in WPtouch. (e.g. 3,4,5)"
+msgstr "这些类别中的文章将不会在WPtouch中显示。（例如 3,4,5）"
+
+msgid "Posts with these tags will not be shown in WPtouch. (e.g. 3,4,5)"
+msgstr "带有这些标记的文章将不会在WPtouch中显示。（例如 3,4,5）"
+
+msgid "Powered by %1$s %2$s"
+msgstr "基于%1$s %2$s构建"
+
+msgid "Prefer thumbnails on pages over page icons (WordPress thumbs only)"
+msgstr "在页面上使用缩略图而非页面图标（仅WordPress缩略图）"
+
+msgid "Prev"
+msgstr "上一个"
+
+msgid "Previous Image"
+msgstr "上一张图像"
+
+msgid "Problem Area"
+msgstr "问题区域"
+
+msgid "Prowl API keys"
+msgstr "Prowl API密钥"
+
+msgid "Prowl Push Notifications"
+msgstr "Prowl推送通知"
+
+msgid "Prowl Website"
+msgstr "Prowl网站"
+
+msgid "Publish"
+msgstr "发布"
+
+msgid "Publish Comment"
+msgstr "发表评论"
+
+msgid "Published on"
+msgstr "发布时间"
+
+msgid "Purchase More Licenses"
+msgstr "购买更多的许可证"
+
+msgid "Purchase a License"
+msgstr "购买许可证"
+
+msgid "Push Notifications"
+msgstr "推送通知"
+
+msgid "Push message sent successfully."
+msgstr "消息推送成功。"
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Read This Article"
+msgstr "阅读这篇文章"
+
+msgid "Ready for upload..."
+msgstr "准备好上传..."
+
+msgid "Recent"
+msgstr "最近"
+
+msgid "Recent Articles"
+msgstr "最近的文章"
+
+msgid "Recent Support Posts"
+msgstr "最近支持文章"
+
+msgid "Red Bull"
+msgstr "红牛"
+
+msgid "Redirect target"
+msgstr "重定向目标"
+
+msgid "Regionalization"
+msgstr "区域化"
+
+msgid "Register for an account"
+msgstr "注册一个帐号"
+
+msgid "Remove license?"
+msgstr "移除许可证？"
+
+msgid "Remove these shortcodes when WPtouch Pro is active"
+msgstr "启用WPtouch Pro时删除这些简码"
+
+msgid "Repeat Both"
+msgstr "两个都重复"
+
+msgid "Repeat Horizontally"
+msgstr "水平重复"
+
+msgid "Repeat None"
+msgstr "无重复"
+
+msgid "Repeat Vertically"
+msgstr "垂直重复"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Reply."
+msgstr "回复。"
+
+msgid "Requires Discussion settings to be enabled in the WordPress settings."
+msgstr "需要在WordPress设置中启用讨论设置。"
+
+msgid "Requires the \"Anyone can register\" WordPress setting to be enabled."
+msgstr "需要启用\"任何人都可以注册\"这个WordPress设置。"
+
+msgid "Reset All Pages & Icons"
+msgstr "重置所有页面和图标"
+
+msgid "Reset Licenses Now"
+msgstr "立即重置许可证"
+
+msgid "Reset Menu Page and Icon settings?"
+msgstr "重置菜单页面和图标设置？"
+
+msgid "Reset Settings"
+msgstr "重置设置"
+
+msgid "Reset all WPtouch Pro admin settings?"
+msgstr "重置所有的WPtouch Pro管理设置？"
+
+msgid "Reset password"
+msgstr "重设密码"
+
+msgid "Resources"
+msgstr "资源"
+
+msgid "Respect WordPress setting for date format in themes"
+msgstr "在主题中遵守WordPress的日期格式设置"
+
+msgid "Right Now"
+msgstr "现在"
+
+msgid "Right RTL (experimental)"
+msgstr "右RTL（实验）"
+
+msgid "Same URL"
+msgstr "同一网址"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save %s as a web-app on your Home Screen."
+msgstr "将%s保存为您主屏幕上的Web应用程序。"
+
+msgid "Save Changes"
+msgstr "保存更改"
+
+msgid "Save to Del.icio.us"
+msgstr "保存到Del.icio.us"
+
+msgid "Save to Instapaper"
+msgstr "保存到Instapaper"
+
+msgid "Saved to Instapaper!"
+msgstr "已保存到Instapaper！"
+
+msgid "Saving"
+msgstr "保存中"
+
+msgid "Saving..."
+msgstr "保存中..."
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search results &rsaquo; %s"
+msgstr "搜索结果&rsaquo;%s"
+
+msgid "Search this website"
+msgstr "搜索此网站"
+
+msgid "Secondary Admin Panels"
+msgstr "辅助管理面板"
+
+msgid "Security (2)"
+msgstr "安全性（2）"
+
+msgid "Select whether the link is shown above or below the WP pages in your menu"
+msgstr "选择菜单中的链接是在WP页面的上方或下方显示"
+
+msgid "Send Now"
+msgstr "立即发送"
+
+msgid "Send a Message"
+msgstr "发送消息"
+
+msgid "Server Configuration"
+msgstr "服务器配置"
+
+msgid "Set description"
+msgstr "图标集描述"
+
+msgid "Set name"
+msgstr "图标集名称"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Settings Backup and Import"
+msgstr "设置备份和导入"
+
+msgid "Settings saved!"
+msgstr "设置已保存！"
+
+msgid "Share Article"
+msgstr "分享文章"
+
+msgid "Share Or Save"
+msgstr "分享或保存"
+
+msgid "Share on Facebook"
+msgstr "在Facebook上分享"
+
+msgid "Share on Twitter"
+msgstr "在Twitter上分享"
+
+msgid "Share or Save This Post"
+msgstr "分享或保存此文章"
+
+msgid "Share via E-Mail"
+msgstr "通过电子邮件分享"
+
+msgid "Shared accounts to include in tweet listings:"
+msgstr "共享帐户以在推文列表中包含："
+
+msgid "Should be 270px (width) by 44px (height). Transparent .PNG is recommended. If no image is specified here the default Site Icon and Site Title will be used."
+msgstr "应当是270px（宽）X 44px（高）。推荐使用透明的.PNG。如果没有在此指定图像，将使用默认的网站图标和网站标题。"
+
+msgid "Should be 540px (width) by 88px (height). Transparent .PNG is recommended."
+msgstr "应当是540px（宽）X 88px（高）。推荐使用透明的.PNG。"
+
+msgid "Show \"Admin\" in Account tab links"
+msgstr "在帐户标签链接中显示\"管理\""
+
+msgid "Show \"Profile\" in Account tab links"
+msgstr "在帐户标签链接中显示\"个人资料\""
+
+msgid "Show \"Share/Save\" button"
+msgstr "显示\"分享/保存\"按钮"
+
+msgid "Show / Hide"
+msgstr "显示/隐藏"
+
+msgid "Show Account in tab-bar"
+msgstr "在标签栏中显示帐户"
+
+msgid "Show Archives template in menu"
+msgstr "在菜单中显示存档模板"
+
+msgid "Show Categories in tab-bar"
+msgstr "在标签栏中显示分类"
+
+msgid "Show Links template in menu"
+msgstr "在菜单中显示链接模板"
+
+msgid "Show Search in tab-bar"
+msgstr "在标签栏中显示搜索"
+
+msgid "Show Tags in tab-bar"
+msgstr "在标签栏中显示标记"
+
+msgid "Show Twitter in mobile drop-down menu tab-bar"
+msgstr "在移动的下拉菜单标签栏中显示Twitter"
+
+msgid "Show Twitter popover on iPad"
+msgstr "在iPad上显示Twitter的弹出窗口"
+
+msgid "Show a \"Profile\" link for all logged in users."
+msgstr "为所有登录的用户显示\"个人资料\"链接。"
+
+msgid "Show a notice bubble for iPhone, iPod touch & iPad visitors about Web-App Mode"
+msgstr "为iPhone、iPod Touch和iPad访问者显示通知气球以告知Web应用程序模式"
+
+msgid "Show account button"
+msgstr "显示帐户按钮"
+
+msgid "Show ads in these places"
+msgstr "在这些地方展示广告"
+
+msgid "Show attached image in page content"
+msgstr "在页面内容中显示附加的图像"
+
+msgid "Show attached image in post content"
+msgstr "在文章内容中显示附加的图像"
+
+msgid "Show author in post header"
+msgstr "在文章页眉中显示作者"
+
+msgid "Show author name"
+msgstr "显示作者姓名"
+
+msgid "Show blog button"
+msgstr "显示博客按钮"
+
+msgid "Show categories"
+msgstr "显示分类"
+
+msgid "Show categories in blog popover"
+msgstr "在博客弹出窗口中显示分类"
+
+msgid "Show categories post footer"
+msgstr "在页脚后显示类别"
+
+msgid "Show comments on pages"
+msgstr "在页面上显示评论"
+
+msgid "Show custom post type taxonomy on main index pages"
+msgstr "在主索引页面上显示自定义文章类型分类"
+
+msgid "Show custom post type taxonomy on single post page"
+msgstr "在单个文章页面上显示自定义文章类型分类"
+
+msgid "Show date"
+msgstr "显示日期"
+
+msgid "Show date in post header"
+msgstr "在文章页眉中显示日期"
+
+msgid "Show header icon"
+msgstr "显示页眉图标"
+
+msgid "Show home\tbutton"
+msgstr "显示首页\t按钮"
+
+msgid "Show load times and query counts in the footer"
+msgstr "在页脚中显示载入时间和查询计数"
+
+msgid "Show popular posts in blog popover"
+msgstr "在博客弹出窗口中显示热门文章"
+
+msgid "Show recent posts in blog popover"
+msgstr "在博客弹出窗口中显示最近文章"
+
+msgid "Show search button"
+msgstr "显示搜索按钮"
+
+msgid "Show switch link"
+msgstr "显示切换开关"
+
+msgid "Show tags"
+msgstr "显示标记"
+
+msgid "Show tags in blog popover"
+msgstr "在博客弹出窗口中显示标记"
+
+msgid "Show tags post footer"
+msgstr "在页脚后显示标记"
+
+msgid "Show thumbnails on single post pages next to the post title"
+msgstr "在文章标题旁的单篇文章页面上显示缩略图"
+
+msgid "Show/hide the header site icon beside your site title. If you use a custom logo image this setting will not apply."
+msgstr "显示/隐藏您的网站标题旁的页眉网站图标。如果您使用自定义徽标图像，此设置将不适用。"
+
+msgid "Shows WPtouch in ALL browsers when enabled. Please remember to disable this option when finished!"
+msgstr "启用时，在所有浏览器中显示WPtouch。完成时请记得禁用此选项！"
+
+msgid "Shows an \"Admin\" menu link for logged in users that have edit posts capability."
+msgstr "为具有编辑文章能力的用户显示\"管理\"菜单链接。"
+
+msgid "Shows the latest 10 tweets (excluding those tweeted from WordTwit) in its own popover, and adds a button to the menubar."
+msgstr "在自己的弹出窗口中显示最新的10个推文（不含来自WordTwit的那些推文），添加按钮到菜单栏。"
+
+msgid "Shows the latest 10 tweets (excluding those tweeted from WordTwit) in your drop-down menu."
+msgstr "在您的下拉菜单中显示最新10个推文（不含来自WordTwit的推文）。"
+
+msgid "Shows the latest 20 photos from your Flickr RSS feed in its own popover, and adds a button to the menubar."
+msgstr "在其自己的弹出窗口中显示来自Flickr RSS源的最新20张照片，添加一个按钮至菜单栏。"
+
+msgid "Shows the latest 20 photos from your Flickr RSS feed on its own page, and adds a link to for it to your drop-down menu."
+msgstr "在其自己页面上显示来自Flickr RSS源的最新20张照片，将其链接添加到您的下拉菜单中。"
+
+msgid "Sidebar Background"
+msgstr "侧栏背景"
+
+msgid "Silver Sheen"
+msgstr "银色光泽"
+
+msgid "Simple Post Thumbnails Plugin"
+msgstr "Simple Post Thumbnails插件"
+
+msgid "Single Post Only"
+msgstr "仅单篇文章"
+
+msgid "Single Posts"
+msgstr "单篇文章"
+
+msgid "Single images and those in .ZIP packages <em>must</em> be in .PNG format. When you upload a .ZIP you <em>must</em> name the set. The .ZIP size limit on your server is %dMB."
+msgstr "单一图像和.ZIP包中的那些图像都<em>必须</em>是.PNG格式。当您上传.ZIP包时，<em>必须</em>为图标集命名。您服务器上的.ZIP包的大小限制为%dMB。"
+
+msgid "Site Branding"
+msgstr "网站品牌标记"
+
+msgid "Site Homepage"
+msgstr "网站首页"
+
+msgid "Site Statistics"
+msgstr "网站统计"
+
+msgid "Site, Theme &amp; Bookmark"
+msgstr "网站、主题和书签"
+
+msgid "Sitewide font color"
+msgstr "整个网站的字体颜色"
+
+msgid "Sitewide link color"
+msgstr "整个网站的链接颜色"
+
+msgid "Sitewide post title color"
+msgstr "整个网站的文章标题颜色"
+
+msgid "Size (in px) for Classic thumbnails"
+msgstr "经典缩略图的大小（以像素为单位）"
+
+msgid "Skated Concrete"
+msgstr "Skated Concrete"
+
+msgid "Skins are alternate stylesheets which change the look and feel of a theme."
+msgstr "皮肤是可选的样式表，可改变主题的外观。"
+
+msgid "Skip to Responses"
+msgstr "跳到回复"
+
+msgid "Sort alphabetically"
+msgstr "按字母顺序排序"
+
+msgid "Sort by admin page order"
+msgstr "按管理页面顺序排序"
+
+msgid "Speeds up loading of content, but is less compatible with some plugins. Disable if some features of your site are not working in Web-App Mode."
+msgstr "加快加载内容，但与一些插件较不兼容。如果您网站的某些功能在Web应用程序模式中无法正常工作，请禁用。"
+
+msgid "Statistics"
+msgstr "统计数据"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Status Bar Color"
+msgstr "状态栏颜色"
+
+msgid "Style / Appearance"
+msgstr "样式/外观"
+
+msgid "Style and Appearance"
+msgstr "样式和外观"
+
+msgid "Submit Comment"
+msgstr "提交评论"
+
+msgid "Subtle Noise (default)"
+msgstr "隐约噪声（默认）"
+
+msgid "Sunkissed Orange"
+msgstr "阳光橙色"
+
+msgid "Support Forums"
+msgstr "支持论坛"
+
+msgid "Support QuickPress"
+msgstr "支持QuickPress"
+
+msgid "Switch Link"
+msgstr "切换链接"
+
+msgid "Switch To Mobile Version"
+msgstr "切换到移动版"
+
+msgid "Switch To Regular Theme"
+msgstr "切换到常规主题"
+
+msgid "Switch To iPad Version"
+msgstr "切换到iPad版本"
+
+msgid "Switch link destination"
+msgstr "切换链接目标"
+
+msgid "Tags"
+msgstr "标记"
+
+msgid "Tags &rsaquo; %s"
+msgstr "标签&rsaquo; %s"
+
+msgid "Tap the button above, then Add to Home Screen."
+msgstr "触摸以上按钮，然后触摸“添加到主屏幕”"
+
+msgid "Tap the center button below, then Add to Home Screen."
+msgstr "触按下面的中心按钮，然后触摸“添加到主屏幕”。"
+
+msgid "Text justification in post listings, single posts / comments, and pages"
+msgstr "文章列表、单篇文章/评论以及页面中的文本对齐"
+
+msgid "Text shading for headers, footer text"
+msgstr "标题、页脚文本的文本底纹"
+
+msgid "Thank you for supporting us!"
+msgstr "感谢您支持我们！"
+
+msgid "Thatch (dark)"
+msgstr "Thatch（黑）"
+
+msgid "Thatch (default)"
+msgstr "Thatch（默认）"
+
+msgid "The \"Share/Save\" button allows visitors to bookmark your site, share on popular services and via e-mail, or save to Instapaper. You may want to disable it if you use another sharing plugin."
+msgstr "\"分享/保存\"按钮允许访问者收藏您的网站，在流行的服务上或通过电子邮件分享，或保存到Instapaper。如果您使用其他共享插件，您可能需要禁用它。"
+
+msgid "The Account E-Mail you have entered is invalid. Please try again."
+msgstr "您输入的帐户电子邮件无效。请再试一次。"
+
+msgid "The Account E-Mail you have entered is not associated with a valid license.  Please check your Account E-Mail and try again."
+msgstr "您输入的帐户电子邮件没有相关联的有效许可证。请检查您的帐户电子邮件，然后再试一次。"
+
+msgid "The BraveNewCode Blog timed out."
+msgstr "BraveNewCode博客超时。"
+
+msgid "The BraveNewCode Forums timed out."
+msgstr "BraveNewCode论坛超时。"
+
+msgid "The Featured Content Gallery plugin does not work correctly with WPtouch Pro. Please disable it below in the Plugin Compatibility section."
+msgstr "Featured Content Gallery插件不能与WPtouch Pro一起正常使用。请在以下插件兼容性部分禁用它。"
+
+msgid "The WPtouch Pro admin panel / supported themes will be shown in this locale"
+msgstr "将以此语言环境显示WPtouch Pro管理面板/支持的主题"
+
+msgid "The context header shows for results pages (e.g. Search Results, Leave A Reply) and other labels and headings."
+msgstr "结果页面（例如搜索结果、回复）和其他标签和标题显示上下文页眉。"
+
+msgid "The import key you used is not valid.  Please try a copy/paste of your key again."
+msgstr "您使用的导入密钥无效。请再次尝试拷贝/粘贴您的钥匙。"
+
+msgid "The push message and account tabs are shown/hidden automatically."
+msgstr "推送消息和帐户标签将自动显示/隐藏。"
+
+msgid "The startup splash screen image is located inside this theme folder at: /iphone/images/startup.png "
+msgstr "启动画面图像位于此主题文件夹内：/iphone/images/startup.png"
+
+msgid "The welcome message shows below the header for visitors until dismissed."
+msgstr "欢迎消息在页眉下面显示给访客，直至被关闭。"
+
+msgid "Theme &amp; Page Compatibility"
+msgstr "主题和页面兼容性"
+
+msgid "Theme Browser"
+msgstr "主题浏览器"
+
+msgid "Theme General"
+msgstr "主题常规设置"
+
+msgid "Theme Location (relative to wp-content):<br />%s"
+msgstr "主题位置（相对于wp-content）：<br />%s"
+
+msgid "Theme Menu"
+msgstr "主题菜单"
+
+msgid "Theme Settings"
+msgstr "主题设置"
+
+msgid "Theme Skins"
+msgstr "主题皮肤"
+
+msgid "Theme Templates"
+msgstr "主题模板"
+
+msgid "Theme background image"
+msgstr "主题背景图片"
+
+msgid "Theme switch styling"
+msgstr "主题切换风格"
+
+msgid "Themes"
+msgstr "主题"
+
+msgid "There are currently no active plugins to disable."
+msgstr "目前没有可禁用的活动插件。"
+
+msgid "There are currently no themes installed."
+msgstr "目前没有安装主题。"
+
+msgid "There are no WordPress pages available to configure."
+msgstr "没有WordPress页面可供配置。"
+
+msgid "There is a new version of WPtouch Pro available."
+msgstr "新的WPtouch Pro版本可用。"
+
+msgid "There seems to have been a problem posting your support question.  Please try again later."
+msgstr "发布您的支持问题时似乎出错了。请稍后再试。"
+
+msgid "There was an error logging into your account. Please try again"
+msgstr "登录到您的帐户时出现错误。请再试一次"
+
+msgid "There was an error resetting your licenses. Please contact customer support."
+msgstr "重置您的许可证时出错。请联系客户支持。"
+
+msgid "These settings affect the display of posts on the WPtouch blog, blog archive & search pages."
+msgstr "这些设置会影响WPtouch博客上的文章、博客存档和搜索页面的显示。"
+
+msgid "These settings require the %sFlickrRSS%s plugin to be installed:"
+msgstr "这些设置需要安装%sFlickrRSS%s插件："
+
+msgid "These settings require the %sWordTwit Pro%s plugin to be installed:"
+msgstr "这些设置要求安装%sWordTwit Pro%s插件："
+
+msgid "These templates are custom to WPtouch. They trigger a new menu item which can be configured in the menu settings once activated here."
+msgstr "这些模板是为WPtouch定制的。它们触发新的菜单项，一旦在此激活，可在菜单设置中进行配置。"
+
+msgid "Thick Stripes"
+msgstr "粗条纹"
+
+msgid "Thin Stripes"
+msgstr "细条纹"
+
+msgid "This Account E-Mail/License Key combination you have entered was rejected by the BraveNewCode server. Please try again."
+msgstr "您输入的这个帐户电子邮件/许可证密钥组合被BraveNewCode服务器拒绝。请再试一次。"
+
+msgid "This background shows in the landscape menu."
+msgstr "在横向菜单中显示此背景。"
+
+msgid "This copy of WPtouch Pro %s is unlicensed."
+msgstr "此WPtouch Pro%s副本未授权许可。"
+
+msgid "This copy of WPtouch Pro is partially activated."
+msgstr "此WPtouch Pro副本已部分激活。"
+
+msgid "This is an external link."
+msgstr "这是个外部链接。"
+
+msgid "This key represents a backup of all WPtouch Pro settings.<br />You can cut and paste it into another installation, or save the data to restore at a later time."
+msgstr "这个密钥代表所有WPtouch Pro设置的备份。<br />您可以将其剪切并粘贴到其他安装，或保存此数据以便日后恢复。"
+
+msgid "This operation cannot be undone."
+msgstr "此操作无法撤消。"
+
+msgid "This option can be used to include an attached image in the page content.  The image is only included if it doesn't already exist in the page content."
+msgstr "此选项可用于在页面内容中包括一个附加图像。仅当页面内容中没有此图像时才包含此图像。"
+
+msgid "This option can be used to include an attached image in the post content.  The image is only included if it doesn't already exist in the post content."
+msgstr "此选项可用于在文章内容中包括附加的图像。仅当文章内容中未包含此图像时才包含此图像。"
+
+msgid "This option reduces the loading time for pages, but may cause issues with the menu when permalinks are non-standard or on another domain."
+msgstr "此选项可减少页面载入时间，但如果永久链接是非标准的或在另一个域上，可能会导致与菜单相关的问题。"
+
+msgid "This option will force  the WordPress multisite panels to be displayed. This option should only be used on an actual multisite installation."
+msgstr "此选项将强制显示WordPress多网站面板。此选项只应在实际的多网站安装中使用。"
+
+msgid "This option will include and load the functions.php from the active WordPress theme.  This may be required for themes with custom field features like post images, etc. This option will cause hidden files to be written to your desktop theme directory."
+msgstr "此选项将包含并加载启用的WordPress主题中的functions.php。对于带有文章图像等自定义字段功能的主题，此选项可能是必须的。此选项会导致隐藏文件被写入到您的桌面主题的目录中。"
+
+msgid "This page is not mobile formatted."
+msgstr "此网页没有针对移动设备进行格式化。"
+
+msgid "This plugin will not work correctly in WPtouch Pro, and should be disabled below in the Plugin Compatibility section."
+msgstr "这个插件将无法工作在WPtouch Pro中正确运行，应该在插件兼容性部分禁用。"
+
+msgid "This post is password protected. Enter the password to view comments"
+msgstr "此文章受密码保护。请输入密码以查看评论"
+
+msgid "This setting can be used to convert a regular WordPress page into a page that shows the latest posts."
+msgstr "可以使用此设置将普通的WordPress页面转换成显示最新文章的页面。"
+
+msgid "This will govern the color of all text in the footer, except for links."
+msgstr "这将管理页脚中所有文本的颜色，链接除外。"
+
+msgid "Thonburi"
+msgstr "Thonburi"
+
+msgid "Thonburi-Bold"
+msgstr "Thonburi-Bold"
+
+msgid "Thumbnail Icons"
+msgstr "缩略图图标"
+
+msgid "TimesNewRomanPSMT"
+msgstr "TimesNewRomanPSMT"
+
+msgid "Tools and Debug"
+msgstr "工具和调试"
+
+msgid "Top"
+msgstr "顶部"
+
+msgid "Top Categories"
+msgstr "热门分类"
+
+msgid "Top Tags"
+msgstr "热门标签"
+
+msgid "Topic Tags"
+msgstr "主题标记"
+
+msgid "Topic Title"
+msgstr "主题标题"
+
+msgid "Trash"
+msgstr "垃圾"
+
+msgid "TrebuchetMS"
+msgstr "TrebuchetMS"
+
+msgid "TrebuchetMS-Bold"
+msgstr "TrebuchetMS-Bold"
+
+msgid "Turn it on in Settings -> Safari to view this mobile website correctly."
+msgstr "在设置 -> Safari中将其打开，以正确查看这个移动网站。"
+
+msgid "Turn it on in browser settings to view this mobile website."
+msgstr "在浏览器设置打开它以查看这个移动网站。"
+
+msgid "Turn it on in browser settings to view this rich mobile website."
+msgstr "在浏览器设置中打开它以查看这个内容丰富的移动网站。"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "UNLICENSED"
+msgstr "未授权许可"
+
+msgid "URL for iPad logo Image shown in the landscape menu"
+msgstr "横向菜单中显示的iPad徽标图像的网址"
+
+msgid "URL path to a custom background"
+msgstr "自定义背景的网址路径"
+
+msgid "URL to a custom CSS file"
+msgstr "自定义CSS文件的网址"
+
+msgid "URL to a custom header logo"
+msgstr "自定义标题徽标的网址"
+
+msgid "URL to a custom header logo (Retina Sized @ 2x)"
+msgstr "自定义页眉徽标的网址（Retina尺寸为2倍）"
+
+msgid "URL to custom content area background"
+msgstr "自定义内容区域背景的网址"
+
+msgid "URL to custom sidebar area background (repeated X and Y)"
+msgstr "自定义侧栏区域背景的网址（重复的X和Y）"
+
+msgid "URL to iPad Landscape startup screen (1024x748) (.png) (iOS 5)"
+msgstr "iPad横向启动屏幕文件(1024x748) (.png)的网址(iOS 5)"
+
+msgid "URL to iPad Portrait startup screen (768x1004) (.png)"
+msgstr "iPad纵向启动屏幕文件(768x1004) (.png)的网址"
+
+msgid "URL to iPhone 4 Retina Display startup screen (640x920) (.png) (iOS 5)"
+msgstr "iPhone 4 Retina显示屏启动屏幕文件(640x920) (.png)的网址 (iOS 5)"
+
+msgid "URL to iPhone startup screen (320x460) (.png)"
+msgstr "iPhone启动屏幕文件(320x460) (.png)的网址"
+
+msgid "URL will be opened in Mobile Safari.  This feature is sometimes required for external links."
+msgstr "将在Mobile Safari中打开网址。外部链接有时需要这个功能。"
+
+msgid "Unique to iPad, all colors, gradients & shading are done in CSS, optimized for maximum speed"
+msgstr "iPad的独特之处是，所有的颜色、渐变和底纹都使用CSS实现，经过优化以实现最大速度"
+
+msgid "Unzipping icon set..."
+msgstr "正在解压图标集..."
+
+msgid "Upgrade Available"
+msgstr "有可用的升级"
+
+msgid "Upload Icon / Set"
+msgstr "上传图标/图标集"
+
+msgid "Upload Icons + Icon Sets"
+msgstr "上传图标+图标集"
+
+msgid "Upload complete, processing file..."
+msgstr "上传完成，正在处理文件..."
+
+msgid "Upload completed."
+msgstr "上传完成。"
+
+msgid "Uploading Icons"
+msgstr "正在上传图标"
+
+msgid "Uploading..."
+msgstr "正在上传..."
+
+msgid "Use \"dark\" for dark backgrounds, \"light\" for light backgrounds"
+msgstr "深色背景用\"暗\"，明亮背景用\"亮\""
+
+msgid "Use AJAX to load posts and pages"
+msgstr "使用AJAX加载文章和页面"
+
+msgid "Use WPtouch Archives template"
+msgstr "使用WPtouch存档模板"
+
+msgid "Use WPtouch Links template"
+msgstr "使用WPtouch链接模板"
+
+msgid "Use compatibility CSS"
+msgstr "使用兼容性CSS"
+
+msgid "Use glossy bookmark icon"
+msgstr "使用光亮书签图标"
+
+msgid "Use menu icon for menu button"
+msgstr "菜单按钮使用菜单图标"
+
+msgid "Use menu icons"
+msgstr "使用菜单图标"
+
+msgid "Use mobile WPtouch FlickrRSS Photos template"
+msgstr "使用移动WPtouch FlickrRSS Photos模板"
+
+msgid "Use mobile WPtouch Photos template"
+msgstr "使用移动WPtouch Photos模板"
+
+msgid "Use startup screens"
+msgstr "使用启动屏幕"
+
+msgid "Use startup splash screen image"
+msgstr "使用启动画面图像"
+
+msgid "Used to adjust the menu sort order for WPtouch Pro themes "
+msgstr "用于调整WPtouch Pro主题的菜单排序"
+
+msgid "Useful when developing. Will make sure WPtouch Pro browser cache of Javascript and CSS files is updated on every page refresh."
+msgstr "在开发时非常有用。将确保WPtouch Pro浏览器缓存的Javascript和CSS文件在每次页面刷新都得到更新。"
+
+msgid "User Agents"
+msgstr "用户代理"
+
+msgid "User Registration"
+msgstr "用户注册"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Username or E-Mail"
+msgstr "用户名或电子邮件"
+
+msgid "Various Colors"
+msgstr "各种颜色"
+
+msgid "Verbose (5)"
+msgstr "详细（5）"
+
+msgid "Verdana"
+msgstr "Verdana"
+
+msgid "Verdana-Bold"
+msgstr "Verdana-Bold"
+
+msgid "View version details"
+msgstr "查看版本的详细信息"
+
+msgid "Violet Purple"
+msgstr "紫罗兰色"
+
+msgid "Visit %sWikipedia%s for a list of device user agents"
+msgstr "访问%sWikipedia%s以获得设备用户代理的列表"
+
+msgid "Visiting this link will cause you to leave Web-App Mode.  Are you sure?"
+msgstr "访问此链接将导致您离开Web应用程序模式。确定吗？"
+
+msgid "WP Mobile edition should be configured to exclude the user agents that WPtouch Pro is enabled for (\"iphone\", \"ipod\", \"aspen\", \"incognito\", \"webmate\", \"dream\", \"android\", \"cupcake\", \"froyo\", \"blackberry9500\", \"blackberry9530\", \"blackberry9520\", \"blackberry9550\", \"webos\")."
+msgstr "WP Mobile版本必须进行配置以排除WPtouch Pro为以下设备启用的用户代理：(\"iphone\", \"ipod\", \"aspen\", \"incognito\", \"webmate\", \"dream\", \"android\", \"cupcake\", \"froyo\", \"blackberry9500\", \"blackberry9530\", \"blackberry9520\", \"blackberry9550\", \"webos\")。"
+
+msgid "WPtouch Landing Page"
+msgstr "WPtouch登陆页"
+
+msgid "WPtouch News"
+msgstr "WPtouch新闻"
+
+msgid "WPtouch Pro"
+msgstr "WPtouch Pro"
+
+msgid "WPtouch Pro Beta Changelog"
+msgstr "WPtouch Pro测试版更新日志"
+
+msgid "WPtouch Pro Changelog"
+msgstr "WPtouch Pro更新日志"
+
+msgid "WPtouch Pro Developer Mode: ON"
+msgstr "WPtouch Pro开发者模式：开"
+
+msgid "WPtouch Pro Help & Account Links"
+msgstr "WPtouch Pro帮助和帐户链接"
+
+msgid "WPtouch Pro Menu"
+msgstr "WPtouch Pro菜单"
+
+msgid "WPtouch Pro cannot co-exist with WPtouch 1.x.  Disable it first in the WordPress Plugins settings."
+msgstr "WPtouch Pro无法与WPtouch 1.x共同存在。请先在WordPress插件设置中禁用它。"
+
+msgid "WPtouch Pro is a plugin to build a mobile theme for your website tailored for <a href=\"http://www.apple.com/iphone/\">Apple iPhone</a> / <a href=\"http://www.apple.com/ipodtouch/\">iPod touch</a> / <a href=\"http://www.apple.com/ipad/\">iPad</a>, <a href=\"http://www.android.com/\">Google Android</a>, <a href=\"http://www.blackberry.com/\">Blackberry Storm & Torch</a> and other touch mobile devices."
+msgstr "WPtouch Pro是个用于为您的网站构建移动主题的插件，专为<a href=\"http://www.apple.com/iphone/\">Apple iPhone</a> / <a href=\"http://www.apple.com/ipodtouch/\">iPod touch</a> / <a href=\"http://www.apple.com/ipad/\">iPad</a>、<a href=\"http://www.android.com/\">Google Android</a>、<a href=\"http://www.blackberry.com/\">Blackberry Storm & Torch</a>和其他触摸屏移动设备量身定制。"
+
+msgid "WPtouch Pro language"
+msgstr "WPtouch Pro语言"
+
+msgid "WPtouch Pro requires pretty permalinks to be enabled within WordPress. %sMore Info%s"
+msgstr "WPtouch Pro需要在WordPress中启用美观的永久链接。%s更多信息%s"
+
+msgid "WPtouch Pro will not work fully in safe mode. The ability to save custom icons/sets or themes, and write files like the debug log are not available."
+msgstr "WPtouch Pro在安全模式中不会充分工作。不能保存自定义图标/图标集或主题以及写调试日志之类的文件。"
+
+msgid "WPtouch natively supports ads from Google Adsense or Admob. May not show on all devices (limitations of these services)."
+msgstr "WPtouch原生支持Google Adsense或AdMob的广告。可能不会在所有设备上显示（这些服务的限制）。"
+
+msgid "WPtouch site title"
+msgstr "WPtouch网站标题"
+
+msgid "WPtouch will attempt to disable selected plugin hooks when WPtouch and your mobile theme are active. Check plugins to disable:"
+msgstr "当WPtouch和您的手机主题是活动的时候，WPtouch将尝试禁用选定的插件钩子。勾选要禁用的插件："
+
+msgid "WPtouch will show the load time and query count to help you find slow pages/posts on your site."
+msgstr "WPtouch会显示载入时间和查询次数，以帮助您找到您的网站上较慢的页面/文章。"
+
+msgid "WPtouchboard"
+msgstr "WPtouchboard"
+
+msgid "Warnings"
+msgstr "警告"
+
+msgid "Warnings (3)"
+msgstr "警告（3）"
+
+msgid "Warnings or Conflicts"
+msgstr "警告或冲突"
+
+msgid "Web-App Mode Settings"
+msgstr "Web应用程序模式设置"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Welcome message shown on 1st visit (HTML is OK)"
+msgstr "首次访问将显示欢迎消息（支持HTML）"
+
+msgid "Welcome, 404, Footer"
+msgstr "欢迎, 404, 页脚"
+
+msgid "When checked WPtouch overrides your WordPress homepage settings, and uses another page you select for its homepage."
+msgstr "选中后，WPtouch将覆盖您的WordPress首页设置，并使用您选作其首页的另一页面。"
+
+msgid "When checked WPtouch will allow iPhone, iPod touch and iPad visitors to bookmark your site to their home-screens as a web application."
+msgstr "选中后，WPtouch将允许iPhone、iPod touch和iPad访问者将您的网站作为Web应用程序收藏到它们的主屏幕上。"
+
+msgid "When checked WPtouch will remember and load the last visited page or post for a visitor when entering Web-App Mode."
+msgstr "选中后，当访问者进入Web应用程序模式时，WPtouch将会为其记住并载入最后访问的页面或文章。"
+
+msgid "When checked WPtouch will show a notice bubble on first visit letting users know about your web-app enabled website on iOS devices."
+msgstr "选中后，WPtouch会在用户首次访问时显示通知气泡，让用户知道您的在iOS设备上支持Web应用程序的网站。"
+
+msgid "When checked WPtouch will show the theme startup image while in web-app mode."
+msgstr "选中后，在Web应用程序模式时，WPtouch将显示主题启动图像。"
+
+msgid "When checked WPtouch will use the WordPress date format in themes that support it (set in WordPress -> Settings - > General)."
+msgstr "选中后，WPtouch将在支持它的主题中使用WordPress日期格式（在WordPress - >设置 - >常规中设置）。"
+
+msgid "When checked your website will show a startup image in Web-App Mode. If no paths are specified default startup screens will be used."
+msgstr "选中后，您的网站在Web应用程序模式时将显示启动图像。如果没有指定路径，则将使用默认的启动屏幕。"
+
+msgid "When unchecked WPtouch will not show a switch link allowing users to switch between the mobile view and your regular theme view"
+msgstr "未选中时，WPtouch不会显示允许用户切换移动视图和常规主题视图的切换链接。"
+
+msgid "When unchecked no icons will be shown beside menu items, even if configured in Menu + Icons."
+msgstr "未选中时，菜单项旁不会显示图标，即使在菜单+图标中进行了配置。"
+
+msgid "Will allow visitors to zoom in/out on content."
+msgstr "将允许访客放大/缩小内容。"
+
+msgid "Will always show account login/links in tab bar, even if registration for your website is not allowed."
+msgstr "将始终在标签栏中显示帐户登录/链接，即使您的网站不允许注册。"
+
+msgid "Will be shown automatically if you require accounts."
+msgstr "如果您需要帐户，将自动显示。"
+
+msgid "Will hide the address bar in compatible browsers on a page load, showing the WPtouch header as the top of the page."
+msgstr "加载页面时将隐藏兼容的浏览器中的地址栏，将WPtouch头部显示为页面顶部。"
+
+msgid "Will include 12 popular posts, ranked by comments."
+msgstr "将包括12篇热门文章（按评论排名）。"
+
+msgid "Will include 12 recent posts."
+msgstr "将包括12篇近期文章。"
+
+msgid "Will include up to 25 categories ranked by post count."
+msgstr "将最多包括25个类别（按文章数量排名）。"
+
+msgid "Will include up to 25 tags, alphabetically."
+msgstr "将最多包含25个标签，按字母顺序排列。"
+
+msgid "Will show a page thumbnail or featured image instead of the page icon used in the menu. If no thumbnail is specified, the page icon will be used instead."
+msgstr "将显示页面缩略图或特色图像，而不是菜单中使用的图标。如果没有指定缩略图，则将使用页面图标。"
+
+msgid "Will show the date in post listings where thumbnails or none are selected in the post icon settings. Does not affect calendar icons."
+msgstr "当文章图标设置中选择缩略图或完全没有选择时，将在文章列表中显示日期。不影响日历图标。"
+
+msgid "WordPress Pages"
+msgstr "WordPress页面"
+
+msgid "WordPress Thumbnails"
+msgstr "WordPress缩略图"
+
+msgid "WordPress Thumbnails/Featured Images"
+msgstr "WordPress缩略图/特色图像"
+
+msgid "WordPress Version"
+msgstr "WordPress版本"
+
+msgid "WordTwit Pro"
+msgstr "WordTwit Pro"
+
+msgid "Written by"
+msgstr "作者："
+
+msgid "You can choose between calendar icons or post thumbnails."
+msgstr "您可以在日历图标或文章缩略图之间进行选择。"
+
+msgid "You can choose between calendar icons, WordPress thumbnails, custom field thumbnails, or if activated, the Simple Post Thumbnails plugin."
+msgstr "您可以选择日历图标、WordPress缩略图、自定义字段缩略图，或者Simple Post Thumbnails插件（若激活）。"
+
+msgid "You can enter a custom RSS URL here, such as a FeedBurner feed. When left blank, the default website RSS Feed is used."
+msgstr "您可以在此输入自定义RSS网址，如FeedBurner源。留空时将使用默认的网站RSS源。"
+
+msgid "You can enter a custom email address here. When left blank the default admin email is used."
+msgstr "您可以在此输入一个自定义的电子邮件地址。留空时，将使用默认的管理员电子邮件。"
+
+msgid "You can enter custom advertising code (images, links, scripts, etc.) here"
+msgstr "您可以在此输入自定义的广告代码（图像、链接、脚本等）"
+
+msgid "You can enter up to 3 custom menu links to be shown in the WPtouch header menu."
+msgstr "您最多可以输入3个自定义菜单链接以在WPtouch头部菜单中显示。"
+
+msgid "You can find both of these in the purchase receipt we sent to you."
+msgstr "您可以在我们发给您的购买收据中找到这两个。"
+
+msgid "You can reset all support and auto-upgrade licenses every %d days."
+msgstr "您可以每%d天重置所有支持和自动升级许可证。"
+
+msgid "You have activated these sites for automatic upgrades & support:"
+msgstr "您已激活这些网站以获得自动升级和支持："
+
+msgid "You have not activated a license for this WordPress installation."
+msgstr "您还没有为安装的这个WordPress激活许可证。"
+
+msgid "You must add at least one account in WordTwit Pro."
+msgstr "您必须在WordTwit Pro至少添加一个帐户。"
+
+msgid "You must be %slogged in%s to post a comment."
+msgstr "您必须%s登录%s才能发表评论。"
+
+msgid "You will be able to reset all licenses again in %d day(s)."
+msgstr "您可以在%d天内再次重置所有许可证。"
+
+msgid "Your Account E-Mail + License Key are used to activate licenses for support and auto-upgrades."
+msgstr "您的帐户电子邮件和许可证密钥用于激活站点许可证以获得支持和自动升级。"
+
+msgid "Your Account E-Mail and License Key have been accepted. <br />Next, %sconnect a site license%s to this domain to enable support and automatic upgrades."
+msgstr "您的帐户电子邮件和许可证密钥已被接受。 <br />接下来，%s连接网站许可证%s到这一域以启用支持和自动升级。"
+
+msgid "Your Adsense Channel"
+msgstr "您的AdSense渠道"
+
+msgid "Your Backup Key was copied to the clipboard."
+msgstr "您的备份密钥被复制到剪贴板。"
+
+msgid "Your Website Address"
+msgstr "您的网站地址"
+
+msgid "Your comment was published."
+msgstr "您的评论已经发布。"
+
+msgid "Your file is currently being uploaded, please wait."
+msgstr "正在上传您的文件，请等待。"
+
+msgid "Your message failed to send. Please try again."
+msgstr "您的消息发送失败。请再试一次。"
+
+msgid "Your new icon is available below."
+msgstr "您的新图标在下面可用。"
+
+msgid "Your new set is available below."
+msgstr "您的新图标集在下面可用。"
+
+msgid "Your push message failed. Please try again."
+msgstr "您推送消息失败。请再试一次。"
+
+msgid "Your regular theme will be shown to 1st time mobile visitors first, with the Mobile View switch link available in the footer."
+msgstr "您的常规主题将会显示给首次到访的手机访客，页脚有“移动视图”切换链接。"
+
+msgid "Your support question has been posted!"
+msgstr "您的支持问题已经发布！"
+
+msgid "Your upload has completed, please wait while your file is processed."
+msgstr "上传已完成，请等候您的文件处理完成。"
+
+msgid "[device] and [icon] are dynamic and used to determine the device and iOS version. Do not remove these from your message."
+msgstr "[device]和[icon]是动态的，用来确定设备和iOS版本。不要将它们从您的消息中删除。"
+
+msgid "accounts"
+msgstr "帐户"
+
+msgid "associate them with menu pages."
+msgstr "将它们与菜单页面关联。"
+
+msgid "back"
+msgstr "返回"
+
+msgid "blog"
+msgstr "博客"
+
+msgid "by %s"
+msgstr "作者：%s"
+
+msgid "e.g. FFFFFF, (Hex without #)"
+msgstr "例如 FFFFFF，（十六进制无#）"
+
+msgid "forward"
+msgstr "转发"
+
+msgid "http://bravenewcode.com/wptouch-pro"
+msgstr "http://bravenewcode.com/wptouch-pro"
+
+msgid "http://www.bravenewcode.com"
+msgstr "http://www.bravenewcode.com"
+
+msgid "iOS / Webkit"
+msgstr "iOS / Webkit"
+
+msgid "iOS Web-App Mode"
+msgstr "iOS Web应用程序模式"
+
+msgid "iPad"
+msgstr "iPad"
+
+msgid "iPad Homescreen"
+msgstr "iPad主屏幕"
+
+msgid "iPad Settings"
+msgstr "iPad设置"
+
+msgid "iPad Support"
+msgstr "iPad支持"
+
+msgid "iPad Theme"
+msgstr "iPad主题"
+
+msgid "iPad Theme OFF"
+msgstr "iPad主题关闭"
+
+msgid "iPad thatch (default)"
+msgstr "iPad茅草屋顶（默认）"
+
+msgid "iPad theme ON"
+msgstr "iPad主题开启"
+
+msgid "iPhone/Android Homescreen"
+msgstr "iPhone / Android主屏幕"
+
+msgid "is now web-app enabled!"
+msgstr "现在已支持Web应用程序！"
+
+msgid "menu"
+msgstr "菜单"
+
+msgid "menu list image"
+msgstr "菜单列表图像"
+
+msgid "menu navigation"
+msgstr "菜单导航"
+
+msgid "push messages"
+msgstr "推送消息"
+
+msgid "search"
+msgstr "搜索"

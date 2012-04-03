@@ -1,0 +1,2778 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " | Edit"
+msgstr "| Endre"
+
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+msgid "% Responses"
+msgstr "%s svar"
+
+msgid "%1$s &bull; %2$s <span class=\"meta-sep\"></span>"
+msgstr "%1$s &bull; %2$s <span class=\"meta-sep\"></span>"
+
+msgid "%1$s - %2$s <span class=\"meta-sep\"></span>"
+msgstr "%1$s - %2$s <span class=\"meta-sep\"></span>"
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "%d dag siden"
+msgstr[1] "%d dager siden"
+
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d time siden"
+msgstr[1] "%d timer siden"
+
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d minutter siden"
+msgstr[1] "%d minutter siden"
+
+msgid "%d queries in %0.1f ms"
+msgstr "%d søk i løpet av %0.1f ms"
+
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "%d sekund siden"
+msgstr[1] "%d sekunder siden"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Theme Image"
+msgstr "%s temabilde"
+
+msgid "%s%d%s license(s) remaining."
+msgstr "%s%d%s lisens(er) gjenstår."
+
+msgid "%sAlso, ads will not be shown in Developer Mode on desktop browsers unless the user agent is changed in the browser to a supported device.%s"
+msgstr "%sOgså, vil ikke annonsene bli vist i utvikler-modus på skrivebordet eller nettlesere med mindre brukeragenten endres i nettleseren til en støttet enhet.%s"
+
+msgid "%sCopy Backup Key To Clipboard%s"
+msgstr "%skopier sikkerhetskopinøkkel til utklipsbord%s"
+
+msgid "%sDownload WPtouch Pro Icon Template%s (PSD)"
+msgstr "%sLast ned WPtouch Pro ikonmaler%s (PSD)"
+
+msgid "%sDownload WPtouch Pro iPhone 4 & iPad Icon Template%s (PSD)"
+msgstr "%sLast ned WPtouch Pro iPhone 4 & iPad ikonmal%s (PSD)"
+
+msgid "%sNOTE: A settings backup/restore does NOT include saved files, icons or themes inside the \"wp-content/wptouch-data/\" directory.%s"
+msgstr "%sMERK: En innstillinger sikkerhetskopiering / gjennopprett inkluderer ikke lagrede filer, ikoner eller temaer inne i \"wp-content/wptouch-data /\" katalogen.%s"
+
+msgid "%sNOTE: Changing the startup screen settings may require you to re-add to the home-screen on pre-iOS 5 devices.%s"
+msgstr "%sMERKNAD: Endring av oppstartsskjerminnstillinger kan kreve at du legger til på nytt på hjemskjermen pre-iOS 5 apparater.%s"
+
+msgid "%sNote: Adsense and Admob ads only show on service supported devices, and do NOT work in Web-App Mode%s"
+msgstr "%sMerk: Adsense og Admob ads vises kun på tjenestestøttede enheter, og virker IKKE i Web-App modus%s"
+
+msgid "%sOnline Icon Generator%s"
+msgstr "%sOnline ikongenerator%s"
+
+msgid "%sOpen Color Picker Tool%s"
+msgstr "%sÅpne fargevelgerverktøy%s"
+
+msgid "%sOpen colorpicker.com Color Picker%s"
+msgstr "%sOpen colorpicker.com Color Picker%s"
+
+msgid "%sRegenerate Plugin List%s"
+msgstr "%sOppdater Innstikkslisten%s"
+
+msgid "%sSorry, the content you were looking for cannot be found. Please use the menu in the header to access the site search, or browse other site content.%s"
+msgstr "%sBeklager, innholdet du ser etter ble ikke funnet. Bruk menyen øverst for å få tilgang til søkeside, eller søk etter annet sideinnhold.%s"
+
+msgid "%sWPtouch Pro%s is a trademark of BraveNewCode Inc."
+msgstr "%sWPtouch Pro%s er et varemerke til BraveNewCode Inc."
+
+msgid "&harr; Developer Mode for"
+msgstr "&harr; Utviklermodus for"
+
+msgid "&harr; On this site I want to"
+msgstr "&harr; På denne siden vil jeg"
+
+msgid "&harr; Use this RSS feed URL"
+msgstr "&harr; Bruk denne RSS-matings URL"
+
+msgid "&harr; Use this e-mail address"
+msgstr "&harr; Bruk denne e-postadressen"
+
+msgid "(%s)"
+msgstr "(%s)"
+
+msgid "(Requires Prowl app on iPhone / iPod touch, or Growl setup with Prowl on a Mac)"
+msgstr "(Krever Prowl-appen på iPhone/iPod touch, eller Growl med Prowl på en Mac)"
+
+msgid "(drag here to reset icon)"
+msgstr "(dra her for å stille inn ikon på nytt)"
+
+msgid "***Some fonts may not be available on all devices***"
+msgstr "***Noen skrifttyper er ikke tilgjengelig for alle apparater***"
+
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+msgid "1 Response"
+msgstr "1 svar"
+
+msgid "11px"
+msgstr "11px"
+
+msgid "12px"
+msgstr "12px"
+
+msgid "13px"
+msgstr "13px"
+
+msgid "14px"
+msgstr "14px"
+
+msgid "15px"
+msgstr "15px"
+
+msgid "16px"
+msgstr "16px"
+
+msgid "17px"
+msgstr "17px"
+
+msgid "18px"
+msgstr "18px"
+
+msgid "19px"
+msgstr "19px"
+
+msgid "1st time visitors see desktop theme"
+msgstr "Førstegangsbesøkende ser standardtemaet"
+
+msgid "20px"
+msgstr "20px"
+
+msgid "21px"
+msgstr "21px"
+
+msgid "22px"
+msgstr "22px"
+
+msgid "23px"
+msgstr "23px"
+
+msgid "24px"
+msgstr "24px"
+
+msgid "25px"
+msgstr "25px"
+
+msgid "26px"
+msgstr "26px"
+
+msgid "27px"
+msgstr "27px"
+
+msgid "28px"
+msgstr "28px"
+
+msgid "29px"
+msgstr "29px"
+
+msgid "30px"
+msgstr "30px"
+
+msgid "404 Not Found"
+msgstr "404 Ikke funnet"
+
+msgid "<small>NOTE: You can regenerate your WordPress thumbnails using the %sRegenerate Thumbnails%s plugin.<br />This will tell wordpress to make new thumbnails for WPtouch this size.</small>"
+msgstr "<small>MERK: Du kan regenerere dine WordPress-miniatyrbilder ved å bruke %sGenerer miniatyrbilder%s plugin.<br />Dette vil be wordpress om å opprette nye miniatyrbilder for WPtouch-på denne størrelsen.</small>"
+
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span><span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span>\n\t\t<br />at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a><br />in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Published </span><span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span>\n\t\t<br />at <a href=\"%3$s\" title=\"Lenke til fullstørrelsesbilde\">%4$s &times; %5$s</a><br />in <a href=\"%6$s\" title=\"Gå tilbake til %7$s\" rel=\"galleri\">%7$s</a>"
+
+msgid "<span class='unapproved'>Your comment is awaiting moderation.</span>"
+msgstr "<span class='unapproved'>Din kommentar venter på moderering.</span>"
+
+msgid "ACTIVATION REQUIRED"
+msgstr "AKTIVERING KREVES"
+
+msgid "Above content"
+msgstr "Over innhold"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Account & Downloads"
+msgstr "Konto og nedlasting"
+
+msgid "Account + Key"
+msgstr "Konto + Nøkkel"
+
+msgid "Account E-Mail"
+msgstr "E-postkonto"
+
+msgid "Account Information"
+msgstr "Kontoinformasjon"
+
+msgid "Account Login"
+msgstr "Kontoinnlogging"
+
+msgid "Account Profile"
+msgstr "Kontoprofil"
+
+msgid "Action"
+msgstr "Handling"
+
+msgid "Activate"
+msgstr "Aktiver"
+
+msgid "Activate This WordPress installation &raquo;"
+msgstr "Aktiver denne WordPress installasjonen &raquo;"
+
+msgid "Activate a Site License"
+msgstr "Aktiver en nettstedslisens"
+
+msgid "Activating license, please wait..."
+msgstr "Aktiverer lisens, vennligst vent..."
+
+msgid "Active Icon Set: "
+msgstr "Aktiver ikonsett:"
+
+msgid "Active Theme"
+msgstr "Aktive temaer"
+
+msgid "Active skin"
+msgstr "Aktive trekk"
+
+msgid "Add a New Topic to the Pro Forums"
+msgstr "Legg til nytt emne på Pro-forumene"
+
+msgid "Add a link for the admin <strong>Email</strong> in the menu"
+msgstr "Legg en lenke til for admin <strong>Email</strong> i menyen"
+
+msgid "Add a link to %sHome%s in the menu"
+msgstr "Legg en lenke til %sHome%s i menyen"
+
+msgid "Add a link to the site %sRSS%s feed in the menu"
+msgstr "Legg en lenke til stedet %sRSS%s mating i menyen"
+
+msgid "Add a site license &raquo;"
+msgstr "Legg til lisens &raquo;"
+
+msgid "Add the compat.css file from the theme folder. Contains various CSS declarations for a variety of plugins."
+msgstr "Legg til compat.css-filen fra temamappen. Inneholder diverse CSS-deklarasjoner for diverse innstikk."
+
+msgid "Add them in the 'Manage Icons + Sets' area"
+msgstr "Legg dem til i \"Håndter ikoner og sett\"-området"
+
+msgid "Additional Menu Items"
+msgstr "Ekstra menygjenstander"
+
+msgid "Adds a push message form in the header to allow visitors to send messages to you."
+msgstr "Legger til et pushvarslingsskjema i toppteksten som gjør at besøkere kan sende beskjeder til deg."
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Admob Ads"
+msgstr "Admob Ads"
+
+msgid "Admob Publisher ID"
+msgstr "Admob Publisher ID"
+
+msgid "Adsense Channel ID"
+msgstr "Adsense kanal-ID"
+
+msgid "Adsense Publisher ID"
+msgstr "Adsense Publisher ID"
+
+msgid "Advanced"
+msgstr "Avansert"
+
+msgid "Advertising"
+msgstr "Reklame"
+
+msgid "Advertising &amp; Stats"
+msgstr "Reklame &amp; Stater"
+
+msgid "Advertising Display"
+msgstr "Reklamevisning"
+
+msgid "Advertising code (HTML or JavaScript)"
+msgstr "Reklamerer kode (HTML eller JavaScript)"
+
+msgid "Advertising display location"
+msgstr "Reklamens visningssted"
+
+msgid "Advertising support"
+msgstr "Reklamestøtte"
+
+msgid "All Pages (Home, Blog, Single Post, Pages, Search)"
+msgstr "Alle sider (Hjem, Blogg, Enkelt innlegg, Sider, Søk)"
+
+msgid "All of your licenses will be reset.  Are you sure?"
+msgstr "Alle dine lisenser vil bli stilt inn på nytt. Er du sikker?"
+
+msgid "Allow users to send direct messages"
+msgstr "Tillat brukere å sende direktemeldinger"
+
+msgid "Allow zooming"
+msgstr "Tillat zooming"
+
+msgid "Always refresh theme JS and CSS files"
+msgstr "Oppdater alltid tema JS og CSS-filer"
+
+msgid "AmericanTypewriter"
+msgstr "AmericanTypewriter"
+
+msgid "AmericanTypewriter-Bold"
+msgstr "AmericanTypewriter-Fet"
+
+msgid "AmericanTypewriter-Condensed"
+msgstr "AmericanTypewriter-Sammenfattet"
+
+msgid "Archives"
+msgstr "Arkiver"
+
+msgid "Archives &rsaquo; %s"
+msgstr "Arkiver &rsaquo; %s"
+
+msgid "Arial-BoldMT"
+msgstr "Arial-FetMT"
+
+msgid "ArialMT"
+msgstr "ArialMT"
+
+msgid "Article Pages"
+msgstr "Artikkelsider"
+
+msgid "At a Glance"
+msgstr "Overblikk"
+
+msgid "Attached image location in post content"
+msgstr "Vedlagt bildebeliggenhet i postinnhold"
+
+msgid "Author Website"
+msgstr "Forfatters nettsted"
+
+msgid "Auto-detect"
+msgstr "Automatisk"
+
+msgid "Available Skins"
+msgstr "Tilgjengelige trekk"
+
+msgid "Back"
+msgstr "Tilbake"
+
+msgid "Back One Day"
+msgstr "Tilbake én dag"
+
+msgid "Back One Month"
+msgstr "Tilbake én måned"
+
+msgid "Back One Year"
+msgstr "Tilbake ett år"
+
+msgid "Back in Category"
+msgstr "Tilbake i kategori"
+
+msgid "Back in Search"
+msgstr "Tilbake i søk"
+
+msgid "Back in Tag"
+msgstr "Tilbake i stikkord"
+
+msgid "Back to Top"
+msgstr "Tilbake til toppen"
+
+msgid "Background"
+msgstr "Bakgrunn"
+
+msgid "Background hex color (without #)"
+msgstr "Bakgrunn hex-farge (uten #)"
+
+msgid "Background tile"
+msgstr "Bakgrunnstittel"
+
+msgid "Backup"
+msgstr "Sikkerhetskopi"
+
+msgid "Backup Settings"
+msgstr "Instillinger for sikkerhetskopiering"
+
+msgid "Backup/Import"
+msgstr "Sikkerhetskopieri/Import"
+
+msgid "Baskerville"
+msgstr "Baskerville"
+
+msgid "Baskerville-Bold"
+msgstr "Baskerville-Fet"
+
+msgid "Below content"
+msgstr "Under innhold"
+
+msgid "Below the header"
+msgstr "Under toppteksten"
+
+msgid "Bevelled Dots"
+msgstr "Fremhevede prikker"
+
+msgid "Black"
+msgstr "Svart"
+
+msgid "Black Translucent"
+msgstr "Svart gjennomskinnelig"
+
+msgid "Blog Listings"
+msgstr "Blogglistinger"
+
+msgid "Blue Ocean"
+msgstr "Blue Ocean"
+
+msgid "Body and Post Styling"
+msgstr "Body- og Poststil"
+
+msgid "Bottom"
+msgstr "Bunn"
+
+msgid "BraveNewCode on Twitter"
+msgstr "BraveNewCode på Twitter"
+
+msgid "Browse Last 12 Months"
+msgstr "Bla i de siste 12 månedene"
+
+msgid "Browse Last 15 Posts"
+msgstr "Bla i de siste 15 innleggene"
+
+msgid "Browser User Agent"
+msgstr "Nettlesers brukeragent"
+
+msgid "By"
+msgstr "Ved"
+
+msgid "By %s"
+msgstr "Av %s"
+
+msgid "By BraveNewCode"
+msgstr "Av BraveNewCode"
+
+msgid "Cache menu items to reduce database queries"
+msgstr "Cache menygjenstander for å redusere databaseforespørsler"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Calendar Icons"
+msgstr "Kalenderikoner"
+
+msgid "Calendar icons background color"
+msgstr "Bakgrunnsfarge for kalenderikon"
+
+msgid "Calendar/Thumbnail Icons"
+msgstr "Kalender/tommelfingerikoner"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Categories &rsaquo; %s"
+msgstr "Kategorier &rsaquo; %s"
+
+msgid "Change this to whatever you'd like for your 404 page message."
+msgstr "Endre dette til hva du vil for 404-siden meldingen."
+
+msgid "Changes the default glossy look to other styles."
+msgstr "Endre søk etter gloser fra standard til andre stiler."
+
+msgid "Changing this setting will not affect existing post thumbnails."
+msgstr "Å endre disse innstillingene vil ikke påvirke eksisterende post-miniatyrbilder."
+
+msgid "Check All"
+msgstr "Velg alle"
+
+msgid "Check out this article:"
+msgstr "Sjekk ut denne artikkelen:"
+
+msgid "Check out this post:"
+msgstr "Se dette innlegget:"
+
+msgid "Check this to disable showing each menu parent as a clickable child item. NOTE: Parent link will not be accessible with this option enabled."
+msgstr "Kontroller dette for å deaktivere visning  av hver meny forelder som en klikkbar barn element. MERK: Foreldre linken vil ikke bli tilgjengelig med dette alternativet aktivert."
+
+msgid "Check this to disable the WPtouch menus altogether (useful for custom themes with menus built outside our code that do not use  WPtouch Pro settings)."
+msgstr "Sjekk denne for å koble fra WPtouch-menyene fullstendig (brukbar for skreddersying av temaer med menyer bygd på utsiden av vår kode slik at den ikke bruker WPtouch Pro-innstillinger)."
+
+msgid "Choose a background tile for your theme."
+msgstr "Velg bakgrunnsbilde (som gjentas) for ditt tema."
+
+msgid "Choose a background tile for your theme. Will be repeated vertically and horizontally."
+msgstr "Velg en bakgrunnstittel for ditt tema. Vil bli gjentatt vertikalt og horisontalt."
+
+msgid "Choose between a variety of color package header styles."
+msgstr "Velg mellom et utgalv av fargepakker overskriftstiler."
+
+msgid "Choose between grey (default), black or black-translucent."
+msgstr "Velg mellom grå (standard), svart eller svart-gjennomskinnelig."
+
+msgid "Choose between the same URL from which a user chooses to switch, or your Homepage as the switch link destination."
+msgstr "Velg mellom samme nettadresse hvor en bruker velger å bytte, eller din hjemmeside som bytter koblingsdestinasjon."
+
+msgid "Choose how excerpts are handled in the blog. Search and archive templates always use excerpts."
+msgstr "Velg hvordan utdrag blir behandlet i bloggen. Søk- og arkivmaler bruker alltiv utdrag."
+
+msgid "Choose the appearance of your Calendar icons."
+msgstr "Velg utseendet til kalenderikoner."
+
+msgid "Choose where you would like your ads positioned."
+msgstr "Velg hvor annonsense skal vises."
+
+msgid "Choose which page views you'd like ads displayed on"
+msgstr "Velg hvilken sidevisninger du vil at annonsene vises på"
+
+msgid "Classic 2.0"
+msgstr "Classic 2.0"
+
+msgid "Classic Black (Default)"
+msgstr "Classic Black (standard)"
+
+msgid "Classic Blue"
+msgstr "Classic Blue"
+
+msgid "Clean White"
+msgstr "Ren hvit"
+
+msgid "Client Mode"
+msgstr "Klientmodus"
+
+msgid "Close Message"
+msgstr "Lukk beskjed"
+
+msgid "Cochin"
+msgstr "Cochin"
+
+msgid "Cochin-Bold"
+msgstr "Cochin-Fet"
+
+msgid "Cog Canvas"
+msgstr "Cog Canvas"
+
+msgid "Comment On This Article"
+msgstr "Kommenter denne artikkelen"
+
+msgid "Comment publication failed. Please check your comment details and try again."
+msgstr "Kommentaterpublisering feilet. Vennligst sjekk dine kommentardetaljer og prøv igjen."
+
+msgid "Comment: %s"
+msgstr "Kommentar: %s"
+
+msgid "Comments are closed"
+msgstr "Kommentarer er stengt"
+
+msgid "Comments are closed on this entry."
+msgstr "Kommentarer er lukket for denne innsendingen."
+
+msgid "Compatibility"
+msgstr "Kompatibilitet"
+
+msgid "Configuration is required to work with WPtouch Pro. It must configured to exclude the user agents that WPtouch Pro is enabled for (iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada)"
+msgstr "Konfigurasjon kreves for å arbeide med WPtouch Pro. Den må bli konfigurert for å ekskludere brukeragenter som WPtouch Pro er koblet til for(iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada)"
+
+msgid "Content Background"
+msgstr "Innhold bakgrunn"
+
+msgid "Content area active link color"
+msgstr "Innholdsområde aktiv lenkefarge"
+
+msgid "Context and label headings color"
+msgstr "Fargeoverskrift for kontekst og merke"
+
+msgid "Convert all plain-text links in post content to clickable links"
+msgstr "Konverter alle enkle linjer i innlegget til klikkbare linker"
+
+msgid "Convert permalinks into internal URLs"
+msgstr "Konverter permalinker til interne URL-er"
+
+msgid "Copperplate"
+msgstr "Copperplate"
+
+msgid "Copperplate-Bold"
+msgstr "Copperplate-Fet"
+
+msgid "Copy As Child"
+msgstr "Kopier som barn"
+
+msgid "Copy As New"
+msgstr "Kopier som ny"
+
+msgid "Courier"
+msgstr "Courier"
+
+msgid "Courier-Bold"
+msgstr "Courier-Bold"
+
+msgid "Creates a debug file to help diagnose issues with WPtouch. This file is located in ...wp-content/wptouch-data/debug. "
+msgstr "Opprett en debug-fil for å hjelpe i diagnosespørsmål med WPtouch. Denne filen befinner seg i ...wp-content/wptouch-data/debug."
+
+msgid "Custom"
+msgstr "Tilpasset"
+
+msgid "Custom 404 message (HTML is OK)"
+msgstr "Tilpasset 404 beskjeder (HTML er OK)"
+
+msgid "Custom Ads"
+msgstr "Tilpassede ad-er"
+
+msgid "Custom Background"
+msgstr "Skreddersy bakgrunn"
+
+msgid "Custom Field Thumbnails"
+msgstr "Tilpasset felt for miniatyrbilder"
+
+msgid "Custom Home Page"
+msgstr "Tilpasset hjemmeside"
+
+msgid "Custom Icons"
+msgstr "Tilpassede ikoner"
+
+msgid "Custom Menu Items"
+msgstr "Tilpassede menyelementer"
+
+msgid "Custom Mobile User Agents"
+msgstr "Skreddersy mobilbrukeragenter"
+
+msgid "Custom Post Types"
+msgstr "Skreddersy posttyper"
+
+msgid "Custom User Agents"
+msgstr "Selvvalgte brukeragenter"
+
+msgid "Custom background image repeat type"
+msgstr "Skreddersy bakgrunnsbilde gjenta type"
+
+msgid "Custom calendar icon color (Hex without #)"
+msgstr "Farge på tilpasset kalenderikon (Hex uten #)"
+
+msgid "Custom field name for thumbnails"
+msgstr "Tilpassede feltnavn for miniatyrbilder"
+
+msgid "Custom footer content (HTML is OK)"
+msgstr "Tilpasset bunntestinnhold (HTML er OK)"
+
+msgid "Custom home page URL"
+msgstr "Tilpass URL for hjemmeside"
+
+msgid "Custom iPad background repeat type"
+msgstr "Skreddersy iPad-bakgrunn gjenta type"
+
+msgid "Custom latest posts page"
+msgstr "Skreddersy siste poster-side"
+
+msgid "Custom menu URL %s"
+msgstr "Tilpasset meny-URL %s"
+
+msgid "Custom menu position %s"
+msgstr "Tilpasset menyposisjon %s"
+
+msgid "Custom menu title %s"
+msgstr "Tilpasset menytittel %s"
+
+msgid "Custom posts often rely on custom meta data and may not always be shown correctly in WPtouch Pro"
+msgstr "Å skreddersy poster er ofte avhengig av skreddersydd metadata og vises ikke alltid på riktig vis i WPtouch Pro"
+
+msgid "Custom statistics code (HTML and/or JavaScript only)"
+msgstr "Skreddersy statistikkode (HTML og/eller JavaScript kun)"
+
+msgid "Dale Mugford & Duane Storey (BraveNewCode)"
+msgstr "Dale Mugford & Duane Storey (BraveNewCode)"
+
+msgid "Dark"
+msgstr "Mørk"
+
+msgid "Dark Grey"
+msgstr "Dark Grey"
+
+msgid "Dark Grey Canvas"
+msgstr "Mørkegrå kanvas"
+
+msgid "Dark Grey Circles"
+msgstr "Mørkegrå sirkler"
+
+msgid "Dark Grey Thatch"
+msgstr "Dark Grey Thatch"
+
+msgid "Debug log"
+msgstr "Avlusingslogg"
+
+msgid "Debug log level"
+msgstr "Nivå på avlusingslogg"
+
+msgid "Debugging"
+msgstr "Avlusing (debugging)"
+
+msgid "Deep Blue"
+msgstr "Mørkeblå"
+
+msgid "Default (Glossy)"
+msgstr "Standard (skinnende)"
+
+msgid "Default (Grey)"
+msgstr "Standard (grå)"
+
+msgid "Default Mobile User Agents"
+msgstr "Standard mobilbrukeragenter"
+
+msgid "Default Page"
+msgstr "Standardside"
+
+msgid "Default User Agents"
+msgstr "Standard brukeragneter"
+
+msgid "Defaults restored"
+msgstr "Stadard gjenopprettet"
+
+msgid "Delete"
+msgstr "Slett"
+
+msgid "Delete Set"
+msgstr "Slett sett"
+
+msgid "Delete this set?"
+msgstr "Slett dette settet?"
+
+msgid "Delete this theme and all its files?"
+msgstr "Slett dette temaet og alle filene?"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Desktop Version"
+msgstr "Standardversjon"
+
+msgid "Developer mode"
+msgstr "Utviklermodus"
+
+msgid "Device Classes"
+msgstr "Enhetsklasser"
+
+msgid "Direct Message"
+msgstr "Direkte beskjed"
+
+msgid "Direct messaging failed. Please check your message details and try again."
+msgstr "Direkte melding feilet. Vennligst sjekk dine meldingsdetaljer og prøv igjen."
+
+msgid "Directory Problem"
+msgstr "Mappeproblem"
+
+msgid "Disable Advertising pane"
+msgstr "Avaktiver reklamepanel"
+
+msgid "Disable Backup/Import pane"
+msgstr "Tilgjengeliggjør sikkerhetskopi/importeringspanel"
+
+msgid "Disable Compatability pane"
+msgstr "Deaktiver kompabilitetspanel"
+
+msgid "Disable Manage Icons pane"
+msgstr "Avaktiver inkonpanelstyring"
+
+msgid "Disable Overview pane"
+msgstr "Aktiver oversiktspanel"
+
+msgid "Disable Push Notifications pane"
+msgstr "Deaktiver push-notifikasjonspanelet"
+
+msgid "Disable Statistics pane"
+msgstr "Deaktiver statestikkpanel"
+
+msgid "Disable Theme Browser tab"
+msgstr "Avaktiver fanen for temalseing"
+
+msgid "Disable Tools and Debug pane"
+msgstr "Utilgjengeliggjør verktøy og debug-panel"
+
+msgid "Disable drop-down menu completely"
+msgstr "Kobl fra rullgardinmeny fullstendig"
+
+msgid "Disable duplicate parent as 1st child link"
+msgstr "Koble fra duplikat foreldre som 1. barnelenke"
+
+msgid "Disabled"
+msgstr "Deaktivert"
+
+msgid "Dismiss"
+msgstr "Forkast"
+
+msgid "Display \"Powered by WPtouch Pro\" in footer"
+msgstr "Vis \"Powered by WPtouch Pro\" i bunntekst"
+
+msgid "Do not use WPtouch Pro on these URLs/Pages"
+msgstr "Ikke bruk WPtouch Pro på disse URL-ene/sidene"
+
+msgid "Do you want to open it in Safari?"
+msgstr "Ønsker du å åpne den i Safari?"
+
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+msgid "Don't forget to save your changes!"
+msgstr "Ikke glem å lagre dine endringer!"
+
+msgid "Don't worry, it's temporary, and doesn't affect WPtouch Pro from working."
+msgstr "Ikke bekymr deg, det er midlertidig og påvirker ikke WPtouch Pro fra å fungere."
+
+msgid "Done"
+msgstr "Ferdig"
+
+msgid "Drag icons from the pool to"
+msgstr "Dra ikoner fra settet for å"
+
+msgid "Drop-Down Menu"
+msgstr "Rullgardinmeny"
+
+msgid "E-Mail"
+msgstr "E-post"
+
+msgid "E-Mail (Required)"
+msgstr "E-post (Obligatorisk)"
+
+msgid "Each permalink URL fragment should be on its own line and relative, e.g. \"/about\" or \"/products/store\""
+msgstr "Hver permalinks URL-fragment skal være på en egen linje og relative, f.eks. \"/om\" eller \"/produkter/butikk\""
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Email: %s"
+msgstr "E-post: %s"
+
+msgid "Enable '%s' post type"
+msgstr "Koble til '%s' posttype"
+
+msgid "Enable AJAX \"Load More\" link"
+msgstr "Aktiver AJAX-lenken \"Last inn mer\""
+
+msgid "Enable AJAX \"Load More\" link for posts and comments"
+msgstr "Aktiver AJAX \"Last inn mer\"-lenke for innlegg og kommentarer"
+
+msgid "Enable Web-App Mode"
+msgstr "Aktiver Web-App modus"
+
+msgid "Enable custom post type support"
+msgstr "Kobl til skreddersydd posttypestøtte"
+
+msgid "Enable iPad FlickrRSS popover"
+msgstr "Kobl til iPad FlickrRSS poppover"
+
+msgid "Enable landing redirect (overrides default WordPress settings for landing page)"
+msgstr "Tilkobl landingsredirigering (overstyrer standard WordPress-innstillinger for landingsside)"
+
+msgid "Enable persistence"
+msgstr "Aktiver utholdenhet"
+
+msgid "Enable/Disable Web-App Mode"
+msgstr "Koble til/koble fra Web-App-modus"
+
+msgid "Enable/Disable iPad Support"
+msgstr "Koble til/koble fra iPad-støtte"
+
+msgid "Enabled"
+msgstr "Tilkoblet"
+
+msgid "Enabled for admins only"
+msgstr "Kun tilgjengelig for adminstratorer"
+
+msgid "Enabled for all users"
+msgstr "Tilgjengelig for alle brukere"
+
+msgid "Enabling this setting will cause comments to be shown on pages, if they are enabled in the WordPress settings."
+msgstr "Når du aktiverer dette vil kommentarer vises på sider, hvis de er aktiverte i WordPress-innstillingene."
+
+msgid "Enter Description for Post"
+msgstr "Skriv inn beskrivelse for innlegg"
+
+msgid "Enter a comma separated list of shortcodes to remove."
+msgstr "Skriv inn en komma separert liste for kortkodene som skal fjernes."
+
+msgid "Enter additional content to be displayed in the WPtouch footer. Everything here is wrapped in a paragraph tag."
+msgstr "Legg  inn ekstra innhold som skal vises i WPtouch-bunntekst. Alt her en pakket inn i en avsnittkode."
+
+msgid "Enter additional user agents on separate lines, not device names or other information."
+msgstr "Skriv inn flere brukeragenter, én per linje, ikke enhetsnavn eller annen informasjon."
+
+msgid "Enter the name of the custom field used for your custom post thumbnails."
+msgstr "Legg inn navnet på det tilpassede feltet du bruke til ditt tilpassede innlegg for miniatyrbilde."
+
+msgid "Enter your Prowl API key here to enable push notifications from WPtouch to your iPhone/iPod touch via the Prowl app, or Mac with Growl installed and configured for Prowl. If you have multiple keys, enter and save each one for a new input to appear."
+msgstr "Skriv inn din Prowl API-nøkkel her for å aktivere push-varslinger fra WPtouch til din iPhone/iPod touch via Prowl-appen, eller Mac med Growl installert og konfigurert med Prowl. Hvis du har flere nøkler, skriv inn den første og lagre, så kan du skrive inn neste."
+
+msgid "Enter your custom statistics tracking code snippets (Google Analytics, MINT, etc.)"
+msgstr "Skriv inn din tilpassede sporingskode (f.eks. Google Analytics eller MINT)"
+
+msgid "Enter your full Admob Publisher ID"
+msgstr "Skriv inn din fullstendige Admob Publisher ID"
+
+msgid "Enter your full Publisher ID"
+msgstr "Legg inn full pPublisher-ID"
+
+msgid "Entering 0 will cause the bubble to always be shown, useful for development."
+msgstr "Ved å skrive inn 0 vil boblen alltid bli vist, brukbar for utvikling."
+
+msgid "Errors (1)"
+msgstr "Feil (1)"
+
+msgid "Excerpt/Content Options"
+msgstr "Utdrag/innholdsvalg"
+
+msgid "Excerpts hidden"
+msgstr "Utdrag blir skjult"
+
+msgid "Excerpts shown"
+msgstr "Utdrag blir vist"
+
+msgid "Excluded Categories (Comma list of category IDs)"
+msgstr "Ekslkudert kategorier (kommaliste av categori-id-er)"
+
+msgid "Excluded Tags (Comma list of tag IDs)"
+msgstr "Ekskluder tagger (kommalste over tag-ID'er)"
+
+msgid "Extensions"
+msgstr "Forlengelser"
+
+msgid "Extra configuration is required. Add paths to your active WPtouch Pro theme CSS and Javascript files as files to ignore in WPMinify."
+msgstr "Ekstra konfigurasjon er ikke nødvendig. Legg baner til ditt aktive WPtouch Pro tema CSS og Javascript-filer fordi filer skal ignoreres i WPMinify."
+
+msgid "Extra configuration is required. It must be configured to exclude the user agents that WPtouch Pro is enabled for (iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada)"
+msgstr "Ekstra konfigurasjon kreves. Detn må bli konfigurert for å utelukke brukeragenter som WPtouch Pro er koblet til for (iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada)"
+
+msgid "Extra configuration is required. You must enable the \"Detect mobile devices\" option, and add these user agents that WPtouch Pro is enabled for (iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada) to the Mobile agent list."
+msgstr "Ekstra konfigurasjon kreves. Du må koble til \"Oppdag mobile apparater\" muligheten og legge til disse brukeragentene slik at WPtouch Pro er koblet til for(iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada) til mobil agentliste."
+
+msgid "Features: %s"
+msgstr "Funksjoner: %s"
+
+msgid "First w/ full post shown, others excerpted and hidden"
+msgstr "Første vises med fullt innlegg, for andre blir det brukt utdrag, som skjules"
+
+msgid "First w/ full post shown, others excerpted and shown"
+msgstr "Første vises med fullt innlegg, for andre blir det brukt utdrag, som vises"
+
+msgid "FlickrRSS"
+msgstr "FlickrRSS"
+
+msgid "Follow @%s"
+msgstr "Følg @%s"
+
+msgid "Follow @%s on Twitter"
+msgstr "Følg @%s på Twitter"
+
+msgid "Footer text color"
+msgstr "Bunntekst tekstfarge"
+
+msgid "For images that will used as a Homescreen (Bookmark) icon, they should be 59x60 pixels or higher for best results on iPhone 2G, 3G and 3GS, and 113x114 pixels for iPhone 4."
+msgstr "For bilder som vil bli brukt som en hjemskjerm (bokmerke) ikon, må de være 59x60 piksler eller høyere for best resultat på iPhone 2G, 3G og 3GS, og 113x114 piksler for iPhone 4."
+
+msgid "Force URL to leave Web-App Mode"
+msgstr "Tving URL til å forlate Web-App-modus"
+
+msgid "Force multisite detection"
+msgstr "Tving multisideoppdagelse"
+
+msgid "From %s (%s)"
+msgstr "Fra %s (%s)"
+
+msgid "From the BraveNewCode Blog"
+msgstr "Fra BraveNewCode-bloggen"
+
+msgid "From the WPtouch Pro Forums"
+msgstr "Fra WPtouch Pro-forumene"
+
+msgid "From: %s"
+msgstr "Fra: %s"
+
+msgid "Full"
+msgstr "Full"
+
+msgid "Full URL to a custom CSS file to be loaded last in themes. Will override existing styles, preserving updateability of themes."
+msgstr "Full URL til en tilpasset CSS-fil for å lastes inn i temaer. Vil overstyre eksisterende filer, beholder temaers evne til oppdatering."
+
+msgid "Full posts hidden"
+msgstr "Hele innlegg blir skjult"
+
+msgid "Full posts shown"
+msgstr "Hele innlegg blir vist"
+
+msgid "Futura"
+msgstr "Futura"
+
+msgid "GeezaPro"
+msgstr "GeezaPro"
+
+msgid "GeezaPro-Bold"
+msgstr "GeezaPro-Fet"
+
+msgid "General"
+msgstr "Generelt"
+
+msgid "General Icons + Menu Setup"
+msgstr "Generelle ikoner + Menyoppsett"
+
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+msgid "General site font"
+msgstr "Generell skrifttype for side"
+
+msgid "General site font size"
+msgstr "Generell skriftstørrelse for side"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "Georgia-Bold"
+msgstr "Georgia-Fet"
+
+msgid "Get Growl"
+msgstr "Få deg Growl"
+
+msgid "Get Prowl (App Store)"
+msgstr "Få deg Prowl (App Store)"
+
+msgid "Get started with Activation &raquo;"
+msgstr "Start med aktiveringen &raquo;"
+
+msgid "GillSans"
+msgstr "GillSans"
+
+msgid "GillSans-Bold"
+msgstr "GillSans-Fet"
+
+msgid "GillSans-Light"
+msgstr "GillSans-Lett"
+
+msgid "Global General"
+msgstr "Global generell"
+
+msgid "Go"
+msgstr "Gå"
+
+msgid "Google Adsense"
+msgstr "Google Adsense"
+
+msgid "Grainy"
+msgstr "Grainy"
+
+msgid "Green Planet"
+msgstr "Green Planet"
+
+msgid "Header Buttons and Blog Popover"
+msgstr "Toppknapper og bloggpoppover"
+
+msgid "Header Color Group"
+msgstr "Fargegruppe for overskrift"
+
+msgid "Header Shading Gradient Style"
+msgstr "Header Shading Gradient Style"
+
+msgid "Header Styling"
+msgstr "Overskriftstil"
+
+msgid "Header bar, pop-overs and general theme style"
+msgstr "Tittelbar, poppovere og generell temastil"
+
+msgid "Header title font"
+msgstr "Overskrift skriftstørrelse for tittel"
+
+msgid "Header title font size"
+msgstr "Overskrift tittel skriftstørrelse"
+
+msgid "Helvetica"
+msgstr "Helvetica"
+
+msgid "Helvetica-Bold"
+msgstr "Helvetica-Fet"
+
+msgid "HelveticaNeue"
+msgstr "HelveticaNeue"
+
+msgid "HelveticaNeue-Bold"
+msgstr "HelveticaNeue-Fet"
+
+msgid "Here you can edit the CSS output to style the switch link appearance in the footer of your regular theme."
+msgstr "Her kan du redigere CSS-utgangen for å stille bryterkoblingens utseende i bunnteksten av det vanligte temaet ditt."
+
+msgid "Hide Licenses tab, and other license related content"
+msgstr "Skjul lisenstab og annet lisensrelatert innhold"
+
+msgid "Hide Responses"
+msgstr "Skjul svar"
+
+msgid "Hide Theme Browser tab"
+msgstr "Skjul søkefane for tema"
+
+msgid "Hide Tools and Debug section"
+msgstr "Skjul verktøy og debug del"
+
+msgid "Hide address bar on page load"
+msgstr "Skjul adressebar på sidelasting"
+
+msgid "Hides all license settings and references. Allows client to see and upgrade the plugin, adjust active theme and global settings, but not see and/or change license and domain settings."
+msgstr "Skjul alle lisensinnstilinger og referanser. Tillat klient å se og oppgradere plugin, tilpasse aktive temaer og globale innstillniger, men ikke se og/eller endre lisensen eller domeneinnstillinger."
+
+msgid "Hides comments, trackbacks and pingbacks by default, until a visitor clicks to show them. Speeds up load times if hidden."
+msgstr "Skjlu kommentarer, trackbacks og pingbacks ved standard til en besøkende klikker på vis gjenstand. Øker nedlastingshastigheten dersom skjult."
+
+msgid "Hides the Tools and Debug settings completely. Once checked only resetting WPtouch Pro settings will show them again."
+msgstr "Skjuler vektøy og debug-iinnstillinger fullstendig. Når du kun har merket av nye innstilinger vil WPtouch Pro-innstillinger vise dem igjen."
+
+msgid "Hides the theme browser tab, and prevents theme switching"
+msgstr "Skujl søkefanen for tema, og forbindre endring av tema"
+
+msgid "Home"
+msgstr "Hjem"
+
+msgid "Home Page Only"
+msgstr "Kun hjemmeside"
+
+msgid "Home, Blog, Single Post, Pages"
+msgstr "Hjem, Blogg, Enkelt innlegg, Sider"
+
+msgid "Homescreen Icons"
+msgstr "Hjemmeskjermikoner"
+
+msgid "Icon Pool"
+msgstr "Ikonsett"
+
+msgid "Icon Sets"
+msgstr "Ikonsett"
+
+msgid "Icon set uploaded, currently unpackaging..."
+msgstr "Ikonsett lastet opp, pakker opp nå..."
+
+msgid "Icons"
+msgstr "Ikoner"
+
+msgid "If background images are used, the background color is still included."
+msgstr "Hvis bakgrunnsbilder blir brukt vil bakgrunnsfargen fremdeles bli inkludert."
+
+msgid "If no path is specified no image will be used, and the WPtouch Pro menu will be full height. (300px by 185px transparent .png recommended)"
+msgstr "Hvis ingen vei er oppgitt vil ikke noe bilde bli brukt, og WPtouch Pro menyen vil være i full høyde. (300px by 185px gjennomsiktig .png anbefalt)"
+
+msgid "If the title of your site is long, you can shorten it for display within WPtouch."
+msgstr "Hvis tittelen til nettstedet ditt er for lang, kan du korte den ned når den vises i WPtouch."
+
+msgid "If unchecked the word \"Menu\" will be shown instead of an icon."
+msgstr "Hvis umerket vil ordet \"meny\" bli vist i stedet for et ikon."
+
+msgid "If unchecked your bookmark icon will be set as \"apple-touch-icon-precomposed\", and not have the glossy effect applied to it."
+msgstr "Hvis umerket vil ditt bokmerkeikon bli satt som \"apple-berøringsikon-forhåndskomponert\", og har ikke glossy effekt på det."
+
+msgid "If you have recently installed or reset WPtouch Pro, it must gather active plugin information first."
+msgstr "Hvis du nynlig har installert eller tilbakestilt WPtouch Pro, må aktiv plugin-informasjon samles først."
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Import Settings"
+msgstr "Import-innstillinger"
+
+msgid "In the footer"
+msgstr "I bunnteksten"
+
+msgid "Include functions.php from the active desktop theme"
+msgstr "Inkluder funskjoner.php fra aktived skrivebordstema"
+
+msgid "Increasing this above Level 1 (Errors) should only be done when troubleshooting."
+msgstr "Økende dette ovenfor nivå 1 (feil) skal kun gjøres ved feilsøking."
+
+msgid "Information (4)"
+msgstr "Informasjon (4)"
+
+msgid "Information + Help"
+msgstr "Informasjon + hjelp"
+
+msgid "Inherit Prowl settings"
+msgstr "Arvede prowl-innstillinger"
+
+msgid "Inherit Statistics settings"
+msgstr "Arv statestikkinnstillinger"
+
+msgid "Inherit active theme"
+msgstr "Arvede aktive temaer"
+
+msgid "Inherit advertising settings"
+msgstr "Arvede reklameinnstillinger"
+
+msgid "Inherit compatability settings"
+msgstr "Avrede kompabilitetsinnstillinger"
+
+msgid "Inherited Settings"
+msgstr "Arvede instillinger"
+
+msgid "Install this Web-App on your [device]: tap [icon] then \"Add to Home Screen\""
+msgstr "Installer denne nettappen på ditt [apparat]: tapp [ikon] deretter \"Legg til hjemskjerm\""
+
+msgid "Installed Themes"
+msgstr "Installerte temaer"
+
+msgid "Invalid file format."
+msgstr "Ugyldig filformat."
+
+msgid "JavaScript is currently off."
+msgstr "JavaScript er skrudd av."
+
+msgid "Knowledge Base"
+msgstr "Kunnskapsbase"
+
+msgid "LICENSED"
+msgstr "LISENSIERT"
+
+msgid "Latest Flickr Photos"
+msgstr "Nyeste Flickr bilder"
+
+msgid "Latest Tweets"
+msgstr "Siste Tweeter"
+
+msgid "Leave A Comment"
+msgstr "Legg igjen en kommentar"
+
+msgid "Leave a Reply"
+msgstr "Legg igjen et svar"
+
+msgid "Leave a Reply to %s"
+msgstr "Legg igjen et svar til %s"
+
+msgid "Leave a comment"
+msgstr "Etterlat kommentar"
+
+msgid "Leave a reply to"
+msgstr "Etterlat et svar til"
+
+msgid "Left"
+msgstr "Venstre"
+
+msgid "License"
+msgstr "Lisens"
+
+msgid "License Key"
+msgstr "Lisensnøkkel"
+
+msgid "License accepted, thank you for supporting WPtouch Pro!"
+msgstr "Lisens akseptert, takk for at du støtte WPtouch Pro!"
+
+msgid "Licenses Remaining"
+msgstr "Lisenser igjen"
+
+msgid "Light"
+msgstr "Lys"
+
+msgid "Light Grey"
+msgstr "Light Grey"
+
+msgid "Links"
+msgstr "Lenker"
+
+msgid "Load More Comments&hellip;"
+msgstr "Last inn flere kommentarer&hellip;"
+
+msgid "Load More Entries&hellip;"
+msgstr "Last inn flere innlegg&hellip;"
+
+msgid "Loading licenses from the BraveNewCode server..."
+msgstr "Laster lisenser fra BraveNewCode-server..."
+
+msgid "Loading..."
+msgstr "Lader..."
+
+msgid "Log In To Comment"
+msgstr "Logg inn for å kommentere"
+
+msgid "Log out"
+msgstr "Logg ut"
+
+msgid "Log out of this account"
+msgstr "Logg ut av denne kontoen"
+
+msgid "Logged in as"
+msgstr "Logget inn som"
+
+msgid "Login"
+msgstr "Logg inn"
+
+msgid "Login Now"
+msgstr "Innlogging nå"
+
+msgid "Logo/Header"
+msgstr "Logo/tittel"
+
+msgid "Logout"
+msgstr "Logg ut"
+
+msgid "Lost your password?<br />You can %sreset it here%s."
+msgstr "Glemt passordet ditt?<br />Du kan %snullstille det her%s."
+
+msgid "Manage Icons and Sets"
+msgstr "Håndter ikoner og sett"
+
+msgid "Manage Installed Icons + Sets"
+msgstr "Håndter installerte ikoner + sett"
+
+msgid "Manage Licenses"
+msgstr "Håndter lisenser"
+
+msgid "Matte"
+msgstr "Matte"
+
+msgid "Menu"
+msgstr "Meny"
+
+msgid "Menu + Icons"
+msgstr "Meny + ikoner"
+
+msgid "Menu Options"
+msgstr "Menyvalg"
+
+msgid "Menu and Icon Setup"
+msgstr "Meny- og ikoninnstillinger"
+
+msgid "Menu sort order (WordPress Pages menu only)"
+msgstr "Meny sorteringsrekkefølge (WordPress sidemeny kun)"
+
+msgid "Menu, Posts and Pages"
+msgstr "Meny, innlegg og sider"
+
+msgid "Message"
+msgstr "Beskjed"
+
+msgid "Message sent successfully."
+msgstr "Beskjed vellykket sendt."
+
+msgid "Message shown in the notice bubble for iPhone, iPod touch & iPad visitors:"
+msgstr "Melding vist i informasjonsboblen for iPhone, iPod touch og iPad besøkende:"
+
+msgid "Miscellaneous Options"
+msgstr "Diverse innstillinger"
+
+msgid "Mobile"
+msgstr "Mobil"
+
+msgid "Mobile Theme"
+msgstr "Mobilversjon"
+
+msgid "Mobile User Agents"
+msgstr "Mobilbrukeragent"
+
+msgid "Modules"
+msgstr "Moduler"
+
+msgid "More Info"
+msgstr "Mer informasjon"
+
+msgid "Move WPtouch admin settings to Appearance menu"
+msgstr "Flytt WPtouch-innstillingene til Utseende-menyen"
+
+msgid "Moves WPtouch admin settings from the top-level to the WordPress Appearance settings. Refresh your browser after saving."
+msgstr "Flytter WPtouch adminstratorinnstillinger fra toppnivået av WordPress instillinger for visning. Oppdaterer nettleseren etter lagring."
+
+msgid "Multisite"
+msgstr "Multiside"
+
+msgid "My Account"
+msgstr "Min konto"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Name  (Required)"
+msgstr "Navn  (Obligatorisk)"
+
+msgid "Name: %s"
+msgstr "Navn: %s"
+
+msgid "New Comment"
+msgstr "Ny kommentar"
+
+msgid "New Ping/Trackback"
+msgstr "Ny ping/tilbakesporing"
+
+msgid "Next"
+msgstr "Neste"
+
+msgid "Next Image"
+msgstr "Neste bilde"
+
+msgid "Next One Day"
+msgstr "Neste dag"
+
+msgid "Next One Month"
+msgstr "Neste måned"
+
+msgid "Next One Year"
+msgstr "Neste år"
+
+msgid "Next in Category"
+msgstr "Neste i kategori"
+
+msgid "Next in Search"
+msgstr "Neste i søk"
+
+msgid "Next in Tag"
+msgstr "Neste i stikkord"
+
+msgid "No Comments Yet"
+msgstr "Ingen kommentar enda"
+
+msgid "No Custom Icons to Display"
+msgstr "Ingen tilpassede ikoner å vise"
+
+msgid "No Photos To Display"
+msgstr "Ingen fotoer å vise"
+
+msgid "No Responses"
+msgstr "Ingen svar"
+
+msgid "No advertising"
+msgstr "Ingen reklame"
+
+msgid "No custom post types found"
+msgstr "Ingen skreddersydde posttyper funnet"
+
+msgid "No known warnings or conflicts."
+msgstr "Ingen advarsler eller konflikter."
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "None (Use WordPress Settings)"
+msgstr "Ingen (Bruk WordPress-innstillinger)"
+
+msgid "Normally links posted into post content are plain-text and cannot be clicked.  Enabling this option will make these links clickable, similar to the P2 theme."
+msgstr "Normalt linker postet i stolpe innhold er ren tekst og kan ikke klikkes. Aktivering av dette valget vil gjøre disse koblingene klikkbare, ligner på P2 temaet."
+
+msgid "Not registered yet?<br />You can %ssign-up here%s."
+msgstr "Ikke registrert ennå?<br />Du kan %sregistrere deg her%s."
+
+msgid "Notice"
+msgstr "Beskjed"
+
+msgid "Notify of new account registrations"
+msgstr "Varsle om nye brukerregistreringer"
+
+msgid "Notify of new comments &amp; pingbacks/trackbacks"
+msgstr "Gi beskjed om nye kommentarer &amp; pingbacker/trackbacker"
+
+msgid "Number of days before the message will be shown again to visitors"
+msgstr "Antall dager før meldingen vil bli vist igjen til besøkende"
+
+msgid "Number of seconds to cache menu tree items for"
+msgstr "Antall sekunder for å cache menygjenstander for"
+
+msgid "OFF"
+msgstr "AV"
+
+msgid "ON"
+msgstr "PÅ"
+
+msgid "One Response"
+msgstr "Ett svar"
+
+msgid "One or more fields were not completed."
+msgstr "Ett eller flere felt ble ikke fullført."
+
+msgid "One or more required directories could not be created"
+msgstr "En eller flere av de nødvendige mappene kunne ikke opprettes"
+
+msgid "Oops! The license server could not be reached."
+msgstr "Oops! Lisensserveren kunne ikke bli nådd."
+
+msgid "Oops! Try saving again."
+msgstr "Oi! Prøv å lagre igjen."
+
+msgid "Optima-Bold"
+msgstr "Optima-Bold"
+
+msgid "Optima-Regular"
+msgstr "Optima-Vanlig"
+
+msgid "Other"
+msgstr "Annet"
+
+msgid "Overview"
+msgstr "Oversikt"
+
+msgid "Page or Post Not Found"
+msgstr "Side eller innlegg ble ikke funnet"
+
+msgid "Pages"
+msgstr "Sider"
+
+msgid "Pages / Custom Menu"
+msgstr "Sider/skreddersy meny"
+
+msgid "Pages in the article:"
+msgstr "Sider i denne artikkelen:"
+
+msgid "Pages:"
+msgstr "Sider:"
+
+msgid "Palatino-Roman"
+msgstr "Palatino-Roman"
+
+msgid "Password"
+msgstr "Passord"
+
+msgid "Password (if you use one)"
+msgstr "Passord (hvis du bruker det)"
+
+msgid "Paste a backup key, then save: %s(Right click in textarea, choose \"Paste\")%s"
+msgstr "Lim en sikkerhetsnøkkel, og så lagre: %s(Høyreklikk i tekstområdet, velg \"Lim inn\")%s"
+
+msgid "Photos"
+msgstr "Fotografier"
+
+msgid "Pinstripes Diagonal"
+msgstr "Diagonale nålestriper"
+
+msgid "Pinstripes Horizontal"
+msgstr "Horisontale nålestriper"
+
+msgid "Pinstripes Vertical (Blue)"
+msgstr "Vertikale nålestriper (blå)"
+
+msgid "Pinstripes Vertical (Grey)"
+msgstr "Vertikale nålestriper (grå)"
+
+msgid "Please enter a description for the support posting."
+msgstr "Vennligst skriv inn en beskrivelse for supportemnet."
+
+msgid "Please enter a topic title for the support posting."
+msgstr "Vennligst skriv inn en emnetittel for supportemnet."
+
+msgid "Please enter at least one tag for the support posting."
+msgstr "Vennligst skriv inn minst ett stikkord for supportemnet."
+
+msgid "Please enter the set information below and click save"
+msgstr "Vennligst skriv inn informasjonen nedenfor og klikk lagre"
+
+msgid "Please enter your Account E-Mail and License Key to begin the license activation process, or %spurchase a license &raquo;%s"
+msgstr "Vennligst skriv inn din e-postkonto og lisensnøkkel for å begynne aktiveringsprosessen av lisens eller %skjøp en lisens &raquo;%s"
+
+msgid "Please upload only .PNG (single image) or .ZIP (icon set) file types."
+msgstr "Vennligst last opp kun .png (enkeltbilder) eller .zip (ikonsett)."
+
+msgid "Plugin Compatibility"
+msgstr "Innstikkskompatibalitet"
+
+msgid "Plugin Licensing Terms"
+msgstr "Plugginn lisensvilkår"
+
+msgid "Pool Background Color"
+msgstr "Bakgrunnsfarge for sett"
+
+msgid "Popular"
+msgstr "Populær"
+
+msgid "Post body font"
+msgstr "Post body-skrifttype"
+
+msgid "Post body font size"
+msgstr "Innlegg body skriftstypestørrelse"
+
+msgid "Post icon type"
+msgstr "Ikontype for innlegg"
+
+msgid "Post title font"
+msgstr "Post skrifttittel"
+
+msgid "Post title font size"
+msgstr "Innleggstittl for skriftstørrelse"
+
+msgid "Post: %s"
+msgstr "Innlegg: %s"
+
+msgid "Posts and comments will be appended to existing content with an AJAX \"Load More...\" link. If unchecked regular post/comment pagination will be used."
+msgstr "Innlegg og kommentarer vil bli lagt til eksisterende innhold med en AJAX \"Last inn mer...\" link. Dersom ukontrollert jevnlig innlegg/kommentar paginering vil bli brukt."
+
+msgid "Posts in these categories will not be shown in WPtouch. (e.g. 3,4,5)"
+msgstr "Poster under disse kategoriene vil ikke bli vist i WPtouch. (f.eks. 3,4,5)"
+
+msgid "Posts with these tags will not be shown in WPtouch. (e.g. 3,4,5)"
+msgstr "Poster med disse taggene vil ikke bli vist i WPtouch. (f. eks 3,4,5)"
+
+msgid "Powered by %1$s %2$s"
+msgstr "Drevet av %1$s %2$s"
+
+msgid "Prefer thumbnails on pages over page icons (WordPress thumbs only)"
+msgstr "Foretrekker miniatyrbilder på sidene over sideikoner (kun WordPress-miniatyrbilder)"
+
+msgid "Prev"
+msgstr "Forrige"
+
+msgid "Previous Image"
+msgstr "Forrige bilde"
+
+msgid "Problem Area"
+msgstr "Problemområde"
+
+msgid "Prowl API keys"
+msgstr "Prowl API-nøkkel"
+
+msgid "Prowl Push Notifications"
+msgstr "Prowl Push-varsling"
+
+msgid "Prowl Website"
+msgstr "Nettstedet til Prowl"
+
+msgid "Publish"
+msgstr "Publiser"
+
+msgid "Publish Comment"
+msgstr "Offentliggjør kommentar"
+
+msgid "Published on"
+msgstr "Publisert"
+
+msgid "Purchase More Licenses"
+msgstr "Kjøp flere lisenser"
+
+msgid "Purchase a License"
+msgstr "Kjøp en lisens"
+
+msgid "Push Notifications"
+msgstr "Push-varsling"
+
+msgid "Push message sent successfully."
+msgstr "Pushmelding sendt."
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Read This Article"
+msgstr "Les denne artikkelen"
+
+msgid "Ready for upload..."
+msgstr "Klar for opplasting..."
+
+msgid "Recent"
+msgstr "Nylig"
+
+msgid "Recent Articles"
+msgstr "Siste artikler"
+
+msgid "Recent Support Posts"
+msgstr "Nylige støtteposter"
+
+msgid "Red Bull"
+msgstr "Red Bull"
+
+msgid "Redirect target"
+msgstr "Omdiriger mål"
+
+msgid "Regionalization"
+msgstr "Regionalisering"
+
+msgid "Register for an account"
+msgstr "Registrer en konto"
+
+msgid "Remove license?"
+msgstr "Slett lisens?"
+
+msgid "Remove these shortcodes when WPtouch Pro is active"
+msgstr "Fjern disse kortkodene når WPtouch Pro er aktiv"
+
+msgid "Repeat Both"
+msgstr "Gjenta begge"
+
+msgid "Repeat Horizontally"
+msgstr "Gjenta horisontalt"
+
+msgid "Repeat None"
+msgstr "Gjenta ingen"
+
+msgid "Repeat Vertically"
+msgstr "Gjenta vertikalt"
+
+msgid "Reply"
+msgstr "Svar"
+
+msgid "Reply."
+msgstr "Svar."
+
+msgid "Requires Discussion settings to be enabled in the WordPress settings."
+msgstr "Krever at diskusjonsinnstillingene er aktivert i WordPress-innstillingene."
+
+msgid "Requires the \"Anyone can register\" WordPress setting to be enabled."
+msgstr "Krever at \"Alle kan registrere seg\" i WordPress-innstillingene er aktivert."
+
+msgid "Reset All Pages & Icons"
+msgstr "Tilbakestill alle sider og ikoner"
+
+msgid "Reset Licenses Now"
+msgstr "Still inn lisenser på nytt nå"
+
+msgid "Reset Menu Page and Icon settings?"
+msgstr "Nullstill menysider og ikoninnstillinger?"
+
+msgid "Reset Settings"
+msgstr "Nullstill innstillinger"
+
+msgid "Reset all WPtouch Pro admin settings?"
+msgstr "Nullstill alle WPtouch Pro admininnstillinger?"
+
+msgid "Reset password"
+msgstr "Still inn passord på nytt"
+
+msgid "Resources"
+msgstr "Ressurser"
+
+msgid "Respect WordPress setting for date format in themes"
+msgstr "Respekter WordPress-innstilling for datoformat i temaene"
+
+msgid "Right Now"
+msgstr "Akkurat nå"
+
+msgid "Right RTL (experimental)"
+msgstr "Høyre RTL (eksperimentell)"
+
+msgid "Same URL"
+msgstr "Samme URL"
+
+msgid "Save"
+msgstr "Lagre"
+
+msgid "Save %s as a web-app on your Home Screen."
+msgstr "Lagre %s som en nettapp på hjemskjermen din."
+
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+msgid "Save to Del.icio.us"
+msgstr "Lagre til Del.icio.us"
+
+msgid "Save to Instapaper"
+msgstr "Lagre til Instapaper"
+
+msgid "Saved to Instapaper!"
+msgstr "Lagret til instapaper!"
+
+msgid "Saving"
+msgstr "Lagrer"
+
+msgid "Saving..."
+msgstr "Lagrer..."
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Search results &rsaquo; %s"
+msgstr "Søkeresultater &rsaquo; %s"
+
+msgid "Search this website"
+msgstr "Søk denne nettsiden"
+
+msgid "Secondary Admin Panels"
+msgstr "Andre administratorpanel"
+
+msgid "Security (2)"
+msgstr "Sikkerhet (2)"
+
+msgid "Select whether the link is shown above or below the WP pages in your menu"
+msgstr "Velg om lenken skal vises over eller under WP-sidene i din meny"
+
+msgid "Send Now"
+msgstr "Send nå"
+
+msgid "Send a Message"
+msgstr "Send beskjed"
+
+msgid "Server Configuration"
+msgstr "Server-konfigurasjon"
+
+msgid "Set description"
+msgstr "Beskrivelse på sett"
+
+msgid "Set name"
+msgstr "Navn på sett"
+
+msgid "Settings"
+msgstr "Innstillinger"
+
+msgid "Settings Backup and Import"
+msgstr "Instilinger for sikkerhetskopiering og importering"
+
+msgid "Settings saved!"
+msgstr "Instillinger lagret!"
+
+msgid "Share Article"
+msgstr "Del artikkel"
+
+msgid "Share Or Save"
+msgstr "Dele eller lagre"
+
+msgid "Share on Facebook"
+msgstr "Del på Facebook"
+
+msgid "Share on Twitter"
+msgstr "Del på Twitter"
+
+msgid "Share or Save This Post"
+msgstr "Del eller lagre denne posten"
+
+msgid "Share via E-Mail"
+msgstr "Del via e-post"
+
+msgid "Shared accounts to include in tweet listings:"
+msgstr "Delte kontoer for å inkludere tweet-listinger:"
+
+msgid "Should be 270px (width) by 44px (height). Transparent .PNG is recommended. If no image is specified here the default Site Icon and Site Title will be used."
+msgstr "Skal være 270px (bredde) ganger 44px (lengde). Gjennomsiktig .PNG er anbefalt. Dersom der ikke er spesifisert noe bilde her vil standard sideikon og sidetittel brukes."
+
+msgid "Should be 540px (width) by 88px (height). Transparent .PNG is recommended."
+msgstr "Skal være 540px (bredde) ganger 88px (høyde). Gjennomsiktig .PNG anbefales."
+
+msgid "Show \"Admin\" in Account tab links"
+msgstr "Vis \"Admin\" i kontotablenkene"
+
+msgid "Show \"Profile\" in Account tab links"
+msgstr "Vis \"profil\" i kontotablenker"
+
+msgid "Show \"Share/Save\" button"
+msgstr "Vis \"del/lagre\" knapp"
+
+msgid "Show / Hide"
+msgstr "Vis / Skjul"
+
+msgid "Show Account in tab-bar"
+msgstr "Vis konto i fanemenyen"
+
+msgid "Show Archives template in menu"
+msgstr "Vis arkivmal i menyen"
+
+msgid "Show Categories in tab-bar"
+msgstr "Vis kategorier i fanemenyen"
+
+msgid "Show Links template in menu"
+msgstr "Vis lenkemal i menyen"
+
+msgid "Show Search in tab-bar"
+msgstr "Vis søk i fanelinjen"
+
+msgid "Show Tags in tab-bar"
+msgstr "Vis stikkord i fanemenyen"
+
+msgid "Show Twitter in mobile drop-down menu tab-bar"
+msgstr "Vis Twitter i mobil rullgardinmeny på tabbaren"
+
+msgid "Show Twitter popover on iPad"
+msgstr "Vis Twitter poppover på iPad"
+
+msgid "Show a \"Profile\" link for all logged in users."
+msgstr "Vi sen \"profil\" link for alle innloggede brukere."
+
+msgid "Show a notice bubble for iPhone, iPod touch & iPad visitors about Web-App Mode"
+msgstr "Vis en varselsboble for iPhone, iPod touch og iPad  besøkende for denne Web-App-modusen"
+
+msgid "Show account button"
+msgstr "Vis kontoknapp"
+
+msgid "Show ads in these places"
+msgstr "Vis annonser på disse stedene"
+
+msgid "Show attached image in page content"
+msgstr "Viser vedlagt bilde i sideinnhold"
+
+msgid "Show attached image in post content"
+msgstr "Vis vedlagt bilde i postinnhold"
+
+msgid "Show author in post header"
+msgstr "Vis forfatter i posttittel"
+
+msgid "Show author name"
+msgstr "Vis forfatternavn"
+
+msgid "Show blog button"
+msgstr "Vis bloggknapp"
+
+msgid "Show categories"
+msgstr "Vis kategorier"
+
+msgid "Show categories in blog popover"
+msgstr "Vis kategorier i bloggpoppover"
+
+msgid "Show categories post footer"
+msgstr "Vis kategorier i undernote"
+
+msgid "Show comments on pages"
+msgstr "Vis kommentarer på sider"
+
+msgid "Show custom post type taxonomy on main index pages"
+msgstr "Vis skreddersydd postttypetaksonomi på hovedindekssidene"
+
+msgid "Show custom post type taxonomy on single post page"
+msgstr "Vis skreddersydd posttype taksonomi på en enkelt postside"
+
+msgid "Show date"
+msgstr "Vis dato"
+
+msgid "Show date in post header"
+msgstr "Vis dato i posttittel"
+
+msgid "Show header icon"
+msgstr "Vis overskriftsikon"
+
+msgid "Show home\tbutton"
+msgstr "Vis hjem\tknappen"
+
+msgid "Show load times and query counts in the footer"
+msgstr "Vis lastetider og forespørselstelling i bunnote"
+
+msgid "Show popular posts in blog popover"
+msgstr "Vis populære poster i bloggpoppover"
+
+msgid "Show recent posts in blog popover"
+msgstr "Vis nylige poster i blogg poppover"
+
+msgid "Show search button"
+msgstr "Vis søkknapp"
+
+msgid "Show switch link"
+msgstr "Vis bytte link"
+
+msgid "Show tags"
+msgstr "Vis tagger"
+
+msgid "Show tags in blog popover"
+msgstr "Vis tagger i bloggpoppover"
+
+msgid "Show tags post footer"
+msgstr "Vis tagger post fotmerke"
+
+msgid "Show thumbnails on single post pages next to the post title"
+msgstr "Vis miniatyrbilder på enkelt innleggssider ved siden av innleggets tittel"
+
+msgid "Show/hide the header site icon beside your site title. If you use a custom logo image this setting will not apply."
+msgstr "Vis/skjul overskriftens sideikon ved siden av sidetittelen din. Dersom du bruker et tilpasset logobilde vil ikke denne innstillingen gjelde."
+
+msgid "Shows WPtouch in ALL browsers when enabled. Please remember to disable this option when finished!"
+msgstr "Viser WPtouch i ALLE søkere når tilgjengeliggjort. Husk å utilgjengeliggjøre dette alternativet når du er ferdig!"
+
+msgid "Shows an \"Admin\" menu link for logged in users that have edit posts capability."
+msgstr "Viser en \"aministrator\" menylink for innloggede brukere som kan redigere innlegg."
+
+msgid "Shows the latest 10 tweets (excluding those tweeted from WordTwit) in its own popover, and adds a button to the menubar."
+msgstr "Vis de siste 10 tweetene (utenom de tweetet fra WordTwit) i dens egne poppover, og legger til en knapp på menybaren."
+
+msgid "Shows the latest 10 tweets (excluding those tweeted from WordTwit) in your drop-down menu."
+msgstr "Viser de siste 10 tweetene (utenom de tweetet fra WordTwit) i din rullgardinmeny."
+
+msgid "Shows the latest 20 photos from your Flickr RSS feed in its own popover, and adds a button to the menubar."
+msgstr "Viser de siste 20 bildene fra din Flickr RSS-mating i dens egne popp-over, og legger til en knapp på menybaren."
+
+msgid "Shows the latest 20 photos from your Flickr RSS feed on its own page, and adds a link to for it to your drop-down menu."
+msgstr "Viser de siste 20 bildene fra din Flicker RSS-mating på dens egne side, og legger til en lenke for den på din rullgardinmeny."
+
+msgid "Sidebar Background"
+msgstr "Sidebarbakgrunn"
+
+msgid "Silver Sheen"
+msgstr "Silver Sheen"
+
+msgid "Simple Post Thumbnails Plugin"
+msgstr "Enkelt innlegg plugin for miniatyrbilder"
+
+msgid "Single Post Only"
+msgstr "Kun enkle innlegg"
+
+msgid "Single Posts"
+msgstr "Enkle poster"
+
+msgid "Single images and those in .ZIP packages <em>must</em> be in .PNG format. When you upload a .ZIP you <em>must</em> name the set. The .ZIP size limit on your server is %dMB."
+msgstr "Enkelte bilder og de i .zip-pakker <em>må</em> være i .png-format. Når du laster opp en .zip <em>må</em> du gi det et navn. Dine serverinnstillinger viser at .zip-filene du laster opp kan være opp til %d MB."
+
+msgid "Site Branding"
+msgstr "Nettstedsbranding"
+
+msgid "Site Homepage"
+msgstr "Side hjemmeside"
+
+msgid "Site Statistics"
+msgstr "Nettstedsstatistikk"
+
+msgid "Site, Theme &amp; Bookmark"
+msgstr "Side, tema og amp; bokmerke"
+
+msgid "Sitewide font color"
+msgstr "Sidebredde skriftfarge"
+
+msgid "Sitewide link color"
+msgstr "Sidebredde linkfarge"
+
+msgid "Sitewide post title color"
+msgstr "Sidebredde posttittel farge"
+
+msgid "Size (in px) for Classic thumbnails"
+msgstr "Størrelse (i px) for klassiske miniatyrbilder"
+
+msgid "Skated Concrete"
+msgstr "Tørr betong"
+
+msgid "Skins are alternate stylesheets which change the look and feel of a theme."
+msgstr "Trekk er alternative stilsett som endrer utseendet og virkemåten til et tema."
+
+msgid "Skip to Responses"
+msgstr "Hopp til svar"
+
+msgid "Sort alphabetically"
+msgstr "Storter alfabetisk"
+
+msgid "Sort by admin page order"
+msgstr "Sorter etter adminsiderekkefølge"
+
+msgid "Speeds up loading of content, but is less compatible with some plugins. Disable if some features of your site are not working in Web-App Mode."
+msgstr "Hastigheter for lasting av innhold, men er mindre kompatibel med noen pluggin'er. Kobl fra hvis noen funksjoner til ditt område ikke fungerer i Web-App-modus."
+
+msgid "Statistics"
+msgstr "Statistikk"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Status Bar Color"
+msgstr "Farge på statuslinje"
+
+msgid "Style / Appearance"
+msgstr "Stil / utseende"
+
+msgid "Style and Appearance"
+msgstr "Stil og utseende"
+
+msgid "Submit Comment"
+msgstr "Send kommentar"
+
+msgid "Subtle Noise (default)"
+msgstr "Stille lyd (standard)"
+
+msgid "Sunkissed Orange"
+msgstr "Sunkissed Orange"
+
+msgid "Support Forums"
+msgstr "Supportforum"
+
+msgid "Support QuickPress"
+msgstr "Støtte QuickPress"
+
+msgid "Switch Link"
+msgstr "Bytt link"
+
+msgid "Switch To Mobile Version"
+msgstr "Bytt til mobilversjon"
+
+msgid "Switch To Regular Theme"
+msgstr "Bytt til standardversjon"
+
+msgid "Switch To iPad Version"
+msgstr "Bytt til iPad-versjon"
+
+msgid "Switch link destination"
+msgstr "Bytt koblingsdestinasjon"
+
+msgid "Tags"
+msgstr "Stikkord"
+
+msgid "Tags &rsaquo; %s"
+msgstr "Stikkord &rsaquo; %s"
+
+msgid "Tap the button above, then Add to Home Screen."
+msgstr "Tapp knappen ovenfor, deretter legg til hjemskjerm."
+
+msgid "Tap the center button below, then Add to Home Screen."
+msgstr "Tapp senterknappen nedenfor, deretter legg til på hjemskjerm."
+
+msgid "Text justification in post listings, single posts / comments, and pages"
+msgstr "Tekst begrunnelse i innlegget oppføringer, enkel innlegg / kommentarer, og sider"
+
+msgid "Text shading for headers, footer text"
+msgstr "Skyggalagt tekst for overskrifter, bunntekst"
+
+msgid "Thank you for supporting us!"
+msgstr "Takk for at du støtter oss!"
+
+msgid "Thatch (dark)"
+msgstr "Thatch (mørk)"
+
+msgid "Thatch (default)"
+msgstr "Thatch (standard)"
+
+msgid "The \"Share/Save\" button allows visitors to bookmark your site, share on popular services and via e-mail, or save to Instapaper. You may want to disable it if you use another sharing plugin."
+msgstr "\"Del/lagre\" knappen tillater besøkende og opprette et bokmerke til siden din, dele populære tjenester og via e-post eller lagre til Instapaper. Det kan hende du ønsker å deaktivere den dersom du bruker en annen plugin for deling."
+
+msgid "The Account E-Mail you have entered is invalid. Please try again."
+msgstr "Kontoe-posten du har skrevet inn er ugyldig. Vennligst prøv igjen."
+
+msgid "The Account E-Mail you have entered is not associated with a valid license.  Please check your Account E-Mail and try again."
+msgstr "E-postkontoen du har skrevet inn er ikke forbundet med en gyldig lisens. Vennligst sjekk din e-postkonto og prøv igjen."
+
+msgid "The BraveNewCode Blog timed out."
+msgstr "BraveNewCode Blog har fått tidsavbrudd."
+
+msgid "The BraveNewCode Forums timed out."
+msgstr "BraveNewCode-forumer er utløpt."
+
+msgid "The Featured Content Gallery plugin does not work correctly with WPtouch Pro. Please disable it below in the Plugin Compatibility section."
+msgstr "Plugin for innholdsgalleri fungerer ikke korrekt med WPtouch Pro. Deaktiver den under plugin-kompabilitetsseksjon."
+
+msgid "The WPtouch Pro admin panel / supported themes will be shown in this locale"
+msgstr "WPtouch Pro administratorpanel / støtter temaene som vil bli vist på denne lokale"
+
+msgid "The context header shows for results pages (e.g. Search Results, Leave A Reply) and other labels and headings."
+msgstr "Konteksten overskriften viser til resultatsider (f.eks søkeresultater legg igjen et svar) og andre etiketter og overskrifter."
+
+msgid "The import key you used is not valid.  Please try a copy/paste of your key again."
+msgstr "Den viktige nøkkelen du bruke er ikek gyldig.  Forsøk å klipp ut/lim inn nøkkelen din en gang til."
+
+msgid "The push message and account tabs are shown/hidden automatically."
+msgstr "Pushmeldings- og kontofanen blir vist/skjult automatisk."
+
+msgid "The startup splash screen image is located inside this theme folder at: /iphone/images/startup.png "
+msgstr "Oppstartsbildet finnes i temamappen: /iphone/images/startup.png"
+
+msgid "The welcome message shows below the header for visitors until dismissed."
+msgstr "Velkomstmeldingen blir vist under toppteksten for besøkere inntil den blir avvist."
+
+msgid "Theme &amp; Page Compatibility"
+msgstr "Tema &amp; Sideforenbarhet"
+
+msgid "Theme Browser"
+msgstr "Temasøk"
+
+msgid "Theme General"
+msgstr "Tema generelt"
+
+msgid "Theme Location (relative to wp-content):<br />%s"
+msgstr "Mappe for temaer (relativt til wp-content):<br />%s"
+
+msgid "Theme Menu"
+msgstr "Temameny"
+
+msgid "Theme Settings"
+msgstr "Temainnstillinger"
+
+msgid "Theme Skins"
+msgstr "Tematrekk"
+
+msgid "Theme Templates"
+msgstr "Temamal"
+
+msgid "Theme background image"
+msgstr "Temaets bakgrunnsbilde"
+
+msgid "Theme switch styling"
+msgstr "Tema bytt stil"
+
+msgid "Themes"
+msgstr "Temaer"
+
+msgid "There are currently no active plugins to disable."
+msgstr "Det er for tiden ingen aktive plugins å deaktivere."
+
+msgid "There are currently no themes installed."
+msgstr "Det er foreløpig ingen installerte temaer."
+
+msgid "There are no WordPress pages available to configure."
+msgstr "Det er ingen tilgjengelige WordPress-sider som du kan tilpasse."
+
+msgid "There is a new version of WPtouch Pro available."
+msgstr "Det er en ny versjon av WPtouch tilgjengelig."
+
+msgid "There seems to have been a problem posting your support question.  Please try again later."
+msgstr "Det virker å ha vært et problem med å sende ditt supportspørsmål. Vennligst prøv igjen senere."
+
+msgid "There was an error logging into your account. Please try again"
+msgstr "Det oppstod en feil ved innlogging på konto. Vennligst prøv igjen"
+
+msgid "There was an error resetting your licenses. Please contact customer support."
+msgstr "Det oppstod en feil i gjenstilling av dine lisenser. Vennligst kontakt kundestøtte."
+
+msgid "These settings affect the display of posts on the WPtouch blog, blog archive & search pages."
+msgstr "Disse innstillingene påvirker visning av poster i WPtouch-blogg, bloggarkiver og søksider."
+
+msgid "These settings require the %sFlickrRSS%s plugin to be installed:"
+msgstr "Disse innstillingene krever %sFlickrRSS%s pluggin for å bli installert:"
+
+msgid "These settings require the %sWordTwit Pro%s plugin to be installed:"
+msgstr "Disse innstillingene krever at %sWordTwit Pro%s plugginn blir innstallert:"
+
+msgid "These templates are custom to WPtouch. They trigger a new menu item which can be configured in the menu settings once activated here."
+msgstr "Disse malene er skreddersydde for WPtouch. De utløser en ny menygjenstand som kan bli konfigurert i menyinnstillingene når aktivert her."
+
+msgid "Thick Stripes"
+msgstr "Tykke striper"
+
+msgid "Thin Stripes"
+msgstr "Tynne striper"
+
+msgid "This Account E-Mail/License Key combination you have entered was rejected by the BraveNewCode server. Please try again."
+msgstr "Denne kontoe-posten/lisensnøkkelkombinasjonen du har skrevet inn ble avvist av BraveNewCode-serveren. Vennligst prøv igjen."
+
+msgid "This background shows in the landscape menu."
+msgstr "Denne bakgrunnen vises i landskapsmeny."
+
+msgid "This copy of WPtouch Pro %s is unlicensed."
+msgstr "Denne kopien av WPtouch Pro %s er ulisensiert."
+
+msgid "This copy of WPtouch Pro is partially activated."
+msgstr "Denne kopien av WPtouch Pro er delvis aktivert."
+
+msgid "This is an external link."
+msgstr "Dette er en ekstern lenke."
+
+msgid "This key represents a backup of all WPtouch Pro settings.<br />You can cut and paste it into another installation, or save the data to restore at a later time."
+msgstr "Denne nøkkelen representerer en sikkerhetskopi til alle WPtouch Pro innstillinger.<br />Du kan klippe og lime den inn til en annen installasjon, eller lagre informasjonen for å gjennopprette på et senere tidspunkt."
+
+msgid "This operation cannot be undone."
+msgstr "Denne handlingen kan ikke angres."
+
+msgid "This option can be used to include an attached image in the page content.  The image is only included if it doesn't already exist in the page content."
+msgstr "Denne muligheten kan bli brukt for å inkludere et vedlagt bilde i sideinnholdet. Bildet blir kun inkludert hvis det ikke allerede eksisterer i sideinnholdet."
+
+msgid "This option can be used to include an attached image in the post content.  The image is only included if it doesn't already exist in the post content."
+msgstr "Dette alternativet kan brukes for å inkludere et vedlagt bilde i postinnholdet.  Bildet er kun inkludert dersom det ikke allerede eksisterer i postinnholdet."
+
+msgid "This option reduces the loading time for pages, but may cause issues with the menu when permalinks are non-standard or on another domain."
+msgstr "Dette alternativet reduserer sidens lastetid, men kan skape problemer med menyen når permalinker ikke er standard eller på andre domener."
+
+msgid "This option will force  the WordPress multisite panels to be displayed. This option should only be used on an actual multisite installation."
+msgstr "Denne muligheten vil tvinge WordPress flersidepaneler for å bli vist. Denne muligheten bør kun bli brukt med en faktisk flersideinstallasjon."
+
+msgid "This option will include and load the functions.php from the active WordPress theme.  This may be required for themes with custom field features like post images, etc. This option will cause hidden files to be written to your desktop theme directory."
+msgstr "Denne muligheten vil inkludere og laste funksjoner .php fra aktivt WordPress-tema. Det kan kreves at disse temaene blir skreddersydd med feltfunksjoner slik som postbilder, osv. Denne muligheten vil forårsake at skjulte filer blir skrevet på din skrivebordstoppkatalog."
+
+msgid "This page is not mobile formatted."
+msgstr "Denne siden er ikke mobilformattert."
+
+msgid "This plugin will not work correctly in WPtouch Pro, and should be disabled below in the Plugin Compatibility section."
+msgstr "Denne pluginen fungerer ikke som den skal i WPtouch Pro, og bør utilgjengeliggjøres under Plugin-kompabilitetsdel."
+
+msgid "This post is password protected. Enter the password to view comments"
+msgstr "Dette innlegget er passordbeskyttet. Vennligst skriv inn passordet for å se kommentarer"
+
+msgid "This setting can be used to convert a regular WordPress page into a page that shows the latest posts."
+msgstr "Denne innstillingen kan bli brukt for å gjøre om vanlig WordPress-side til en side som viser de siste postene."
+
+msgid "This will govern the color of all text in the footer, except for links."
+msgstr "Dette vil styre fargen på all tekst i bunntekst, unntatt for linker."
+
+msgid "Thonburi"
+msgstr "Thonburi"
+
+msgid "Thonburi-Bold"
+msgstr "Thonburi-Fet"
+
+msgid "Thumbnail Icons"
+msgstr "Tommelfingerikon"
+
+msgid "TimesNewRomanPSMT"
+msgstr "TimesNewRomanPSMT"
+
+msgid "Tools and Debug"
+msgstr "Verktøy og \"avlusing\""
+
+msgid "Top"
+msgstr "Topp"
+
+msgid "Top Categories"
+msgstr "Beste kategorier"
+
+msgid "Top Tags"
+msgstr "Beste tagger"
+
+msgid "Topic Tags"
+msgstr "Emnestikkord"
+
+msgid "Topic Title"
+msgstr "Emnetittel"
+
+msgid "Trash"
+msgstr "Søppel"
+
+msgid "TrebuchetMS"
+msgstr "TrebuchetMS"
+
+msgid "TrebuchetMS-Bold"
+msgstr "TrebuchetMS-Fet"
+
+msgid "Turn it on in Settings -> Safari to view this mobile website correctly."
+msgstr "Skru den på i innstillinger -> Safari for å se denne mobile nettsiden riktig."
+
+msgid "Turn it on in browser settings to view this mobile website."
+msgstr "Skru på i innstillinger for nettleser for å se denne mobilsiden."
+
+msgid "Turn it on in browser settings to view this rich mobile website."
+msgstr "Skru det på i nettleserinnstillingene for å se dette rike mobilnettstedet."
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "UNLICENSED"
+msgstr "IKKE LISENSIERT"
+
+msgid "URL for iPad logo Image shown in the landscape menu"
+msgstr "URL for iPad logo bilde vist i landskapsmeny"
+
+msgid "URL path to a custom background"
+msgstr "URL-vei for en skreddersydd bakgrunn"
+
+msgid "URL to a custom CSS file"
+msgstr "URL til en tilpasset CSS-fil"
+
+msgid "URL to a custom header logo"
+msgstr "URL til tilpasset overskrift for logo"
+
+msgid "URL to a custom header logo (Retina Sized @ 2x)"
+msgstr "URL til tilpasset obverskriftslogo (Retina størrelse @ 2x)"
+
+msgid "URL to custom content area background"
+msgstr "URL for å skreddersy innhold for områdebakgrunn"
+
+msgid "URL to custom sidebar area background (repeated X and Y)"
+msgstr "URL for å skreddersy sidebar områdebakgrunn (gjentatt X og Y)"
+
+msgid "URL to iPad Landscape startup screen (1024x748) (.png) (iOS 5)"
+msgstr "URL til iPad Landskapsoppstartsskjerm (1024x748) (.png) (iOS 5)"
+
+msgid "URL to iPad Portrait startup screen (768x1004) (.png)"
+msgstr "URL til iPad Portrett oppstartsskjerm (768x1004) (.png)"
+
+msgid "URL to iPhone 4 Retina Display startup screen (640x920) (.png) (iOS 5)"
+msgstr "URL til iPhone 4 Retina Visningsoppstartsskjerm (640x920) (.png) (iOS 5)"
+
+msgid "URL to iPhone startup screen (320x460) (.png)"
+msgstr "URL til iPhone oppstartsskjerm (320x460) (.png)"
+
+msgid "URL will be opened in Mobile Safari.  This feature is sometimes required for external links."
+msgstr "URL som vil åpnes i Mobile Safari. Denne funksjonen kreves iblant for eksterne lenker."
+
+msgid "Unique to iPad, all colors, gradients & shading are done in CSS, optimized for maximum speed"
+msgstr "Unik for iPad, alle farger, nivåer og skygger utført i CSS, optimert for maksimal hastighet"
+
+msgid "Unzipping icon set..."
+msgstr "Pakker opp ikonsett..."
+
+msgid "Upgrade Available"
+msgstr "Oppgradering tilgjengelig"
+
+msgid "Upload Icon / Set"
+msgstr "Last opp ikon / sett"
+
+msgid "Upload Icons + Icon Sets"
+msgstr "Last opp ikoner og ikonsett"
+
+msgid "Upload complete, processing file..."
+msgstr "Opplasting fullført, behandler fil..."
+
+msgid "Upload completed."
+msgstr "Opplasting fullført."
+
+msgid "Uploading Icons"
+msgstr "Last opp ikoner"
+
+msgid "Uploading..."
+msgstr "Laster opp..."
+
+msgid "Use \"dark\" for dark backgrounds, \"light\" for light backgrounds"
+msgstr "Bruk \"mørk\" for mørke bakgrunnen, \"lys\" for lyse bakgrunner"
+
+msgid "Use AJAX to load posts and pages"
+msgstr "Bruk AJAX for å laste poster og sider"
+
+msgid "Use WPtouch Archives template"
+msgstr "Bruk WPtouch-arkivmal"
+
+msgid "Use WPtouch Links template"
+msgstr "Bruk WPtouch lenkermal"
+
+msgid "Use compatibility CSS"
+msgstr "Bruk kompatibel CSS"
+
+msgid "Use glossy bookmark icon"
+msgstr "Bruk glossy bokmerkeikon"
+
+msgid "Use menu icon for menu button"
+msgstr "Bruk menyikonet for menyknappen"
+
+msgid "Use menu icons"
+msgstr "Bruk menyikoner"
+
+msgid "Use mobile WPtouch FlickrRSS Photos template"
+msgstr "Bruk mobilbildemalen WPtouch FlickrRSS"
+
+msgid "Use mobile WPtouch Photos template"
+msgstr "Bruk mobilbildemal WPtouch"
+
+msgid "Use startup screens"
+msgstr "Bruk oppstartsskjermer"
+
+msgid "Use startup splash screen image"
+msgstr "Bruk oppstartsbilde"
+
+msgid "Used to adjust the menu sort order for WPtouch Pro themes "
+msgstr "Brukes til å justere menyen sorteringsrekkefølge for WPtouch Pro temaer"
+
+msgid "Useful when developing. Will make sure WPtouch Pro browser cache of Javascript and CSS files is updated on every page refresh."
+msgstr "Brukbar ved utviklng. Vil sørge for at WPtouch Pro nettleser cache av Javascript og CSS-filer blir oppdatert på hver sideoppfriskning."
+
+msgid "User Agents"
+msgstr "Brukeragenter"
+
+msgid "User Registration"
+msgstr "Brukerregistrering"
+
+msgid "Username"
+msgstr "Brukernavn"
+
+msgid "Username or E-Mail"
+msgstr "Brukernavn eller e-post"
+
+msgid "Various Colors"
+msgstr "Ulike farger"
+
+msgid "Verbose (5)"
+msgstr "Verbose (5)"
+
+msgid "Verdana"
+msgstr "Verdana"
+
+msgid "Verdana-Bold"
+msgstr "Verdana-Fet"
+
+msgid "View version details"
+msgstr "Se versjonsdetaljer"
+
+msgid "Violet Purple"
+msgstr "Fiolet lilla"
+
+msgid "Visit %sWikipedia%s for a list of device user agents"
+msgstr "Besøk %sWikipedia%s for en liste med enheters brukeragenter"
+
+msgid "Visiting this link will cause you to leave Web-App Mode.  Are you sure?"
+msgstr "Ved å besøke denne lenken kan det være du forlater Web-App-modus. Er du sikker?"
+
+msgid "WP Mobile edition should be configured to exclude the user agents that WPtouch Pro is enabled for (\"iphone\", \"ipod\", \"aspen\", \"incognito\", \"webmate\", \"dream\", \"android\", \"cupcake\", \"froyo\", \"blackberry9500\", \"blackberry9530\", \"blackberry9520\", \"blackberry9550\", \"webos\")."
+msgstr "WP Mobile utgave skal ikke konfigureres for å ekludere en brukeragnet som WPtouch Pro er aktivert for (\"iphone\", \"ipod\", \"aspen\", \"incognito\", \"webmate\", \"dream\", \"android\", \"cupcake\", \"froyo\", \"blackberry9500\", \"blackberry9530\", \"blackberry9520\", \"blackberry9550\", \"webos\")."
+
+msgid "WPtouch Landing Page"
+msgstr "WPtouch Landingside"
+
+msgid "WPtouch News"
+msgstr "WPtouch-nyheter"
+
+msgid "WPtouch Pro"
+msgstr "WPtouch Pro"
+
+msgid "WPtouch Pro Beta Changelog"
+msgstr "WPtouch Pro Beta endringslogg"
+
+msgid "WPtouch Pro Changelog"
+msgstr "WPtouch Pro endringslogg"
+
+msgid "WPtouch Pro Developer Mode: ON"
+msgstr "WPtouch Pro utviklermodus: PÅ"
+
+msgid "WPtouch Pro Help & Account Links"
+msgstr "WPtouch Pro Hjelp og kontolenker"
+
+msgid "WPtouch Pro Menu"
+msgstr "WPtouch Pro Meny"
+
+msgid "WPtouch Pro cannot co-exist with WPtouch 1.x.  Disable it first in the WordPress Plugins settings."
+msgstr "WPtouch Pro kan ikke avslutte med WPtouch 1.x.  Deaktiver den først i WordPress plugins-instillinger."
+
+msgid "WPtouch Pro is a plugin to build a mobile theme for your website tailored for <a href=\"http://www.apple.com/iphone/\">Apple iPhone</a> / <a href=\"http://www.apple.com/ipodtouch/\">iPod touch</a> / <a href=\"http://www.apple.com/ipad/\">iPad</a>, <a href=\"http://www.android.com/\">Google Android</a>, <a href=\"http://www.blackberry.com/\">Blackberry Storm & Torch</a> and other touch mobile devices."
+msgstr "WPtouch Pro er en plugginn for å bygge et mobilt tema for din nettside skreddersydd for <a href=\"http://www.apple.com/iphone/\">Apple iPhone</a> / <a href=\"http://www.apple.com/ipodtouch/\">iPod touch</a> / <a href=\"http://www.apple.com/ipad/\">iPad</a>, <a href=\"http://www.android.com/\">Google Android</a>, <a href=\"http://www.blackberry.com/\">Blackberry Storm & Torch</a> og andre mobile berøringsapparater."
+
+msgid "WPtouch Pro language"
+msgstr "WPtouch Pro-språk"
+
+msgid "WPtouch Pro requires pretty permalinks to be enabled within WordPress. %sMore Info%s"
+msgstr "WPtouch Pro krever vakre permalenker for å bli tilkoblet innen WordPress. %sMer info%s"
+
+msgid "WPtouch Pro will not work fully in safe mode. The ability to save custom icons/sets or themes, and write files like the debug log are not available."
+msgstr "WPtouch Pro ikke vil fungere fullt ut i sikkermodus. Muligheten til å lagre tilpassede ikoner / sett eller temaer, og skrive filer som feilsøkingsloggen er ikke tilgjengelige."
+
+msgid "WPtouch natively supports ads from Google Adsense or Admob. May not show on all devices (limitations of these services)."
+msgstr "WPtouch støtter annonser fra Google Adsense eller Admob. Vises kanskje ikke på alle enheter (begrensning på disse tjenestene)."
+
+msgid "WPtouch site title"
+msgstr "WPtouch sidetittel"
+
+msgid "WPtouch will attempt to disable selected plugin hooks when WPtouch and your mobile theme are active. Check plugins to disable:"
+msgstr "WPtouch vil forsøke å deaktivere valgte plugin-kroker når WPtouch og ditt mobiletema er aktivt. Sjekk plugins å deaktiver:"
+
+msgid "WPtouch will show the load time and query count to help you find slow pages/posts on your site."
+msgstr "WPtouch vil vise lastetid og forespørselstelling for å hjelpe deg med å finne sakte sider/poster på ditt sted."
+
+msgid "WPtouchboard"
+msgstr "WPtouch kontrollpanel"
+
+msgid "Warnings"
+msgstr "Advarsler"
+
+msgid "Warnings (3)"
+msgstr "Advarsler (3)"
+
+msgid "Warnings or Conflicts"
+msgstr "Advarsler og konflikter"
+
+msgid "Web-App Mode Settings"
+msgstr "Web-App Modusinnstillinger"
+
+msgid "Website"
+msgstr "Nettsted"
+
+msgid "Welcome message shown on 1st visit (HTML is OK)"
+msgstr "Velkomstmelding vist ved første besøk (HTML er ok)"
+
+msgid "Welcome, 404, Footer"
+msgstr "Velkommen, 404, bunntekst"
+
+msgid "When checked WPtouch overrides your WordPress homepage settings, and uses another page you select for its homepage."
+msgstr "Når kontrollert WPtouch overstyrer instillingene på WordPress-hjemmesiden din, og bruker en anne siden du har valgt til denne hjemmesiden."
+
+msgid "When checked WPtouch will allow iPhone, iPod touch and iPad visitors to bookmark your site to their home-screens as a web application."
+msgstr "Når sjekket med WPtouch vil det tillate iPhone, iPod touch og iPad besøkende å bokmerke stedet ditt for deres hjemmeskjermer som en nettapplikasjon."
+
+msgid "When checked WPtouch will remember and load the last visited page or post for a visitor when entering Web-App Mode."
+msgstr "Når kontrollert vil WPtouch huske, og laste siste viste side eller post for besøkende når de går inn i nettApp-modus."
+
+msgid "When checked WPtouch will show a notice bubble on first visit letting users know about your web-app enabled website on iOS devices."
+msgstr "Når sjekket vil WPtouch vise en varselboble ved første besøk for å la brukere få vite hvordan din web-app blir tilkoblet nettsiden på iOS-apparater."
+
+msgid "When checked WPtouch will show the theme startup image while in web-app mode."
+msgstr "Når avkrysset, vil WPtouch vise oppstartsbildet i web-appmodus."
+
+msgid "When checked WPtouch will use the WordPress date format in themes that support it (set in WordPress -> Settings - > General)."
+msgstr "Når sjekket WPtouch vil bruke WordPress datoformatet i temaer som støtter den (satt i WordPress -> Innstillinger -> Generelt)."
+
+msgid "When checked your website will show a startup image in Web-App Mode. If no paths are specified default startup screens will be used."
+msgstr "Når merket av vil nettsiden din vise et oppstartsbilde i nettappmodusen. Hvis ingen veier har blitt oppgitt vil standard oppstartsskjermer bli brukt."
+
+msgid "When unchecked WPtouch will not show a switch link allowing users to switch between the mobile view and your regular theme view"
+msgstr "Når en ukontrollert WPtouch ikke vil vise en endret link tillates brukere å bytte mellom mobilvisning og din vanlige temavisning"
+
+msgid "When unchecked no icons will be shown beside menu items, even if configured in Menu + Icons."
+msgstr "Når umerket ingen ikoner vil bli vist ved siden av menygjenstander, til og med hvis konfigurert i Meny + Ikoner."
+
+msgid "Will allow visitors to zoom in/out on content."
+msgstr "Vil la besøkende zoome inn/ut på innhold."
+
+msgid "Will always show account login/links in tab bar, even if registration for your website is not allowed."
+msgstr "Vil alltid vise innlogging og lenker i fanemenyen, selv om registreringer for ditt nettsted ikke er tillatt."
+
+msgid "Will be shown automatically if you require accounts."
+msgstr "Vil bli automatisk vist hvis du krever kontoer."
+
+msgid "Will hide the address bar in compatible browsers on a page load, showing the WPtouch header as the top of the page."
+msgstr "Vil skjule adressebaren i forenbare nettlesere på en sidelasting, viser WPtouch-tittel som toppen på siden."
+
+msgid "Will include 12 popular posts, ranked by comments."
+msgstr "Vil inkludere 12 populære poster, rangert etter kommentarer."
+
+msgid "Will include 12 recent posts."
+msgstr "Vil inkludere 12 siste poster."
+
+msgid "Will include up to 25 categories ranked by post count."
+msgstr "Vil inkludere inntil 25 kategorier rangert etter posttelling."
+
+msgid "Will include up to 25 tags, alphabetically."
+msgstr "Vil inkludere inntil 25 tagger, alfabetisk."
+
+msgid "Will show a page thumbnail or featured image instead of the page icon used in the menu. If no thumbnail is specified, the page icon will be used instead."
+msgstr "Vil vise en miniatyrbilde-side eller tilbudte bilder isteden for bildeikon som er brukt i menyen. Dersom miniatyrbilder ikke spesifiseres, vil sideikonet bli brukt istedenfor."
+
+msgid "Will show the date in post listings where thumbnails or none are selected in the post icon settings. Does not affect calendar icons."
+msgstr "Vil vise informasjon i innleggslister der miniatyrbilder eller ingen er valgt i instillinger for innleggsikon. Påvirker ikke kalenderikoner."
+
+msgid "WordPress Pages"
+msgstr "WordPress-sider"
+
+msgid "WordPress Thumbnails"
+msgstr "WordPress miniatyrbilder"
+
+msgid "WordPress Thumbnails/Featured Images"
+msgstr "WordPress miniatyrbilder/funksjonsbilder"
+
+msgid "WordPress Version"
+msgstr "WordPress-versjon"
+
+msgid "WordTwit Pro"
+msgstr "WordTwit Pro"
+
+msgid "Written by"
+msgstr "Skrevet av"
+
+msgid "You can choose between calendar icons or post thumbnails."
+msgstr "Du kan velge mellom kalenderikoner eller miniatyrbilder fra innlegg."
+
+msgid "You can choose between calendar icons, WordPress thumbnails, custom field thumbnails, or if activated, the Simple Post Thumbnails plugin."
+msgstr "Du kan velge mellom kalenderikoner, WordPress miniatyrbilder, tilpassede felt miniatyrbilder eller dersom ativert, miniatyrbilder-plugin for enkelt innlegg."
+
+msgid "You can enter a custom RSS URL here, such as a FeedBurner feed. When left blank, the default website RSS Feed is used."
+msgstr "Du kan skrive inn en tilpasset RSS-URL her, som en FeedBurner-strøm. Hvis blank, vil nettstedets RSS-strøm bli brukt."
+
+msgid "You can enter a custom email address here. When left blank the default admin email is used."
+msgstr "Du kan skrive inn en tilpasset e-postadresse her. Hvis blank, vil standard adminadresse bli brukt."
+
+msgid "You can enter custom advertising code (images, links, scripts, etc.) here"
+msgstr "Du kan skrive inn egendefinert reklamekode (bilder, linker, tekst osv.) her"
+
+msgid "You can enter up to 3 custom menu links to be shown in the WPtouch header menu."
+msgstr "Du kan skrive inn opp til 3 tilpassede menylenker som skal vises i toppmenyen til WPtouch."
+
+msgid "You can find both of these in the purchase receipt we sent to you."
+msgstr "Du kan finne begge disse på kjøpskvitteringen vi sendte til deg."
+
+msgid "You can reset all support and auto-upgrade licenses every %d days."
+msgstr "DU kan stille inn på nytt all støtte og autooppgraderingslisenser hver %d dag."
+
+msgid "You have activated these sites for automatic upgrades & support:"
+msgstr "Du har aktivert disse sidene for automatisk oppgraderingen og støtte:"
+
+msgid "You have not activated a license for this WordPress installation."
+msgstr "Du har ikke aktivert en lisens for denne WordPress-installasjonen."
+
+msgid "You must add at least one account in WordTwit Pro."
+msgstr "Du må legge til minst en konto i WordTwit Pro."
+
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Du må være %slogget inn%s for å kommentere."
+
+msgid "You will be able to reset all licenses again in %d day(s)."
+msgstr "Du vil være i stand til å stille inn alle lisensene på nytt om %d dag(er)."
+
+msgid "Your Account E-Mail + License Key are used to activate licenses for support and auto-upgrades."
+msgstr "Din kontoe-post + lisensnøkkel har blitt brukt for å aktivere lisenser for støtte og autooppgraderinger."
+
+msgid "Your Account E-Mail and License Key have been accepted. <br />Next, %sconnect a site license%s to this domain to enable support and automatic upgrades."
+msgstr "Din kontoe-post og lisensnøkkel har blitt akseptert. <br />Next, %skoble til en sidelisens%s til dette domenet for å koble til støtte og automatiske oppgraderinger."
+
+msgid "Your Adsense Channel"
+msgstr "Din Adsense-kanal"
+
+msgid "Your Backup Key was copied to the clipboard."
+msgstr "Din nøkkel for sikkerhetskopiering blr kopiert til utklippsordet."
+
+msgid "Your Website Address"
+msgstr "Din nettsideadresse"
+
+msgid "Your comment was published."
+msgstr "Dine kommentarer ble publisert."
+
+msgid "Your file is currently being uploaded, please wait."
+msgstr "Din fil blir nå lastet opp, vennligst vent."
+
+msgid "Your message failed to send. Please try again."
+msgstr "Beskjeden din kunne ikke sendes. Prøv på nytt."
+
+msgid "Your new icon is available below."
+msgstr "Ditt nye ikon er tilgjengelig nedenfor."
+
+msgid "Your new set is available below."
+msgstr "Ditt sett er tilgjengelig nedenfor."
+
+msgid "Your push message failed. Please try again."
+msgstr "Pushmelding ble ikke sendt. Vennligst prøv igjen."
+
+msgid "Your regular theme will be shown to 1st time mobile visitors first, with the Mobile View switch link available in the footer."
+msgstr "Ditt vanlige tema vil bli vist til førstegangsbesøkende først, med lenken Mobilvisning tilgjengelig i bunnteksten."
+
+msgid "Your support question has been posted!"
+msgstr "Ditt supportspørsmål har blitt sendt!"
+
+msgid "Your upload has completed, please wait while your file is processed."
+msgstr "Din opplasting er fullført, vennligst vent mens filen blir behandlet."
+
+msgid "[device] and [icon] are dynamic and used to determine the device and iOS version. Do not remove these from your message."
+msgstr "[apparat] og [ikon] er dynamiske og blir brukt for å fastsette apparatet og  iOS-versjon. Ikke fjern disse fra din melding."
+
+msgid "accounts"
+msgstr "kontoer"
+
+msgid "associate them with menu pages."
+msgstr "knytte dem til menysider."
+
+msgid "back"
+msgstr "tilbake"
+
+msgid "blog"
+msgstr "blogg"
+
+msgid "by %s"
+msgstr "av %s"
+
+msgid "e.g. FFFFFF, (Hex without #)"
+msgstr "f.eks. FFFFFF, (Hex uten #)"
+
+msgid "forward"
+msgstr "fremover"
+
+msgid "http://bravenewcode.com/wptouch-pro"
+msgstr "http://bravenewcode.com/wptouch-pro"
+
+msgid "http://www.bravenewcode.com"
+msgstr "http://www.bravenewcode.com"
+
+msgid "iOS / Webkit"
+msgstr "iOS / Webkit"
+
+msgid "iOS Web-App Mode"
+msgstr "iOS Web-App-modus"
+
+msgid "iPad"
+msgstr "iPad"
+
+msgid "iPad Homescreen"
+msgstr "iPad-hjemmeskjerm"
+
+msgid "iPad Settings"
+msgstr "iPad-innstillinger"
+
+msgid "iPad Support"
+msgstr "iPad-støtte"
+
+msgid "iPad Theme"
+msgstr "iPad-tema"
+
+msgid "iPad Theme OFF"
+msgstr "iPad-tema AV"
+
+msgid "iPad thatch (default)"
+msgstr "iPad thatch (standard)"
+
+msgid "iPad theme ON"
+msgstr "iPad-tema PÅ"
+
+msgid "iPhone/Android Homescreen"
+msgstr "iPhone/Android Hjemskjerm"
+
+msgid "is now web-app enabled!"
+msgstr "er nå en aktivert nettapp!"
+
+msgid "menu"
+msgstr "meny"
+
+msgid "menu list image"
+msgstr "menylistebilde"
+
+msgid "menu navigation"
+msgstr "menynavigasjon"
+
+msgid "push messages"
+msgstr "push-meldinger"
+
+msgid "search"
+msgstr "søk"

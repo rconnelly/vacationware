@@ -1,0 +1,1 @@
+<body class="<?php wptouch_body_classes(); ?>">

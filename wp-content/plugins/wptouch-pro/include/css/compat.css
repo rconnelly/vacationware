@@ -1,0 +1,324 @@
+/* Plugin Compatibility CSS */
+
+/* @group Dynamic Contact Form */
+
+#dwp-contact-button, .dwpcontact-page {
+	display: none !important;
+}
+
+/* @end */
+
+/* @group Banner Cycler */
+
+#cycler, #cyclerNav {
+	display: none !important;
+}
+
+/* @end */
+
+/* @group Gravity Forms */
+
+.gform_wrapper li, .gform_wrapper form li {
+	list-style-type: none!important;
+	padding-left: 30px;
+}
+
+.gform_wrapper .gform_footer {
+	margin-top: 0;
+	margin-left: 20px;
+}
+
+body.wptouch-pro .post .gform_wrapper .gform_body ul.gform_fields {
+	text-indent: 0!important;
+	margin: 0;
+	padding: 0
+}
+
+body.wptouch-pro .post .gform_wrapper .gform_body ul.gform_fields li {
+	padding-left: 0!important
+}
+
+
+
+/* @end */
+
+/* @group WP Skypscraper */
+
+.wp_skyscraper_c2 {
+	display: none !important;
+}
+
+/* @end */
+
+/* @group AddThis / Tweet This */
+
+.addthis_container {
+	display: none !important;
+}
+
+a.tt {
+	display: none !important;
+}
+
+/* @end */
+
+/* @group Peter's Anti Spam Support */
+
+#secureimgdiv img#cas_image {
+	-webkit-border-radius: 2px	!important;
+	border: 1px solid #adadad	!important;
+	width: auto							!important;
+	height: 21px							!important;
+	float: left								!important;
+}
+
+#secureimgdiv p label {
+	color: #475d79;
+	text-shadow: #eee 1px 1px 0;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#secureimgdiv p small {
+	display: block;
+	margin-top: 5px;
+	font-size: 11px;
+	text-align: justify;
+}
+
+#secureimgdiv p input#securitycode {
+	-webkit-border-radius: 8px;
+	border: 1px solid #adadad;
+	padding: 3px;
+	margin: 0 0 0 0;
+	font-size: 13px;
+	color: #444;
+	width: 101px;
+	-webkit-border-top-left-radius: 1px;
+	-webkit-border-bottom-left-radius: 1px;
+}
+
+/* @end */
+
+/* @group Ribbon Manager Plugin Override */
+
+a#ribbon {
+	display: none !important;
+}
+
+/* @end */
+
+/* @group Subscribe To Comments */
+
+p.subscribe-to-comments {
+	padding: 8px;
+	-webkit-border-radius: 8px;
+	background-color: #fff;
+	border: 1px solid #adadad;
+	box-shadow: rgba(255,255,255,.5) 0px 1px 0px;
+}
+
+p.subscribe-to-comments label {
+	text-shadow: #fff 0 1px 0 !important;
+	color: #333 !important;
+}
+
+p.subscribe-to-comments input#subscribe {
+	padding-right: 3px;
+	vertical-align: top;
+	width: auto;
+	height: auto;
+}
+
+/* @end */
+
+/* @group Digg Box */
+
+span.db-body {
+	display: none !important;
+}
+
+/* @end */
+
+/* @group WP Thread Comment */
+
+p.thdrpy, p.thdmang {
+	display: inline;
+	margin-right: 10px;
+}
+
+/* @end */
+
+/* @group WP Greet Box */
+
+#greet_block {
+	display: none !important;
+}
+
+/* @end */
+
+/* @group Comment Reply Notification */
+
+#commentform input#comment_mail_notify {
+	margin-right: 5px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+/* @end */
+
+/* @group Share and Follow */
+
+.footer #follow.right {
+	display: none !important;
+}
+
+.content ul.socialwrap {
+	display: none !important;
+}
+
+/* @end */
+
+/* @group Disqus */
+
+#disqus_thread {
+	-webkit-border-radius: 8px;
+	border: 1px solid #adadad;
+	background-color: #fff;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 50px;
+}
+
+/* @end */
+
+/* @group WP Tweet Button */
+
+#content .tw_button {
+	display: none !important;
+}
+
+/* @end */
+
+/* @group Follow Me */
+
+#followMeTabLeftSm, #followMeTabLeftSm img {
+	display: none !important;
+	height: 0 !important;
+	width: 0 !important;
+	visibility: hidden !important;
+	position: -1000em !important;
+}
+
+/* @end */
+
+/* @group Comment Quicktags */
+
+#commentform #ed_toolbar {
+	margin-left: 9px;
+}
+
+#commentform #ed_toolbar .ed_button {
+	width: auto !important;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	margin-right: 3px;
+	-webkit-border-radius: 4px !important;
+	padding: 2px 6px !important;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+/* @end */
+
+/* @group Zenbox */
+
+#zenbox_tab {display: none !important;}
+
+
+
+/* @end */
+
+/* @group AttentionGrabber */
+
+#attentionGrabber, #attentionGrabberWrap #openAttentionGrabber {
+	display: none !important;
+}
+
+
+
+/* @end */
+
+/* @group smartPop-Up Box */
+
+#smartPopupfade, #pietimerholder {
+	display: none !important;
+}
+
+
+
+/* @end */
+
+/* @group Mega Dropdown */
+
+.megadropdown-wrapper {
+	display: none !important;
+}
+
+
+
+/* @end */
+
+/* @group Easy Button */
+
+.buttonfixed {
+	display: none !important;
+}
+
+
+
+/* @end */
+
+/* @group AS Sharebar */
+
+#as-share-window {
+	display:none !important;
+}
+
+
+
+/* @end */
+
+/* @group Social Share */
+
+#content .leftcontainerBox {
+	display: none !important;
+}
+
+
+
+/* @end */
+
+/* @group Videos */
+
+object, video, embed, iframe {
+	-webkit-transform: translate3d(0,0,0);	
+}
+
+
+
+/* @end */
+
+Google YouTube Widget {
+	
+}
+
+table.gagdet {
+	-webkit-transform: translate3d(0,0,0) !important;
+	z-index: 0 !important;
+}
+
+.mapp-container, .mapp-canvas, .mapp-canvas-panel {
+	max-width: 100%;
+}

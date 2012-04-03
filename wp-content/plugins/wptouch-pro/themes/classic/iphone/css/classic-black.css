@@ -1,0 +1,216 @@
+/* @group Classic Black */
+
+.classic-black #header {
+	background-color: #111111;
+		-webkit-box-shadow: rgba(0,0,0,.4) 0px 3px 3px;
+}
+
+.classic-black a#logo-title {
+	color: #FFF;
+	text-shadow: #000 0 -1px 1px;
+}
+
+.classic-black a#custom-logo-title {
+	color: #FFF;
+	text-shadow: #000 0 -1px 1px;
+}
+
+/* @group Menu Toggle */
+
+.classic-black a#header-menu-toggle {
+	color: #eee;
+	text-shadow: #666 0 -1px 1px;
+	border: 1px solid #4d4d4d;
+	background: #000 url(../images/button-bg.png) repeat-x 0 -2px;
+	font-weight: bold;
+	-webkit-background-clip: padding-box;
+}
+
+.classic-black a#header-menu-toggle.menu-toggle-open {
+	background-image: none;
+	border: 1px solid #444;
+	background-color: #333;
+}
+
+/* @end */
+
+/* @group Search */
+
+.classic-black #search-bar {
+	background-color: #000;
+}
+
+.classic-black #search-bar.show-search {
+	background-color: #555;
+	border-top: 1px solid #111;
+}
+
+/* @end */
+
+.classic-black #main-menu {
+	-webkit-box-shadow: #444 -4px 4px 4px;
+	text-shadow: #000 0 -1px 1px;
+	background-color: #444;
+}
+
+.classic-black #menu-container h2 {
+	background-color: #555;
+	color: #bbb;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #333;
+}
+
+/* @group Pages Menu */
+
+.classic-black #main-menu ul li {
+	border-bottom: 1px solid #333;
+	border-top: 1px solid #555;
+}
+
+.classic-black #main-menu ul li.open-tree li, .classic-black #main-menu ul li.open-tree, .classic-black #main-menu ul li.open-tree li a {
+	background-color: #4d4d4d;
+	text-shadow: #000 0 -1px 1px;
+	color: #eee;
+	border-top-style: none;
+}
+
+.classic-black #main-menu ul li a {
+	color: #eee;
+}
+
+.classic-black #main-menu #menu-tab1 ul li a.arrow-toggle {
+	border-top: 1px solid #4d4d4d;
+}
+
+/* @end */
+
+/* @group Tags / Cats */
+
+.classic-black #menu-tab2 a span, .classic-black #menu-tab3 a span {
+	color: #999;
+}
+
+/* @end */
+
+/* @group Tab Bar */
+
+/* @group Tabs(bg) */
+
+.classic-black a#tab-pages {
+	background-image: url(../images/tab-bar/pages.png);
+		background-size: 36%;
+}
+
+.classic-black a#tab-categories {
+	background-image: url(../images/tab-bar/cats.png);
+}
+
+.classic-black a#tab-tags {
+	background-image: url(../images/tab-bar/tags.png);
+}
+
+.classic-black a#tab-push {
+	background-image: url(../images/tab-bar/push.png);
+}
+
+.classic-black a#tab-login {
+	background-image: url(../images/tab-bar/user.png);
+}
+
+.classic-black a#tab-twitter {
+	background-image: url(../images/tab-bar/twitter.png);
+		background-size: 54%;
+}
+
+/* @end */
+
+.classic-black #tab-bar {
+	background: #1b1b1b url(../images/tab-bar/bar-bg.png) repeat-x 0 -4px;
+	border-top: 1px solid #515151;
+	border-bottom: 1px solid #424242;
+}
+
+.classic-black #tab-inner-wrap-left {
+	border: 1px solid #444;
+	background: #464646 url(../images/button-bg.png) repeat-x 0 -1px;
+}
+
+.classic-black #tab-inner-wrap-left a {
+	border-right: 1px solid #444;
+	border-left: 1px solid #666;
+}
+
+.classic-black #tab-inner-wrap-left a.selected {
+	background-color: #666;
+	border-left-color: #666;
+}
+
+.classic-black #tab-inner-wrap-right {
+	border: 1px solid #444;
+	background: #000 url(../images/button-bg.png) repeat-x 0 -1px;
+}
+
+.classic-black #tab-inner-wrap-right a {
+	background: url(../images/tab-bar/search.png) no-repeat center center;
+}
+
+.classic-black #tab-inner-wrap-right a.search-toggle-open {
+	background-color: #666;
+}
+
+/* @end */
+
+/* @group Push Form */
+
+.classic-black #menu-tab4 h4 {
+	color: #eee;
+}
+
+.classic-black #menu-tab4 p {
+	color: #eee;
+	text-shadow: #000 1px -1px 0;
+}
+
+.classic-black #menu-tab4 input {
+	border: 1px solid #adadad;
+	color: #444;
+}
+
+.classic-black #menu-tab4 input#prowl-submit {
+	color: #555;
+	background-color: #eee;
+	border: 1px solid #aaa;
+	text-shadow: #fff 0 1px 0;
+}
+
+.classic-black #menu-tab4 textarea {
+	border: 1px solid #adadad;
+	color: #444;
+}
+
+/* @end */
+
+/* @group Login / Account */
+
+.classic-black form#loginform label {
+	color: #eee;
+	text-shadow: #000 1px -1px 0;
+}
+
+.classic-black form#loginform input {
+	border: 1px solid #adadad;
+	color: #444;
+}
+
+.classic-black #menu-tab5 p {
+	color: #ccc;
+}
+
+.classic-black #menu-tab5 p a {
+	color: #fff;
+	border-bottom: 1px solid #777;
+}
+
+/* @end */
+
+/* @end */

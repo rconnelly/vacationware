@@ -1,0 +1,234 @@
+/* @override http://www.bravenewcode.com/wordpress/wp-content/plugins/wptouch-pro/themes/classic/iphone/css/clean-white.css?ver=3031f9eb2123a26ddfc52da9b5b438681317402881 */
+
+.clean-white #header {
+	background-color: #ddd;
+		-webkit-box-shadow: rgba(0,0,0,.4) 0px 3px 3px;
+}
+
+.clean-white a#logo-title {
+	color: #777;
+	text-shadow: #fff 0 1px 1px;
+}
+
+.clean-white a#custom-logo-title {
+	color: #FFF;
+	text-shadow: #000 0 -1px 1px;
+}
+
+/* @group Menu Toggle */
+
+.clean-white a#header-menu-toggle {
+	color: #555;
+	text-shadow: #ccc 0 1px 1px;
+	border: 1px solid #b1b1b1;
+	background: #ccc;
+	font-weight: bold;
+	-webkit-background-clip: padding-box;
+}
+
+.clean-white a#header-menu-toggle.menu-toggle-open {
+	background-color: #aaa;
+}
+
+/* @end */
+
+/* @group Search */
+
+.clean-white #search-bar {
+	background-color: #aaa;
+}
+
+.clean-white #search-bar.show-search {
+	background-color: #bbb;
+	border-top: 1px solid #ebebeb;
+}
+
+.clean-white #search-bar input {
+	border: 1px solid #9a9a9b;
+	color: #888;
+}
+
+/* @end */
+
+.clean-white #main-menu {
+	-webkit-box-shadow: #999 -4px 4px 4px;
+	background-color: #fff;
+}
+
+.clean-white #menu-container h2 {
+	background-color: #ddd;
+	color: #888;
+	border-top: 1px solid #afafaf;
+	border-bottom: 1px solid #bbb;
+}
+
+/* @group Pages Menu */
+
+.clean-white #main-menu ul li {
+	border-top: 1px solid #f2f2f2;
+}
+
+.clean-white #main-menu ul li.has_children > a {
+	background: url(../images/black-arrow-toggle.png) no-repeat 42px 14px;
+}
+
+.clean-white #main-menu ul li a.arrow-toggle {
+	background-position: 41px -15px;
+	border-top: 1px solid #eee;
+}
+
+.clean-white #main-menu ul li.open-tree li, .clean-white #main-menu ul li.open-tree, .clean-white #main-menu ul li.open-tree li a {
+	border-top-style: none;
+	background-color: #eee;
+}
+
+/* @end */
+
+/* @group Tags / Cats */
+
+.clean-white #menu-tab2 a span, .clean-white #menu-tab3 a span {
+	color: #ccc;
+}
+
+/* @end */
+
+/* @group Tab Bar */
+
+/* @group Tabs(bg) */
+
+.clean-white a#tab-pages {
+	background-image: url(../images/tab-bar/pages.png);
+		background-size: 36%;
+}
+
+.clean-white a#tab-categories {
+	background-image: url(../images/tab-bar/cats.png);
+}
+
+.clean-white a#tab-tags {
+	background-image: url(../images/tab-bar/tags.png);
+}
+
+.clean-white a#tab-push {
+	background-image: url(../images/tab-bar/push.png);
+}
+
+.clean-white a#tab-login {
+	background-image: url(../images/tab-bar/user.png);
+}
+
+.clean-white a#tab-twitter {
+	background-image: url(../images/tab-bar/twitter.png);
+	background-size: 54%;
+}
+
+/* @end */
+
+.clean-white #tab-bar {
+	background: #dcdcdc repeat-x 0 -4px;
+	border-top: 1px solid #a6a6a6;
+	border-bottom: 1px solid #e8e8e8;
+}
+
+.clean-white #tab-inner-wrap-left {
+	border: 1px solid #bdbdbd;
+	background: #eee repeat-x 0 -1px;
+}
+
+.clean-white #tab-inner-wrap-left a {
+	border-right: 1px solid #dbdbdb;
+	border-left: 1px solid #f2f2f2;
+}
+
+.clean-white #tab-inner-wrap-left a.selected {
+	background-color: #c6c6c6;
+	border-left-color: #c6c6c6;
+}
+
+.clean-white #tab-inner-wrap-right {
+	border: 1px solid #bdbdbd;
+	background: #eee repeat-x 0 -1px;
+}
+
+.clean-white #tab-inner-wrap-right a {
+	background: url(../images/tab-bar/search.png) no-repeat center center;
+}
+
+.clean-white #tab-inner-wrap-right a.search-toggle-open {
+	background-color: #c6c6c6;
+}
+
+/* @end */
+
+/* @group Push Form */
+
+.clean-white #menu-tab4 h4 {
+	color: #888;
+}
+
+.clean-white #menu-tab4 p {
+	color: #999;
+}
+
+.clean-white #menu-tab4 input {
+	border: 1px solid #9a9a9b;
+	color: #444;
+}
+
+.clean-white #menu-tab4 input#prowl-submit {
+	color: #555;
+	background-color: #eee;
+	border: 1px solid #aaa;
+	text-shadow: #fff 0 1px 0;
+}
+
+.clean-white #menu-tab4 textarea {
+	border: 1px solid #adadad;
+	color: #444;
+}
+
+/* @end */
+
+/* @group Login / Account */
+
+.clean-white form#loginform label {
+	color: #888;
+}
+
+.clean-white form#loginform input {
+	border: 1px solid #9a9a9b;
+	color: #444;
+}
+
+.clean-white #menu-tab5 p {
+	color: #aaa;
+}
+
+.clean-white #menu-tab5 p a {
+	color: #999;
+	border-bottom: 1px solid #eee;
+}
+
+/* @end */
+
+/* @group WordTwit Pro */
+
+ul#wordtwit-list li:nth-child(odd) {
+	background-color: rgba(0,0,0,.05);
+}
+
+ul#wordtwit-list p.t-name {
+	color: #777;
+}
+
+ul#wordtwit-list span.t-time {
+	color: #999;
+}
+
+ul#wordtwit-list p {
+	color: #888;
+}
+
+
+
+/* @end */

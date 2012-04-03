@@ -1,0 +1,218 @@
+.violet-purple #header {
+	background-color: #301e5f;
+		-webkit-box-shadow: rgba(0,0,0,.4) 0px 3px 3px;
+}
+
+.violet-purple a#logo-title {
+	color: #FFF;
+	text-shadow: #000 0 -1px 1px;
+}
+
+.violet-purple a#custom-logo-title {
+	color: #FFF;
+	text-shadow: #000 0 -1px 1px;
+}
+
+/* @group Menu Toggle */
+
+.violet-purple a#header-menu-toggle {
+	color: #eee;
+	text-shadow: #666 0 -1px 1px;
+	border: 1px solid #281853;
+	background: url(../images/purple-button-bg.png) repeat-x 0 0;
+	font-weight: bold;
+	-webkit-background-clip: padding-box;
+}
+
+.violet-purple a#header-menu-toggle.menu-toggle-open {
+	background-image: none;
+	border: 1px solid #281853;
+	background-color: #382c5a;
+}
+
+/* @end */
+
+/* @group Search */
+
+.violet-purple #search-bar {
+	background-color: #574b6f;
+}
+
+.violet-purple #search-bar.show-search {
+	background-color: #281853;
+	border-top: 1px solid #111;
+}
+
+/* @end */
+
+.violet-purple #main-menu {
+	-webkit-box-shadow: #444 -4px 4px 4px;
+	text-shadow: #000 0 -1px 1px;
+	background-color: #382c5a;
+}
+
+.violet-purple #menu-container h2 {
+	background-color: #574b6f;
+	color: #bbb;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #333;
+}
+
+/* @group Pages Menu */
+
+.violet-purple #main-menu ul li {
+	border-bottom: 1px solid #221c31;
+	border-top: 1px solid #4e386c;
+}
+
+.violet-purple #main-menu ul li.has_children > a {
+	color: #bbb;
+	background: url(../images/black-arrow-toggle.png) no-repeat 42px 14px;
+}
+
+.violet-purple #main-menu ul li a.arrow-toggle {
+	background-position: 41px -15px;
+	border-top: 1px solid #4d4d4d;
+}
+
+.violet-purple #main-menu ul li.open-tree li, .violet-purple #main-menu ul li.open-tree, .violet-purple #main-menu ul li.open-tree li a {
+	background-color: #574b6f;
+	text-shadow: #000 0 -1px 1px;
+	color: #fff;
+	border-top-style: none;
+}
+
+.violet-purple #main-menu ul li a {
+	color: #bbb;
+}
+
+/* @end */
+
+/* @group Tags / Cats */
+
+.violet-purple #menu-tab2 a span, .violet-purple #menu-tab3 a span {
+	color: #999;
+}
+
+/* @end */
+
+/* @group Tab Bar */
+
+/* @group Tabs(bg) */
+
+.violet-purple a#tab-pages {
+	background-image: url(../images/tab-bar/pages.png);
+		background-size: 36%;
+}
+
+.violet-purple a#tab-categories {
+	background-image: url(../images/tab-bar/cats.png);
+}
+
+.violet-purple a#tab-tags {
+	background-image: url(../images/tab-bar/tags.png);
+}
+
+.violet-purple a#tab-push {
+	background-image: url(../images/tab-bar/push.png);
+}
+
+.violet-purple a#tab-login {
+	background-image: url(../images/tab-bar/user.png);
+}
+
+.violet-purple a#tab-twitter {
+	background-image: url(../images/tab-bar/twitter.png);
+		background-size: 54%;
+}
+
+/* @end */
+
+.violet-purple #tab-bar {
+	background: #301e5f url(../images/tab-bar/bar-bg.png) repeat-x 0 -4px;
+	border-top: 1px solid #301e5f;
+	border-bottom: 1px solid #301e5f;
+}
+
+.violet-purple #tab-inner-wrap-left {
+	border: 1px solid #301e5f;
+	background: #371f52 url(../images/purple-button-bg.png) repeat-x 0 0;
+}
+
+.violet-purple #tab-inner-wrap-left a {
+	border-right: 1px solid #301e5f;
+	border-left: 1px solid #604f84;
+}
+
+.violet-purple #tab-inner-wrap-left a.selected {
+	background-color: #281853;
+	border-left-color: #281853;
+}
+
+.violet-purple #tab-inner-wrap-right {
+	border: 1px solid #281853;
+	background: #371f52 url(../images/purple-button-bg.png) repeat-x 0 0;
+}
+
+.violet-purple #tab-inner-wrap-right a {
+	background: url(../images/tab-bar/search.png) no-repeat center center;
+}
+
+.violet-purple #tab-inner-wrap-right a.search-toggle-open {
+	background-color: #281853;
+}
+
+/* @end */
+
+/* @group Push Form */
+
+.violet-purple #menu-tab4 h4 {
+	color: #eee;
+}
+
+.violet-purple #menu-tab4 p {
+	color: #eee;
+	text-shadow: #000 1px -1px 0;
+}
+
+.violet-purple #menu-tab4 input {
+	border: 1px solid #adadad;
+	color: #444;
+}
+
+.violet-purple #menu-tab4 input#prowl-submit {
+	color: #555;
+	background-color: #eee;
+	border: 1px solid #aaa;
+	text-shadow: #fff 0 1px 0;
+}
+
+.violet-purple #menu-tab4 textarea {
+	border: 1px solid #adadad;
+	color: #444;
+}
+
+/* @end */
+
+/* @group Login / Account */
+
+.violet-purple form#loginform label {
+	color: #eee;
+	text-shadow: #000 1px -1px 0;
+}
+
+.violet-purple form#loginform input {
+	border: 1px solid #adadad;
+	color: #444;
+}
+
+.violet-purple #menu-tab5 p {
+	color: #ccc;
+}
+
+.violet-purple #menu-tab5 p a {
+	color: #fff;
+	border-bottom: 1px solid #777;
+}
+
+/* @end */

@@ -205,3 +205,10 @@
 [15-Feb-2012 12:36:26 UTC] PHP Fatal error:  Call to a member function set_defaults() on a non-object in /home/floridav/public_html/wp-content/plugins/google-analytics-for-wordpress/googleanalytics.php on line 1516
 [15-Feb-2012 13:19:24 UTC] PHP Fatal error:  Call to a member function set_defaults() on a non-object in /home/floridav/public_html/wp-content/plugins/google-analytics-for-wordpress/googleanalytics.php on line 1516
 [16-Feb-2012 01:18:43 UTC] PHP Fatal error:  Call to a member function set_defaults() on a non-object in /home/floridav/public_html/wp-content/plugins/google-analytics-for-wordpress/googleanalytics.php on line 1516
+[16-Feb-2012 06:47:06 UTC] PHP Fatal error:  Out of memory (allocated 3407872) (tried to allocate 30720 bytes) in /home/floridav/public_html/wp-includes/functions.php on line 3907
+[09-Mar-2012 18:02:18 UTC] PHP Fatal error:  Out of memory (allocated 13631488) (tried to allocate 7680 bytes) in /home/floridav/public_html/wp-includes/kses.php on line 1132
+[09-Mar-2012 18:02:18 UTC] PHP Fatal error:  Out of memory (allocated 3670016) (tried to allocate 30720 bytes) in /home/floridav/public_html/wp-includes/plugin.php on line 775
+[09-Mar-2012 18:02:18 UTC] PHP Fatal error:  Out of memory (allocated 24641536) (tried to allocate 30720 bytes) in /home/floridav/public_html/wp-content/plugins/wordpress-mu-domain-mapping/domain_mapping.php on line 703
+[13-Mar-2012 00:55:40 UTC] PHP Fatal error:  Out of memory (allocated 11796480) (tried to allocate 384 bytes) in /home/floridav/public_html/wp-includes/category-template.php on line 981
+[13-Mar-2012 00:55:40 UTC] PHP Fatal error:  Out of memory (allocated 7864320) (tried to allocate 7680 bytes) in /home/floridav/public_html/wp-includes/theme.php on line 1676
+[16-Mar-2012 10:04:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/floridav/public_html/wp-content/plugins/w3-total-cache/lib/W3/Minify.php on line 361

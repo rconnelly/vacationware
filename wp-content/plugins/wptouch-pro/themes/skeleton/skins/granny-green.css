@@ -1,0 +1,207 @@
+/* @override http://beta.bravenewcode.com/wordpress/wp-content/plugins/wptouch-pro/themes/skeleton/skins/granny-green.css */
+
+/* 
+Skin Name: Granny Green
+*/
+
+.skin-granny-green {
+	background-color: #d5ffdc;
+}
+
+.skin-granny-green a {
+	color: #177b37;
+}
+
+/* @group Header Area */
+
+#header {
+	border-bottom-color: #006e1c;
+	background: #008d39 url(images/granny-rep-bg.png) repeat-x 0 0;
+}
+
+#header #logo-icon {
+	display: none;
+}
+
+a#logo-title {
+	color: #fff;
+	text-shadow: #222 0 -1px 1px;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	font-size: 18px;
+	text-indent: -1000em;
+	background: url(images/granny-header-logo.png) no-repeat 0 0;
+	height: 40px;
+	margin-top: 3px;
+	margin-left: 0;
+}
+
+a#header-menu-toggle {
+	background-color: #206c38;
+	background-image: -webkit-gradient(linear,
+	left top, left bottom,
+	color-stop(0.01, rgba(255, 255, 255, 0.1)),
+	color-stop(0.5, rgba(0, 0, 0, 0.1)),
+	color-stop(0.5, rgba(0, 0, 0, 0.1)),
+	color-stop(6.0, rgba(255, 255, 255, 2.0)));
+	border-color: #004c22;
+	-webkit-box-shadow: #aaa 0px 1px 2px;
+}
+
+a#header-menu-toggle.menu-toggle-open {
+	background-color: #006410;
+	background-image: -webkit-gradient(linear,
+	left top, left bottom,
+	color-stop(0.01, rgba(255, 255, 255, 0.1)),
+	color-stop(0.5, rgba(0, 0, 0, 0.1)),
+	color-stop(0.5, rgba(0, 0, 0, 0.1)),
+	color-stop(6.0, rgba(255, 255, 255, 2.0)));
+	border-color: #006f21;
+	-webkit-box-shadow: #aaa 0px 1px 2px;
+}
+
+/* @end */
+
+/* @group Tab Bar */
+
+#tab-bar {
+	background-image: -webkit-gradient(linear,
+	left top, left bottom,
+	color-stop(0.0, rgba(255, 255, 255, 0.9)),
+	color-stop(.02, rgba(255, 255, 255, 0.35)),
+	color-stop(0.5, rgba(255, 255, 255, 0.3)),
+	color-stop(0.5, rgba(255, 255, 255, 0.2)),
+	color-stop(5.0, rgba(255, 255, 255, 2.0)));
+	background-color: #76af6c;
+	border-top: 1px solid #004c22;
+	border-bottom: 1px solid #004c22;
+}
+
+#tab-inner-wrap-left {
+	border: 1px solid #3b7a4b;
+	background-image: -webkit-gradient(linear,
+	left top, left bottom,
+	color-stop(0.0, rgba(255, 255, 255, 0.9)),
+	color-stop(.02, rgba(255, 255, 255, 0.35)),
+	color-stop(0.5, rgba(255, 255, 255, 0.3)),
+	color-stop(0.5, rgba(255, 255, 255, 0.2)),
+	color-stop(5.0, rgba(255, 255, 255, 2.0)));
+	background-color: #4e7f4f;
+}
+
+#tab-inner-wrap-left a {
+	border-right: 1px solid #3b7a4b;
+	border-left: 1px solid #a0bbaf;
+}
+
+#tab-inner-wrap-left a.selected {
+	background-color: #006410;
+	border-left-style: solid;
+	border-left-color: #555;
+}
+
+#tab-inner-wrap-right {
+	border: 1px solid #3b7a4b;
+	background-image: -webkit-gradient(linear,
+	left top, left bottom,
+	color-stop(0.0, rgba(255, 255, 255, 0.9)),
+	color-stop(.02, rgba(255, 255, 255, 0.35)),
+	color-stop(0.5, rgba(255, 255, 255, 0.3)),
+	color-stop(0.5, rgba(255, 255, 255, 0.2)),
+	color-stop(5.0, rgba(255, 255, 255, 2.0)));
+	background-color: #206c38 !important;
+}
+
+#tab-inner-wrap-right a {
+	padding: 7px 17px 7px 16px;
+	display: inline-block;
+	text-indent: -1000em;
+	cursor: pointer;
+}
+
+#search-bar.show-search {
+	background-color: #006410;
+}
+
+#tab-inner-wrap-right a.search-toggle-open {
+	background-color: #006410;
+	-webkit-transition-duration: 0.8s;
+}
+
+/* @end */
+
+/* @group Menu Area */
+
+#main-menu {
+	top: 43px;
+	background-color: #c4ebcb;
+}
+
+#main-menu ul li  {
+	background-color: #c4ebcb;
+	border-top-color: #cbffcc;
+	border-bottom-color: #a7d3a8;
+}
+
+#main-menu ul li:hover {
+	background-color: #add2ae;
+}
+
+#main-menu ul li.open-tree li, #main-menu ul li.open-tree, #main-menu ul li.open-tree li a {
+	background-color: #dfffdc;
+	text-shadow: #fff 0 1px 1px;
+	border-style: none;
+}
+
+#menu-container p {
+	color: #005f20;
+}
+
+/* @end */
+
+#welcome-message, #prowl-message, #noscript {
+	border-width: 3px;
+	background-color: #f3f6e8;
+	font: bold 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.cal-month {
+	background-color: #238734;
+}
+
+a.arrow-button {
+	display: none;
+}
+
+.posts-nav .right a, .posts-nav .left a {
+	background-image: none;
+	padding-right: 5px;
+	padding-left: 0;
+}
+
+/* @group Comments */
+
+.post, ol.commentlist {
+	border-width: 1px;
+	border-color: #6ca77a;
+}
+
+ol.commentlist li a.comment-edit-link {
+	background-color: #006410;
+}
+
+/* @end */
+
+/* @group Other Headings */
+
+.linkcat h2, h2.wptouch-archives, h3#comments, #respond h3, p.nocomments, #loading p, form#commentform label, .archive-text, form#loginform label {
+	color: #006410;
+}
+
+
+
+/* @end */
+
+#footer {
+	color: #555;
+}

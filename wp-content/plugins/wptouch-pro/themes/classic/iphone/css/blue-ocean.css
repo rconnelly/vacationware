@@ -1,0 +1,225 @@
+.blue-ocean #header {
+	background-color: #14466b;
+		-webkit-box-shadow: rgba(0,0,0,.4) 0px 3px 3px;
+}
+
+.blue-ocean a#logo-title {
+	color: #FFF;
+	text-shadow: #000 0 -1px 1px;
+}
+
+.blue-ocean a#custom-logo-title {
+	color: #FFF;
+	text-shadow: #000 0 -1px 1px;
+}
+
+/* @group Menu Toggle */
+
+.blue-ocean a#header-menu-toggle {
+	color: #eee;
+	text-shadow: #666 0 -1px 1px;
+	border: 1px solid #204e71;
+	background: #638da3 url(../images/blue-button-bg.png) repeat-x 0 0;
+	font-weight: bold;
+	-webkit-background-clip: padding-box;
+}
+
+.blue-ocean a#header-menu-toggle.menu-toggle-open {
+	background-color: #638da3;
+}
+
+/* @end */
+
+/* @group Search */
+
+.blue-ocean #search-bar {
+	background-color: #23496a;
+}
+
+.blue-ocean #search-bar.show-search {
+	background-color: #638da3;
+}
+
+/* @end */
+
+.blue-ocean #main-menu {
+	-webkit-box-shadow: #444 -4px 4px 4px;
+	text-shadow: #000 0 -1px 1px;
+	background-color: #23496a;
+}
+
+.blue-ocean #menu-container h2 {
+	background-color: #4a6a86;
+	color: #bbb;
+	border-top: 1px solid #647788;
+	border-bottom: 1px solid #1c3e54;
+}
+
+/* @group Pages Menu */
+
+.blue-ocean #main-menu ul li {
+	border-bottom: 1px solid #1c3e54;
+	border-top: 1px solid #2e577c;
+}
+
+.blue-ocean #main-menu ul li.has_children > a {
+	color: #eee;
+	background: url(../images/black-arrow-toggle.png) no-repeat 42px 14px;
+}
+
+.blue-ocean #main-menu ul li a.arrow-toggle {
+	background-position: 41px -15px;
+	border-top: 1px solid #1d3e60;
+}
+
+.blue-ocean #main-menu ul li.open-tree li, .blue-ocean #main-menu ul li.open-tree, .blue-ocean #main-menu ul li.open-tree li a {
+	background-color: #1d3e60;
+	text-shadow: #000 0 -1px 1px;
+	color: #eee;
+	border-top-style: none;
+}
+
+.blue-ocean #main-menu ul li a {
+	color: #eee;
+}
+
+/* @end */
+
+/* @group Tags / Cats */
+
+.blue-ocean #menu-tab2 a span {
+	color: #999;
+}
+
+/* @end */
+
+/* @group Tab Bar */
+
+/* @group Tabs(bg) */
+
+.blue-ocean a#tab-pages {
+	background-image: url(../images/tab-bar/pages.png);
+		background-size: 36%;
+}
+
+.blue-ocean a#tab-categories {
+	background-image: url(../images/tab-bar/cats.png);
+}
+
+.blue-ocean a#tab-tags {
+	background-image: url(../images/tab-bar/tags.png);
+}
+
+.blue-ocean a#tab-push {
+	background-image: url(../images/tab-bar/push.png);
+}
+
+.blue-ocean a#tab-login {
+	background-image: url(../images/tab-bar/user.png);
+}
+
+.blue-ocean a#tab-twitter {
+	background-image: url(../images/tab-bar/twitter.png);
+		background-size: 54%;
+}
+
+/* @end */
+
+.blue-ocean #tab-bar {
+	background: #26587e url(../images/tab-bar/bar-bg.png) repeat-x 0 -4px;
+	border-top: 1px solid #204e71;
+	border-bottom: 1px solid #204e71;
+}
+
+.blue-ocean #tab-inner-wrap-left {
+	border: 1px solid #204e71;
+	background-color: #4a6a86;
+}
+
+.blue-ocean #tab-inner-wrap-left a {
+	border-right: 1px solid #204e71;
+	border-left: 1px solid #7f95a5;
+}
+
+.blue-ocean #tab-inner-wrap-left a.selected {
+	background-color: #638da3;
+	border-left-color: #446182;
+}
+
+.blue-ocean #tab-inner-wrap-right {
+	border: 1px solid #204e71;
+	background: #4a6a86 repeat-x 0 0;
+}
+
+.blue-ocean #tab-inner-wrap-right a {
+	background: url(../images/tab-bar/search.png) no-repeat center center;
+}
+
+.blue-ocean #tab-inner-wrap-right a.search-toggle-open {
+	background-color: #638da3;
+}
+
+/* @end */
+
+/* @group Push Form */
+
+.blue-ocean #menu-tab4 h4 {
+	color: #eee;
+}
+
+.blue-ocean #menu-tab4 p {
+	color: #eee;
+	text-shadow: #000 1px -1px 0;
+}
+
+.blue-ocean #menu-tab4 input {
+	border: 1px solid #adadad;
+	color: #444;
+}
+
+.blue-ocean #menu-tab4 input#prowl-submit {
+	color: #555;
+	background-color: #eee;
+	border: 1px solid #aaa;
+	text-shadow: #fff 0 1px 0;
+}
+
+.blue-ocean #menu-tab4 textarea {
+	border: 1px solid #adadad;
+	color: #444;
+}
+
+/* @end */
+
+/* @group Login / Account */
+
+.blue-ocean form#loginform label {
+	color: #eee;
+	text-shadow: #000 1px -1px 0;
+}
+
+.blue-ocean form#loginform input {
+	border: 1px solid #adadad;
+	color: #444;
+}
+
+.blue-ocean #menu-tab5 p {
+	color: #ccc;
+}
+
+.blue-ocean #menu-tab5 p a {
+	color: #fff;
+	border-bottom: 1px solid #777;
+}
+
+/* @end */
+
+/* @group WordTwit Pro */
+
+ul#wordtwit-list li:nth-child(odd) {
+	background-color: rgba(0,0,0,.09);
+}
+
+
+
+/* @end */

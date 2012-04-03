@@ -1,0 +1,2778 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " | Edit"
+msgstr "| Bearbeiten"
+
+msgid "% Comments"
+msgstr "% Kommentare"
+
+msgid "% Responses"
+msgstr "% Antworten"
+
+msgid "%1$s &bull; %2$s <span class=\"meta-sep\"></span>"
+msgstr "%1$s &bull; %2$s <span class=\"meta-sep\"></span>"
+
+msgid "%1$s - %2$s <span class=\"meta-sep\"></span>"
+msgstr "%1$s - %2$s <span class=\"meta-sep\"></span>"
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "vor %d Tag"
+msgstr[1] "vor %d Tagen"
+
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "vor %d Stunde"
+msgstr[1] "vor %d Stunden"
+
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "vor %d Minute"
+msgstr[1] "vor %d Minuten"
+
+msgid "%d queries in %0.1f ms"
+msgstr "%d Anfragen in %0,1f ms"
+
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "vor %d Sekunde"
+msgstr[1] "vor %d Sekunden"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s Theme Image"
+msgstr "%s Theme-Bild"
+
+msgid "%s%d%s license(s) remaining."
+msgstr "noch %s%d%s Lizenz(en) übrig."
+
+msgid "%sAlso, ads will not be shown in Developer Mode on desktop browsers unless the user agent is changed in the browser to a supported device.%s"
+msgstr "%sAußerdem werden Anzeigen im Entwicklermodus nicht in Desktop-Browsern angezeigt, wenn das Benutzerprogramm nicht im Browser in ein unterstütztes Gerät geändert wird.%s"
+
+msgid "%sCopy Backup Key To Clipboard%s"
+msgstr "%sBackup-Schlüssel in die Zwischenablage kopieren%s"
+
+msgid "%sDownload WPtouch Pro Icon Template%s (PSD)"
+msgstr "%sWPtouch Pro Symbol-Template herunterladen%s (PSD)"
+
+msgid "%sDownload WPtouch Pro iPhone 4 & iPad Icon Template%s (PSD)"
+msgstr "%sWPtouch Pro iPhone 4 & iPad Symbolvorlage herunterladen%s (PSD)"
+
+msgid "%sNOTE: A settings backup/restore does NOT include saved files, icons or themes inside the \"wp-content/wptouch-data/\" directory.%s"
+msgstr "%sBEACHTEN SIE: Ein(e) Backup/Wiederherstellung enthält NICHT die gespeicherten Dateien, Symbole oder Themes im Verzeichnis \"wp-content/wptouch-data/\".%s"
+
+msgid "%sNOTE: Changing the startup screen settings may require you to re-add to the home-screen on pre-iOS 5 devices.%s"
+msgstr "%sHINWEIS: Beim Ändern der Startbildschirmeinstellungen müssen Sie eventuell auf Geräten vor iOS 5 den Startbildschirm erneut hinzufügen.%s"
+
+msgid "%sNote: Adsense and Admob ads only show on service supported devices, and do NOT work in Web-App Mode%s"
+msgstr "%sBeachten Sie: Adsense- und Admob-Anzeigen werden nur auf Geräten angezeigt, welche diese Dienste unterstützen und funktionieren NICHT im Web-App-Modus%s"
+
+msgid "%sOnline Icon Generator%s"
+msgstr "%sOnline Symbol-Ersteller%s"
+
+msgid "%sOpen Color Picker Tool%s"
+msgstr "%sFarbauswahl-Tool öffnen%s"
+
+msgid "%sOpen colorpicker.com Color Picker%s"
+msgstr "%scolorpicker.com öffnen Farbauswahl%s"
+
+msgid "%sRegenerate Plugin List%s"
+msgstr "%sPlugin-Liste wiederherstellen%s"
+
+msgid "%sSorry, the content you were looking for cannot be found. Please use the menu in the header to access the site search, or browse other site content.%s"
+msgstr "%sLeider konnte der von Ihnen gesuchte Inhalt nicht gefunden werden. Bitte benutzen Sie das Menü in der Kopfzeile, um auf die Seitensuche zuzugreifen, oder durchsuchen Sie andere Seiteninhalte.%s"
+
+msgid "%sWPtouch Pro%s is a trademark of BraveNewCode Inc."
+msgstr "%sWPtouch Pro%s ist ein Warenzeichen von BraveNewCode Inc."
+
+msgid "&harr; Developer Mode for"
+msgstr "&harr; Entwicklermodus für"
+
+msgid "&harr; On this site I want to"
+msgstr "&harr; Auf dieser Seite möchte ich"
+
+msgid "&harr; Use this RSS feed URL"
+msgstr "&harr; Diese RSS-Feed-URL benutzen"
+
+msgid "&harr; Use this e-mail address"
+msgstr "&harr; Diese E-Mail-Adresse benutzen"
+
+msgid "(%s)"
+msgstr "(%s)"
+
+msgid "(Requires Prowl app on iPhone / iPod touch, or Growl setup with Prowl on a Mac)"
+msgstr "(Erfordert die Prowl-App auf iPhone / iPod Touch oder Growl-Installation mit Prowl auf einem Mac)"
+
+msgid "(drag here to reset icon)"
+msgstr "(hier hinziehen, um Symbol zurück zu setzen)"
+
+msgid "***Some fonts may not be available on all devices***"
+msgstr "***Einige Schriftarten sind evtl. nicht auf allen Geräten verfügbar***"
+
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+msgid "1 Response"
+msgstr "1 Antwort"
+
+msgid "11px"
+msgstr "11Pixel"
+
+msgid "12px"
+msgstr "12Pixel"
+
+msgid "13px"
+msgstr "13Pixel"
+
+msgid "14px"
+msgstr "14Pixel"
+
+msgid "15px"
+msgstr "15Pixel"
+
+msgid "16px"
+msgstr "16Pixel"
+
+msgid "17px"
+msgstr "17Pixel"
+
+msgid "18px"
+msgstr "18Pixel"
+
+msgid "19px"
+msgstr "19Pixel"
+
+msgid "1st time visitors see desktop theme"
+msgstr "Erstbesucher sehen Desktop-Theme"
+
+msgid "20px"
+msgstr "20Pixel"
+
+msgid "21px"
+msgstr "21Pixel"
+
+msgid "22px"
+msgstr "22Pixel"
+
+msgid "23px"
+msgstr "23Pixel"
+
+msgid "24px"
+msgstr "24Pixel"
+
+msgid "25px"
+msgstr "25Pixel"
+
+msgid "26px"
+msgstr "26Pixel"
+
+msgid "27px"
+msgstr "27Pixel"
+
+msgid "28px"
+msgstr "28Pixel"
+
+msgid "29px"
+msgstr "29Pixel"
+
+msgid "30px"
+msgstr "30Pixel"
+
+msgid "404 Not Found"
+msgstr "404 Seite nicht gefunden"
+
+msgid "<small>NOTE: You can regenerate your WordPress thumbnails using the %sRegenerate Thumbnails%s plugin.<br />This will tell wordpress to make new thumbnails for WPtouch this size.</small>"
+msgstr "<small>BITTE BEACHTEN: Sie können Ihre WordPress-Thumbnails mit dem Plugin %sRegenerate Thumbnails%s wiederherstellen.<br />Dieses Plugin sagt WordPress, dass es neue Thumbnails für WPtouch in dieser Größe erstellen soll.</small>"
+
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span><span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span>\n\t\t<br />at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a><br />in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr "<span class=\"meta-prep meta-prep-entry-date\">Veröffentlicht </span><span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span>\n\t\t<br />at <a href=\"%3$s\" title=\"Link zum Bild in voller Größe\">%4$s &times; %5$s</a><br />in <a href=\"%6$s\" title=\"Zurück zu %7$s\" rel=\"Galerie\">%7$s</a>"
+
+msgid "<span class='unapproved'>Your comment is awaiting moderation.</span>"
+msgstr "<span class='nicht freigegeben'>Auf die Moderation Ihres Kommentars wird gewartet.</span>"
+
+msgid "ACTIVATION REQUIRED"
+msgstr "AKTIVIERUNG ERFORDERLICH"
+
+msgid "Above content"
+msgstr "Über dem Inhalt"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Account & Downloads"
+msgstr "Account & Downloads"
+
+msgid "Account + Key"
+msgstr "Account + Schlüssel"
+
+msgid "Account E-Mail"
+msgstr "Account-E-Mail"
+
+msgid "Account Information"
+msgstr "Account-Informationen"
+
+msgid "Account Login"
+msgstr "Account-Login"
+
+msgid "Account Profile"
+msgstr "Account-Profil"
+
+msgid "Action"
+msgstr "Aktion"
+
+msgid "Activate"
+msgstr "Aktivieren"
+
+msgid "Activate This WordPress installation &raquo;"
+msgstr "Diese WordPress-Installation aktivieren %raquo;"
+
+msgid "Activate a Site License"
+msgstr "Eine Seitenlizenz aktivieren"
+
+msgid "Activating license, please wait..."
+msgstr "Lizenz wird aktiviert, bitte warten..."
+
+msgid "Active Icon Set: "
+msgstr "Aktives Symbol-Set:"
+
+msgid "Active Theme"
+msgstr "Aktives Theme"
+
+msgid "Active skin"
+msgstr "Aktiver Skin"
+
+msgid "Add a New Topic to the Pro Forums"
+msgstr "Ein neues Thema zu den Pro-Foren hinzufügen"
+
+msgid "Add a link for the admin <strong>Email</strong> in the menu"
+msgstr "Fügen Sie im Menü einen Link für die Admin -<strong>E-Mail</strong> hinzu"
+
+msgid "Add a link to %sHome%s in the menu"
+msgstr "Fügen Sie im Menü einen Link zur %sStartseite%s hinzu"
+
+msgid "Add a link to the site %sRSS%s feed in the menu"
+msgstr "Fügen Sie im Menü einen Link zum %sRSS%s-Feed der Seite hinzu"
+
+msgid "Add a site license &raquo;"
+msgstr "Eine Seitenlizenz hinzufügen &raquo;"
+
+msgid "Add the compat.css file from the theme folder. Contains various CSS declarations for a variety of plugins."
+msgstr "Fügen Sie die Datei compat.css aus dem Theme-Ordner hinzu. Sie enthält diverse CSS-Erklärungen für eine Vielzahl an Plugins."
+
+msgid "Add them in the 'Manage Icons + Sets' area"
+msgstr "Fügen Sie sie im Bereich 'Symbole + Sets verwalten' hinzu."
+
+msgid "Additional Menu Items"
+msgstr "Zusätzliche Menüpunkte"
+
+msgid "Adds a push message form in the header to allow visitors to send messages to you."
+msgstr "Fügt dem Header ein Push-Nachricht-Formular hinzu, über das Besucher Ihnen Nachrichten senden können."
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Admob Ads"
+msgstr "Admob-Anzeigen"
+
+msgid "Admob Publisher ID"
+msgstr "Admob Publisher-ID"
+
+msgid "Adsense Channel ID"
+msgstr "Adsense-Channel-ID"
+
+msgid "Adsense Publisher ID"
+msgstr "Adsense Publisher-ID"
+
+msgid "Advanced"
+msgstr "Erweitert"
+
+msgid "Advertising"
+msgstr "Werbung"
+
+msgid "Advertising &amp; Stats"
+msgstr "Werbung &amp; Statistik"
+
+msgid "Advertising Display"
+msgstr "Werbe-Anzeige"
+
+msgid "Advertising code (HTML or JavaScript)"
+msgstr "Werbecode (HTML oder JavaScript)"
+
+msgid "Advertising display location"
+msgstr "Anzeigeort der Werbung"
+
+msgid "Advertising support"
+msgstr "Werbe-Support"
+
+msgid "All Pages (Home, Blog, Single Post, Pages, Search)"
+msgstr "Alle Seiten (Startseite, Blog, Einzelbeitrag, Seiten, Suche)"
+
+msgid "All of your licenses will be reset.  Are you sure?"
+msgstr "Alle Ihre Lizenzen werden zurückgesetzt. Sind Sie sicher?"
+
+msgid "Allow users to send direct messages"
+msgstr "Ermöglicht Benutzern das Versenden von Direkt-Nachrichten"
+
+msgid "Allow zooming"
+msgstr "Zoomen erlauben"
+
+msgid "Always refresh theme JS and CSS files"
+msgstr "Theme-JS und CSS-Dateien immer aktualisieren"
+
+msgid "AmericanTypewriter"
+msgstr "AmericanTypewriter"
+
+msgid "AmericanTypewriter-Bold"
+msgstr "AmericanTypewriter-Bold"
+
+msgid "AmericanTypewriter-Condensed"
+msgstr "AmericanTypewriter-Condensed"
+
+msgid "Archives"
+msgstr "Archive"
+
+msgid "Archives &rsaquo; %s"
+msgstr "Archive &rsaquo; %s"
+
+msgid "Arial-BoldMT"
+msgstr "Arial-BoldMT"
+
+msgid "ArialMT"
+msgstr "ArialMT"
+
+msgid "Article Pages"
+msgstr "Artikelseiten"
+
+msgid "At a Glance"
+msgstr "Auf einen Blick"
+
+msgid "Attached image location in post content"
+msgstr "Position des angehängten Bilds im Beitragsinhalt"
+
+msgid "Author Website"
+msgstr "Webseite des Autors"
+
+msgid "Auto-detect"
+msgstr "Automat. Erkennung"
+
+msgid "Available Skins"
+msgstr "Verfügbare Skins"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Back One Day"
+msgstr "Einen Tag zurück"
+
+msgid "Back One Month"
+msgstr "Einen Monat zurück"
+
+msgid "Back One Year"
+msgstr "Ein Jahr zurück"
+
+msgid "Back in Category"
+msgstr "Eine Kategorie zurück"
+
+msgid "Back in Search"
+msgstr "Zurück zur Suche"
+
+msgid "Back in Tag"
+msgstr "Ein Tag zurück"
+
+msgid "Back to Top"
+msgstr "Zurück nach oben"
+
+msgid "Background"
+msgstr "Hintergrund"
+
+msgid "Background hex color (without #)"
+msgstr "Hintergrund Hex-Farbe (ohne #)"
+
+msgid "Background tile"
+msgstr "Hintergrundkachel"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "Backup Settings"
+msgstr "Backup der Einstellungen"
+
+msgid "Backup/Import"
+msgstr "Backup/Import"
+
+msgid "Baskerville"
+msgstr "Baskerville"
+
+msgid "Baskerville-Bold"
+msgstr "Baskerville-Bold"
+
+msgid "Below content"
+msgstr "Unter dem Inhalt"
+
+msgid "Below the header"
+msgstr "Unter dem Header"
+
+msgid "Bevelled Dots"
+msgstr "Schräge Punkte"
+
+msgid "Black"
+msgstr "Schwarz"
+
+msgid "Black Translucent"
+msgstr "Schwarz durchscheinend"
+
+msgid "Blog Listings"
+msgstr "Blog-Auflistungen"
+
+msgid "Blue Ocean"
+msgstr "Blauer Ozean"
+
+msgid "Body and Post Styling"
+msgstr "Stil des Texts und Beitrags"
+
+msgid "Bottom"
+msgstr "Ganz unten"
+
+msgid "BraveNewCode on Twitter"
+msgstr "BraveNewCode auf Twitter"
+
+msgid "Browse Last 12 Months"
+msgstr "Die letzten 12 Monate durchsuchen"
+
+msgid "Browse Last 15 Posts"
+msgstr "Letzte 15 Beiträge durchsuchen"
+
+msgid "Browser User Agent"
+msgstr "Browser-Benutzerprogramm"
+
+msgid "By"
+msgstr "Von"
+
+msgid "By %s"
+msgstr "Von %s"
+
+msgid "By BraveNewCode"
+msgstr "Von BraveNewCode"
+
+msgid "Cache menu items to reduce database queries"
+msgstr "Menüpunkte im Cache speichern, um Datenbankanfragen zu verringern"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Calendar Icons"
+msgstr "Kalendersymbole"
+
+msgid "Calendar icons background color"
+msgstr "Hintergrundfarbe der Kalendersymbole"
+
+msgid "Calendar/Thumbnail Icons"
+msgstr "Kalender/Thumbnail-Symbole"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Categories"
+msgstr "Kategorien"
+
+msgid "Categories &rsaquo; %s"
+msgstr "Kategorien &rsaquo; %s"
+
+msgid "Change this to whatever you'd like for your 404 page message."
+msgstr "Ändern Sie dies in die gewünschte 404-Seitenmitteilung."
+
+msgid "Changes the default glossy look to other styles."
+msgstr "Ändert den Standard-Hochglanzlook in andere Stile."
+
+msgid "Changing this setting will not affect existing post thumbnails."
+msgstr "Das Ändern der Einstellung wird sich nicht auf bereits bestehende Beitrags-Thumbnails auswirken."
+
+msgid "Check All"
+msgstr "Alle abhaken"
+
+msgid "Check out this article:"
+msgstr "Sehen Sie sich diesen Artikel an:"
+
+msgid "Check out this post:"
+msgstr "Sehen Sie sich diesen Beitrag an:"
+
+msgid "Check this to disable showing each menu parent as a clickable child item. NOTE: Parent link will not be accessible with this option enabled."
+msgstr "Setzen Sie hier ein Häkchen zur Deaktivierung der Anzeige jedes Menü-Vorfahrenpunkts als anklickbaren Kindpunkt. BEACHTEN SIE: Wenn diese Option aktiviert ist, ist der Vorfahren-Link nicht zugänglich."
+
+msgid "Check this to disable the WPtouch menus altogether (useful for custom themes with menus built outside our code that do not use  WPtouch Pro settings)."
+msgstr "Setzen Sie hier ein Häkchen, um die WPtouch-Menüs ganz und gar zu aktivieren (nützlich für benutzerdef. Themes mit Menüs, die außerhalb unseres Codes erstellt werden und nicht die WPtouch Pro-Einstellungen verwenden)."
+
+msgid "Choose a background tile for your theme."
+msgstr "Wählen Sie eine Hintergrundgrafik für Ihr Theme aus."
+
+msgid "Choose a background tile for your theme. Will be repeated vertically and horizontally."
+msgstr "Wählen Sie einen Hintergrund für Ihr Theme. Er wird vertikal und horizontal wiederholt."
+
+msgid "Choose between a variety of color package header styles."
+msgstr "Wählen Sie aus einer Fülle von Farbpaket-Stilen für die Kopfzeile aus."
+
+msgid "Choose between grey (default), black or black-translucent."
+msgstr "Wählen Sie zwischen grau (Standard), schwarz oder schwarz durchscheinend."
+
+msgid "Choose between the same URL from which a user chooses to switch, or your Homepage as the switch link destination."
+msgstr "Wählen Sie zwischen derselben URL, von der aus ein Benutzer sich entscheidet, umzuschalten, oder Ihrer Startseite als Umschaltlinkziel aus."
+
+msgid "Choose how excerpts are handled in the blog. Search and archive templates always use excerpts."
+msgstr "Wählen Sie aus, wie im Blog mit Ausschnitten umgegangen wird. Such- und Archiv-Templates benutzen immer Ausschnitte."
+
+msgid "Choose the appearance of your Calendar icons."
+msgstr "Wählen Sie das Layout Ihrer Kalendersymbole aus."
+
+msgid "Choose where you would like your ads positioned."
+msgstr "Wählen Sie aus, wo Ihre Anzeigen angezeigt werden sollen."
+
+msgid "Choose which page views you'd like ads displayed on"
+msgstr "Wählen Sie aus, auf welchen Seitenansichten Anzeigen angezeigt werden sollen"
+
+msgid "Classic 2.0"
+msgstr "Classic 2.0"
+
+msgid "Classic Black (Default)"
+msgstr "Klassisches Schwarz (Standard)"
+
+msgid "Classic Blue"
+msgstr "Klassisches Blau"
+
+msgid "Clean White"
+msgstr "Reinweiß"
+
+msgid "Client Mode"
+msgstr "Client-Modus"
+
+msgid "Close Message"
+msgstr "Nachricht schließen"
+
+msgid "Cochin"
+msgstr "Cochin"
+
+msgid "Cochin-Bold"
+msgstr "Cochin-Bold"
+
+msgid "Cog Canvas"
+msgstr "Zahnrad-Leinwand"
+
+msgid "Comment On This Article"
+msgstr "Diesen Artikel kommentieren"
+
+msgid "Comment publication failed. Please check your comment details and try again."
+msgstr "Kommentar konnte nicht veröffentlicht werden. Bitte überprüfen Sie die Details Ihres Kommentars und versuchen Sie es erneut."
+
+msgid "Comment: %s"
+msgstr "Kommentar: %s"
+
+msgid "Comments are closed"
+msgstr "Kommentare sind geschlossen"
+
+msgid "Comments are closed on this entry."
+msgstr "Kommentare für diesen Eintrag sind geschlossen."
+
+msgid "Compatibility"
+msgstr "Kompatibilität"
+
+msgid "Configuration is required to work with WPtouch Pro. It must configured to exclude the user agents that WPtouch Pro is enabled for (iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada)"
+msgstr "Damit es mit WPtouch Pro funktioniert, ist eine Konfiguration erforderlich. Es muss so konfiguriert werden, dass die Benutzerprogramme ausgeschlossen werden, für die WPtouch Pro aktiviert ist (iPhone, iPod, Aspen, Incognito, Webmate, Android, Dream, Cupcake, Froyo, Blackberry9500, Blackberry9520, Blackberry9530, Blackberry9550, Blackberry 9800, Blackberry 9850, Blackberry 9860, Webos, s8000, Bada)."
+
+msgid "Content Background"
+msgstr "Inhaltshintergrund"
+
+msgid "Content area active link color"
+msgstr "aktive Linkfarbe des Inhaltsbereichs"
+
+msgid "Context and label headings color"
+msgstr "Farbe des Kontexts und der Label-Überschriften"
+
+msgid "Convert all plain-text links in post content to clickable links"
+msgstr "Alle Klartext-Links in Beitragsinhalten in anklickbare Links umwandeln"
+
+msgid "Convert permalinks into internal URLs"
+msgstr "Permalinks in interne URLs umwandeln"
+
+msgid "Copperplate"
+msgstr "Copperplate"
+
+msgid "Copperplate-Bold"
+msgstr "Copperplate-Bold"
+
+msgid "Copy As Child"
+msgstr "Als Kindpunkt kopieren"
+
+msgid "Copy As New"
+msgstr "Als neu kopieren"
+
+msgid "Courier"
+msgstr "Courier"
+
+msgid "Courier-Bold"
+msgstr "Courier-Bold"
+
+msgid "Creates a debug file to help diagnose issues with WPtouch. This file is located in ...wp-content/wptouch-data/debug. "
+msgstr "Erstellt eine Fehlerbehebungsdatei, um bei der Diagnose von Problemen in WPtouch zu helfen. Diese Datei befindet sich in ...wp-content/wptouch-data/debug."
+
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+msgid "Custom 404 message (HTML is OK)"
+msgstr "Benutzerdef. 404 Mitteilung (HTML ist OK)"
+
+msgid "Custom Ads"
+msgstr "Benutzerdef. Anzeigen"
+
+msgid "Custom Background"
+msgstr "Benutzerdef. Hintergrund"
+
+msgid "Custom Field Thumbnails"
+msgstr "Miniaturbilder für benutzerdef. Felder"
+
+msgid "Custom Home Page"
+msgstr "Benutzerdefinierte Startseite"
+
+msgid "Custom Icons"
+msgstr "Benutzerdef. Symbole"
+
+msgid "Custom Menu Items"
+msgstr "Benutzerdefinierte Menüpunkte"
+
+msgid "Custom Mobile User Agents"
+msgstr "Benutzerdef. Handy-Benutzerprogramme"
+
+msgid "Custom Post Types"
+msgstr "Benutzerdef. Beitragsarten"
+
+msgid "Custom User Agents"
+msgstr "Benutzerdef. Benutzerprogramme"
+
+msgid "Custom background image repeat type"
+msgstr "Wiederholart des benutzerdef. Hintergrundbilds"
+
+msgid "Custom calendar icon color (Hex without #)"
+msgstr "Benutzerdefinierte Kalendersymbolfarbe (Hexadezimal ohne #)"
+
+msgid "Custom field name for thumbnails"
+msgstr "Benutzerdef. Feldname für Miniaturbilder"
+
+msgid "Custom footer content (HTML is OK)"
+msgstr "Benutzerdef. Fußzeilen-Inhalt (HTML ist OK)"
+
+msgid "Custom home page URL"
+msgstr "Benutzerdefinierte Startseiten-URL"
+
+msgid "Custom iPad background repeat type"
+msgstr "Wiederholart des benutzerdef. iPad-Hintergrunds"
+
+msgid "Custom latest posts page"
+msgstr "Seite der benutzerdef. akt. Beiträge"
+
+msgid "Custom menu URL %s"
+msgstr "Benutzerdef. Menü-URL %s"
+
+msgid "Custom menu position %s"
+msgstr "Benutzerdef. Menü-Position %s"
+
+msgid "Custom menu title %s"
+msgstr "Benutzerdefinierter Menütitel %s"
+
+msgid "Custom posts often rely on custom meta data and may not always be shown correctly in WPtouch Pro"
+msgstr "Benutzerdef. Beiträge nutzen häufig benutzerdef. Metadaten und werden nicht immer korrekt in WPtouch Pro angezeigt."
+
+msgid "Custom statistics code (HTML and/or JavaScript only)"
+msgstr "Benutzerdef. Statistikcode (nur HTML und/oder JavaScript)"
+
+msgid "Dale Mugford & Duane Storey (BraveNewCode)"
+msgstr "Dale Mugford & Duane Storey (BraveNewCode)"
+
+msgid "Dark"
+msgstr "Dunkel"
+
+msgid "Dark Grey"
+msgstr "Dunkelgrau"
+
+msgid "Dark Grey Canvas"
+msgstr "Dunkelgraue Leinwand"
+
+msgid "Dark Grey Circles"
+msgstr "Dunkelgraue Kreise"
+
+msgid "Dark Grey Thatch"
+msgstr "Dunkelgraues Strohdach"
+
+msgid "Debug log"
+msgstr "Fehlerbehebungsprotokoll"
+
+msgid "Debug log level"
+msgstr "Fehlerprotokollstufe"
+
+msgid "Debugging"
+msgstr "Fehlerbehebung"
+
+msgid "Deep Blue"
+msgstr "Tiefblau"
+
+msgid "Default (Glossy)"
+msgstr "Standard (Hochglanz)"
+
+msgid "Default (Grey)"
+msgstr "Standard (Grau)"
+
+msgid "Default Mobile User Agents"
+msgstr "Standard-Handy-Benutzerprogramme"
+
+msgid "Default Page"
+msgstr "Standard-Seite"
+
+msgid "Default User Agents"
+msgstr "Standard-Benutzerprogramme"
+
+msgid "Defaults restored"
+msgstr "Standards wiederhergestellt"
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Delete Set"
+msgstr "Set löschen"
+
+msgid "Delete this set?"
+msgstr "Dieses Set löschen?"
+
+msgid "Delete this theme and all its files?"
+msgstr "Dieses Theme und alle seine Dateien löschen?"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Desktop Version"
+msgstr "Desktop-Version"
+
+msgid "Developer mode"
+msgstr "Entwickler-Modus"
+
+msgid "Device Classes"
+msgstr "Geräteklassen"
+
+msgid "Direct Message"
+msgstr "Direktnachricht"
+
+msgid "Direct messaging failed. Please check your message details and try again."
+msgstr "Direktnachricht konnte nicht zugestellt werden. Bitte überprüfen Sie die Details Ihrer Nachricht und versuchen Sie es erneut."
+
+msgid "Directory Problem"
+msgstr "Verzeichnisproblem"
+
+msgid "Disable Advertising pane"
+msgstr "Werbe-Panel deaktivieren"
+
+msgid "Disable Backup/Import pane"
+msgstr "Backup-/Import-Panel deaktivieren"
+
+msgid "Disable Compatability pane"
+msgstr "Kompatibilitäts-Panel deaktivieren"
+
+msgid "Disable Manage Icons pane"
+msgstr "Symbolverwaltungs-Panel deaktivieren"
+
+msgid "Disable Overview pane"
+msgstr "Übersichts-Panel deaktivieren"
+
+msgid "Disable Push Notifications pane"
+msgstr "Push-Benachrichtigungs-Panel deaktivieren"
+
+msgid "Disable Statistics pane"
+msgstr "Statistik-Panel deaktivieren"
+
+msgid "Disable Theme Browser tab"
+msgstr "Theme-Browser-Registerkarte deaktivieren"
+
+msgid "Disable Tools and Debug pane"
+msgstr "Tools- und Fehlerbehebungs-Panel deaktivieren"
+
+msgid "Disable drop-down menu completely"
+msgstr "Dropdown-Menü komplett deaktivieren"
+
+msgid "Disable duplicate parent as 1st child link"
+msgstr "Doppelten Vorfahren als 1. Kindlink deaktivieren"
+
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+msgid "Dismiss"
+msgstr "Verwerfen"
+
+msgid "Display \"Powered by WPtouch Pro\" in footer"
+msgstr "Anzeige \"Bereit gestellt von WPtouch Pro\" in der Fußzeile"
+
+msgid "Do not use WPtouch Pro on these URLs/Pages"
+msgstr "Verwenden Sie WPtouch Pro nicht auf folgenden URLs/Seiten:"
+
+msgid "Do you want to open it in Safari?"
+msgstr "In Safari öffnen?"
+
+msgid "Documentation"
+msgstr "Dokumentation"
+
+msgid "Don't forget to save your changes!"
+msgstr "Vergessen Sie nicht, Ihre Änderungen zu speichern!"
+
+msgid "Don't worry, it's temporary, and doesn't affect WPtouch Pro from working."
+msgstr "Keine Sorge, das ist nur vorübergehend und hindert WPtouch Pro nicht daran, zu funktionieren."
+
+msgid "Done"
+msgstr "Fertig"
+
+msgid "Drag icons from the pool to"
+msgstr "Ziehen Sie die Symbole aus der Fundgrube, um"
+
+msgid "Drop-Down Menu"
+msgstr "Dropdown-Menü"
+
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgid "E-Mail (Required)"
+msgstr "E-Mail (Erforderlich)"
+
+msgid "Each permalink URL fragment should be on its own line and relative, e.g. \"/about\" or \"/products/store\""
+msgstr "Jedes Fragment einer Permalink-URL sollte auf einer eigenen Zeile stehen, z. B. \"/über\" oder \"/Produkte/Laden\""
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Email: %s"
+msgstr "E-Mail: %s"
+
+msgid "Enable '%s' post type"
+msgstr "'%s' Beitragstyp aktivieren"
+
+msgid "Enable AJAX \"Load More\" link"
+msgstr "AJAX \"Mehr laden\"-Link aktivieren"
+
+msgid "Enable AJAX \"Load More\" link for posts and comments"
+msgstr "Aktivieren Sie den AJAX \"Mehr laden\"-Link für Beiträge und Kommentare"
+
+msgid "Enable Web-App Mode"
+msgstr "Web-App-Modus aktivieren"
+
+msgid "Enable custom post type support"
+msgstr "Unterstützung für benutzerdef. Beitragstyp aktivieren"
+
+msgid "Enable iPad FlickrRSS popover"
+msgstr "iPad FlickrRSS-Popover aktivieren"
+
+msgid "Enable landing redirect (overrides default WordPress settings for landing page)"
+msgstr "Umleitung auf der Landing Page aktivieren (überschreibt die Standard-WordPress-Einstellungen für die Landing Page)"
+
+msgid "Enable persistence"
+msgstr "Zuletzt besuchte URL merken"
+
+msgid "Enable/Disable Web-App Mode"
+msgstr "Web-App-Modus aktivieren/deaktivieren"
+
+msgid "Enable/Disable iPad Support"
+msgstr "iPad Support aktivieren/deaktivieren"
+
+msgid "Enabled"
+msgstr "Aktiviert"
+
+msgid "Enabled for admins only"
+msgstr "Nur für Admins aktiviert"
+
+msgid "Enabled for all users"
+msgstr "Für alle Benutzer aktiviert"
+
+msgid "Enabling this setting will cause comments to be shown on pages, if they are enabled in the WordPress settings."
+msgstr "Wenn Sie diese Einstellung aktivieren, werden Kommentare auf den Seiten angezeigt, wenn diese in den WordPress-Einstellungen aktiviert sind."
+
+msgid "Enter Description for Post"
+msgstr "Geben Sie die Beschreibung für den Beitrag ein"
+
+msgid "Enter a comma separated list of shortcodes to remove."
+msgstr "Geben Sie eine mit Kommas getrennte Liste mit Shortcodes ein, die gelöscht werden sollen."
+
+msgid "Enter additional content to be displayed in the WPtouch footer. Everything here is wrapped in a paragraph tag."
+msgstr "Geben Sie zusätzlichen Inhalt ein, der in der WPtouch-Fußzeile angezeigt werden soll. Alles hier wird in einen Absatz-Tag gepackt"
+
+msgid "Enter additional user agents on separate lines, not device names or other information."
+msgstr "Geben Sie zusätzliche Benutzerprogramme auf separaten Zeilen ein, keine Gerätenamen oder anderen Informationen."
+
+msgid "Enter the name of the custom field used for your custom post thumbnails."
+msgstr "Geben Sie den Namen des benutzerdefinierten Felds ein, das für Ihre benutzerdefinierten Beitrags-Miniaturbilder verwendet wird."
+
+msgid "Enter your Prowl API key here to enable push notifications from WPtouch to your iPhone/iPod touch via the Prowl app, or Mac with Growl installed and configured for Prowl. If you have multiple keys, enter and save each one for a new input to appear."
+msgstr "Geben Sie hier den Schlüssel für Ihre Prowl-API-Schnittstelle ein, um Push-Benachrichtigungen von WPtouch auf Ihr iPhone/iPod Touch über die Prowl-App zu aktivieren, oder über Mac, auf dem Growl installiert und für Prowl konfiguriert ist. Wenn Sie mehrere Schlüssel haben, geben Sie jeden ein und speichern ihn, damit eine neue Eingabe erscheint."
+
+msgid "Enter your custom statistics tracking code snippets (Google Analytics, MINT, etc.)"
+msgstr "Geben Sie Ihre benutzerdef. Statistik-Tracking-Code-Snippets ein (Google Analytics, MINT usw.)"
+
+msgid "Enter your full Admob Publisher ID"
+msgstr "Geben Sie Ihre vollständige Admob-Publisher-ID ein"
+
+msgid "Enter your full Publisher ID"
+msgstr "Geben Sie Ihre vollständige Publisher-ID ein"
+
+msgid "Entering 0 will cause the bubble to always be shown, useful for development."
+msgstr "Wenn Sie 0 eingeben, wird die Blase immer angezeigt, was nützlich für die Entwicklung ist."
+
+msgid "Errors (1)"
+msgstr "Fehler (1)"
+
+msgid "Excerpt/Content Options"
+msgstr "Ausschnitt-/Inhalts-Optionen"
+
+msgid "Excerpts hidden"
+msgstr "Ausschnitte ausgeblendet"
+
+msgid "Excerpts shown"
+msgstr "Ausschnitte werden angezeigt"
+
+msgid "Excluded Categories (Comma list of category IDs)"
+msgstr "Ausgeschlossene Kategorien (Von Kommas getrennte Liste der Kategorie-IDs)"
+
+msgid "Excluded Tags (Comma list of tag IDs)"
+msgstr "Ausgeschlossene Tags (Kommaliste von Tag-IDs)"
+
+msgid "Extensions"
+msgstr "Erweiterungen"
+
+msgid "Extra configuration is required. Add paths to your active WPtouch Pro theme CSS and Javascript files as files to ignore in WPMinify."
+msgstr "Extra-Konfiguration ist erforderlich. Fügen Sie Pfade zum CSS und den Javaskript-Dateien Ihres aktiven WPtouch Pro Themes als Dateien hinzu, die in WPMinify ignoriert werden sollen."
+
+msgid "Extra configuration is required. It must be configured to exclude the user agents that WPtouch Pro is enabled for (iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada)"
+msgstr "Zusätzliche Konfiguration ist erforderlich. Es muss so konfiguriert sein, dass die Benutzerprogramme, für die WPtouch Pro aktiviert ist, ausgeschlossen werden. (iPhone, iPod, Aspen, Incognito, Webmate, Android, Dream, Cupcake, Froyo, Blackberry9500, Blackberry9520, Blackberry9530, Blackberry9550, Blackberry 9800, Blackberry 9850, Blackberry 9860, Webos, s8000, Bada)."
+
+msgid "Extra configuration is required. You must enable the \"Detect mobile devices\" option, and add these user agents that WPtouch Pro is enabled for (iphone, ipod, aspen, incognito, webmate, android, dream, cupcake, froyo, blackberry9500, blackberry9520, blackberry9530, blackberry9550, blackberry 9800, blackberry 9850, blackberry 9860, webos, s8000, bada) to the Mobile agent list."
+msgstr "Zusätzliche Konfiguration ist erforderlich. Sie müssen die Option \"Mobilgeräte erkennen\" aktivieren und die Benutzerprogramme, für die WPtouch Pro aktiviert ist (iPhone, iPod, Aspen, Incognito, Webmate, Android, Dream, Cupcake, Froyo, Blackberry9500, Blackberry9520, Blackberry9530, Blackberry9550, Blackberry 9800, Blackberry 9850, Blackberry 9860, Webos, s8000, Bada) zur Liste der Handy-Benutzerprogramme hinzufügen."
+
+msgid "Features: %s"
+msgstr "Funktionen: %s"
+
+msgid "First w/ full post shown, others excerpted and hidden"
+msgstr "Beim ersten ganzen Beitrag anzeigen, bei den anderen Ausschnitte und ausblenden."
+
+msgid "First w/ full post shown, others excerpted and shown"
+msgstr "Ersten mit vollem Beitrag anzeigen, andere in Ausschnitten anzeigen"
+
+msgid "FlickrRSS"
+msgstr "FlickrRSS"
+
+msgid "Follow @%s"
+msgstr "Folgen Sie @%s"
+
+msgid "Follow @%s on Twitter"
+msgstr "@%s auf Twitter folgen"
+
+msgid "Footer text color"
+msgstr "Farbe des Fußzeilentexts"
+
+msgid "For images that will used as a Homescreen (Bookmark) icon, they should be 59x60 pixels or higher for best results on iPhone 2G, 3G and 3GS, and 113x114 pixels for iPhone 4."
+msgstr "Bilder, die als Startbildschirm (Lesezeichen)-Symbol benutzt werden, sollten 59x60 Pixel oder höher sein, um auf iPhone 2G, 3G und 3GS benutzt zu werden und 113x114 Pixel für iPhone haben."
+
+msgid "Force URL to leave Web-App Mode"
+msgstr "URL zwingen, den Web-App-Modus zu verlassen"
+
+msgid "Force multisite detection"
+msgstr "Erkennung mehrerer Seiten erzwingen"
+
+msgid "From %s (%s)"
+msgstr "Von %s (%s)"
+
+msgid "From the BraveNewCode Blog"
+msgstr "Aus dem BraveNewCode-Blog"
+
+msgid "From the WPtouch Pro Forums"
+msgstr "Aus den WPtouch Pro-Foren"
+
+msgid "From: %s"
+msgstr "Von: %s"
+
+msgid "Full"
+msgstr "Vollständig"
+
+msgid "Full URL to a custom CSS file to be loaded last in themes. Will override existing styles, preserving updateability of themes."
+msgstr "Vollständige URL zu einer benutzerdefinierten CSS-Datei soll zuletzt in den Themes geladen werden. Sie wird an Stelle von bestehenden Stilen treten, und so die Aktualisierbarkeit der Themes erhalten."
+
+msgid "Full posts hidden"
+msgstr "Ganze Beiträge ausgeblendet"
+
+msgid "Full posts shown"
+msgstr "Ganze Beiträge angezeigt"
+
+msgid "Futura"
+msgstr "Futura"
+
+msgid "GeezaPro"
+msgstr "GeezaPro"
+
+msgid "GeezaPro-Bold"
+msgstr "GeezaPro-Bold"
+
+msgid "General"
+msgstr "Allgemein"
+
+msgid "General Icons + Menu Setup"
+msgstr "Allgemeine Symbole + Menü-Einrichtung"
+
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+msgid "General site font"
+msgstr "Schriftart der allgemeinen Seite"
+
+msgid "General site font size"
+msgstr "Schriftgröße der allgemeinen Seite"
+
+msgid "Georgia"
+msgstr "Georgia"
+
+msgid "Georgia-Bold"
+msgstr "Georgia-Bold"
+
+msgid "Get Growl"
+msgstr "Growl kaufen"
+
+msgid "Get Prowl (App Store)"
+msgstr "Prowl kaufen (App Store)"
+
+msgid "Get started with Activation &raquo;"
+msgstr "Mit Aktivierung beginnen &raquo;"
+
+msgid "GillSans"
+msgstr "GillSans"
+
+msgid "GillSans-Bold"
+msgstr "GillSans-Bold"
+
+msgid "GillSans-Light"
+msgstr "GillSans-Light"
+
+msgid "Global General"
+msgstr "Global Allgemein"
+
+msgid "Go"
+msgstr "Los"
+
+msgid "Google Adsense"
+msgstr "Google Adsense"
+
+msgid "Grainy"
+msgstr "Körnig"
+
+msgid "Green Planet"
+msgstr "Grüner Planet"
+
+msgid "Header Buttons and Blog Popover"
+msgstr "Kopfzeilen-Buttons und Blog-Popover"
+
+msgid "Header Color Group"
+msgstr "Farbgruppe der Kopfzeile"
+
+msgid "Header Shading Gradient Style"
+msgstr "Schattierungsverlaufstil der Kopfzeile"
+
+msgid "Header Styling"
+msgstr "Stil der Kopfzeile"
+
+msgid "Header bar, pop-overs and general theme style"
+msgstr "Stil der Kopfzeilenleiste, Pop-Overs und des allgemeinen Theme"
+
+msgid "Header title font"
+msgstr "Schriftart der Kopfzeilenüberschrift"
+
+msgid "Header title font size"
+msgstr "Schriftgröße der Kopfzeilenüberschrift"
+
+msgid "Helvetica"
+msgstr "Helvetica"
+
+msgid "Helvetica-Bold"
+msgstr "Helvetica-Bold"
+
+msgid "HelveticaNeue"
+msgstr "HelveticaNeue"
+
+msgid "HelveticaNeue-Bold"
+msgstr "HelveticaNeue-Bold"
+
+msgid "Here you can edit the CSS output to style the switch link appearance in the footer of your regular theme."
+msgstr "Hier können Sie die CSS-Ausgabe bearbeiten, um das Aussehen des Umschaltlinks in der Fußzeile Ihres regulären Themes festzulegen."
+
+msgid "Hide Licenses tab, and other license related content"
+msgstr "Lizenzen-Register und andere lizenz-verbundene Inhalte ausblenden"
+
+msgid "Hide Responses"
+msgstr "Antworten ausblenden"
+
+msgid "Hide Theme Browser tab"
+msgstr "Theme-Browser-Registerkarte ausblenden"
+
+msgid "Hide Tools and Debug section"
+msgstr "Tools und Fehlerbehebungsbereich ausblenden"
+
+msgid "Hide address bar on page load"
+msgstr "Adresszeile beim Seite laden ausblenden"
+
+msgid "Hides all license settings and references. Allows client to see and upgrade the plugin, adjust active theme and global settings, but not see and/or change license and domain settings."
+msgstr "Blendet alle Lizenzeinstellungen und Referenzen aus. Ermöglicht es dem Kunden, das Plugin zu sehen und zu upgraden, das aktive Theme und die globalen Einstellungen anzupassen, jedoch nicht die Lizenz- und Domain-Einstellungen zu sehen und/oder ändern."
+
+msgid "Hides comments, trackbacks and pingbacks by default, until a visitor clicks to show them. Speeds up load times if hidden."
+msgstr "Blendet Kommentare, Trackbacks und Pingbacks standardmäßig aus, bis ein Besucher klickt, um diese anzuzeigen. Durch das Ausblenden verkürzen sich die Ladezeiten."
+
+msgid "Hides the Tools and Debug settings completely. Once checked only resetting WPtouch Pro settings will show them again."
+msgstr "Blendet die Tools- und Fehlerbehebungs-Einstellungen vollständig aus. Wenn Sie hier ein Häkchen setzen, werden sie erst wieder angezeigt, wenn Sie die WPtouch Pro-Einstellungen zurücksetzen."
+
+msgid "Hides the theme browser tab, and prevents theme switching"
+msgstr "Blendet die Theme-Browser-Registerkarte aus, und hindert Themes am Umschalten."
+
+msgid "Home"
+msgstr "Start"
+
+msgid "Home Page Only"
+msgstr "Nur Startseite"
+
+msgid "Home, Blog, Single Post, Pages"
+msgstr "Startseite, Blog, Einzelbeitrag, Seiten"
+
+msgid "Homescreen Icons"
+msgstr "Startbildschirm-Symbole"
+
+msgid "Icon Pool"
+msgstr "Symbol-Fundgrube"
+
+msgid "Icon Sets"
+msgstr "Symbol-Sets"
+
+msgid "Icon set uploaded, currently unpackaging..."
+msgstr "Symbol-Set wurde hochgeladen, wird derzeit entpackt..."
+
+msgid "Icons"
+msgstr "Symbole"
+
+msgid "If background images are used, the background color is still included."
+msgstr "Wenn Hintergrundbilder benutzt werden, wird die Hintergrundfarbe trotzdem eingeschlossen."
+
+msgid "If no path is specified no image will be used, and the WPtouch Pro menu will be full height. (300px by 185px transparent .png recommended)"
+msgstr "Wenn kein Pfad angegeben ist, wird kein Bild benutzt und das WPtouch Pro-Menü hat volle Höhe (trsnsparentes Bild mit 300px x 185px empfohlen)"
+
+msgid "If the title of your site is long, you can shorten it for display within WPtouch."
+msgstr "Wenn der Titel Ihrer Seite zu lang ist, können Sie ihn für die Anzeige in WPtouch verkürzen."
+
+msgid "If unchecked the word \"Menu\" will be shown instead of an icon."
+msgstr "Wenn Sie hier kein Häkchen setzen, wird das Wort \"Menü\" anstelle eines Symbols angezeigt."
+
+msgid "If unchecked your bookmark icon will be set as \"apple-touch-icon-precomposed\", and not have the glossy effect applied to it."
+msgstr "Wenn Sie hier kein Häkchen setzen, wird Ihr Lesezeichensymbol als \"Apple-Touch-Symbol-voreingestellt\" festgelegt und es wird kein Hochglanzeffekt angewandt."
+
+msgid "If you have recently installed or reset WPtouch Pro, it must gather active plugin information first."
+msgstr "Wenn Sie WPtouch Pro vor Kurzem installiert oder zurückgesetzt haben, muss es zunächst Informationen für das aktive Plugin einholen."
+
+msgid "Import"
+msgstr "Importieren"
+
+msgid "Import Settings"
+msgstr "Import-Einstellungen"
+
+msgid "In the footer"
+msgstr "In der Fußzeile"
+
+msgid "Include functions.php from the active desktop theme"
+msgstr "functions.php aus dem aktiven Desktop-Theme integrieren"
+
+msgid "Increasing this above Level 1 (Errors) should only be done when troubleshooting."
+msgstr "Sie sollten dies nur bei der Fehlerbehebung über die Stufe 1 (Fehler) erhöhen."
+
+msgid "Information (4)"
+msgstr "Informationen (4)"
+
+msgid "Information + Help"
+msgstr "Informationen + Hilfe"
+
+msgid "Inherit Prowl settings"
+msgstr "Prowl-Einstellungen übernehmen"
+
+msgid "Inherit Statistics settings"
+msgstr "Statistik-Einstellungen übernehmen"
+
+msgid "Inherit active theme"
+msgstr "Aktives Theme übernehmen"
+
+msgid "Inherit advertising settings"
+msgstr "Werbeeinstellungen übernehmen"
+
+msgid "Inherit compatability settings"
+msgstr "Kompatibilitäts-Einstellungen übernehmen"
+
+msgid "Inherited Settings"
+msgstr "Übernommene Einstellungen"
+
+msgid "Install this Web-App on your [device]: tap [icon] then \"Add to Home Screen\""
+msgstr "Installieren Sie diese Web-App auf Ihrem [device]: Tippen Sie auf [icon], dann \"Zum Startbildschirm hinzufügen\""
+
+msgid "Installed Themes"
+msgstr "Installierte Themes"
+
+msgid "Invalid file format."
+msgstr "Ungültiges Dateiformat."
+
+msgid "JavaScript is currently off."
+msgstr "JavaScript ist derzeit aus."
+
+msgid "Knowledge Base"
+msgstr "Wissensdatenbank"
+
+msgid "LICENSED"
+msgstr "LIZENZIERT"
+
+msgid "Latest Flickr Photos"
+msgstr "Neueste Flickr-Fotos"
+
+msgid "Latest Tweets"
+msgstr "Neueste Tweets"
+
+msgid "Leave A Comment"
+msgstr "Kommentar abgeben"
+
+msgid "Leave a Reply"
+msgstr "Antwort schreiben"
+
+msgid "Leave a Reply to %s"
+msgstr "Auf %s antworten"
+
+msgid "Leave a comment"
+msgstr "Kommentar abgeben"
+
+msgid "Leave a reply to"
+msgstr "Eine Antwort geben an"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "License"
+msgstr "Lizenz"
+
+msgid "License Key"
+msgstr "Lizenz-Schlüssel"
+
+msgid "License accepted, thank you for supporting WPtouch Pro!"
+msgstr "Lizenz akzeptiert, danke, dass Sie WPtouch Pro unterstützen!"
+
+msgid "Licenses Remaining"
+msgstr "Verbleibende Lizenzen"
+
+msgid "Light"
+msgstr "Hell"
+
+msgid "Light Grey"
+msgstr "Hellgrau"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "Load More Comments&hellip;"
+msgstr "Weitere Kommentare laden&hellip;"
+
+msgid "Load More Entries&hellip;"
+msgstr "Weitere Einträge laden&hellip;"
+
+msgid "Loading licenses from the BraveNewCode server..."
+msgstr "Lizenzen vom BraveNewCode-Server werden geladen..."
+
+msgid "Loading..."
+msgstr "Wird geladen..."
+
+msgid "Log In To Comment"
+msgstr "Zum Kommentieren einloggen"
+
+msgid "Log out"
+msgstr "Abmelden"
+
+msgid "Log out of this account"
+msgstr "Aus diesem Account abmelden"
+
+msgid "Logged in as"
+msgstr "Angemeldet als"
+
+msgid "Login"
+msgstr "Anmelden"
+
+msgid "Login Now"
+msgstr "Jetzt einloggen"
+
+msgid "Logo/Header"
+msgstr "Logo/Kopfzeile"
+
+msgid "Logout"
+msgstr "Abmelden"
+
+msgid "Lost your password?<br />You can %sreset it here%s."
+msgstr "Passwort vergessen?<br />Sie können es %shier zurücksetzen%s."
+
+msgid "Manage Icons and Sets"
+msgstr "Symbole und Sets verwalten"
+
+msgid "Manage Installed Icons + Sets"
+msgstr "Installierte Symbole + Sets verwalten"
+
+msgid "Manage Licenses"
+msgstr "Lizenzen verwalten"
+
+msgid "Matte"
+msgstr "Matt"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Menu + Icons"
+msgstr "Menü + Symbole"
+
+msgid "Menu Options"
+msgstr "Menü-Optionen"
+
+msgid "Menu and Icon Setup"
+msgstr "Menü- und Symbol-Einrichtung"
+
+msgid "Menu sort order (WordPress Pages menu only)"
+msgstr "Menü-Sortierreihenfolge (nur WordPress-Seitenmenü)"
+
+msgid "Menu, Posts and Pages"
+msgstr "Menü, Beiträge und Seiten"
+
+msgid "Message"
+msgstr "Nachricht"
+
+msgid "Message sent successfully."
+msgstr "Nachricht erfolgreich versandt."
+
+msgid "Message shown in the notice bubble for iPhone, iPod touch & iPad visitors:"
+msgstr "Nachricht, die in der Notizblase für iPhone, iPod touch & iPad-Besucher angezeigt wird:"
+
+msgid "Miscellaneous Options"
+msgstr "Verschiedene Optionen"
+
+msgid "Mobile"
+msgstr "Handy"
+
+msgid "Mobile Theme"
+msgstr "Handy-Theme"
+
+msgid "Mobile User Agents"
+msgstr "Handy-Benutzerprogramme"
+
+msgid "Modules"
+msgstr "Module"
+
+msgid "More Info"
+msgstr "Weitere Infos"
+
+msgid "Move WPtouch admin settings to Appearance menu"
+msgstr "Verschiebt die WPtouch-Admin-Einstellungen in das Layout-Menü"
+
+msgid "Moves WPtouch admin settings from the top-level to the WordPress Appearance settings. Refresh your browser after saving."
+msgstr "Verschiebt die WPtouch-Admin-Einstellungen von der obersten Ebene in den Bereich Layout-Einstellungen von WordPress. Aktualisieren Sie nach dem Speichern Ihren Browser."
+
+msgid "Multisite"
+msgstr "Multisite"
+
+msgid "My Account"
+msgstr "Mein Account"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Name  (Required)"
+msgstr "Name  (Erforderlich)"
+
+msgid "Name: %s"
+msgstr "Name: %s"
+
+msgid "New Comment"
+msgstr "Neuer Kommentar"
+
+msgid "New Ping/Trackback"
+msgstr "Neuer Ping/Trackback"
+
+msgid "Next"
+msgstr "Weiter"
+
+msgid "Next Image"
+msgstr "Nächstes Bild"
+
+msgid "Next One Day"
+msgstr "Einen Tag weiter"
+
+msgid "Next One Month"
+msgstr "Einen Monat weiter"
+
+msgid "Next One Year"
+msgstr "Ein Jahr weiter"
+
+msgid "Next in Category"
+msgstr "Nächste Kategorie"
+
+msgid "Next in Search"
+msgstr "Weiter in der Suche"
+
+msgid "Next in Tag"
+msgstr "Nächster Tag"
+
+msgid "No Comments Yet"
+msgstr "Noch keine Kommentare"
+
+msgid "No Custom Icons to Display"
+msgstr "Keine benutzerdef. Symbole zur Anzeige"
+
+msgid "No Photos To Display"
+msgstr "Keine Fotos zum Anzeigen"
+
+msgid "No Responses"
+msgstr "Keine Antworten"
+
+msgid "No advertising"
+msgstr "Keine Werbung"
+
+msgid "No custom post types found"
+msgstr "Keine benutzerdef. Beiträge gefunden"
+
+msgid "No known warnings or conflicts."
+msgstr "Keine bekannten Warnungen oder Konflikte."
+
+msgid "None"
+msgstr "Keine"
+
+msgid "None (Use WordPress Settings)"
+msgstr "Keine (WordPress-Einstellungen benutzen)"
+
+msgid "Normally links posted into post content are plain-text and cannot be clicked.  Enabling this option will make these links clickable, similar to the P2 theme."
+msgstr "Normalerweise sind Links, die in den Inhalt des Beitrags kopiert werden, Klartext, und können nicht angeklickt werden. Wenn Sie diese Option aktivieren, werden diese Links anklickbar, ähnlich wie im P2-Theme."
+
+msgid "Not registered yet?<br />You can %ssign-up here%s."
+msgstr "Noch nicht registriert?<br />Sie können sich %shier anmelden%s."
+
+msgid "Notice"
+msgstr "Notiz"
+
+msgid "Notify of new account registrations"
+msgstr "Bei neuen Account-Registrierungen benachrichtigen"
+
+msgid "Notify of new comments &amp; pingbacks/trackbacks"
+msgstr "Bei neuen Kommentaren &amp; Pingbacks/Trackbacks benachrichtigen"
+
+msgid "Number of days before the message will be shown again to visitors"
+msgstr "Anzahl der Tage, bis die Nachricht den Besuchern erneut angezeigt wird"
+
+msgid "Number of seconds to cache menu tree items for"
+msgstr "Anzahl der Sekunden, in denen Menüpunkte im Cache gespeichert werden"
+
+msgid "OFF"
+msgstr "AUS"
+
+msgid "ON"
+msgstr "EIN"
+
+msgid "One Response"
+msgstr "Eine Antwort"
+
+msgid "One or more fields were not completed."
+msgstr "Eins oder mehrere Felder wurden nicht ausgefüllt."
+
+msgid "One or more required directories could not be created"
+msgstr "Ein oder mehrere erforderliche Verzeichnisse konnten nicht erstellt werden"
+
+msgid "Oops! The license server could not be reached."
+msgstr "Ups! Der Lizenzserver konnte nicht erreicht werden."
+
+msgid "Oops! Try saving again."
+msgstr "Ups! Versuchen Sie noch mal, zu speichern."
+
+msgid "Optima-Bold"
+msgstr "Optima-Bold"
+
+msgid "Optima-Regular"
+msgstr "Optima-Regular"
+
+msgid "Other"
+msgstr "Andere"
+
+msgid "Overview"
+msgstr "Übersicht"
+
+msgid "Page or Post Not Found"
+msgstr "Seite oder Beitrag nicht gefunden"
+
+msgid "Pages"
+msgstr "Seiten"
+
+msgid "Pages / Custom Menu"
+msgstr "Seiten / benutzerdef. Menü"
+
+msgid "Pages in the article:"
+msgstr "Seiten im Artikel:"
+
+msgid "Pages:"
+msgstr "Seiten:"
+
+msgid "Palatino-Roman"
+msgstr "Palatino-Roman"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Password (if you use one)"
+msgstr "Passwort (wenn Sie eins benutzen)"
+
+msgid "Paste a backup key, then save: %s(Right click in textarea, choose \"Paste\")%s"
+msgstr "Fügen Sie einen Backup-Schlüssel ein, und speichern Sie dann: %s(Rechtsklick in den Textbereich, wählen Sie \"Einfügen\")%s"
+
+msgid "Photos"
+msgstr "Fotos"
+
+msgid "Pinstripes Diagonal"
+msgstr "Diagonale Nadelstreifen"
+
+msgid "Pinstripes Horizontal"
+msgstr "Horizontale Nadelstreifen"
+
+msgid "Pinstripes Vertical (Blue)"
+msgstr "Vertikale Nadelstreifen (Blau)"
+
+msgid "Pinstripes Vertical (Grey)"
+msgstr "Vertikale Nadelstreifen (Grau)"
+
+msgid "Please enter a description for the support posting."
+msgstr "Bitte geben Sie eine Beschreibung für den Support-Beitrag ein."
+
+msgid "Please enter a topic title for the support posting."
+msgstr "Bitte geben Sie einen Thementitel für den Support-Beitrag ein."
+
+msgid "Please enter at least one tag for the support posting."
+msgstr "Bitte geben Sie mindestens ein Tag für den Support-Beitrag ein."
+
+msgid "Please enter the set information below and click save"
+msgstr "Bitte geben Sie die Set-Informationen unten ein und klicken Sie auf Speichern"
+
+msgid "Please enter your Account E-Mail and License Key to begin the license activation process, or %spurchase a license &raquo;%s"
+msgstr "Bitte geben Sie Ihre Account-E-Mail und Ihren Lizenzschlüssel ein, um den Lizenzaktivierungsprozess zu starten oder %skaufen Sie eine Lizenz &raquo;%s"
+
+msgid "Please upload only .PNG (single image) or .ZIP (icon set) file types."
+msgstr "Bitte laden Sie nur .PNG- (Einzelbild) oder .ZIP- (Symbol-Set) Dateitypen hoch."
+
+msgid "Plugin Compatibility"
+msgstr "Plugin-Kompatibilität"
+
+msgid "Plugin Licensing Terms"
+msgstr "Plugin-Lizenzierungsbedingungen"
+
+msgid "Pool Background Color"
+msgstr "Hintergrundfarbe der Fundgrube"
+
+msgid "Popular"
+msgstr "Beliebt"
+
+msgid "Post body font"
+msgstr "Schriftart des Beitragstextes"
+
+msgid "Post body font size"
+msgstr "Schriftgröße des Beitragstexts"
+
+msgid "Post icon type"
+msgstr "Beitrags-Symboltyp"
+
+msgid "Post title font"
+msgstr "Schriftart der Beitragsüberschrift"
+
+msgid "Post title font size"
+msgstr "Schriftgröße der Beitragsüberschrift"
+
+msgid "Post: %s"
+msgstr "Beitrag: %s"
+
+msgid "Posts and comments will be appended to existing content with an AJAX \"Load More...\" link. If unchecked regular post/comment pagination will be used."
+msgstr "Beiträge und Kommentare werden mit einem AJAX \"Weitere laden...\"-Link an den bestehenden Inhalt angehängt. Wenn Sie kein Häkchen setzen, wird für Beiträge/Kommentare der gewöhnliche Seitenumbruch verwendet."
+
+msgid "Posts in these categories will not be shown in WPtouch. (e.g. 3,4,5)"
+msgstr "Beiträge in diesen Kategorien werden in WPtouch nicht angezeigt. (z. B. 3,4,5)"
+
+msgid "Posts with these tags will not be shown in WPtouch. (e.g. 3,4,5)"
+msgstr "Beiträge mit diesen Seiten werden nicht in WPtouch angezeigt (z. B. 3,4,5)"
+
+msgid "Powered by %1$s %2$s"
+msgstr "Bereitgestellt von %1$s %2$s"
+
+msgid "Prefer thumbnails on pages over page icons (WordPress thumbs only)"
+msgstr "Miniaturbilder auf Seiten gegenüber Seitensymbolen bevorzugen (nur WordPress-Miniaturbilder)"
+
+msgid "Prev"
+msgstr "Vorh"
+
+msgid "Previous Image"
+msgstr "Vorheriges Bild"
+
+msgid "Problem Area"
+msgstr "Problembereich"
+
+msgid "Prowl API keys"
+msgstr "Prowl API-Schnittstellen-Schlüssel"
+
+msgid "Prowl Push Notifications"
+msgstr "Prowl Push-Benachrichtigungen"
+
+msgid "Prowl Website"
+msgstr "Prowl-Webseite"
+
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+msgid "Publish Comment"
+msgstr "Kommentar veröffentlichen"
+
+msgid "Published on"
+msgstr "Veröffentlicht am"
+
+msgid "Purchase More Licenses"
+msgstr "Weitere Lizenzen kaufen"
+
+msgid "Purchase a License"
+msgstr "Lizenz erwerben"
+
+msgid "Push Notifications"
+msgstr "Push-Benachrichtigungen"
+
+msgid "Push message sent successfully."
+msgstr "Push-Nachricht wurde erfolgreich verschickt."
+
+msgid "RSS"
+msgstr "RSS"
+
+msgid "Read This Article"
+msgstr "Diesen Artikel lesen"
+
+msgid "Ready for upload..."
+msgstr "Bereit zum Hochladen..."
+
+msgid "Recent"
+msgstr "Kürzlich"
+
+msgid "Recent Articles"
+msgstr "Aktuelle Artikel"
+
+msgid "Recent Support Posts"
+msgstr "Aktuelle Support-Beiträge"
+
+msgid "Red Bull"
+msgstr "Red Bull"
+
+msgid "Redirect target"
+msgstr "Ziel umleiten"
+
+msgid "Regionalization"
+msgstr "Regionalisierung"
+
+msgid "Register for an account"
+msgstr "Für einen Account registrieren"
+
+msgid "Remove license?"
+msgstr "Lizenz entfernen?"
+
+msgid "Remove these shortcodes when WPtouch Pro is active"
+msgstr "Diese Shortcodes entfernen, wenn WPtouch Pro aktiv ist"
+
+msgid "Repeat Both"
+msgstr "Beide wiederholen"
+
+msgid "Repeat Horizontally"
+msgstr "Horizontal wiederholen"
+
+msgid "Repeat None"
+msgstr "Nicht wiederholen"
+
+msgid "Repeat Vertically"
+msgstr "Vertikal wiederholen"
+
+msgid "Reply"
+msgstr "Antworten"
+
+msgid "Reply."
+msgstr "Antworten."
+
+msgid "Requires Discussion settings to be enabled in the WordPress settings."
+msgstr "Hierfür müssen die Diskussions-Einstellungen in den WordPress-Einstellungen aktiviert sein."
+
+msgid "Requires the \"Anyone can register\" WordPress setting to be enabled."
+msgstr "Hierfür muss die WordPress-Einstellung \"Jeder kann sich registrieren\" aktiviert sein."
+
+msgid "Reset All Pages & Icons"
+msgstr "Alle Seiten & Symbole zurücksetzen"
+
+msgid "Reset Licenses Now"
+msgstr "Lizenzen jetzt zurücksetzen"
+
+msgid "Reset Menu Page and Icon settings?"
+msgstr "Menüseite und Symboleinstellungen zurücksetzen?"
+
+msgid "Reset Settings"
+msgstr "Einstellungen zurücksetzen"
+
+msgid "Reset all WPtouch Pro admin settings?"
+msgstr "Alle WPtouch Pro Admin-Einstellungen zurücksetzen?"
+
+msgid "Reset password"
+msgstr "Passwort zurücksetzen"
+
+msgid "Resources"
+msgstr "Ressourcen"
+
+msgid "Respect WordPress setting for date format in themes"
+msgstr "WordPress-Einstellung für Datumsformat in Themes beachten."
+
+msgid "Right Now"
+msgstr "Sofort"
+
+msgid "Right RTL (experimental)"
+msgstr "Rechts RTL (experimentell)"
+
+msgid "Same URL"
+msgstr "Gleiche URL"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Save %s as a web-app on your Home Screen."
+msgstr "Speichern Sie %s als Web-App auf Ihrem Home-Bildschirm."
+
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+msgid "Save to Del.icio.us"
+msgstr "In Del.icio.us speichern"
+
+msgid "Save to Instapaper"
+msgstr "Auf Instapaper speichern"
+
+msgid "Saved to Instapaper!"
+msgstr "Auf Instapaper gespeichert!"
+
+msgid "Saving"
+msgstr "Wird gespeichert"
+
+msgid "Saving..."
+msgstr "Wird gespeichert..."
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Search results &rsaquo; %s"
+msgstr "Suchergebnisse &rsaquo; %s"
+
+msgid "Search this website"
+msgstr "Diese Webseite durchsuchen"
+
+msgid "Secondary Admin Panels"
+msgstr "Zweit-Admin-Panels"
+
+msgid "Security (2)"
+msgstr "Sicherheit (2)"
+
+msgid "Select whether the link is shown above or below the WP pages in your menu"
+msgstr "Wählen Sie aus, ob der Link über oder unter den WP-Seiten in Ihrem Menü angezeigt wird"
+
+msgid "Send Now"
+msgstr "Jetzt senden"
+
+msgid "Send a Message"
+msgstr "Eine Nachricht senden"
+
+msgid "Server Configuration"
+msgstr "Server-Konfiguration"
+
+msgid "Set description"
+msgstr "Set-Beschreibung"
+
+msgid "Set name"
+msgstr "Set-Name"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Settings Backup and Import"
+msgstr "Einstellungs-Backup- und Import"
+
+msgid "Settings saved!"
+msgstr "Einstellungen gespeichert!"
+
+msgid "Share Article"
+msgstr "Artikel teilen"
+
+msgid "Share Or Save"
+msgstr "Teilen oder speichern"
+
+msgid "Share on Facebook"
+msgstr "Auf Facebook teilen"
+
+msgid "Share on Twitter"
+msgstr "Auf Twitter teilen"
+
+msgid "Share or Save This Post"
+msgstr "Diesen Beitrag teilen oder speichern"
+
+msgid "Share via E-Mail"
+msgstr "Per E-Mail teilen"
+
+msgid "Shared accounts to include in tweet listings:"
+msgstr "Geteilte Accounts, die in Tweet-Auflistungen aufgenommen werden können:"
+
+msgid "Should be 270px (width) by 44px (height). Transparent .PNG is recommended. If no image is specified here the default Site Icon and Site Title will be used."
+msgstr "Sollte 270 Pixel (breit) mal 44 Pixel (hoch) sein. Eine transparente .PNG-Datei wird empfohlen. Wenn hier kein Bild angegeben wird, werden das Standard-Seitensymbol und der Seitentitel benutzt."
+
+msgid "Should be 540px (width) by 88px (height). Transparent .PNG is recommended."
+msgstr "Sollte 540 Pixel (breit) mal 88px (hoch) sein. Eine transparente .PNG-Datei wird empfohlen."
+
+msgid "Show \"Admin\" in Account tab links"
+msgstr "\"Admin\" in den Account-Registerlinks anzeigen."
+
+msgid "Show \"Profile\" in Account tab links"
+msgstr "\"Profil\" in Account-Registerlinks anzeigen"
+
+msgid "Show \"Share/Save\" button"
+msgstr "Button \"Teilen/Speichern\" anzeigen"
+
+msgid "Show / Hide"
+msgstr "Anzeigen / Ausblenden"
+
+msgid "Show Account in tab-bar"
+msgstr "Account in Registerleiste anzeigen"
+
+msgid "Show Archives template in menu"
+msgstr "Archiv-Template im Menü anzeigen"
+
+msgid "Show Categories in tab-bar"
+msgstr "Kategorien in der Registerleiste anzeigen"
+
+msgid "Show Links template in menu"
+msgstr "Links-Template im Menü anzeigen"
+
+msgid "Show Search in tab-bar"
+msgstr "Suche in der Registerleiste anzeigen"
+
+msgid "Show Tags in tab-bar"
+msgstr "Tags in der Registerleiste anzeigen"
+
+msgid "Show Twitter in mobile drop-down menu tab-bar"
+msgstr "Twitter in mobiler Dropdown-Menüsymbolleiste anzeigen"
+
+msgid "Show Twitter popover on iPad"
+msgstr "Twitter-Popover auf iPad anzeigen"
+
+msgid "Show a \"Profile\" link for all logged in users."
+msgstr "Einen \"Profil\"-Link für alle eingeloggten Benutzer anzeigen."
+
+msgid "Show a notice bubble for iPhone, iPod touch & iPad visitors about Web-App Mode"
+msgstr "Notizblase für iPhone-, iPod Touch- & iPad-Besucher über Web-App-Modus anzeigen"
+
+msgid "Show account button"
+msgstr "Account-Button anzeigen"
+
+msgid "Show ads in these places"
+msgstr "Anzeigen hier anzeigen"
+
+msgid "Show attached image in page content"
+msgstr "Angefüges Bild in Seiteninhalt anzeigen"
+
+msgid "Show attached image in post content"
+msgstr "Angehängtes Bild im Beitragsinhalt anzeigen"
+
+msgid "Show author in post header"
+msgstr "Autor in der Post-Kopfzeile anzeigen"
+
+msgid "Show author name"
+msgstr "Name des Autors anzeigen"
+
+msgid "Show blog button"
+msgstr "Blog-Button anzeigen"
+
+msgid "Show categories"
+msgstr "Kategorien anzeigen"
+
+msgid "Show categories in blog popover"
+msgstr "Kategorien im Blog-Popover anzeigen"
+
+msgid "Show categories post footer"
+msgstr "Kategorien-Beitrags-Fußzeile anzeigen"
+
+msgid "Show comments on pages"
+msgstr "Kommentare auf Seiten anzeigen"
+
+msgid "Show custom post type taxonomy on main index pages"
+msgstr "Benutzerdef. Beitragsart-Taxonomie auf Hauptindexseiten anzeigen"
+
+msgid "Show custom post type taxonomy on single post page"
+msgstr "Benutzerdef. Beitragsart-Taxonomie bei Einzelbeitragsseite anzeigen"
+
+msgid "Show date"
+msgstr "Datum anzeigen"
+
+msgid "Show date in post header"
+msgstr "Datum in der Beitrags-Kopfzeile anzeigen"
+
+msgid "Show header icon"
+msgstr "Kopfzeilensymbol anzeigen"
+
+msgid "Show home\tbutton"
+msgstr "Start\t\Button anzeigen"
+
+msgid "Show load times and query counts in the footer"
+msgstr "Ladezeichen und Anfragenzähler in der Fußzeile anzeigen"
+
+msgid "Show popular posts in blog popover"
+msgstr "Beliebte Beiträge in Blog-Popover anzeigen"
+
+msgid "Show recent posts in blog popover"
+msgstr "Aktuelle Beiträge im Blog-Popover anzeigen"
+
+msgid "Show search button"
+msgstr "Suchbutton anzeigen"
+
+msgid "Show switch link"
+msgstr "Umschaltlink anzeigen"
+
+msgid "Show tags"
+msgstr "Tags anzeigen"
+
+msgid "Show tags in blog popover"
+msgstr "Tags in Blog Popover anzeigen"
+
+msgid "Show tags post footer"
+msgstr "Tags für Beitrags-Fußzeile anzeigen"
+
+msgid "Show thumbnails on single post pages next to the post title"
+msgstr "Miniaturbilder auf Einzelbeitragsseiten neben der Beitragsüberschrift anzeigen."
+
+msgid "Show/hide the header site icon beside your site title. If you use a custom logo image this setting will not apply."
+msgstr "Das Seitensymbol der Kopfzeile neben Ihrem Seitentitel anzeigen/ausblenden. Wenn Sie ein benutzerdefiniertes Logobild verwenden, gilt diese Einstellung nicht."
+
+msgid "Shows WPtouch in ALL browsers when enabled. Please remember to disable this option when finished!"
+msgstr "Zeigt WPtouch bei Aktivierung in ALLEN Browsern an. Bitte denken Sie daran, diese Option zu deaktivieren, wenn Sie fertig sind."
+
+msgid "Shows an \"Admin\" menu link for logged in users that have edit posts capability."
+msgstr "Zeigt einen \"Admin\"-Menülink für eingeloggte Benutzer an, die die Fähigkeit haben, Beiträge zu bearbeiten."
+
+msgid "Shows the latest 10 tweets (excluding those tweeted from WordTwit) in its own popover, and adds a button to the menubar."
+msgstr "Zeigt die neuesten 10 Tweets (ausschließlich die von WordTwit getweeteten) in eigenem Popover und fügt der Menüleiste einen Knopf hinzu."
+
+msgid "Shows the latest 10 tweets (excluding those tweeted from WordTwit) in your drop-down menu."
+msgstr "Zeigt die neuesten 10 Tweets (ausschließlich die, die von WordTwit aus getweetet wurden) in Ihrem Dropdown-Menü."
+
+msgid "Shows the latest 20 photos from your Flickr RSS feed in its own popover, and adds a button to the menubar."
+msgstr "Zeigt die neuesten 20 Fotos aus Ihrem Flickr-RSS-Feed im eigenen Popover an und fügt der Menüleiste einen Knopf hinzu."
+
+msgid "Shows the latest 20 photos from your Flickr RSS feed on its own page, and adds a link to for it to your drop-down menu."
+msgstr "Zeigt die neuesten 20 Fotos aus Ihrem Flickr-RSS-Feed auf einer eigenen Seite an und fügt einen Link für Ihr Dropdown-Menü hinzu."
+
+msgid "Sidebar Background"
+msgstr "Seitenleisten-Hintergrund"
+
+msgid "Silver Sheen"
+msgstr "Silberschimmer"
+
+msgid "Simple Post Thumbnails Plugin"
+msgstr "Simple Post Thumbnails Plugin"
+
+msgid "Single Post Only"
+msgstr "Nur Einzelbeiträge"
+
+msgid "Single Posts"
+msgstr "Einzelbeiträge"
+
+msgid "Single images and those in .ZIP packages <em>must</em> be in .PNG format. When you upload a .ZIP you <em>must</em> name the set. The .ZIP size limit on your server is %dMB."
+msgstr "Einzelbilder und Bilder in .ZIP-Paketen <em>müssen</em> im .PNG- Format sein. Wenn Sie eine .ZIP-Datei hochladen, <em>müssen</em> Sie das Set benennen. Die maximale Größe für .ZIP-Dateien auf Ihrem Server liegt bei %dMB."
+
+msgid "Site Branding"
+msgstr "Webseiten-Branding"
+
+msgid "Site Homepage"
+msgstr "Startseite"
+
+msgid "Site Statistics"
+msgstr "Seitenstatistik"
+
+msgid "Site, Theme &amp; Bookmark"
+msgstr "Seite, Theme &amp; Lesezeichen"
+
+msgid "Sitewide font color"
+msgstr "Seitenweite Schriftfarbe"
+
+msgid "Sitewide link color"
+msgstr "Seitenweite Linkfarbe"
+
+msgid "Sitewide post title color"
+msgstr "Seitenweite Farbe der Beitragstitel"
+
+msgid "Size (in px) for Classic thumbnails"
+msgstr "Größe (in Pixeln) für klassische Thumbnails."
+
+msgid "Skated Concrete"
+msgstr "Eislaufen auf Beton"
+
+msgid "Skins are alternate stylesheets which change the look and feel of a theme."
+msgstr "Skins sind wechselnde Stylesheets, die das Aussehen und die Atmosphäre eines Themes verändern."
+
+msgid "Skip to Responses"
+msgstr "Zu Antworten springen"
+
+msgid "Sort alphabetically"
+msgstr "Alphabetisch sortieren"
+
+msgid "Sort by admin page order"
+msgstr "Nach Admin-Seitenreihenfolge sortieren"
+
+msgid "Speeds up loading of content, but is less compatible with some plugins. Disable if some features of your site are not working in Web-App Mode."
+msgstr "Beschleunigt das Hochladen von Inhalten, ist aber weniger kompatibel mit einigen Plugins. Deaktiveren Sie dies, wenn einige Funktionen Ihrer Seite nicht im Web-App-Modus funktionieren."
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Status Bar Color"
+msgstr "Statusleistenfarbe"
+
+msgid "Style / Appearance"
+msgstr "Stil / Layout"
+
+msgid "Style and Appearance"
+msgstr "Stil und Aussehen"
+
+msgid "Submit Comment"
+msgstr "Kommentar abgeben"
+
+msgid "Subtle Noise (default)"
+msgstr "Subtiler Lärm (Standard)"
+
+msgid "Sunkissed Orange"
+msgstr "Sonnenverwöhnte Orange"
+
+msgid "Support Forums"
+msgstr "Support-Foren"
+
+msgid "Support QuickPress"
+msgstr "Unterstützen Sie QuickPress"
+
+msgid "Switch Link"
+msgstr "Umschaltlink"
+
+msgid "Switch To Mobile Version"
+msgstr "Auf Handy-Version umschalten"
+
+msgid "Switch To Regular Theme"
+msgstr "Auf normales Theme wechseln"
+
+msgid "Switch To iPad Version"
+msgstr "Auf iPad-Version wechseln"
+
+msgid "Switch link destination"
+msgstr "Umschaltlinkziel"
+
+msgid "Tags"
+msgstr "Tags"
+
+msgid "Tags &rsaquo; %s"
+msgstr "Tags &rsaquo; %s"
+
+msgid "Tap the button above, then Add to Home Screen."
+msgstr "Tippen Sie den Button oben an, dann Zum Startbildschirm hinzufügen."
+
+msgid "Tap the center button below, then Add to Home Screen."
+msgstr "Tippen Sie unten auf den Zentrieren-Button dann auf Zum Startbildschirm hinzufügen"
+
+msgid "Text justification in post listings, single posts / comments, and pages"
+msgstr "Textausrichtung in den Beitragslisten, Einzelbeiträgen / Kommentaren und auf den Seiten"
+
+msgid "Text shading for headers, footer text"
+msgstr "Textschattierung für den Text in der Kopf- und Fußzeile"
+
+msgid "Thank you for supporting us!"
+msgstr "Danke, dass Sie uns unterstützen!"
+
+msgid "Thatch (dark)"
+msgstr "Stroh (dunkel)"
+
+msgid "Thatch (default)"
+msgstr "Stroh (Standard)"
+
+msgid "The \"Share/Save\" button allows visitors to bookmark your site, share on popular services and via e-mail, or save to Instapaper. You may want to disable it if you use another sharing plugin."
+msgstr "Mit dem Button \"Teilen/Speichern\" können Besucher Ihre Seite als Lesezeichen markieren, auf beliebten Diensten und per E-Mail teilen oder auf Instapaper speichern. Wenn Sie ein anderes Mitbenutzungs-Plugin verwenden, sollten Sie diesen Button deaktivieren."
+
+msgid "The Account E-Mail you have entered is invalid. Please try again."
+msgstr "Die von Ihnen eingegebene Account-E-Mail ist ungültig. Bitte versuchen Sie es erneut."
+
+msgid "The Account E-Mail you have entered is not associated with a valid license.  Please check your Account E-Mail and try again."
+msgstr "Die von Ihnen eingegebene Account-Email ist nicht mit einer gültigen Lizenz verbunden. Bitte überprüfen Sie Ihre Account-E-Mail und versuchen Sie es erneut."
+
+msgid "The BraveNewCode Blog timed out."
+msgstr "Zeitüberschreitung im BraveNewCode-Blog."
+
+msgid "The BraveNewCode Forums timed out."
+msgstr "Zeitüberschreitung in den BraveNewCode-Foren."
+
+msgid "The Featured Content Gallery plugin does not work correctly with WPtouch Pro. Please disable it below in the Plugin Compatibility section."
+msgstr "Das Featured Content Gallery-Plugin funktioniert zusammen mit WPtouch Pro nicht richtig. Bitte deaktivieren Sie es unten im Bereich Plugin-Kompatibilität."
+
+msgid "The WPtouch Pro admin panel / supported themes will be shown in this locale"
+msgstr "Das WPtouch Pro Admin-Panel / die unterstützten Themes werden in diesem Gebietsschema angezeigt."
+
+msgid "The context header shows for results pages (e.g. Search Results, Leave A Reply) and other labels and headings."
+msgstr "Die Kontext-Kopfzeile zeigt Ergebnisseiten (z. B. Suchergebnisse, Antwort geben) und andere Labels und Überschriften an."
+
+msgid "The import key you used is not valid.  Please try a copy/paste of your key again."
+msgstr "Der von Ihnen benutzte Import-Schlüssel ist nicht gültig. Bitte versuchen Sie erneut, Ihren Schlüssel zu kopieren und einzufügen."
+
+msgid "The push message and account tabs are shown/hidden automatically."
+msgstr "Die Push-Nachricht- und Account-Register werden automatisch angezeigt/ausgeblendet."
+
+msgid "The startup splash screen image is located inside this theme folder at: /iphone/images/startup.png "
+msgstr "Der Start-Bildschirm befindet sich in diesem Theme-Ordner unter: /iphone/images/startup.png"
+
+msgid "The welcome message shows below the header for visitors until dismissed."
+msgstr "Diese Willkommensnachricht wird unter dem Header für Besucher angezeigt, bis sie geschlossen wird."
+
+msgid "Theme &amp; Page Compatibility"
+msgstr "Theme- &amp; Seitenkompatibilität"
+
+msgid "Theme Browser"
+msgstr "Theme-Browser"
+
+msgid "Theme General"
+msgstr "Theme Allgemein"
+
+msgid "Theme Location (relative to wp-content):<br />%s"
+msgstr "Theme-Speicherort (in Bezug auf wp-Inhalt):<br />%s"
+
+msgid "Theme Menu"
+msgstr "Theme-Menü"
+
+msgid "Theme Settings"
+msgstr "Theme-Einstellungen"
+
+msgid "Theme Skins"
+msgstr "Theme-Skins"
+
+msgid "Theme Templates"
+msgstr "Theme-Vorlagen"
+
+msgid "Theme background image"
+msgstr "Theme-Hintergrundbild"
+
+msgid "Theme switch styling"
+msgstr "Stil der Theme-Umschaltung"
+
+msgid "Themes"
+msgstr "Themes"
+
+msgid "There are currently no active plugins to disable."
+msgstr "Es gibt derzeit keine aktiven Plugins, die deaktiviert werden können."
+
+msgid "There are currently no themes installed."
+msgstr "Derzeit sind keine Themes installiert."
+
+msgid "There are no WordPress pages available to configure."
+msgstr "Es sind keine WordPress-Seiten zum Konfigurieren verfügbar."
+
+msgid "There is a new version of WPtouch Pro available."
+msgstr "Eine neue Version von WPtouch Pro ist verfügbar."
+
+msgid "There seems to have been a problem posting your support question.  Please try again later."
+msgstr "Es scheint ein Problem beim Posten Ihrer Frage an den Support zu geben. Bitte versuchen Sie es später noch mal."
+
+msgid "There was an error logging into your account. Please try again"
+msgstr "Fehler beim Einloggen in Ihren Account. Bitte versuchen Sie es erneut."
+
+msgid "There was an error resetting your licenses. Please contact customer support."
+msgstr "Beim Zurücksetzen Ihrer Lizenzen ist ein Fehler aufgetreten. Bitte kontaktieren Sie den Kundendienst."
+
+msgid "These settings affect the display of posts on the WPtouch blog, blog archive & search pages."
+msgstr "Diese Einstellungen wirken sich auf die Anzeige von Beiträgen im WPtouch-Blog, Blog-Archiv & Suchseiten aus."
+
+msgid "These settings require the %sFlickrRSS%s plugin to be installed:"
+msgstr "Für diese Einstellungen muss das %sFlickrRSS%s-Plugin installiert sein."
+
+msgid "These settings require the %sWordTwit Pro%s plugin to be installed:"
+msgstr "Für diese Einstellung muss das %sWordTwit Pro%s Plugin installiert sein:"
+
+msgid "These templates are custom to WPtouch. They trigger a new menu item which can be configured in the menu settings once activated here."
+msgstr "Diese Vorlagen sind benutzerdefiniert für WPtouch. Sie erstellen einen neuen Menüpunkt, der in den Menüeinstellungen konfiguriert werden kann, sobald er hier aktiviert wurde."
+
+msgid "Thick Stripes"
+msgstr "Dicke Streifen"
+
+msgid "Thin Stripes"
+msgstr "Dünne Streifen"
+
+msgid "This Account E-Mail/License Key combination you have entered was rejected by the BraveNewCode server. Please try again."
+msgstr "Die von Ihnen eingegebene Account-E-Mail/Lizenzschlüssel-Kombination wurde vom BraveNewCode-Server abgelehnt. Bitte versuchen Sie es erneut."
+
+msgid "This background shows in the landscape menu."
+msgstr "Dieser Hintergrund wird im Querformatmenü angezeigt."
+
+msgid "This copy of WPtouch Pro %s is unlicensed."
+msgstr "Diese Kopie von WPtouch Pro %s ist nicht lizenziert."
+
+msgid "This copy of WPtouch Pro is partially activated."
+msgstr "Diese Kopie von WPtouch Pro ist teilweise aktiviert."
+
+msgid "This is an external link."
+msgstr "Dies ist ein externer Link."
+
+msgid "This key represents a backup of all WPtouch Pro settings.<br />You can cut and paste it into another installation, or save the data to restore at a later time."
+msgstr "Dieser Schlüssel stellt ein Backup aller WPtouch Pro-Einstellungen dar.<br />Sie können ihn ausschneiden und in eine andere Installation einfügen, oder die Daten speichern, um sie später wieder herzustellen."
+
+msgid "This operation cannot be undone."
+msgstr "Dieser Vorgang kann nicht rückgängig gemacht werden."
+
+msgid "This option can be used to include an attached image in the page content.  The image is only included if it doesn't already exist in the page content."
+msgstr "Diese Option kann benutzt werden, um ein angehängtes Bild in den Seiteninhalt aufzunehmen. Das Bild wird nicht aufgenommen, wenn es im Seiteninhalt nicht bereits existiert."
+
+msgid "This option can be used to include an attached image in the post content.  The image is only included if it doesn't already exist in the post content."
+msgstr "Diese Option kann benutzt werden, um ein angehängtes Bild in den Inhalt des Beitrags zu integrieren. Das Bild wird nur aufgenommen, wenn es nicht bereits im Inhalt des Beitrags enthalten ist."
+
+msgid "This option reduces the loading time for pages, but may cause issues with the menu when permalinks are non-standard or on another domain."
+msgstr "Diese Option verringert die Ladezeiten für Seiten, kann jedoch Probleme mit dem Menü verursachen, wenn Permalinks kein Standard sind oder auf einer anderen Domain."
+
+msgid "This option will force  the WordPress multisite panels to be displayed. This option should only be used on an actual multisite installation."
+msgstr "Diese Option für die Anzeige von Wordpress-Panels für mehrere Seiten erzwingen. Diese Option sollte nur auf einer richtigen Multisite-Installation genutzt werden."
+
+msgid "This option will include and load the functions.php from the active WordPress theme.  This may be required for themes with custom field features like post images, etc. This option will cause hidden files to be written to your desktop theme directory."
+msgstr "Diese Option wird die functions.php aus dem aktiven WordPress-Theme enthalten und laden. Dies kann für Themes mit benutzerdef. Feldfunktionen wie Beitragsbilder usw. erforderlich sein. Mit dieser Option werden versteckte Dateien in Ihr Desktop-Theme-Verzeichnis geschrieben."
+
+msgid "This page is not mobile formatted."
+msgstr "Diese Seite ist nicht handy-formatiert"
+
+msgid "This plugin will not work correctly in WPtouch Pro, and should be disabled below in the Plugin Compatibility section."
+msgstr "Dieses Plugin funktioniert in WPtouch Pro nicht richtig, und sollte unten im Bereich Plugin-Kompatibilität deaktiviert werden."
+
+msgid "This post is password protected. Enter the password to view comments"
+msgstr "Dieser Beitrag ist passwortgeschützt. Geben Sie das Passwort ein, um die Kommentare zu lesen."
+
+msgid "This setting can be used to convert a regular WordPress page into a page that shows the latest posts."
+msgstr "Diese Einstellung kann benutzt werden, um eine reguläre WordPress-Seite in eine Seite zu konvertieren, die die neuesten Beiträge anzeigt."
+
+msgid "This will govern the color of all text in the footer, except for links."
+msgstr "Dies steuert die Farbe aller Texte in der Fußzeile, mit Ausnahme von Links."
+
+msgid "Thonburi"
+msgstr "Thonburi"
+
+msgid "Thonburi-Bold"
+msgstr "Thonburi-Bold"
+
+msgid "Thumbnail Icons"
+msgstr "Thumbnail-Symbole"
+
+msgid "TimesNewRomanPSMT"
+msgstr "TimesNewRomanPSMT"
+
+msgid "Tools and Debug"
+msgstr "Tools und Fehlerbehebung"
+
+msgid "Top"
+msgstr "Nach oben"
+
+msgid "Top Categories"
+msgstr "Top-Kategorien"
+
+msgid "Top Tags"
+msgstr "Top-Tags"
+
+msgid "Topic Tags"
+msgstr "Themen-Tags"
+
+msgid "Topic Title"
+msgstr "Themen-Titel"
+
+msgid "Trash"
+msgstr "Papierkorb"
+
+msgid "TrebuchetMS"
+msgstr "TrebuchetMS"
+
+msgid "TrebuchetMS-Bold"
+msgstr "TrebuchetMS-Bold"
+
+msgid "Turn it on in Settings -> Safari to view this mobile website correctly."
+msgstr "Schalten Sie dies in Einstellungen -> Safari ein, um diese mobile Webseite korrekt zu sehen."
+
+msgid "Turn it on in browser settings to view this mobile website."
+msgstr "Schalten Sie dies in den Browser-Einstellungen ein, um diese Handy-Webseite anzeigen zu lassen."
+
+msgid "Turn it on in browser settings to view this rich mobile website."
+msgstr "Schalten Sie dies in den Browser-Einstellungen ein, um diese umfangreiche mobile Webseite anzuzeigen."
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "UNLICENSED"
+msgstr "UNLIZENZIERT"
+
+msgid "URL for iPad logo Image shown in the landscape menu"
+msgstr "URL für iPad-Logobild wird im Querformat-Menü angezeigt"
+
+msgid "URL path to a custom background"
+msgstr "URL-Pfad zu einem benutzerdef. Hintergrund"
+
+msgid "URL to a custom CSS file"
+msgstr "URL zu einer benutzerdefinierten CSS-Datei"
+
+msgid "URL to a custom header logo"
+msgstr "URL zu einem benutzerdef. Kopfzeilen-Logo"
+
+msgid "URL to a custom header logo (Retina Sized @ 2x)"
+msgstr "URL zu einem benutzerdefinierten Kopfzeilenlogo (Retina-Größe @ 2x)"
+
+msgid "URL to custom content area background"
+msgstr "URL zu einem Hintergrund für einen benutzerdef. Bereich"
+
+msgid "URL to custom sidebar area background (repeated X and Y)"
+msgstr "URL für benutzerdef. Seitenleistenbereich-Hintergrund (X und Y wiederholt)"
+
+msgid "URL to iPad Landscape startup screen (1024x748) (.png) (iOS 5)"
+msgstr "URL zum iPad Querformat-Startbildschirm (1024x748) (.png) (iOS 5)"
+
+msgid "URL to iPad Portrait startup screen (768x1004) (.png)"
+msgstr "URL zum iPad Portrait-Startbildschirm (768x1004) (.png)"
+
+msgid "URL to iPhone 4 Retina Display startup screen (640x920) (.png) (iOS 5)"
+msgstr "URL zum iPhone 4 Retina Display-Startbildschirm (640x920) (.png) (iOS 5)"
+
+msgid "URL to iPhone startup screen (320x460) (.png)"
+msgstr "URL zum iPhone-Startbildschirm (320x460) (.png)"
+
+msgid "URL will be opened in Mobile Safari.  This feature is sometimes required for external links."
+msgstr "URL wird in Mobile Safari geöffnet. Diese Funktion ist manchmal für externe Links erforderlich."
+
+msgid "Unique to iPad, all colors, gradients & shading are done in CSS, optimized for maximum speed"
+msgstr "Einmalig bei iPad sind alle Farben, Übergänge und Schattierungen in CSS gemacht und für maximale Geschwindigkeit optimiert."
+
+msgid "Unzipping icon set..."
+msgstr "Symbol-Set wird entpackt..."
+
+msgid "Upgrade Available"
+msgstr "Upgrade verfügbar"
+
+msgid "Upload Icon / Set"
+msgstr "Set / Symbol hochladen"
+
+msgid "Upload Icons + Icon Sets"
+msgstr "Symbole + Symbol-Sets hochladen"
+
+msgid "Upload complete, processing file..."
+msgstr "Upload abgeschlossen, Datei wird verarbeitet..."
+
+msgid "Upload completed."
+msgstr "Upload abgeschlossen."
+
+msgid "Uploading Icons"
+msgstr "Symbole werden hochgeladen"
+
+msgid "Uploading..."
+msgstr "Wird hochgeladen..."
+
+msgid "Use \"dark\" for dark backgrounds, \"light\" for light backgrounds"
+msgstr "Benutzen Sie \"dunkel\" für dunkle Hintergründe, \"hell\" für helle Hintergründe."
+
+msgid "Use AJAX to load posts and pages"
+msgstr "AJAX benutzen, um Beiträge und Seiten zu laden"
+
+msgid "Use WPtouch Archives template"
+msgstr "WPtouch Archiv-Vorlage benutzen"
+
+msgid "Use WPtouch Links template"
+msgstr "WPtouch Links-Vorlage benutzen"
+
+msgid "Use compatibility CSS"
+msgstr "Kompatibles CSS benutzen"
+
+msgid "Use glossy bookmark icon"
+msgstr "Hochglanz-Lesezeichen-Symbol benutzen"
+
+msgid "Use menu icon for menu button"
+msgstr "Verwenden Sie das Menüsymbol als Menü-Button"
+
+msgid "Use menu icons"
+msgstr "Menü-Symbole benutzen"
+
+msgid "Use mobile WPtouch FlickrRSS Photos template"
+msgstr "Mobile WPtouch FlickrRSS Foto-Vorlage benutzen"
+
+msgid "Use mobile WPtouch Photos template"
+msgstr "Mobile WPtouch Foto-Vorlage benutzen"
+
+msgid "Use startup screens"
+msgstr "Startbildschirme nutzen"
+
+msgid "Use startup splash screen image"
+msgstr "Start-Bildschirm benutzen"
+
+msgid "Used to adjust the menu sort order for WPtouch Pro themes "
+msgstr "Wird zum Einstellen der Menü-Sortierreihenfolge für WPtouch Pro-Themes benutzt"
+
+msgid "Useful when developing. Will make sure WPtouch Pro browser cache of Javascript and CSS files is updated on every page refresh."
+msgstr "Nützlich bei der Software-Entwicklung. Stellt sicher, dass der WPtouch Pro Browser-Cache von Javascript und CSS-Dateien bei jeder Seitenaktualisierung aktualisiert wird."
+
+msgid "User Agents"
+msgstr "Benutzerprogramme"
+
+msgid "User Registration"
+msgstr "Benutzerregistrierung"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Username or E-Mail"
+msgstr "Benutzername oder E-Mail"
+
+msgid "Various Colors"
+msgstr "Verschiedene Farben"
+
+msgid "Verbose (5)"
+msgstr "Umfangreich (5)"
+
+msgid "Verdana"
+msgstr "Verdana"
+
+msgid "Verdana-Bold"
+msgstr "Verdana-Bold"
+
+msgid "View version details"
+msgstr "Versions-Details anzeigen"
+
+msgid "Violet Purple"
+msgstr "Violett-Purpur"
+
+msgid "Visit %sWikipedia%s for a list of device user agents"
+msgstr "Besuchen Sie %sWikipedia%s um eine Liste der Geräte-Benutzerprogramme zu erhalten"
+
+msgid "Visiting this link will cause you to leave Web-App Mode.  Are you sure?"
+msgstr "Wenn Sie diesen Link besuchen, verlassen Sie den Web-App-Modus. Sind Sie sicher?"
+
+msgid "WP Mobile edition should be configured to exclude the user agents that WPtouch Pro is enabled for (\"iphone\", \"ipod\", \"aspen\", \"incognito\", \"webmate\", \"dream\", \"android\", \"cupcake\", \"froyo\", \"blackberry9500\", \"blackberry9530\", \"blackberry9520\", \"blackberry9550\", \"webos\")."
+msgstr "Die WP Mobile-Edition sollte so konfiguriert werden, dass die Benutzerprogramme ausgeschlossen werden, für die WPtouch Pro aktiviert ist (\"iphone\", \"ipod\", \"aspen\", \"incognito\", \"webmate\", \"dream\", \"android\", \"cupcake\", \"froyo\", \"blackberry9500\", \"blackberry9530\", \"blackberry9520\", \"blackberry9550\", \"webos\")."
+
+msgid "WPtouch Landing Page"
+msgstr "WPtouch Landing Page"
+
+msgid "WPtouch News"
+msgstr "WPtouch Neuigkeiten"
+
+msgid "WPtouch Pro"
+msgstr "WPtouch Pro"
+
+msgid "WPtouch Pro Beta Changelog"
+msgstr "WPtouch Pro Beta Änderungsprotokoll"
+
+msgid "WPtouch Pro Changelog"
+msgstr "WPtouch Pro Änderungsprotokoll"
+
+msgid "WPtouch Pro Developer Mode: ON"
+msgstr "WPtouch Pro Entwicklermodus: EIN"
+
+msgid "WPtouch Pro Help & Account Links"
+msgstr "WPtouch Pro Hilfe & Account-Links"
+
+msgid "WPtouch Pro Menu"
+msgstr "WPtouch Pro Menü"
+
+msgid "WPtouch Pro cannot co-exist with WPtouch 1.x.  Disable it first in the WordPress Plugins settings."
+msgstr "WPtouch Pro kann nicht gemeinsam mit WPtouch 1.x laufen.  Deaktivieren Sie es zunächst in den WordPress Plugin-Einstellungen."
+
+msgid "WPtouch Pro is a plugin to build a mobile theme for your website tailored for <a href=\"http://www.apple.com/iphone/\">Apple iPhone</a> / <a href=\"http://www.apple.com/ipodtouch/\">iPod touch</a> / <a href=\"http://www.apple.com/ipad/\">iPad</a>, <a href=\"http://www.android.com/\">Google Android</a>, <a href=\"http://www.blackberry.com/\">Blackberry Storm & Torch</a> and other touch mobile devices."
+msgstr "WPtouch Pro ist ein Plugin zur Erstellung eines Handy-Themes für Ihre Webseite, das speziell zugeschnitten ist auf <a href=\"http://www.apple.com/iphone/\">Apple iPhone</a> / <a href=\"http://www.apple.com/ipodtouch/\">iPod touch</a> / <a href=\"http://www.apple.com/ipad/\">iPad</a>, <a href=\"http://www.android.com/\">Google Android</a>, <a href=\"http://www.blackberry.com/\">Blackberry Storm & Torch</a> und andere Touch-Handy-Geräte."
+
+msgid "WPtouch Pro language"
+msgstr "Sprache von WPtouch Pro"
+
+msgid "WPtouch Pro requires pretty permalinks to be enabled within WordPress. %sMore Info%s"
+msgstr "Für WPtouch Pro müssen schöne Permalinks in WordPress aktiviert sein. %sWeitere Infos%s"
+
+msgid "WPtouch Pro will not work fully in safe mode. The ability to save custom icons/sets or themes, and write files like the debug log are not available."
+msgstr "Im sicheren Modus funktioniert WPtouch Pro nicht richtig. Die Funktion zur Speicherung benutzerdefinierter Symbole/Sets oder Themes und Schreiben von Dateien wie des Fehlerprotokolls sind nicht verfügbar."
+
+msgid "WPtouch natively supports ads from Google Adsense or Admob. May not show on all devices (limitations of these services)."
+msgstr "WPtouch unterstützt von Haus aus Anzeigen von Google Adsense oder Admob. Diese werden eventuell nicht auf allen Geräten angezeigt (Einschränkungen dieser Dienste)."
+
+msgid "WPtouch site title"
+msgstr "WPtouch-Seitenüberschrift"
+
+msgid "WPtouch will attempt to disable selected plugin hooks when WPtouch and your mobile theme are active. Check plugins to disable:"
+msgstr "WPtouch wird versuchen, die ausgewählten Plugin-Hooks zu deaktivieren, wenn WPtouch und Ihr Handy-Theme aktiv sind. Setzen Sie ein Häkchen bei den Plugins, die deaktiviert werden sollen:"
+
+msgid "WPtouch will show the load time and query count to help you find slow pages/posts on your site."
+msgstr "WPtouch wird die Ladezeiten und den Anfragenzähler anzeigen, um Ihnen zu helfen, langsame Seiten/Beiträge auf Ihrer Seite zu finden."
+
+msgid "WPtouchboard"
+msgstr "WPtouchboard"
+
+msgid "Warnings"
+msgstr "Warnungen"
+
+msgid "Warnings (3)"
+msgstr "Warnungen (3)"
+
+msgid "Warnings or Conflicts"
+msgstr "Warnungen oder Konflikte"
+
+msgid "Web-App Mode Settings"
+msgstr "Web-App-Modus-Einstellungen"
+
+msgid "Website"
+msgstr "Webseite"
+
+msgid "Welcome message shown on 1st visit (HTML is OK)"
+msgstr "Willkommsnachricht wird beim 1. Besuch angezeigt (HTML ist okay)"
+
+msgid "Welcome, 404, Footer"
+msgstr "Willkommen, 404, Fußzeile"
+
+msgid "When checked WPtouch overrides your WordPress homepage settings, and uses another page you select for its homepage."
+msgstr "Wenn Sie hier ein Häkchen setzen, setzt WPtouch Ihre WordPress-Startseiteneinstellungen außer Kraft, und benutzt eine andere von Ihnen ausgewählte Seite als Startseite."
+
+msgid "When checked WPtouch will allow iPhone, iPod touch and iPad visitors to bookmark your site to their home-screens as a web application."
+msgstr "Wenn Sie hier ein Häkchen setzen, wird WPtouch es iPhone, iPod touch und iPad-Benutzern ermöglichen, Ihre Seite auf ihrem Startbildschirm als Web-Anwendung zu markieren."
+
+msgid "When checked WPtouch will remember and load the last visited page or post for a visitor when entering Web-App Mode."
+msgstr "Wenn Sie hier ein Häkchen setzen, wird WPtouch sich die zuletzt besuchte Seite oder den zuletzt besuchten Beitrag eines Besuchers merken und laden, wenn der Web-App-Modus aktiviert wird."
+
+msgid "When checked WPtouch will show a notice bubble on first visit letting users know about your web-app enabled website on iOS devices."
+msgstr "Wenn Sie hier ein Häkchen setzen, wird WPtouch beim ersten Besuch eine Notizblase anzeigen, die die Benutzer über Ihre für Web-App aktivierte Webseite auf iOS-Geräte informiert."
+
+msgid "When checked WPtouch will show the theme startup image while in web-app mode."
+msgstr "Wenn Sie hier ein Häkchen setzen, wird WPtouch im Web-App-Modus das Theme-Startbild anzeigen."
+
+msgid "When checked WPtouch will use the WordPress date format in themes that support it (set in WordPress -> Settings - > General)."
+msgstr "Wenn Sie hier ein Häkchen setzen, wird WPtouch das WordPress-Datumsformat in Themes benutzen, die dieses unterstützen (stellen Sie dieses in WordPress -> Einstellungen - > Allgemein) ein."
+
+msgid "When checked your website will show a startup image in Web-App Mode. If no paths are specified default startup screens will be used."
+msgstr "Wenn Sie hier ein Häkchen setzen, wird Ihre Webseite im Web-App-Modus ein Startbild anzeigen. Wenn keine Pfade angegeben sind, werden Standard-Startbildschirme benutzt."
+
+msgid "When unchecked WPtouch will not show a switch link allowing users to switch between the mobile view and your regular theme view"
+msgstr "Wenn hier kein Häkchen gesetzt wird, zeigt WPtouch keinen Umschaltelink an, der es Benutzern ermöglicht, zwischen der Handy-Ansicht und Ihrer regulären Theme-Ansicht zu wechseln."
+
+msgid "When unchecked no icons will be shown beside menu items, even if configured in Menu + Icons."
+msgstr "Wenn hier kein Häkchen gesetzt ist, werden neben den Menüpunkten keine Symbole angezeigt, selbst wenn dies in Menü + Symbole eingestellt ist."
+
+msgid "Will allow visitors to zoom in/out on content."
+msgstr "Ermöglicht es Besuchern, die Inhalte ein/aus zu zoomen."
+
+msgid "Will always show account login/links in tab bar, even if registration for your website is not allowed."
+msgstr "Zeigt die Account-Anmeldung/Links immer in der Registerleiste an, selbst wenn die Registrierung für Ihre Webseite nicht erlaubt ist."
+
+msgid "Will be shown automatically if you require accounts."
+msgstr "Wird automatisch angezeigt, wenn Sie Accounts brauchen."
+
+msgid "Will hide the address bar in compatible browsers on a page load, showing the WPtouch header as the top of the page."
+msgstr "Blendet die Adresszeile beim Seite laden in kompatiblen Browsern aus und zeigt die WPtouch-Kopfzeile oben auf der Seite an."
+
+msgid "Will include 12 popular posts, ranked by comments."
+msgstr "Wird bis zu 12 beliebte Beiträge, geordnet nach Kommentaren enthalten."
+
+msgid "Will include 12 recent posts."
+msgstr "Wird 12 aktuelle Beiträge enthalten."
+
+msgid "Will include up to 25 categories ranked by post count."
+msgstr "Wird bis zu 25 Kategorien enthalten, geordnet nach Beitragszähler."
+
+msgid "Will include up to 25 tags, alphabetically."
+msgstr "Wird bis zu 25 Tags enthalten, alphabetisch geordnet."
+
+msgid "Will show a page thumbnail or featured image instead of the page icon used in the menu. If no thumbnail is specified, the page icon will be used instead."
+msgstr "Zeigt ein Miniaturbild der Seite oder ein vorgestelltes Bild anstelle des Seitensymbols an, das im Menü benutzt wird. Wenn kein Miniaturbild angegeben wird, wird stattdessen das Seitensymbol benutzt."
+
+msgid "Will show the date in post listings where thumbnails or none are selected in the post icon settings. Does not affect calendar icons."
+msgstr "Zeigt das Datum in den Beitragslisten an, in denen in den Beitragssymbol-Einstellungen Miniaturbilder oder keine ausgewählt sind. Wirkt sich nicht auf die Kalendersymbole aus."
+
+msgid "WordPress Pages"
+msgstr "WordPress Seiten"
+
+msgid "WordPress Thumbnails"
+msgstr "WordPress Miniaturbilder"
+
+msgid "WordPress Thumbnails/Featured Images"
+msgstr "WordPress-Miniaturbilder/Vorgestellte Bilder"
+
+msgid "WordPress Version"
+msgstr "WordPress Version"
+
+msgid "WordTwit Pro"
+msgstr "WordTwit Pro"
+
+msgid "Written by"
+msgstr "Geschrieben von"
+
+msgid "You can choose between calendar icons or post thumbnails."
+msgstr "Sie können zwischen Kalender-Symbolen und Beitrags-Miniaturbildern wählen."
+
+msgid "You can choose between calendar icons, WordPress thumbnails, custom field thumbnails, or if activated, the Simple Post Thumbnails plugin."
+msgstr "Sie können zwischen Kalendersymbolen, WordPress-Miniaturbildern, Miniaturbildern von benutzerdefinierten Feldern, oder, falls dieses aktiviert ist, dem Plugin Simple Post Thumbnails, auswählen."
+
+msgid "You can enter a custom RSS URL here, such as a FeedBurner feed. When left blank, the default website RSS Feed is used."
+msgstr "Hier können Sie eine eine benutzerdef. RSS-URL eingeben, z. B. einen FeedBurner-Feed. Wenn Sie das Feld frei lassen, wird der Standard-Webseiten-RSS-Feed benutzt."
+
+msgid "You can enter a custom email address here. When left blank the default admin email is used."
+msgstr "Hier können Sie eine benutzerdefinierte E-Mail-Adresse eingeben. Wenn Sie das Feld freilassen, wird die Standard-Admin-E-Mail benutzt."
+
+msgid "You can enter custom advertising code (images, links, scripts, etc.) here"
+msgstr "Hier können Sie benutzerdefinierte Werbecodes eingeben (Bilder, Links, Skripte usw)."
+
+msgid "You can enter up to 3 custom menu links to be shown in the WPtouch header menu."
+msgstr "Sie können bis zu 3 benutzerdefinierte Menü-Links eingeben, die im Header-Menü von WPtouch angezeigt werden sollen."
+
+msgid "You can find both of these in the purchase receipt we sent to you."
+msgstr "Sie finden beides in der Kaufquittung, die wir Ihnen geschickt haben."
+
+msgid "You can reset all support and auto-upgrade licenses every %d days."
+msgstr "Sie können alle Support- und Auto-Upgrade-Lizenzen ale %d Tage zurück setzen."
+
+msgid "You have activated these sites for automatic upgrades & support:"
+msgstr "Sie haben diese Seiten für automatische Upgrades & Support aktiviert:"
+
+msgid "You have not activated a license for this WordPress installation."
+msgstr "Sie haben keine Lizenz für diese WordPress-Installation aktiviert."
+
+msgid "You must add at least one account in WordTwit Pro."
+msgstr "Sie müssen mindestens einen Account in WordTwit Pro hinzufügen."
+
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Sie müssen %sangemeldet%s sein, um einen Kommentar zu posten."
+
+msgid "You will be able to reset all licenses again in %d day(s)."
+msgstr "Sie werden alle Lizenzen in %d Tag(en) wieder zurücksetzen können."
+
+msgid "Your Account E-Mail + License Key are used to activate licenses for support and auto-upgrades."
+msgstr "Ihr(e) Account-E-Mail + Lizenzschlüssel werden benutzt, um Lizenzen für Support und Auto-Upgrades zu aktivieren."
+
+msgid "Your Account E-Mail and License Key have been accepted. <br />Next, %sconnect a site license%s to this domain to enable support and automatic upgrades."
+msgstr "Ihre Account-E-Mail und Lizenz wurden akzeptiert. <br /> %sVerbinden Sie als nächstes eine Seitenlizenz%s mit dieser Domain, um den Support und automatische Upgrades zu aktivieren."
+
+msgid "Your Adsense Channel"
+msgstr "Ihr Adsense-Channel"
+
+msgid "Your Backup Key was copied to the clipboard."
+msgstr "Ihr Backup-Schlüssel wurde in die Zwischenablage kopiert."
+
+msgid "Your Website Address"
+msgstr "Ihre Webseiten-Adresse"
+
+msgid "Your comment was published."
+msgstr "Ihr Kommentar wurde veröffentlicht."
+
+msgid "Your file is currently being uploaded, please wait."
+msgstr "Ihre Datei wird gerade hochgeladen, bitte warten Sie."
+
+msgid "Your message failed to send. Please try again."
+msgstr "Ihre Nachricht konnte nicht versandt werden. Bitte versuchen Sie es erneut."
+
+msgid "Your new icon is available below."
+msgstr "Ihr neues Symbol ist unten verfügbar."
+
+msgid "Your new set is available below."
+msgstr "Ihr neues Set ist unten verfügbar."
+
+msgid "Your push message failed. Please try again."
+msgstr "Ihre Push-Nachricht konnte nicht versendet werden. Bitte versuchen Sie es noch mal."
+
+msgid "Your regular theme will be shown to 1st time mobile visitors first, with the Mobile View switch link available in the footer."
+msgstr "Anfangs wird erstmaligen Handy-Besuchern Ihr normales Theme angezeigt, der Umschalte-Link zur Handy-Ansicht ist in der Fußzeile verfügbar."
+
+msgid "Your support question has been posted!"
+msgstr "Ihre Frage an den Support wurde gepostet!"
+
+msgid "Your upload has completed, please wait while your file is processed."
+msgstr "Ihr Upload ist abgeschlossen, bitte warten Sie, bis Ihre Datei bearbeitet wurde."
+
+msgid "[device] and [icon] are dynamic and used to determine the device and iOS version. Do not remove these from your message."
+msgstr "[device] und [icon] sind dynamisch und werden benutzt, um das Gerät und die iOS-Version zu bestimmen. Entfernen Sie diese nicht aus Ihrer Nachricht."
+
+msgid "accounts"
+msgstr "Accounts"
+
+msgid "associate them with menu pages."
+msgstr "sie mit den Menü-Seiten verbinden."
+
+msgid "back"
+msgstr "zurück"
+
+msgid "blog"
+msgstr "Blog"
+
+msgid "by %s"
+msgstr "von %s"
+
+msgid "e.g. FFFFFF, (Hex without #)"
+msgstr "z. B. FFFFFF, (Hexadezimal ohne #)"
+
+msgid "forward"
+msgstr "vorwärts"
+
+msgid "http://bravenewcode.com/wptouch-pro"
+msgstr "http://bravenewcode.com/wptouch-pro"
+
+msgid "http://www.bravenewcode.com"
+msgstr "http://www.bravenewcode.com"
+
+msgid "iOS / Webkit"
+msgstr "iOS / Webkit"
+
+msgid "iOS Web-App Mode"
+msgstr "iOS Web-App-Modus"
+
+msgid "iPad"
+msgstr "iPad"
+
+msgid "iPad Homescreen"
+msgstr "iPad-Startbildschirm"
+
+msgid "iPad Settings"
+msgstr "iPad Einstellungen"
+
+msgid "iPad Support"
+msgstr "iPad Support"
+
+msgid "iPad Theme"
+msgstr "iPad Theme"
+
+msgid "iPad Theme OFF"
+msgstr "iPad Theme AUS"
+
+msgid "iPad thatch (default)"
+msgstr "iPad Stroh (Standard)"
+
+msgid "iPad theme ON"
+msgstr "iPad Theme AN"
+
+msgid "iPhone/Android Homescreen"
+msgstr "iPhone/Android-Startbildschirm"
+
+msgid "is now web-app enabled!"
+msgstr "ist jetzt Web-App-aktiviert!"
+
+msgid "menu"
+msgstr "Menü"
+
+msgid "menu list image"
+msgstr "Menü-Listen-Bild"
+
+msgid "menu navigation"
+msgstr "Menü-Navigation"
+
+msgid "push messages"
+msgstr "Push-Nachricht"
+
+msgid "search"
+msgstr "Suche"

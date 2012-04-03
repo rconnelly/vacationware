@@ -1,0 +1,150 @@
+/* @override http://beta.bravenewcode.com/wordpress/wp-content/plugins/wptouch-pro/themes/skeleton/skins/macintosh-red.css */
+
+/* 
+Skin Name: Macintosh Red
+*/
+
+.skin-macintosh-red {
+	background-color: #cfcfcf;
+}
+
+.skin-macintosh-red a {
+	color: #990000;
+}
+
+/* @group Header Area */
+
+#header {
+	border-bottom-color: #7a1d1e;
+	background: #9a0000 url(images/macintosh-rep-bg.png) repeat-x 0 -1px;
+}
+
+#header #logo-icon {
+	display: none;
+}
+
+a#logo-title {
+	color: #fff;
+	text-shadow: #222 0 -1px 1px;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	font-size: 18px;
+	text-indent: -1000em;
+	background: url(images/macintosh-header-logo.png) no-repeat 0 0;
+	height: 40px;
+	margin-top: 3px;
+	margin-left: 0;
+}
+
+a#header-menu-toggle {
+	background-color: #821212;
+	background-image: -webkit-gradient(linear,
+	left top, left bottom,
+	color-stop(0.01, rgba(255, 255, 255, 0.1)),
+	color-stop(0.5, rgba(0, 0, 0, 0.1)),
+	color-stop(0.5, rgba(0, 0, 0, 0.1)),
+	color-stop(6.0, rgba(255, 255, 255, 2.0)));
+	border-color: #790805;
+	-webkit-border-radius: 0px;
+	-webkit-box-shadow: #aaa 0px 1px 2px;
+}
+
+a#header-menu-toggle.menu-toggle-open {
+	background-color: #630b0c;
+	background-image: -webkit-gradient(linear,
+	left top, left bottom,
+	color-stop(0.01, rgba(255, 255, 255, 0.1)),
+	color-stop(0.5, rgba(0, 0, 0, 0.1)),
+	color-stop(0.5, rgba(0, 0, 0, 0.1)),
+	color-stop(6.0, rgba(255, 255, 255, 2.0)));
+	border-color: #790805;
+	-webkit-border-radius: 0px;
+	-webkit-box-shadow: #aaa 0px 1px 2px;
+}
+
+/* @end */
+
+/* @group Menu Area */
+
+#main-menu {
+	top: 43px;
+	background-color: #ccc;
+}
+
+#main-menu ul li  {
+	background-color: #c7c7c7;
+}
+
+#main-menu ul li.open-tree li, #main-menu ul li.open-tree, #main-menu ul li.open-tree li a {
+	background-color: #e0e2e2;
+	text-shadow: #fff 0 1px 1px;
+	border-style: none;
+}
+
+#menu-container p {
+	color: #630b0c;
+}
+
+#tab-inner-wrap-right {
+	-webkit-border-radius: 0px;
+	background-color: #555656;
+}
+
+#search-bar.show-search {
+	background-color: #313131;
+}
+
+/* @end */
+
+#welcome-message, #prowl-message, #noscript {
+	border-width: 3px;
+	background-color: #f6f6f6;
+	font: bold 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.cal-month {
+	background-color: #990000;
+}
+
+a.arrow-button {
+	display: none;
+}
+
+.posts-nav .right a, .posts-nav .left a {
+	background-image: none;
+	padding-right: 5px;
+	padding-left: 0;
+}
+
+/* @group Other Headings */
+
+.linkcat h2, h2.wptouch-archives, h3#comments, #respond h3, p.nocomments, #loading p, form#commentform label, .archive-text, form#loginform label {
+	color: #821212;
+}
+
+#respond p {
+	color: #555;
+}
+
+
+
+/* @end */
+
+/* @group Comments */
+
+.post, ol.commentlist {
+	border-width: 3px;
+	border-color: #a3a5a5;
+}
+
+ol.commentlist li a.comment-edit-link {
+	background-color: #630b0c;
+}
+
+
+
+/* @end */
+
+#footer {
+	color: #555;
+}
