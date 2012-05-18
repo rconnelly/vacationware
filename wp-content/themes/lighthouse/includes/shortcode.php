@@ -434,7 +434,7 @@
 				$baths = (isset($custom[$prefix."baths"][0]))? $custom[$prefix."baths"][0] : "";
 				$houseSize = (isset($custom[$prefix."houseSize"][0]))? $custom[$prefix."houseSize"][0] : "";
 				$lotSize = (isset($custom[$prefix."lotSize"][0]))? $custom[$prefix."lotSize"][0] : "";
-				$listingFeatured = (isset($custom[$prefix."listingFeatured"][0]))? $custom[$prefix."listingFeatured"][0] : "";
+				$listingFeatured = (isset($custom[$prefix."listingFeatured"][0]))? strcmp($custom[$prefix."listingFeatured"][0], "on") == 0 : "";
 				$listingTitle = (isset($custom[$prefix."listingTitle"][0]))? $custom[$prefix."listingTitle"][0] : "";
 
                 $shortDescription = (isset($custom[$prefix."shortDescription"][0]))? $custom[$prefix."shortDescription"][0] : "";

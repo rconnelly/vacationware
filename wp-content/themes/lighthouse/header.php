@@ -219,7 +219,7 @@ echo '
 a, a:visited, .colortext, .wp-pagenavi a, .wp-pagenavi a:visited, .wp-pagenavi a:hover,
 .wp-pagenavi .pages, .wp-pagenavi .extend {color:'.$linkcolor.'}
 a:hover{color:'.$linkcolor.'}
-.button, .slider-button a{background-color:'.$linkcolor.' !important}
+.button, .slider-button a, a.viewAllProperties{background-color:'.$linkcolor.' !important}
 h1, h2, h3, h4, h5, h6, .posttitle a, .posttitle a:visited{color:'.$headingcontentcolor.'}
 .pagetitle, .widget-title{color:'.$headingtitlecolor.'}
 </style>';

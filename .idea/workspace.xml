@@ -2,11 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5a9e991-cdd9-4824-ac84-83d59f1d6904" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-100x60.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-100x60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-130x85.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-130x85.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-185x120.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-185x120.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-248x160.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-248x160.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-290x180.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-290x180.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-290x90.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-290x90.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-300x178.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-300x178.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-518x360.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-518x360.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-620x360.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/Front-620x360.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-100x60.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-100x60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-130x85.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-130x85.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-185x120.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-185x120.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-248x160.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-248x160.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-290x180.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-290x180.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-290x90.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-290x90.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-300x178.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-300x178.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-300x225.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-300x225.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-518x360.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-518x360.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-620x360.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-1-620x360.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-100x60.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-100x60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-130x85.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-130x85.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-185x120.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-185x120.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-248x160.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-248x160.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-290x180.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-290x180.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-290x90.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-290x90.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-300x178.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-300x178.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-518x360.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-518x360.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-620x360.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen-620x360.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/kitchen.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/photo_350-290x180.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/6/files/2012/02/photo_350-290x180.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-100x60.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-100x60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-130x85.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-130x85.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-185x120.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-185x120.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-248x160.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-248x160.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-290x180.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-290x180.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-290x90.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-290x90.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-300x178.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-300x178.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-518x360.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-518x360.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-620x360.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/Front-620x360.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-100x60.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-100x60.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-130x85.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-130x85.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-150x150.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-150x150.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-185x120.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-185x120.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-248x160.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-248x160.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-290x180.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-290x180.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-290x90.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-290x90.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-300x178.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-300x178.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-300x225.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-300x225.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-518x360.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-518x360.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-620x360.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1-620x360.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1.jpg" afterPath="$PROJECT_DIR$/wp-content/blogs.dir/7/files/2012/02/kitchen-1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php" afterPath="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php" afterPath="$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lighthouse/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/lighthouse/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/shortcode.php" afterPath="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/shortcode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/lighthouse/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/lighthouse/style.css" />
     </list>
     <ignored path="housebeach.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,28 +82,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="wp-config.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <file leaf-file-name="ts-display.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/ts-display/ts-display.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0">
+            <state line="99" column="40" selection-start="2825" selection-end="2827" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="property-init.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php">
+      <file leaf-file-name="shortcode.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/shortcode.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="512" column="76" selection-start="13964" selection-end="13964" vertical-scroll-proportion="-12.846154">
+            <state line="443" column="102" selection-start="12393" selection-end="12393" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slider.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php">
+      <file leaf-file-name="ts-function.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/ts-display/ts-function.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="80" selection-start="854" selection-end="854" vertical-scroll-proportion="0.16820702">
+            <state line="21" column="15" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -58,7 +112,52 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-15.875">
+            <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-21.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="loop.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/loop.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="44.708332">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="7.2916665">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/news.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="-0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="221" column="46" selection-start="9283" selection-end="9283" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1954" column="18" selection-start="55208" selection-end="55208" vertical-scroll-proportion="0.3610586">
               <folding />
             </state>
           </provider>
@@ -92,22 +191,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/news.php" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/single-property.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/widgets/ts-property-tag.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/widgets/ts-recent-comment.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/widgets/ts-property-search.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/widgets/ts-recent-posts.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/pluginstyles/style.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/ts-display/js/jquery.prettyPhoto.js" />
-        <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/header.php" />
         <option value="$PROJECT_DIR$/error_log" />
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/includes/shortcode.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/lighthouse/style.css" />
       </list>
     </option>
   </component>
@@ -124,8 +223,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1920" />
-    <option name="height" value="1109" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -153,6 +252,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,9 +325,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="housebeach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="housebeach" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lighthouse" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,17 +369,17 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="259" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="266" />
-    <property name="DefaultHtmlFileTemplate" value="Html" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1058" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1060" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1058" />
+    <property name="DefaultHtmlFileTemplate" value="Html" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="264" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="261" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -317,15 +442,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1109" extended-state="0" />
+    <frame x="0" y="22" width="1680" height="947" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25483093" sideWeight="0.9298893" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22916667" sideWeight="0.6242424" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37575758" sideWeight="0.97863245" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26593137" sideWeight="0.7451691" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37424546" sideWeight="0.97863245" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -333,7 +459,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25703794" sideWeight="0.9298893" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -399,46 +524,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/ts-display/js/jquery.prettyPhoto.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="28" selection-start="153" selection-end="188" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="19" selection-start="1068" selection-end="1068" vertical-scroll-proportion="-20.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/admin/admin-setup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/error_log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="291" column="0" selection-start="12636" selection-end="12636" vertical-scroll-proportion="0.38808665" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/admin/admin-options.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="380" column="28" selection-start="15282" selection-end="15288" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/single-property.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="25" selection-start="4289" selection-end="4295" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/single.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -449,42 +534,90 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-15.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/page-property.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="22" column="0" selection-start="852" selection-end="852" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/property-init.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="512" column="76" selection-start="13964" selection-end="13964" vertical-scroll-proportion="-12.846154">
+        <state line="512" column="76" selection-start="13964" selection-end="13964" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/slider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="80" selection-start="854" selection-end="854" vertical-scroll-proportion="0.16820702">
+        <state line="26" column="80" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/ts-display/ts-display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="40" selection-start="2825" selection-end="2827" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/shortcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="443" column="102" selection-start="12393" selection-end="12393" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/includes/ts-display/ts-function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="15" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="221" column="46" selection-start="9283" selection-end="9283" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="101" selection-end="101" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-21.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/loop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="44.708332">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="7.2916665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="163" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/lighthouse/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1954" column="18" selection-start="55208" selection-end="55208" vertical-scroll-proportion="0.3610586">
           <folding />
         </state>
       </provider>
